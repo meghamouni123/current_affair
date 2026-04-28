@@ -3,7 +3,6 @@
 
 const SUPABASE_URL = "https://fwuzyilojfkglrjhmedh.supabase.co";
 const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ3dXp5aWxvamZrZ2xyamhtZWRoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY5NDQwMTcsImV4cCI6MjA5MjUyMDAxN30.ydTQlQBem1l7rUDLyli9EZyurCnFaxsTr0YOojrJOTM";
-
 window.SB_URL = SUPABASE_URL;
 window.SB_KEY = SUPABASE_KEY;
 window.API    = `${SUPABASE_URL}/rest/v1`;
