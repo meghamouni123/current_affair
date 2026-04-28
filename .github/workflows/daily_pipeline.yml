@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Checkout repo
+      # 1. Checkout repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -20,24 +20,22 @@ jobs:
         with:
           python-version: "3.11"
 
-      # 3. Cache dependencies (optional but faster)
+      # 3. Cache pip dependencies (faster installs)
       - name: Cache pip
         uses: actions/cache@v4
         with:
           path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-ca-portal
+          key: ${{ runner.os }}-pip-ca-${{ hashFiles('requirements-actions.txt') }}
           restore-keys: |
-            ${{ runner.os }}-pip-
+            ${{ runner.os }}-pip-ca-
 
-      # 4. Install dependencies
+      # 4. Install dependencies ✅ (FIXED)
       - name: Install dependencies
-        working-directory: ca_portal_fixed
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements-actions.txt
 
-      # 5. Run pipeline
+      # 5. Run pipeline ✅ (FIXED)
       - name: Run News Pipeline
-        working-directory: ca_portal_fixed
         run: |
           python run.py
