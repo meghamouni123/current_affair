@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Quiz — CA Daily</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--accent:#f4b942;--text:#e6edf3;--muted:#7d8590;--card:#1c2128;--green:#3fb950;--red:#e05c5c;--blue:#58a6ff;--purple:#bc8cff}
+*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);display:flex;min-height:100vh}
+.sidebar{width:240px;min-height:100vh;background:var(--surface);border-right:1px solid var(--border);position:fixed;top:0;left:0;z-index:100;padding:20px 12px}
+.sb-title{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:800;padding:8px;margin-bottom:12px}
+.sb-title em{font-style:normal;color:var(--accent)}
+.nav-item{display:flex;align-items:center;gap:12px;padding:10px 12px;border-radius:10px;font-size:.88rem;font-weight:500;color:var(--muted);text-decoration:none;margin-bottom:2px;transition:all .2s}
+.nav-item:hover{background:rgba(244,185,66,.08);color:var(--text)}
+.nav-item.active{background:rgba(244,185,66,.12);color:var(--accent);font-weight:600}
+.main{margin-left:240px;flex:1;padding:32px;max-width:900px}
+.page-title{font-family:'Playfair Display',serif;font-size:1.6rem;font-weight:800;margin-bottom:8px}
+.page-sub{color:var(--muted);font-size:.88rem;margin-bottom:28px}
+/* Quiz states */
+.quiz-start,.quiz-active,.quiz-result{display:none}
+.quiz-start.show,.quiz-active.show,.quiz-result.show{display:block}
+/* Start screen */
+.start-card{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:40px;text-align:center;max-width:500px;margin:0 auto}
+.start-icon{font-size:4rem;margin-bottom:20px}
+.start-card h2{font-family:'Playfair Display',serif;font-size:1.8rem;margin-bottom:12px}
+.start-card p{color:var(--muted);line-height:1.7;margin-bottom:28px}
+.info-pills{display:flex;justify-content:center;gap:12px;margin-bottom:28px;flex-wrap:wrap}
+.pill{background:var(--surface);border:1px solid var(--border);border-radius:20px;padding:6px 16px;font-size:.8rem;color:var(--muted)}
+.pill span{color:var(--text);font-weight:600}
+.start-btn{background:var(--accent);color:#0d1117;border:none;border-radius:12px;padding:14px 40px;font-family:'DM Sans',sans-serif;font-size:1rem;font-weight:700;cursor:pointer;transition:all .2s}
+.start-btn:hover{opacity:.9;transform:translateY(-1px)}
+/* History */
+.hist-section{margin-top:32px}
+.hist-title{font-size:1rem;font-weight:700;margin-bottom:14px;display:flex;align-items:center;gap:8px}
+.hist-item{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:12px 16px;margin-bottom:8px;display:flex;align-items:center;justify-content:space-between}
+.hi-score{font-size:1.1rem;font-weight:700}
+.hi-date{font-size:.75rem;color:var(--muted)}
+.hi-badge{font-size:.75rem;padding:2px 10px;border-radius:20px;font-weight:600}
+/* Active quiz */
+.progress-bar{background:var(--surface);border-radius:10px;height:6px;margin-bottom:24px;overflow:hidden}
+.progress-fill{height:100%;background:linear-gradient(90deg,var(--accent),#e8961a);border-radius:10px;transition:width .4s ease}
+.q-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:20px}
+.q-num{font-size:.82rem;color:var(--muted);font-weight:500}
+.q-timer{font-size:.85rem;font-weight:700;color:var(--accent);background:rgba(244,185,66,.1);padding:4px 12px;border-radius:20px}
+.q-timer.warn{color:var(--red);background:rgba(224,92,92,.1)}
+.q-card{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:28px}
+.q-text{font-family:'Playfair Display',serif;font-size:1.15rem;font-weight:700;line-height:1.5;margin-bottom:24px}
+.options{display:flex;flex-direction:column;gap:10px}
+.opt-btn{background:var(--surface);border:1.5px solid var(--border);border-radius:12px;padding:14px 18px;font-family:'DM Sans',sans-serif;font-size:.9rem;color:var(--text);cursor:pointer;transition:all .2s;text-align:left;display:flex;align-items:center;gap:12px}
+.opt-btn:hover:not(:disabled){border-color:var(--accent);background:rgba(244,185,66,.06)}
+.opt-btn:disabled{cursor:default}
+.opt-btn.correct{border-color:var(--green);background:rgba(63,185,80,.1);color:var(--green)}
+.opt-btn.wrong{border-color:var(--red);background:rgba(224,92,92,.1);color:var(--red)}
+.opt-label{width:26px;height:26px;border-radius:8px;background:var(--border);display:flex;align-items:center;justify-content:center;font-size:.78rem;font-weight:700;flex-shrink:0}
+.correct .opt-label{background:var(--green);color:#0d1117}
+.wrong .opt-label{background:var(--red);color:#fff}
+.explanation{margin-top:18px;background:rgba(88,166,255,.08);border:1px solid rgba(88,166,255,.2);border-radius:10px;padding:14px;font-size:.85rem;line-height:1.7;color:#9aa0b4;display:none}
+.explanation.show{display:block}
+.explanation strong{color:var(--blue)}
+.next-btn{width:100%;background:var(--accent);color:#0d1117;border:none;border-radius:12px;padding:13px;font-family:'DM Sans',sans-serif;font-size:.92rem;font-weight:700;cursor:pointer;margin-top:18px;display:none;transition:all .2s}
+.next-btn.show{display:block}
+/* Result */
+.result-card{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:36px;text-align:center;max-width:560px;margin:0 auto 24px}
+.result-icon{font-size:3.5rem;margin-bottom:16px}
+.result-score{font-family:'Playfair Display',serif;font-size:3.5rem;font-weight:800;color:var(--accent);margin-bottom:8px}
+.result-label{font-size:1rem;color:var(--muted);margin-bottom:24px}
+.result-stats{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:24px}
+.rs-item{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px}
+.rs-val{font-size:1.4rem;font-weight:700;margin-bottom:4px}
+.rs-label{font-size:.72rem;color:var(--muted)}
+.achievements{background:var(--surface);border:1px solid rgba(244,185,66,.2);border-radius:14px;padding:18px;margin-bottom:20px}
+.ach-title{font-size:.82rem;font-weight:700;color:var(--accent);margin-bottom:12px;text-transform:uppercase;letter-spacing:.5px}
+.ach-list{display:flex;gap:10px;flex-wrap:wrap;justify-content:center}
+.ach-badge{background:rgba(244,185,66,.1);border:1px solid rgba(244,185,66,.25);border-radius:20px;padding:6px 14px;font-size:.8rem;color:var(--accent)}
+.review-section{text-align:left;max-width:700px;margin:0 auto}
+.review-title{font-size:1rem;font-weight:700;margin-bottom:14px}
+.review-item{background:var(--card);border:1px solid var(--border);border-radius:12px;padding:16px;margin-bottom:10px}
+.ri-q{font-size:.88rem;font-weight:600;margin-bottom:8px}
+.ri-ans{font-size:.82rem;margin-bottom:4px}
+.ri-ans.correct{color:var(--green)}.ri-ans.wrong{color:var(--red)}
+.ri-exp{font-size:.78rem;color:var(--muted);line-height:1.6;margin-top:6px}
+.retry-btn{background:var(--accent);color:#0d1117;border:none;border-radius:12px;padding:12px 32px;font-family:'DM Sans',sans-serif;font-size:.9rem;font-weight:700;cursor:pointer;margin:6px}
+.home-btn{background:var(--surface);color:var(--text);border:1px solid var(--border);border-radius:12px;padding:12px 32px;font-family:'DM Sans',sans-serif;font-size:.9rem;cursor:pointer;margin:6px;transition:border-color .2s}
+.home-btn:hover{border-color:var(--accent);color:var(--accent)}
+</style>
+</head>
+<body>
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+<script src="config.js"></script>
+<script>if(!requireLogin());</script>
+<nav class="sidebar">
+  <div class="sb-title">CA<em>Daily</em></div>
+  <a class="nav-item" href="index.html">🏠 Home</a>
+  <a class="nav-item" href="news.html">📰 Current Affairs</a>
+  <a class="nav-item active" href="quiz.html">🧠 Daily Quiz</a>
+  <a class="nav-item" href="profile.html">👤 Profile</a>
+  <a class="nav-item" href="#" onclick="clearUser();location.href='login.html'">🚪 Logout</a>
+</nav>
+<div class="main">
+  <div class="page-title">🧠 Daily Quiz</div>
+  <div class="page-sub">Test your current affairs knowledge — 10 questions, 30 seconds each</div>
+
+  <!-- Start screen -->
+  <div class="quiz-start show" id="startScreen">
+    <div class="start-card">
+      <div class="start-icon">🎯</div>
+      <h2>Ready to Test Yourself?</h2>
+      <p>10 carefully curated questions from today's current affairs. Beat your high score!</p>
+      <div class="info-pills">
+        <div class="pill"><span>10</span> Questions</div>
+        <div class="pill"><span>30s</span> per question</div>
+        <div class="pill"><span>+10</span> points each</div>
+      </div>
+      <button class="start-btn" onclick="startQuiz()">🚀 Start Quiz</button>
+    </div>
+    <div class="hist-section" id="histSection"></div>
+  </div>
+
+  <!-- Active quiz -->
+  <div class="quiz-active" id="quizScreen">
+    <div class="progress-bar"><div class="progress-fill" id="progFill" style="width:0%"></div></div>
+    <div class="q-header">
+      <div class="q-num" id="qNum">Question 1 of 10</div>
+      <div class="q-timer" id="timer">30s</div>
+    </div>
+    <div class="q-card">
+      <div class="q-text" id="qText"></div>
+      <div class="options" id="opts"></div>
+      <div class="explanation" id="expl"></div>
+      <button class="next-btn" id="nextBtn" onclick="nextQ()">Next Question →</button>
+    </div>
+  </div>
+
+  <!-- Result -->
+  <div class="quiz-result" id="resultScreen">
+    <div class="result-card">
+      <div class="result-icon" id="resIcon">🏆</div>
+      <div class="result-score" id="resScore">0/10</div>
+      <div class="result-label" id="resLabel">Loading…</div>
+      <div class="result-stats">
+        <div class="rs-item"><div class="rs-val" id="rsCorrect" style="color:var(--green)">0</div><div class="rs-label">Correct</div></div>
+        <div class="rs-item"><div class="rs-val" id="rsWrong" style="color:var(--red)">0</div><div class="rs-label">Wrong</div></div>
+        <div class="rs-item"><div class="rs-val" id="rsAccuracy" style="color:var(--accent)">0%</div><div class="rs-label">Accuracy</div></div>
+      </div>
+      <div class="achievements" id="achSection" style="display:none">
+        <div class="ach-title">🏅 Achievements Unlocked</div>
+        <div class="ach-list" id="achList"></div>
+      </div>
+      <div>
+        <button class="retry-btn" onclick="resetQuiz()">🔄 Try Again</button>
+        <button class="home-btn" onclick="location.href='index.html'">🏠 Home</button>
+      </div>
+    </div>
+    <div class="review-section">
+      <div class="review-title">📝 Answer Review</div>
+      <div id="reviewList"></div>
+    </div>
+  </div>
+</div>
+
+<script>
+// 30 CA questions bank
+const Q_BANK = [
+  {q:"Which organization releases the Human Development Index (HDI) annually?",opts:["World Bank","UNDP","IMF","WHO"],ans:1,exp:"UNDP (United Nations Development Programme) publishes HDI annually measuring health, education, and living standards."},
+  {q:"What does 'REPO Rate' mean in Indian banking context?",opts:["Rate at which RBI lends to banks","Rate at which banks lend to customers","Rate of return on government bonds","Rate of foreign exchange"],ans:0,exp:"Repo rate is the rate at which RBI lends short-term funds to commercial banks against government securities."},
+  {q:"Article 370 of the Indian Constitution was related to which state?",opts:["Sikkim","Nagaland","Jammu & Kashmir","Arunachal Pradesh"],ans:2,exp:"Article 370 granted special autonomous status to Jammu & Kashmir. It was abrogated in August 2019."},
+  {q:"Which mission is India's first solar observation mission?",opts:["Chandrayaan-3","Gaganyaan","Aditya-L1","MOM"],ans:2,exp:"Aditya-L1 is India's first solar mission launched by ISRO in 2023, positioned at the L1 Lagrange point."},
+  {q:"The term 'Operation Sindoor' is associated with which event?",opts:["Anti-terror operation","Flood relief","Cyclone rescue","Border patrol"],ans:0,exp:"Operation Sindoor was India's anti-terror military operation in response to the Pahalgam attack in 2025."},
+  {q:"Which country hosts the International Court of Justice (ICJ)?",opts:["USA","Belgium","Netherlands","Switzerland"],ans:2,exp:"The International Court of Justice is located in The Hague, Netherlands. It is the principal judicial organ of the UN."},
+  {q:"What is the full form of UPI?",opts:["Unified Payment Interface","Universal Payment Infrastructure","United Payment Index","Unified Processing Interface"],ans:0,exp:"UPI stands for Unified Payment Interface, a real-time payment system developed by NPCI in India."},
+  {q:"Which planet is known as the 'Red Planet'?",opts:["Venus","Jupiter","Mars","Saturn"],ans:2,exp:"Mars is called the Red Planet due to iron oxide (rust) on its surface giving it a reddish appearance."},
+  {q:"The Preamble of India was amended in which year?",opts:["1971","1976","1977","1978"],ans:1,exp:"The 42nd Constitutional Amendment in 1976 added 'Socialist', 'Secular', and 'Integrity' to the Preamble."},
+  {q:"Which body regulates the securities market in India?",opts:["RBI","SEBI","IRDA","PFRDA"],ans:1,exp:"SEBI (Securities and Exchange Board of India) regulates and develops the securities market in India."},
+  {q:"'Project Cheetah' is associated with reintroduction of cheetahs in which national park?",opts:["Jim Corbett","Kuno","Ranthambore","Bandipur"],ans:1,exp:"Cheetahs were reintroduced at Kuno National Park in Madhya Pradesh under Project Cheetah in 2022."},
+  {q:"What is India's rank in the Global Innovation Index 2024?",opts:["39","40","36","42"],ans:2,exp:"India ranked 39th in the Global Innovation Index 2023 (published by WIPO), improving from 40th in 2022."},
+  {q:"Which country became the 100th member of the International Solar Alliance?",opts:["USA","Germany","France","Australia"],ans:0,exp:"The USA became the 100th member nation of the International Solar Alliance, strengthening global clean energy cooperation."},
+  {q:"The 'One Nation One Ration Card' scheme is implemented under which ministry?",opts:["Finance","Food & Public Distribution","Consumer Affairs","Rural Development"],ans:1,exp:"ONORC is implemented by Ministry of Consumer Affairs, Food and Public Distribution for portability of ration cards."},
+  {q:"Which IIT topped the NIRF Rankings 2024 in the Engineering category?",opts:["IIT Bombay","IIT Delhi","IIT Madras","IIT Kharagpur"],ans:2,exp:"IIT Madras has consistently topped NIRF Rankings in Engineering category for several consecutive years."},
+  {q:"What is the capital of recently formed Telangana state?",opts:["Warangal","Karimnagar","Hyderabad","Nizamabad"],ans:2,exp:"Hyderabad serves as the capital of Telangana. It was bifurcated from Andhra Pradesh on June 2, 2014."},
+  {q:"The 'Digital India' programme was launched in which year?",opts:["2014","2015","2016","2017"],ans:1,exp:"Digital India programme was launched on July 1, 2015, with a vision to transform India into a digitally empowered society."},
+  {q:"Which bank has the highest number of branches across India?",opts:["HDFC Bank","Punjab National Bank","State Bank of India","Bank of Baroda"],ans:2,exp:"State Bank of India (SBI) has the largest banking network in India with over 22,000 branches."},
+  {q:"The 'Namami Gange' mission is aimed at which river?",opts:["Yamuna","Ganga","Godavari","Narmada"],ans:1,exp:"Namami Gange Programme was launched in 2014 for cleaning and protecting the Ganga river and its tributaries."},
+  {q:"Who was appointed as the Chief Justice of India in 2024?",opts:["D Y Chandrachud","Sanjiv Khanna","N V Ramana","K G Balakrishnan"],ans:1,exp:"Justice Sanjiv Khanna was appointed as the 51st Chief Justice of India in November 2024."},
+  {q:"Which country became the first to land on the lunar south pole?",opts:["USA","China","Russia","India"],ans:3,exp:"India's Chandrayaan-3 mission achieved historic success on August 23, 2023, landing near the lunar south pole."},
+  {q:"The G20 Summit 2023 was held in which Indian city?",opts:["Mumbai","Delhi","Bengaluru","Hyderabad"],ans:1,exp:"The G20 Leaders' Summit 2023 was held in New Delhi in September 2023, under India's G20 Presidency."},
+  {q:"What is the minimum age to contest Lok Sabha elections?",opts:["18 years","21 years","25 years","30 years"],ans:2,exp:"A candidate must be at least 25 years old to contest Lok Sabha elections as per Article 84 of the Constitution."},
+  {q:"Which committee recommended the Goods and Services Tax (GST) in India?",opts:["Vijay Kelkar Committee","Asim Dasgupta Committee","Raja Chellaiah Committee","Y V Reddy Committee"],ans:1,exp:"The Asim Dasgupta Committee recommended the GST model for India. GST was implemented on July 1, 2017."},
+  {q:"UDAN scheme is related to which sector?",opts:["Railways","Road transport","Aviation","Shipping"],ans:2,exp:"UDAN (Ude Desh ka Aam Naagrik) is a regional aviation connectivity scheme aimed at making air travel affordable."},
+  {q:"Which article of the Indian Constitution deals with Right to Education?",opts:["Article 19","Article 21A","Article 45","Article 46"],ans:1,exp:"Article 21A provides free and compulsory education to children aged 6-14 years, added by 86th Amendment in 2002."},
+  {q:"The SWIFT financial messaging network is headquartered in?",opts:["New York","London","Brussels","Geneva"],ans:2,exp:"SWIFT (Society for Worldwide Interbank Financial Telecommunication) is headquartered in La Hulpe, near Brussels, Belgium."},
+  {q:"Which state has the largest coastline in India?",opts:["Andhra Pradesh","Tamil Nadu","Gujarat","Maharashtra"],ans:2,exp:"Gujarat has the longest coastline among Indian states at approximately 1,600 km, including the Saurashtra coast."},
+  {q:"PM-KISAN scheme provides financial assistance to farmers of?",opts:["₹4,000/year","₹6,000/year","₹8,000/year","₹10,000/year"],ans:1,exp:"PM-KISAN provides income support of ₹6,000 per year (₹2,000 per installment, 3 installments) to eligible farmer families."},
+  {q:"The Beti Bachao Beti Padhao scheme was launched in which district?",opts:["Panipat","Rewari","Karnal","Rohtak"],ans:0,exp:"Beti Bachao Beti Padhao was launched by PM Modi on January 22, 2015 from Panipat, Haryana."},
+];
+
+let questions=[], curQ=0, score=0, answers=[], timerInt=null, timeLeft=30;
+
+function shuffle(a){return [...a].sort(()=>Math.random()-.5);}
+function show(id){["startScreen","quizScreen","resultScreen"].forEach(s=>{document.getElementById(s).classList.remove("show");});document.getElementById(id).classList.add("show");}
+
+function initHist(){
+  const hist=getQuizHistory();
+  if(!hist.length) return;
+  const sec=document.getElementById("histSection");
+  sec.innerHTML=`<div class="hist-title">📊 Your Quiz History</div>`+hist.slice(0,5).map(h=>{
+    const pct=Math.round(h.score/10*100);
+    const color=pct>=80?"var(--green)":pct>=60?"var(--accent)":"var(--red)";
+    return`<div class="hist-item"><div><div class="hi-score" style="color:${color}">${h.score}/10 (${pct}%)</div><div class="hi-date">${new Date(h.date).toLocaleDateString("en-IN",{weekday:"short",day:"numeric",month:"short"})}</div></div><span class="hi-badge" style="background:${color}22;color:${color}">${pct>=80?"Excellent":pct>=60?"Good":"Keep practicing"}</span></div>`;
+  }).join("");
+}
+
+function startQuiz(){
+  questions=shuffle(Q_BANK).slice(0,10);
+  curQ=0;score=0;answers=[];
+  show("quizScreen");
+  renderQ();
+}
+
+function renderQ(){
+  const q=questions[curQ];
+  document.getElementById("progFill").style.width=`${(curQ/10)*100}%`;
+  document.getElementById("qNum").textContent=`Question ${curQ+1} of 10`;
+  document.getElementById("qText").textContent=q.q;
+  document.getElementById("expl").classList.remove("show");
+  document.getElementById("nextBtn").classList.remove("show");
+
+  const labels=["A","B","C","D"];
+  document.getElementById("opts").innerHTML=q.opts.map((o,i)=>
+    `<button class="opt-btn" onclick="selectAns(${i})" id="opt${i}">
+      <span class="opt-label">${labels[i]}</span>${o}
+    </button>`
+  ).join("");
+
+  // Timer
+  clearInterval(timerInt);
+  timeLeft=30;
+  updateTimer();
+  timerInt=setInterval(()=>{
+    timeLeft--;updateTimer();
+    if(timeLeft<=0){clearInterval(timerInt);autoNext();}
+  },1000);
+}
+
+function updateTimer(){
+  const el=document.getElementById("timer");
+  el.textContent=timeLeft+"s";
+  el.classList.toggle("warn",timeLeft<=10);
+}
+
+function selectAns(idx){
+  clearInterval(timerInt);
+  const q=questions[curQ];
+  const correct=q.ans===idx;
+  if(correct)score++;
+  answers.push({q:q.q,selected:idx,correct:q.ans,isCorrect:correct,exp:q.exp,opts:q.opts});
+
+  document.querySelectorAll(".opt-btn").forEach((b,i)=>{
+    b.disabled=true;
+    if(i===q.ans)b.classList.add("correct");
+    else if(i===idx&&!correct)b.classList.add("wrong");
+  });
+
+  const expl=document.getElementById("expl");
+  expl.innerHTML=`<strong>💡 Explanation:</strong> ${q.exp}`;
+  expl.classList.add("show");
+  document.getElementById("nextBtn").textContent=curQ<9?"Next Question →":"See Results 🏆";
+  document.getElementById("nextBtn").classList.add("show");
+}
+
+function autoNext(){
+  const q=questions[curQ];
+  answers.push({q:q.q,selected:-1,correct:q.ans,isCorrect:false,exp:q.exp,opts:q.opts});
+  selectAns(-2); // show answer without marking wrong
+  const expl=document.getElementById("expl");
+  expl.innerHTML=`<strong>⏰ Time's up!</strong> ${q.exp}`;expl.classList.add("show");
+  document.getElementById("nextBtn").textContent=curQ<9?"Next →":"Results 🏆";
+  document.getElementById("nextBtn").classList.add("show");
+}
+
+function nextQ(){
+  curQ++;
+  if(curQ>=10)showResult();
+  else renderQ();
+}
+
+function showResult(){
+  show("resultScreen");
+  const pct=Math.round(score/10*100);
+  const icons=pct>=90?"🏆":pct>=70?"🎯":pct>=50?"👍":"📚";
+  const labels=pct>=90?"Excellent! Outstanding performance!":pct>=70?"Great job! Keep it up!":pct>=50?"Good effort! Room to improve.":"Keep practicing daily!";
+  document.getElementById("resIcon").textContent=icons;
+  document.getElementById("resScore").textContent=`${score}/10`;
+  document.getElementById("resLabel").textContent=labels;
+  document.getElementById("rsCorrect").textContent=score;
+  document.getElementById("rsWrong").textContent=10-score;
+  document.getElementById("rsAccuracy").textContent=pct+"%";
+
+  // Achievements
+  const ach=[];
+  if(pct===100)ach.push("🌟 Perfect Score!");
+  if(pct>=90)ach.push("🏆 Top Performer");
+  if(pct>=70)ach.push("🎯 Sharp Mind");
+  const hist=getQuizHistory();
+  if(!hist.length)ach.push("🚀 First Quiz!");
+  if(hist.length>=5)ach.push("🔥 5 Quizzes Done");
+  if(hist.length>=10)ach.push("💎 Quiz Champion");
+  if(ach.length){
+    document.getElementById("achSection").style.display="block";
+    document.getElementById("achList").innerHTML=ach.map(a=>`<span class="ach-badge">${a}</span>`).join("");
+  }
+
+  // Save
+  saveQuizResult({score:score,correct:score,date:new Date().toISOString()});
+
+  // Review
+  document.getElementById("reviewList").innerHTML=answers.map((a,i)=>`
+    <div class="review-item">
+      <div class="ri-q">Q${i+1}. ${a.q}</div>
+      ${a.selected>=0?`<div class="ri-ans ${a.isCorrect?"correct":"wrong"}">${a.isCorrect?"✅":"❌"} Your answer: ${a.opts[a.selected]}</div>`:`<div class="ri-ans wrong">⏰ Not answered</div>`}
+      ${!a.isCorrect?`<div class="ri-ans correct">✅ Correct: ${a.opts[a.correct]}</div>`:""}
+      <div class="ri-exp">💡 ${a.exp}</div>
+    </div>`).join("");
+}
+
+function resetQuiz(){show("startScreen");initHist();}
+
+initHist();
+</script>
+</body>
+</html>
