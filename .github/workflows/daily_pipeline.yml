@@ -18,6 +18,10 @@ jobs:
       DATABASE_URL: ${{ secrets.DATABASE_URL }}
       NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
 
+    defaults:
+      run:
+        working-directory: ca_portal_fixed
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -27,23 +31,22 @@ jobs:
         with:
           python-version: '3.11'
           cache: 'pip'
+          cache-dependency-path: ca_portal_fixed/requirements-actions.txt
 
       - name: Cache Hugging Face models
         uses: actions/cache@v4
         with:
           path: ~/.cache/huggingface
           key: hf-models-mpnet-bart-${{ runner.os }}
-          restore-keys: |
-            hf-models-mpnet-bart-
+          restore-keys: hf-models-mpnet-bart-
 
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install -r ca_portal_fixed/requirements-actions.txt
+          pip install -r requirements-actions.txt
           python -c "import nltk; nltk.download('punkt', quiet=True); nltk.download('punkt_tab', quiet=True)"
 
       - name: Run ML Pipeline
-        working-directory: ca_portal_fixed
         run: |
           python -c "
           import logging, json
@@ -55,4 +58,4 @@ jobs:
 
       - name: Log pipeline summary
         if: always()
-        run: echo "Pipeline run complete at $(date -u '+%Y-%m-%d %H:%M UTC')"
+        run: echo "Pipeline complete at $(date -u '+%Y-%m-%d %H:%M UTC')"
