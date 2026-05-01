@@ -2,28 +2,57 @@ name: Daily CA News Pipeline
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: '30 0 * * *'   # 6:00 AM IST
+    - cron: '30 3 * * *'   # 9:00 AM IST
+    - cron: '30 6 * * *'   # 12:00 PM IST
+    - cron: '30 9 * * *'   # 3:00 PM IST
+    - cron: '30 12 * * *'  # 6:00 PM IST
+    - cron: '30 15 * * *'  # 9:00 PM IST
   workflow_dispatch:
 
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
 
+    env:
+      DATABASE_URL: ${{ secrets.DATABASE_URL }}
+      NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+
     steps:
-      - name: Checkout
+      - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Setup Python
+      - name: Set up Python 3.11
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Cache Hugging Face models
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-models-mpnet-bart-${{ runner.os }}
+          restore-keys: |
+            hf-models-mpnet-bart-
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          pip install -r requirements-actions.txt
+          pip install --upgrade pip
+          pip install -r ca_portal_fixed/requirements-actions.txt
+          python -c "import nltk; nltk.download('punkt', quiet=True); nltk.download('punkt_tab', quiet=True)"
 
-      - name: Run Pipeline
-        env:
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
-        run: python run.py
+      - name: Run ML Pipeline
+        working-directory: ca_portal_fixed
+        run: |
+          python -c "
+          import logging, json
+          logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
+          from backend.pipeline import run_pipeline_once
+          result = run_pipeline_once(use_rss=True, use_api=True, max_feeds=None)
+          print(json.dumps(result, indent=2))
+          "
+
+      - name: Log pipeline summary
+        if: always()
+        run: echo "Pipeline run complete at $(date -u '+%Y-%m-%d %H:%M UTC')"
