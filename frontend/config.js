@@ -3,7 +3,7 @@
 
 // ⚠️ Must match the Supabase project used in DATABASE_URL (backend/.env + GitHub secret)
 const SUPABASE_URL = "https://xcycwbibjpkspdmsqbwu.supabase.co";
-const SUPABASE_KEY = "YOUR_SUPABASE_ANON_KEY_HERE"; // Replace with anon key from Supabase dashboard → Settings → API
+const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhjeWN3YmlianBrc3BkbXNxYnd1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcyODIzMjgsImV4cCI6MjA5Mjg1ODMyOH0.AX6goJRi8ybMeKrLvwY9J_owN2w78u5G6kP7oJt9s9M"; // Replace with anon key from Supabase dashboard → Settings → API
 
 window.SB_URL = SUPABASE_URL;
 window.SB_KEY = SUPABASE_KEY;
