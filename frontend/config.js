@@ -18,33 +18,16 @@ window.HDR    = {
 // Initialize Supabase client (UMD build)
 window.supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 
-// Auth helpers — hybrid: Supabase for Google, localStorage for admin demo
-window.getUser  = async () => {
-  const { data: { user } } = await supabase.auth.getUser();
-  if (user) {
-    const profile = await sbFetch('profiles', { user_id: `eq.${user.id}` });
-    return { ...user, ...profile.data[0], role: profile.data[0]?.role || 'user' };
-  }
-  // Fallback to localStorage for demo admin
-  return JSON.parse(localStorage.getItem("ca_user") || "null");
-};
+// Auth helpers — localStorage only (no Supabase OAuth)
+window.getUser  = () => JSON.parse(localStorage.getItem("ca_user") || "null");
 window.setUser  = (u) => localStorage.setItem("ca_user", JSON.stringify(u));
-window.clearUser= async () => {
-  await supabase.auth.signOut();
-  localStorage.removeItem("ca_user");
-};
-window.isAdmin  = async () => { 
-  const u = await getUser(); 
-  return u && u.role === "admin";
-};
-window.isLogged = async () => { 
-  const u = await getUser(); 
-  return !!u;
-};
+window.clearUser= async () => { localStorage.removeItem("ca_user"); };
+window.isAdmin  = () => { const u = getUser(); return u && u.role === "admin"; };
+window.isLogged = () => !!getUser();
 
-// Redirect guards — async now
-window.requireLogin = async () => { if (!(await isLogged())) { window.location.href = "login.html"; return false; } return true; };
-window.requireAdmin = async () => { if (!(await isAdmin())) { window.location.href = "index.html"; return false; } return true; };
+// Redirect guards — sync now
+window.requireLogin = () => { if (!isLogged()) { window.location.href = "login.html"; return false; } return true; };
+window.requireAdmin = () => { if (!isAdmin()) { window.location.href = "index.html"; return false; } return true; };
 
 // Supabase fetch helper
 window.sbFetch = async (table, params = {}, method = "GET", body = null) => {

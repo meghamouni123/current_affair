@@ -107,8 +107,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);dis
 <script src="config.js"></script>
 <script>
 (async () => {
-  if (!(await requireLogin())) return;
-  // rest of init
+  if (!requireLogin()) return;
   initUser();
   updateProgress();
   loadData();
@@ -234,12 +233,12 @@ const CATS = [
 async function logout(){ await clearUser(); location.href="login.html"; }
 
 async function initUser(){
-  const u = await getUser();
+  const u = getUser();
   if(!u) return;
   document.getElementById("userAv").textContent = (u.avatar||u.name.slice(0,2)).toUpperCase();
   document.getElementById("userName").textContent = u.name;
   document.getElementById("wbName").textContent = u.name.split(" ")[0];
-  if(await isAdmin()) document.getElementById("adminLink").style.display="flex";
+  if(isAdmin()) document.getElementById("adminLink").style.display="flex";
   trackVisit();
 }
 
