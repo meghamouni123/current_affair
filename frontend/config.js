@@ -31,12 +31,13 @@ window.requireAdmin = () => { if (!isAdmin()) { window.location.href = "index.ht
 window.sbFetch = async (table, params = {}, method = "GET", body = null) => {
   const url = new URL(`${window.API}/${table}`);
   Object.entries(params).forEach(([k, v]) => v !== undefined && url.searchParams.set(k, v));
-  const opts = { method, headers: { ...window.HDR, "Prefer": "count=exact,return=representation" } };
+  const opts = { method, headers: { ...window.HDR, "Prefer": "count=exact" } };
   if (body) opts.body = JSON.stringify(body);
   const res = await fetch(url, opts);
   const data = await res.json();
-  const count = res.headers.get('content-range')?.split('/')[1] || 0;
-  return { data, count: parseInt(count), ok: res.ok };
+  const contentRange = res.headers.get('content-range');
+  const count = contentRange ? parseInt(contentRange.split('/')[1]) || 0 : (Array.isArray(data) ? data.length : 0);
+  return { data: Array.isArray(data) ? data : [], count, ok: res.ok };
 };
 
 // Quiz localStorage helpers
