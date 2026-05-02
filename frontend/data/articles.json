@@ -91,6 +91,26 @@
       "published_date": "2026-05-02"
     },
     {
+      "id": 40,
+      "title": "Electric mobility in urban areas gets momentum in Andhra Pradesh",
+      "summary": "• The Municipal Administration and Urban Development Department issued G.O.\n• Approving an operational framework and strategic roadmap for implementation across Urban Local Bodies.\n• The framework will be rolled out across the city's urban local bodies.\n• It will include a strategic roadmap to implement the plan across the entire city.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/electric-mobility-in-urban-areas-gets-momentum-in-andhra-pradesh/article70930668.ece",
+      "relevance_score": 0.907,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": 42,
+      "title": "Joshi to steer Prasar Bharati in digital transition phase",
+      "summary": "• He will be in charge of the broadcaster's social media accounts.\n• He is also the chairman of the board of directors of the state-run television broadcaster.\n• He has been in charge since 2008.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/joshi-to-steer-prasar-bharati-in-digital-transition-phase/articleshow/130719168.cms",
+      "relevance_score": 0.9063,
+      "published_date": "2026-05-02"
+    },
+    {
       "id": 25,
       "title": "Microcap stocks steal show in April, outpace, Nifty, smallcap, midcaps, largecaps. What’s driving the surge?",
       "summary": "• Indian equities surged in April 2026, led by strong gains in mid, small, and microcaps despite persistent macro risks, foreign outflows, and currency weakness.\n• Market performance diverged from fundamentals, which remained stable, suggesting price-driven momentum rather than earnings-led improvement across segments.",
@@ -178,6 +198,16 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/imports-drive-gst-kitty-to-a-record-high-in-april-rises-9/articleshow/130708508.cms",
       "relevance_score": 0.8206,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": 41,
+      "title": "Comms expert Prasoon Joshi appointed chairman of Prasar Bharati",
+      "summary": "• Joshi is a well-known communications expert from India and abroad.\n• He is known for his work in the field of digital communications.\n• He has worked for CNN, CNN-IBN, CNN.com, CNN TV and CNN Radio.",
+      "category": "Science & Technology",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/prasoon-joshi-appointed-chairman-prasar-bharati-10667730/",
+      "relevance_score": 0.8086,
       "published_date": "2026-05-02"
     },
     {
@@ -391,6 +421,6 @@
       "published_date": "2020-12-27"
     }
   ],
-  "count": 39,
-  "updated_at": "2026-05-02T13:59:42.934318Z"
+  "count": 42,
+  "updated_at": "2026-05-02T16:04:10.055467Z"
 }
