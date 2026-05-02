@@ -218,7 +218,6 @@ async function loadArts(){
   showSkel();
   const params={
     select:"id,title,summary,url,source,category,relevance_score,published_at",
-    is_visible:"eq.true",
     order:document.getElementById("sortSel").value==="score"?"relevance_score.desc":"published_at.desc",
     limit:st.ps,offset:(st.page-1)*st.ps
   };

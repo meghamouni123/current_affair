@@ -268,7 +268,6 @@ async function loadData(){
   try {
     const { data } = await sbFetch("exam_ca_articles", {
       select: "id,title,summary,category,relevance_score,published_at,source,url",
-      is_visible: "eq.true",
       order: "published_at.desc",
       limit: 50
     });
