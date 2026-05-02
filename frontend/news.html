@@ -96,7 +96,6 @@ input[type="date"]::-webkit-calendar-picker-indicator{filter:invert(.5)}
 </style>
 </head>
 <body>
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
 <script src="config.js"></script>
 <script>requireLogin();</script>
 
@@ -214,30 +213,41 @@ function clearFilters(){st={...st,cat:"All",from:"",to:"",q:"",page:1};document.
 
 function showSkel(){document.getElementById("artList").innerHTML=Array(5).fill("").map(()=>`<div class="skeleton"><div class="sk sk-t"></div><div class="sk sk-b"></div><div class="sk sk-b2"></div></div>`).join("");}
 
+let ALL_ARTICLES = null;
+
+async function getAllArticles(){
+  if(ALL_ARTICLES) return ALL_ARTICLES;
+  ALL_ARTICLES = await fetchArticles();
+  return ALL_ARTICLES;
+}
+
 async function loadArts(){
   showSkel();
-  const params={
-    select:"id,title,summary,url,source,category,relevance_score,published_at",
-    order:document.getElementById("sortSel").value==="score"?"relevance_score.desc":"published_at.desc",
-    limit:st.ps,offset:(st.page-1)*st.ps
-  };
-  if(st.cat&&st.cat!=="All") params["category"]="eq."+st.cat;
-  if(st.from && st.to) params["and"]="(published_at.gte."+st.from+"T00:00:00+00:00,published_at.lte."+st.to+"T23:59:59+00:00)";
-  else if(st.from) params["published_at"]="gte."+st.from+"T00:00:00+00:00";
-  else if(st.to) params["published_at"]="lte."+st.to+"T23:59:59+00:00";
-  if(st.q) params["or"]="(title.ilike.*"+st.q+"*,summary.ilike.*"+st.q+"*)";
-
   try{
-    const {data,count}=await sbFetch("exam_ca_articles",params);
-    st.total=count;st.pages=Math.max(1,Math.ceil(count/st.ps));
-    renderArts(data);renderPgn();
-    document.getElementById("resInfo").innerHTML=`Showing <strong>${data.length}</strong> of <strong>${count}</strong> articles`;
-    const cc=await sbFetch("exam_ca_articles",{select:"category",is_visible:"eq.true"});
-    const cnts={};(cc.data||[]).forEach(a=>cnts[a.category]=(cnts[a.category]||0)+1);
+    let arts = await getAllArticles();
+
+    // Filter
+    if(st.cat && st.cat!=="All") arts = arts.filter(a=>a.category===st.cat);
+    if(st.from) arts = arts.filter(a=>(a.published_date||"")>=st.from);
+    if(st.to)   arts = arts.filter(a=>(a.published_date||"")<=st.to);
+    if(st.q){const q=st.q.toLowerCase();arts=arts.filter(a=>(a.title||"").toLowerCase().includes(q)||(a.summary||"").toLowerCase().includes(q));}
+
+    // Sort
+    if(document.getElementById("sortSel").value==="score") arts=[...arts].sort((a,b)=>(b.relevance_score||0)-(a.relevance_score||0));
+
+    st.total=arts.length; st.pages=Math.max(1,Math.ceil(arts.length/st.ps));
+    const paged=arts.slice((st.page-1)*st.ps, st.page*st.ps);
+    renderArts(paged); renderPgn();
+    document.getElementById("resInfo").innerHTML=`Showing <strong>${paged.length}</strong> of <strong>${arts.length}</strong> articles`;
+
+    // Category counts
+    const all = await getAllArticles();
+    const cnts={};all.forEach(a=>cnts[a.category]=(cnts[a.category]||0)+1);
     CATS.forEach(c=>{const el=document.getElementById("cc-"+c.name.replace(/\W/g,""));if(el)el.textContent=cnts[c.name]||0;});
   }catch(e){
-    document.getElementById("artList").innerHTML=`<div class="empty">⚠️ Update config.js with Supabase credentials</div>`;
+    document.getElementById("artList").innerHTML=`<div class="empty">⚠️ Error loading articles.</div>`;
     document.getElementById("resInfo").textContent="Error";
+    console.error(e);
   }
 }
 
@@ -294,3 +304,4 @@ loadArts();
 </script>
 </body>
 </html>
+

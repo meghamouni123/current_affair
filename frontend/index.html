@@ -103,7 +103,6 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);dis
 </style>
 </head>
 <body>
-<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
 <script src="config.js"></script>
 <script>
 (async () => {
@@ -266,11 +265,7 @@ function updateKPIs(articles){
 
 async function loadData(){
   try {
-    const { data } = await sbFetch("exam_ca_articles", {
-      select: "id,title,summary,category,relevance_score,published_at,source,url",
-      order: "published_at.desc",
-      limit: 50
-    });
+    const data = await fetchArticles();
 
     updateKPIs(data);
 

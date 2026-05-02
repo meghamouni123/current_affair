@@ -21,6 +21,8 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -51,6 +53,26 @@ jobs:
           result = run_pipeline_once(use_rss=True, use_api=True, max_feeds=None)
           print(json.dumps(result, indent=2))
           "
+
+      - name: Export articles to JSON
+        run: |
+          mkdir -p frontend/data
+          python -c "
+          import logging, sys
+          logging.basicConfig(level=logging.INFO)
+          sys.path.insert(0, 'backend')
+          from backend.json_exporter import export_articles_json
+          n = export_articles_json('frontend/data/articles.json')
+          print(f'Exported {n} articles to frontend/data/articles.json')
+          "
+
+      - name: Commit and push articles.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add frontend/data/articles.json
+          git diff --staged --quiet || git commit -m "chore: update articles.json [skip ci]"
+          git push
 
       - name: Log pipeline summary
         if: always()
