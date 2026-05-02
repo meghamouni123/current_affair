@@ -217,9 +217,9 @@ function showSkel(){document.getElementById("artList").innerHTML=Array(5).fill("
 async function loadArts(){
   showSkel();
   const params={
-    select:"id,title,summary,url,source,category,relevance_score,published_at",
+    select:"id,headline,summary,url,source,category,confidence,fetched_at",
     ,
-    order:st.sort==="score"?"relevance_score.desc":"published_at.desc",
+    order:st.sort==="score"?"confidence.desc":"fetched_at.desc",
     limit:st.ps,offset:(st.page-1)*st.ps
   };
   if(st.cat&&st.cat!=="All") params["category"]="eq."+st.cat;
@@ -248,9 +248,9 @@ function renderArts(arts){
   if(!arts.length){list.innerHTML=`<div class="empty">📭 No articles found. Try changing filters.</div>`;return;}
   list.innerHTML=arts.map((a,i)=>{
     const cls=CMAP[a.category]||"c-nat";
-    const pct=Math.round((a.relevance_score||0)*100);
+    const pct=Math.round((a.confidence||0)*100);
     const saved=!!bm[a.id];
-    const d=a.published_at?new Date(a.published_at).toLocaleDateString("en-IN",{day:"numeric",month:"short"}):"";
+    const d=a.fetched_at?new Date(a.fetched_at).toLocaleDateString("en-IN",{day:"numeric",month:"short"}):"";
     return`<div class="article-card" style="animation-delay:${i*0.04}s" onclick="markRead(${a.id})">
       <div class="card-meta">
         <span class="badge ${cls}">${a.category}</span>
@@ -258,12 +258,12 @@ function renderArts(arts){
         <span class="score-chip">⭐ ${pct}%</span>
         <span class="date-tag">${d}</span>
       </div>
-      <div class="card-title">${a.title}</div>
+      <div class="card-title">${a.headline}</div>
       <div class="card-summary" id="cs-${a.id}">${a.summary||"No summary."}</div>
       <div class="card-footer">
         <button class="rm-btn" onclick="toggleSum(event,${a.id})">Read more ▼</button>
         ${a.url?`<a href="${a.url}" target="_blank" class="src-btn">🔗 Source ↗</a>`:""}
-        <button class="bm-btn ${saved?"saved":""}" onclick="toggleBm(event,${a.id},'${encodeURIComponent(JSON.stringify({id:a.id,title:a.title,category:a.category,source:a.source,url:a.url}))}')">${saved?"✅ Saved":"🔖 Save"}</button>
+        <button class="bm-btn ${saved?"saved":""}" onclick="toggleBm(event,${a.id},'${encodeURIComponent(JSON.stringify({id:a.id,title:a.headline,category:a.category,source:a.source,url:a.url}))}')">${saved?"✅ Saved":"🔖 Save"}</button>
       </div>
     </div>`;
   }).join("");

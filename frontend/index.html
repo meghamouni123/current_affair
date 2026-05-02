@@ -256,7 +256,7 @@ function updateProgress(){
 
 function updateKPIs(articles){
   const today = new Date().toISOString().slice(0,10);
-  const todayCount = articles.filter(a => (a.published_at||"").startsWith(today)).length;
+  const todayCount = articles.filter(a => (a.fetched_at||"").startsWith(today)).length;
   document.getElementById("kpi1").textContent = todayCount || articles.length;
   document.getElementById("kpi1c").textContent = "↑ Updated today";
   document.getElementById("kpi3").textContent = Object.keys(getBookmarks()).length;
@@ -268,10 +268,8 @@ function updateKPIs(articles){
 async function loadData(){
   try {
     const { data } = await sbFetch("exam_ca_articles", {
-      select: "id,title,summary,category,relevance_score,published_at,source,url",
-      is_visible: "eq.true",
-      category: "neq.NOT_RELEVANT",
-      order: "published_at.desc",
+      select: "id,headline,summary,category,confidence,fetched_at,source,url",
+      order: "fetched_at.desc",
       limit: 50
     });
 
@@ -297,15 +295,15 @@ async function loadData(){
     const list = document.getElementById("recentList");
     list.innerHTML = data.slice(0,8).map(a => {
       const cls = CATS.find(c=>c.name===a.category)?.cls || "c-nat";
-      const pct = Math.round((a.relevance_score||0)*100);
+      const pct = Math.round((a.confidence||0)*100);
       return `<div class="article-card" onclick="location.href='news.html'">
         <span class="ac-badge ${cls}">${a.category}</span>
         <div class="ac-body">
-          <div class="ac-title">${a.title}</div>
+          <div class="ac-title">${a.headline}</div>
           <div class="ac-summary">${(a.summary||"").replace(/•/g,"").trim()}</div>
           <div class="ac-meta">
             <span>📰 ${a.source||"Source"}</span>
-            <span>${new Date(a.published_at).toLocaleDateString("en-IN",{day:"numeric",month:"short"})}</span>
+            <span>${new Date(a.fetched_at).toLocaleDateString("en-IN",{day:"numeric",month:"short"})}</span>
             <span class="ac-score">⭐ ${pct}%</span>
           </div>
         </div>
