@@ -181,8 +181,8 @@ const up=new URLSearchParams(location.search);
 if(up.get("cat"))st.cat=up.get("cat");
 if(up.get("q")){st.q=up.get("q");document.getElementById("searchInp").value=st.q;}
 
-// Default dates: last 7 days
-const today=new Date(),wago=new Date();wago.setDate(today.getDate()-7);
+// Default dates: last 30 days
+const today=new Date(),wago=new Date();wago.setDate(today.getDate()-30);
 document.getElementById("dateTo").value=today.toISOString().slice(0,10);
 document.getElementById("dateFrom").value=wago.toISOString().slice(0,10);
 st.from=document.getElementById("dateFrom").value;
@@ -222,8 +222,8 @@ async function loadArts(){
     limit:st.ps,offset:(st.page-1)*st.ps
   };
   if(st.cat&&st.cat!=="All") params["category"]="eq."+st.cat;
-  if(st.from) params["published_at"]="gte."+st.from+"T00:00:00";
-  if(st.to) params["and"]="(published_at.lte."+st.to+"T23:59:59)";
+  if(st.from) params["published_at"]="gte."+st.from+"T00:00:00+00:00";
+  if(st.to) params["published_at"]="lte."+st.to+"T23:59:59+00:00";
   if(st.q) params["or"]="(title.ilike.*"+st.q+"*,summary.ilike.*"+st.q+"*)";
 
   try{
