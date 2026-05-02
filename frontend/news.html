@@ -98,7 +98,7 @@ input[type="date"]::-webkit-calendar-picker-indicator{filter:invert(.5)}
 <body>
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
 <script src="config.js"></script>
-<script>if(!requireLogin());</script>
+<script>requireLogin();</script>
 
 <nav class="sidebar">
   <div class="sb-logo"><div class="sb-logo-title">CA<em>Daily</em> Portal</div></div>
@@ -218,14 +218,14 @@ async function loadArts(){
   showSkel();
   const params={
     select:"id,title,summary,url,source,category,relevance_score,published_at",
-    is_visible:"eq.true",category:"neq.NOT_RELEVANT",
+    ,
     order:st.sort==="score"?"relevance_score.desc":"published_at.desc",
     limit:st.ps,offset:(st.page-1)*st.ps
   };
   if(st.cat&&st.cat!=="All") params["category"]="eq."+st.cat;
-  if(st.from) params["published_at"]="gte."+st.from+"T00:00:00";
-  if(st.to){const n=new Date(st.to);n.setDate(n.getDate()+1);params["and"]=`(published_at.lt.${n.toISOString().slice(0,10)}T00:00:00)`;}
-  if(st.q) params["or"]=`(title.ilike.*${st.q}*,summary.ilike.*${st.q}*)`;
+  if(st.from) params["date"]="gte."+st.from;
+  if(st.to){const n=new Date(st.to);n.setDate(n.getDate()+1);params["date"]="lte."+st.to;}
+  if(st.q) params["headline"]="ilike.*"+st.q+"*";
 
   try{
     const {data,count}=await sbFetch("exam_ca_articles",params);
@@ -233,7 +233,7 @@ async function loadArts(){
     renderArts(data);renderPgn();
     document.getElementById("resInfo").innerHTML=`Showing <strong>${data.length}</strong> of <strong>${count}</strong> articles`;
     // Update cat counts
-    const cc=await sbFetch("exam_ca_articles",{select:"category",is_visible:"eq.true",category:"neq.NOT_RELEVANT"});
+    const cc=await sbFetch("exam_ca_articles",{select:"category"});
     const cnts={};(cc.data||[]).forEach(a=>cnts[a.category]=(cnts[a.category]||0)+1);
     CATS.forEach(c=>{const el=document.getElementById("cc-"+c.name.replace(/\W/g,""));if(el)el.textContent=cnts[c.name]||0;});
   }catch(e){
