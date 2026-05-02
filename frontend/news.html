@@ -222,8 +222,9 @@ async function loadArts(){
     limit:st.ps,offset:(st.page-1)*st.ps
   };
   if(st.cat&&st.cat!=="All") params["category"]="eq."+st.cat;
-  if(st.from) params["published_at"]="gte."+st.from+"T00:00:00+00:00";
-  if(st.to) params["published_at"]="lte."+st.to+"T23:59:59+00:00";
+  if(st.from && st.to) params["and"]="(published_at.gte."+st.from+"T00:00:00+00:00,published_at.lte."+st.to+"T23:59:59+00:00)";
+  else if(st.from) params["published_at"]="gte."+st.from+"T00:00:00+00:00";
+  else if(st.to) params["published_at"]="lte."+st.to+"T23:59:59+00:00";
   if(st.q) params["or"]="(title.ilike.*"+st.q+"*,summary.ilike.*"+st.q+"*)";
 
   try{
