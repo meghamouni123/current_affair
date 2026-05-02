@@ -1,10 +1,8 @@
 // CA Daily Portal — Config
 // Supabase credentials — local browser use, no server needed
 
-// ⚠️ Must match the Supabase project used in DATABASE_URL (backend/.env + GitHub secret)
-const SUPABASE_URL = "https://xcycwbibjpkspdmsqbwu.supabase.co";
-const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhjeWN3YmlianBrc3BkbXNxYnd1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzcyODIzMjgsImV4cCI6MjA5Mjg1ODMyOH0.AX6goJRi8ybMeKrLvwY9J_owN2w78u5G6kP7oJt9s9M"; // Replace with anon key from Supabase dashboard → Settings → API
-
+const SUPABASE_URL = "https://fwuzyilojfkglrjhmedh.supabase.co";
+const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ3dXp5aWxvamZrZ2xyamhtZWRoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY5NDQwMTcsImV4cCI6MjA5MjUyMDAxN30.ydTQlQBem1l7rUDLyli9EZyurCnFaxsTr0YOojrJOTM";
 window.SB_URL = SUPABASE_URL;
 window.SB_KEY = SUPABASE_KEY;
 window.API    = `${SUPABASE_URL}/rest/v1`;
