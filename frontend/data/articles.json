@@ -31,6 +31,16 @@
       "published_date": "2026-05-02"
     },
     {
+      "id": 38,
+      "title": "APTransco taps IIT talent for real-time grid challenges",
+      "summary": "• Summer Internship Programme - 2026 brings students into live operations, focuses on AI, forecasting and automation.\n• Stipends up to ₹25,000 with stipends of up to $50,000 per year.\n• Students will be working on a six-month internship programme in India.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/aptransco-taps-iit-talent-for-real-time-grid-challenges/article70931762.ece",
+      "relevance_score": 0.9503,
+      "published_date": "2026-05-02"
+    },
+    {
       "id": 37,
       "title": "Assembly election result 2026: Date and time of result for Assam, Kerala, Tamil Nadu, West Bengal, Puducherry, exit poll predictions, where and how to watch and other details",
       "summary": "• Counting for the 2026 Assembly elections in Assam, Kerala, Tamil Nadu, West Bengal, and Puducherry begins today, May 4th.\n• The results will determine the fate of 824 seats across these five key regions.\n• Exit polls suggest a fragmented verdict with close contests in West Bengal and Kerala.",
@@ -58,6 +68,16 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/banks-should-get-more-active-in-offshore-rupee-trade-rbi/articleshow/130708623.cms",
       "relevance_score": 0.9409,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": 39,
+      "title": "\"India's Best Defence Against Global Risks Is To Electrify Everything,\" Says Sagar Adani",
+      "summary": "• Adani: \"India is a nation of Electrifiers.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/indias-best-defence-against-global-risks-is-to-electrify-everything-says-sagar-adani-11439713#publisher=newsstand",
+      "relevance_score": 0.9231,
       "published_date": "2026-05-02"
     },
     {
@@ -371,6 +391,6 @@
       "published_date": "2020-12-27"
     }
   ],
-  "count": 37,
-  "updated_at": "2026-05-02T13:43:57.933262Z"
+  "count": 39,
+  "updated_at": "2026-05-02T13:59:42.934318Z"
 }
