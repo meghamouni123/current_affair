@@ -474,33 +474,45 @@ async function loadDashboard(){
 // ── Analytics ─────────────────────────────────────────────────────────────────
 function loadAnalytics(){
   const visits=JSON.parse(localStorage.getItem("ca_visits")||"[]");
-  const users=[...new Set(visits.map(v=>v.user))];
+  const users=[...new Set(visits.map(v=>v.user).filter(u=>u&&u!=="guest"))];
   document.getElementById("an1").textContent=visits.length;
-  document.getElementById("an2").textContent=users.length;
+  document.getElementById("an2").textContent=users.length||visits.length;
   document.getElementById("an4").textContent=visits.length;
 
+  // Page breakdown from real visits
+  const pageCounts={};
+  visits.forEach(v=>{const p=(v.page||"/").replace(/.*\//,"")||"home";pageCounts[p]=(pageCounts[p]||0)+1;});
+  const pageEntries=Object.entries(pageCounts).sort((a,b)=>b[1]-a[1]).slice(0,4);
+  const totalVisits=visits.length||1;
+  const colors=["#f4b942","#3fb950","#58a6ff","#bc8cff"];
   document.getElementById("trafficSrc").innerHTML=`
     <div style="display:flex;flex-direction:column;gap:10px">
-      ${[["Direct",65,"#f4b942"],["Google Search",20,"#3fb950"],["Referral",10,"#58a6ff"],["Social",5,"#bc8cff"]].map(([src,pct,col])=>`
-      <div style="display:flex;align-items:center;gap:10px;font-size:.82rem">
-        <div style="width:100px;color:var(--muted)">${src}</div>
-        <div style="flex:1;background:var(--surface);border-radius:4px;height:8px;overflow:hidden">
-          <div style="width:${pct}%;height:100%;background:${col};border-radius:4px"></div>
-        </div>
-        <div style="width:36px;text-align:right;font-weight:600;color:${col}">${pct}%</div>
-      </div>`).join("")}
+      ${pageEntries.length?pageEntries.map(([page,cnt],i)=>{
+        const pct=Math.round(cnt/totalVisits*100);
+        return`<div style="display:flex;align-items:center;gap:10px;font-size:.82rem">
+          <div style="width:100px;color:var(--muted)">${page||"home"}</div>
+          <div style="flex:1;background:var(--surface);border-radius:4px;height:8px;overflow:hidden">
+            <div style="width:${pct}%;height:100%;background:${colors[i%4]};border-radius:4px"></div>
+          </div>
+          <div style="width:36px;text-align:right;font-weight:600;color:${colors[i%4]}">${pct}%</div>
+        </div>`;}).join(""):`<div style="color:var(--muted);font-size:.85rem">No page visits tracked yet. Browse the portal to see data.</div>`}
     </div>`;
 
+  // User activity
+  const userVisits={};
+  visits.forEach(v=>{const u=v.user||"guest";userVisits[u]=(userVisits[u]||0)+1;});
+  const topUsers=Object.entries(userVisits).sort((a,b)=>b[1]-a[1]).slice(0,3);
   document.getElementById("deviceBreak").innerHTML=`
     <div style="display:flex;flex-direction:column;gap:10px">
-      ${[["💻 Desktop",55,"#f4b942"],["📱 Mobile",38,"#3fb950"],["📟 Tablet",7,"#58a6ff"]].map(([dev,pct,col])=>`
-      <div style="display:flex;align-items:center;gap:10px;font-size:.82rem">
-        <div style="width:100px;color:var(--muted)">${dev}</div>
-        <div style="flex:1;background:var(--surface);border-radius:4px;height:8px;overflow:hidden">
-          <div style="width:${pct}%;height:100%;background:${col};border-radius:4px"></div>
-        </div>
-        <div style="width:36px;text-align:right;font-weight:600;color:${col}">${pct}%</div>
-      </div>`).join("")}
+      ${topUsers.length?topUsers.map(([user,cnt],i)=>{
+        const pct=Math.round(cnt/totalVisits*100);
+        return`<div style="display:flex;align-items:center;gap:10px;font-size:.82rem">
+          <div style="width:120px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${user}</div>
+          <div style="flex:1;background:var(--surface);border-radius:4px;height:8px;overflow:hidden">
+            <div style="width:${pct}%;height:100%;background:${colors[i%4]};border-radius:4px"></div>
+          </div>
+          <div style="width:36px;text-align:right;font-weight:600;color:${colors[i%4]}">${cnt}</div>
+        </div>`;}).join(""):`<div style="color:var(--muted);font-size:.85rem">No user activity yet.</div>`}
     </div>`;
 
   const hmData=Array.from({length:4},()=>Array.from({length:7},()=>Math.floor(Math.random()*30)));

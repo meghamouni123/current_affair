@@ -240,9 +240,13 @@ async function loadArts(){
     renderArts(paged); renderPgn();
     document.getElementById("resInfo").innerHTML=`Showing <strong>${paged.length}</strong> of <strong>${arts.length}</strong> articles`;
 
-    // Category counts
-    const all = await getAllArticles();
-    const cnts={};all.forEach(a=>cnts[a.category]=(cnts[a.category]||0)+1);
+    // Category counts — based on filtered articles (date/search applied, but not category filter)
+    const allForCounts = await getAllArticles();
+    let artsForCount = allForCounts;
+    if(st.from) artsForCount = artsForCount.filter(a=>(a.published_date||"")>=st.from);
+    if(st.to)   artsForCount = artsForCount.filter(a=>(a.published_date||"")<=st.to);
+    if(st.q){const q=st.q.toLowerCase();artsForCount=artsForCount.filter(a=>(a.title||"").toLowerCase().includes(q)||(a.summary||"").toLowerCase().includes(q));}
+    const cnts={};artsForCount.forEach(a=>cnts[a.category]=(cnts[a.category]||0)+1);
     CATS.forEach(c=>{const el=document.getElementById("cc-"+c.name.replace(/\W/g,""));if(el)el.textContent=cnts[c.name]||0;});
   }catch(e){
     document.getElementById("artList").innerHTML=`<div class="empty">⚠️ Error loading articles.</div>`;
