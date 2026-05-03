@@ -185,13 +185,7 @@ tr:last-child td{border-bottom:none}
         <!-- Category donut -->
         <div class="card">
           <div class="sec-title">📂 Articles by Category</div>
-          <div class="donut-wrap">
-            <svg width="110" height="110" viewBox="0 0 110 110">
-              <circle cx="55" cy="55" r="40" fill="none" stroke="var(--border)" stroke-width="18"/>
-              <circle id="donutFill" cx="55" cy="55" r="40" fill="none" stroke="var(--accent)" stroke-width="18" stroke-dasharray="251.3" stroke-dashoffset="0" transform="rotate(-90 55 55)"/>
-            </svg>
-            <div class="donut-legend" id="donutLegend"></div>
-          </div>
+          <div id="catBarChart"></div>
         </div>
       </div>
 
@@ -434,14 +428,22 @@ async function loadDashboard(){
   const avg=data.length?Math.round(data.reduce((s,a)=>s+(a.relevance_score||0),0)/data.length*100):0;
   document.getElementById("dk6").textContent=avg+"%";
 
-  // Category donut
+  // Category horizontal bar chart
   const counts={};data.forEach(a=>counts[a.category]=(counts[a.category]||0)+1);
-  const top5=Object.entries(counts).sort((a,b)=>b[1]-a[1]).slice(0,5);
-  const colors=["#f4b942","#3fb950","#58a6ff","#bc8cff","#e05c5c"];
-  document.getElementById("donutLegend").innerHTML=top5.map(([name,cnt],i)=>`
-    <div class="dl-item"><div class="dl-dot" style="background:${colors[i]}"></div>
-    <div class="dl-name">${name.length>20?name.slice(0,18)+"…":name}</div>
-    <div class="dl-val">${cnt}</div></div>`).join("");
+  const allCats=Object.entries(counts).sort((a,b)=>b[1]-a[1]);
+  const maxCnt=Math.max(...allCats.map(([,v])=>v),1);
+  const catColors={"Economy & Banking":"#3fb950","Polity & Governance":"#bc8cff","International Relations":"#58a6ff","Science & Technology":"#f4b942","Schemes & Appointments":"#e05c5c","Reports & Indices":"#5cb8e0","Sports":"#5ce0b8","Awards & Honours":"#e0b85c","Important Days & Obituaries":"#e0785c","Summits & Conferences":"#785ce0","National News":"#f4b942","State News":"#42b9f4"};
+  document.getElementById("catBarChart").innerHTML=`<div style="display:flex;flex-direction:column;gap:8px">`+allCats.map(([name,cnt])=>{
+    const pct=Math.round(cnt/maxCnt*100);
+    const col=catColors[name]||"#f4b942";
+    return`<div style="display:flex;align-items:center;gap:8px;font-size:.78rem">
+      <div style="width:160px;color:var(--muted);flex-shrink:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${name}</div>
+      <div style="flex:1;background:var(--surface);border-radius:4px;height:10px;overflow:hidden">
+        <div style="width:${pct}%;height:100%;background:${col};border-radius:4px;transition:width .8s"></div>
+      </div>
+      <div style="width:28px;text-align:right;font-weight:700;color:${col}">${cnt}</div>
+    </div>`;
+  }).join("")+`</div>`;
 
   // Daily line chart (last 7 days)
   const dayData=Array(7).fill(0);
