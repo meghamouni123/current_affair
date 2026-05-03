@@ -1,37 +1,11 @@
 // CA Daily Portal — Config
-// Supabase used for Google Auth ONLY — data comes from static JSON
 
-const SUPABASE_URL = "https://fwuzyilojfkglrjhmedh.supabase.co";
-const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ3dXp5aWxvamZrZ2xyamhtZWRoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY5NDQwMTcsImV4cCI6MjA5MjUyMDAxN30.ydTQlQBem1l7rUDLyli9EZyurCnFaxsTr0YOojrJOTM";
-
-// Auth helpers — localStorage + Supabase Google session
+// Auth helpers — localStorage only
 window.getUser   = () => JSON.parse(localStorage.getItem("ca_user") || "null");
 window.setUser   = (u) => localStorage.setItem("ca_user", JSON.stringify(u));
-window.clearUser = async () => {
-  localStorage.removeItem("ca_user");
-  if(window._supabase) await window._supabase.auth.signOut();
-};
+window.clearUser = () => localStorage.removeItem("ca_user");
 window.isAdmin   = () => { const u = getUser(); return !!(u && u.role === "admin"); };
 window.isLogged  = () => !!getUser();
-
-// Handle Google OAuth redirect on any page (only if Supabase loaded)
-(async () => {
-  try {
-    if (typeof supabase === 'undefined') return;
-    window._supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
-    const { data: { session } } = await window._supabase.auth.getSession();
-    if (session && session.user && !getUser()) {
-      const u = session.user;
-      setUser({
-        name:   u.user_metadata?.full_name || u.email.split("@")[0],
-        email:  u.email,
-        role:   "user",
-        avatar: (u.user_metadata?.full_name || u.email).slice(0,2).toUpperCase(),
-      });
-      if (location.pathname.includes("login")) window.location.href = "index.html";
-    }
-  } catch(e) {}
-})();
 
 window.requireLogin = () => { if (!isLogged()) { window.location.href = "login.html"; return false; } return true; };
 window.requireAdmin = () => { if (!isAdmin()) { window.location.href = "index.html"; return false; } return true; };
