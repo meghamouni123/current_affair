@@ -20,51 +20,99 @@ CATEGORY_PATTERNS = {
         'rbi', 'reserve bank', 'repo rate', 'gdp', 'inflation', 'fiscal deficit',
         'sebi', 'sensex', 'nifty', 'gst', 'budget', 'fdi', 'forex', 'rupee',
         'monetary policy', 'interest rate', 'cpi', 'wpi', 'banking', 'nbfc',
+        'credit policy', 'bank rate', 'msme', 'disinvestment', 'tax revenue',
+        'trade deficit', 'rbi governor', 'financial inclusion', 'upi', 'npci',
     ],
     'Polity & Governance': [
         'parliament', 'lok sabha', 'rajya sabha', 'constitution', 'supreme court',
         'high court', 'election commission', 'cabinet', 'bill passed', 'amendment',
         'act passed', 'ordinance', 'governor', 'chief justice', 'niti aayog',
+        'president of india', 'prime minister', 'chief minister', 'preamble',
+        'fundamental rights', 'article 370', 'eci', 'general election', 'rti',
+        'lokpal', 'enforcement directorate', 'delimitation', 'by-election',
     ],
     'International Relations': [
         'bilateral', 'mou signed', 'diplomatic', 'foreign minister', 'ambassador',
         'united nations', 'g20', 'brics', 'saarc', 'asean', 'treaty',
         'summit between', 'state visit', 'trade agreement', 'quad', 'nato',
+        'india-china', 'india-pakistan', 'india-us', 'india-russia', 'india-japan',
+        'foreign policy', 'geopolitics', 'sanctions', 'un security council',
+        'extradition', 'defence cooperation', 'strategic partnership',
     ],
     'Science & Technology': [
         'isro', 'nasa', 'satellite launch', 'space mission', 'drdo', 'iit',
         'artificial intelligence', 'quantum', 'nuclear', 'vaccine', 'genome',
         'spacecraft', 'rocket launch', 'innovation', '5g', 'semiconductor',
+        'chandrayaan', 'gaganyaan', 'aditya', 'pslv', 'gslv',
+        'climate change', 'renewable energy', 'solar energy', 'electric vehicle',
+        'biotechnology', 'gene editing', 'cybersecurity', 'digital india',
     ],
     'Schemes & Appointments': [
         'yojana', 'scheme launched', 'programme launched', 'portal launched',
         'appointed as', 'takes charge', 'new director', 'new ceo', 'inaugurated',
         'foundation stone', 'welfare scheme', 'abhiyan', 'mission launched',
+        'pm modi launches', 'government launches', 'ministry launches',
+        'appointed chairman', 'appointed director', 'appointed governor',
+        'new appointment', 'takes over as', 'elected as president',
+        'pm kisan', 'ayushman bharat', 'jan dhan', 'mudra', 'jal jeevan',
+        'ujjwala', 'swachh bharat', 'make in india', 'svamitva',
     ],
     'Reports & Indices': [
         'index released', 'report released', 'ranking', 'survey', 'report by',
-        'world bank', 'imf report', 'undp', 'human development index',
+        'world bank report', 'imf report', 'undp', 'human development index',
         'ease of doing business', 'global hunger', 'happiness report',
+        'press freedom index', 'corruption perception', 'global innovation index',
+        'economic survey', 'annual report', 'niti aayog report', 'rbi report',
+        'india ranked', 'india ranks', 'india position', 'global competitiveness',
     ],
     'Sports': [
         'cricket', 'ipl', 'world cup', 'olympics', 'commonwealth games',
         'asian games', 'gold medal', 'silver medal', 'bronze medal',
         'championship', 'fifa', 'tennis', 'badminton', 'hockey', 'kabaddi',
+        'bcci', 'test match', 'odi', 't20', 'grand slam', 'wimbledon',
+        'chess olympiad', 'cwg', 'world athletics', 'para olympics',
+        'khelo india', 'national games', 'arjuna award', 'dronacharya',
     ],
     'Awards & Honours': [
         'padma', 'bharat ratna', 'nobel prize', 'oscar award', 'booker prize',
         'gallantry award', 'bravery award', 'conferred', 'national award',
         'received award', 'grammy', 'pulitzer', 'magsaysay',
+        'padma vibhushan', 'padma bhushan', 'padma shri', 'param vir chakra',
+        'ashoka chakra', 'sahitya akademi', 'man booker', 'fields medal',
+        'awarded to', 'felicitated', 'honoured with', 'civilian honour',
+        'lifetime achievement', 'honorary doctorate',
     ],
     'Important Days & Obituaries': [
         'world day', 'international day', 'national day', 'observed on',
         'birth anniversary', 'death anniversary', 'foundation day',
         'passes away', 'passed away', 'demise', 'veteran dies', 'commemorat',
+        'world environment day', 'world health day', 'republic day',
+        'independence day', 'gandhi jayanti', 'teachers day', 'children day',
+        'constitution day', 'national science day', 'international yoga day',
+        'died at', 'died on', 'obituary', 'condolences', 'former president',
     ],
     'Summits & Conferences': [
         'cop conference', 'g20 summit', 'saarc summit', 'brics summit',
         'ministerial meet', 'world economic forum', 'davos', 'annual session',
         'global forum', 'international conference', 'summit held', 'conclave',
+        'g7 summit', 'nato summit', 'un general assembly', 'unga',
+        'climate summit', 'cop28', 'cop29', 'cop30', 'paris agreement',
+        'bilateral summit', 'quad summit', 'east asia summit', 'asean summit',
+    ],
+    'National News': [
+        'india government', 'central government', 'union minister',
+        'ministry of', 'cabinet minister', 'national highway', 'railway project',
+        'metro rail', 'airport', 'flood relief', 'disaster management', 'ndrf',
+        'security forces', 'naxal', 'terrorist', 'encounter',
+        'supreme court order', 'high court order', 'cbi probe',
+    ],
+    'State News': [
+        'state government', 'chief minister', 'state cabinet',
+        'state assembly', 'vidhan sabha', 'state budget',
+        'andhra pradesh', 'telangana', 'karnataka', 'tamil nadu', 'kerala',
+        'maharashtra', 'gujarat', 'rajasthan', 'uttar pradesh', 'bihar',
+        'west bengal', 'odisha', 'madhya pradesh', 'punjab', 'haryana',
+        'assam', 'manipur', 'goa', 'delhi', 'jammu kashmir', 'ladakh',
     ],
 }
 
@@ -73,6 +121,10 @@ NOT_RELEVANT_SIGNALS = [
     'fashion week', 'beauty tips', 'tv serial', 'reality show',
     'box office', 'web series', 'hair care', 'skin care',
     'weight loss tips', 'movie review', 'gossip',
+    'weather forecast', 'rain alert', 'traffic jam', 'road block',
+    'recipe', 'cooking tips', 'restaurant review', 'food review',
+    'stock tips', 'buy sell', 'share price target', 'multibagger',
+    'ipl score', 'match score', 'live score', 'fantasy team',
 ]
 
 
@@ -195,6 +247,17 @@ class ArticleClassifier:
         for sig in NOT_RELEVANT_SIGNALS:
             if sig in tl:
                 return False, 'NOT_RELEVANT', 0.30
+        # Strong keyword override — if 2+ keywords match a category, use it
+        kw_scores = {
+            cat: sum(1 for kw in kws if kw in tl)
+            for cat, kws in CATEGORY_PATTERNS.items()
+        }
+        kw_scores = {k: v for k, v in kw_scores.items() if v >= 2}
+        if kw_scores:
+            best_kw = max(kw_scores, key=kw_scores.get)
+            kw_conf = min(0.82 + kw_scores[best_kw] * 0.03, 0.95)
+            return True, best_kw, kw_conf
+        # ML model classification
         cat, conf = self.classify(text)
         return (conf >= threshold and cat != 'NOT_RELEVANT'), cat, conf
 
