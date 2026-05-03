@@ -66,6 +66,32 @@
     {"name": "Zee News - India", "url": "https://zeenews.india.com/rss/india-national-news.xml", "priority": 2},
     {"name": "The Print - India", "url": "https://theprint.in/feed/", "priority": 2},
     {"name": "Firstpost - India", "url": "https://www.firstpost.com/rss/india.xml", "priority": 2},
-    {"name": "Wion - India", "url": "https://www.wionews.com/feeds/india.xml", "priority": 2}
+    {"name": "Wion - India", "url": "https://www.wionews.com/feeds/india.xml", "priority": 2},
+
+    {"name": "GKToday - Awards & Honours", "url": "https://www.gktoday.in/category/awards/feed/", "priority": 1},
+    {"name": "GKToday - Appointments", "url": "https://www.gktoday.in/category/appointments/feed/", "priority": 1},
+    {"name": "GKToday - Reports & Indices", "url": "https://www.gktoday.in/category/reports-indices/feed/", "priority": 1},
+    {"name": "GKToday - Summits & Conferences", "url": "https://www.gktoday.in/category/summits-conferences/feed/", "priority": 1},
+    {"name": "GKToday - Important Days", "url": "https://www.gktoday.in/category/important-days/feed/", "priority": 1},
+    {"name": "GKToday - Sports", "url": "https://www.gktoday.in/category/sports/feed/", "priority": 1},
+    {"name": "GKToday - State News", "url": "https://www.gktoday.in/category/state-news/feed/", "priority": 1},
+    {"name": "AffairsCloud - Awards", "url": "https://affairscloud.com/category/awards/feed/", "priority": 1},
+    {"name": "AffairsCloud - Appointments", "url": "https://affairscloud.com/category/appointments/feed/", "priority": 1},
+    {"name": "AffairsCloud - Reports", "url": "https://affairscloud.com/category/reports-indices/feed/", "priority": 1},
+    {"name": "AffairsCloud - Summits", "url": "https://affairscloud.com/category/summits-conferences/feed/", "priority": 1},
+    {"name": "AffairsCloud - Important Days", "url": "https://affairscloud.com/category/important-days/feed/", "priority": 1},
+    {"name": "AffairsCloud - Sports", "url": "https://affairscloud.com/category/sports/feed/", "priority": 1},
+    {"name": "AffairsCloud - State News", "url": "https://affairscloud.com/category/state-news/feed/", "priority": 1},
+    {"name": "Jagran Josh - Awards", "url": "https://www.jagranjosh.com/current-affairs/awards-rss-feed-1", "priority": 1},
+    {"name": "Jagran Josh - Appointments", "url": "https://www.jagranjosh.com/current-affairs/appointments-rss-feed-1", "priority": 1},
+    {"name": "Jagran Josh - Important Days", "url": "https://www.jagranjosh.com/current-affairs/important-days-rss-feed-1", "priority": 1},
+    {"name": "Jagran Josh - Reports", "url": "https://www.jagranjosh.com/current-affairs/reports-rss-feed-1", "priority": 1},
+    {"name": "Drishti IAS", "url": "https://www.drishtiias.com/rss.rss", "priority": 1},
+    {"name": "Insights IAS", "url": "https://www.insightsonindia.com/feed/", "priority": 1},
+    {"name": "Nobel Prize", "url": "https://www.nobelprize.org/feeds/all/", "priority": 1},
+    {"name": "Olympics News", "url": "https://olympics.com/en/news/rss", "priority": 1},
+    {"name": "WEF Agenda", "url": "https://www.weforum.org/agenda/feed/", "priority": 1},
+    {"name": "ASEAN Secretariat", "url": "https://asean.org/feed/", "priority": 1},
+    {"name": "Commonwealth Secretariat", "url": "https://thecommonwealth.org/rss.xml", "priority": 2}
   ]
 }
