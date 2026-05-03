@@ -196,7 +196,13 @@ class ArticleClassifier:
             if sig in tl:
                 return False, 'NOT_RELEVANT', 0.30
         cat, conf = self.classify(text)
-        return (conf >= threshold and cat != 'NOT_RELEVANT'), cat, conf
+        # Accept if ML model is confident enough
+        if conf >= threshold and cat != 'NOT_RELEVANT':
+            return True, cat, conf
+        # Fallback: accept keyword-matched articles with lower threshold
+        if conf >= 0.60 and cat != 'NOT_RELEVANT':
+            return True, cat, conf
+        return False, cat, conf
 
     def _keyword_fallback(self, text: str) -> Tuple[str, float]:
         tl = text.lower()

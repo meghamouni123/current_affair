@@ -20,7 +20,7 @@ from summarizer import generate_summary
 
 logger = logging.getLogger(__name__)
 
-CONFIDENCE_THRESHOLD       = 0.80
+CONFIDENCE_THRESHOLD       = 0.70
 DEDUP_SIMILARITY_THRESHOLD = 0.95
 
 

@@ -24,7 +24,7 @@ def export_articles_json(output_path: str) -> int:
         SELECT id, title, summary, category, source, url,
                relevance_score, published_at::date AS published_date
         FROM exam_ca_articles
-        WHERE relevance_score >= 0.8
+        WHERE relevance_score >= 0.7
         ORDER BY published_at DESC, relevance_score DESC
         LIMIT 500
     """)
