@@ -1,9 +1,16 @@
-// CA Daily Portal — Config (No Supabase — reads from static JSON)
+// CA Daily Portal — Config
+// Supabase used for Google Auth ONLY — data comes from static JSON
 
-// Auth helpers — localStorage only
+const SUPABASE_URL = "https://fwuzyilojfkglrjhmedh.supabase.co";
+const SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ3dXp5aWxvamZrZ2xyamhtZWRoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzY5NDQwMTcsImV4cCI6MjA5MjUyMDAxN30.ydTQlQBem1l7rUDLyli9EZyurCnFaxsTr0YOojrJOTM";
+
+// Auth helpers — localStorage + Supabase Google session
 window.getUser   = () => JSON.parse(localStorage.getItem("ca_user") || "null");
 window.setUser   = (u) => localStorage.setItem("ca_user", JSON.stringify(u));
-window.clearUser = () => localStorage.removeItem("ca_user");
+window.clearUser = async () => {
+  localStorage.removeItem("ca_user");
+  if(window.supabase) await window.supabase.auth.signOut();
+};
 window.isAdmin   = () => { const u = getUser(); return !!(u && u.role === "admin"); };
 window.isLogged  = () => !!getUser();
 
