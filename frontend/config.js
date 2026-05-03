@@ -14,11 +14,11 @@ window.clearUser = async () => {
 window.isAdmin   = () => { const u = getUser(); return !!(u && u.role === "admin"); };
 window.isLogged  = () => !!getUser();
 
-// Handle Google OAuth redirect on any page
+// Handle Google OAuth redirect on any page (only if Supabase loaded)
 (async () => {
   try {
-    const { createClient } = supabase;
-    window._supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
+    if (typeof supabase === 'undefined') return;
+    window._supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
     const { data: { session } } = await window._supabase.auth.getSession();
     if (session && session.user && !getUser()) {
       const u = session.user;
