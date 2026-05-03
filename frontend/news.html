@@ -129,6 +129,7 @@ input[type="date"]::-webkit-calendar-picker-indicator{filter:invert(.5)}
         <input type="date" class="date-inp" id="dateTo">
         <div class="quick-btns">
           <button class="qbtn" onclick="setRange(1)">Today</button>
+          <button class="qbtn" onclick="setYesterday()">Yesterday</button>
           <button class="qbtn" onclick="setRange(7)">7 days</button>
           <button class="qbtn" onclick="setRange(15)">15 days</button>
           <button class="qbtn" onclick="setRange(30)">30 days</button>
@@ -200,6 +201,13 @@ function setRange(days){
   const t=new Date(),f=new Date();f.setDate(t.getDate()-days+1);
   document.getElementById("dateTo").value=t.toISOString().slice(0,10);
   document.getElementById("dateFrom").value=f.toISOString().slice(0,10);
+  applyFilters();
+}
+function setYesterday(){
+  const y=new Date();y.setDate(y.getDate()-1);
+  const ys=y.toISOString().slice(0,10);
+  document.getElementById("dateFrom").value=ys;
+  document.getElementById("dateTo").value=ys;
   applyFilters();
 }
 function setCat(c,btn){
