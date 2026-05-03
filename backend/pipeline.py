@@ -54,7 +54,7 @@ class Pipeline:
                 self._url_hash_cache.add(url_hash)
                 return None
 
-        if len(text.split()) < 10:
+        if len(text.split()) < 100:
             text = headline
 
         full_text = f"{headline}. {text}" if headline not in text else text
