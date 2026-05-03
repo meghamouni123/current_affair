@@ -11,13 +11,123 @@
       "published_date": "2026-05-03"
     },
     {
-      "id": 49,
-      "title": "DNA analysis: The cell broadcast system behind India`s emergency alerts",
-      "summary": "• He also explains why the siren went off in the first place.",
+      "id": 54,
+      "title": "First-of-its-kind satellite by Indian start-up flies on SpaceX rocket",
+      "summary": "• Indian company's satellite is the first of its kind in the world to be launched by a private company.\n• The satellite will orbit the Earth at a height of 1,200 miles above Earth.",
       "category": "Science & Technology",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/dna-analysis-the-cell-broadcast-system-behind-indias-emergency-alerts-3043011.html",
-      "relevance_score": 0.8832,
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/galaxeye-drishti-satellite-spacex-launch-opto-sar-technology-explained-10669686/",
+      "relevance_score": 0.9546,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 78,
+      "title": "GalaxEye's Mission Drishti Marks Key Achievement In India’s Space Journey: PM Modi",
+      "summary": "• GalaxEye is a joint venture between India and the U.S.\n• The mission is scheduled to take off from Sriharikota in the southern part of India.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/galaxeyes-mission-drishti-marks-key-achievement-in-indias-space-journey-pm-modi-ws-l-10070789.html",
+      "relevance_score": 0.9516,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 51,
+      "title": "GalaxEye launches Mission Drishti, India’s largest privately developed Earth observation satellite",
+      "summary": "• GalaxEye is a privately developed satellite company based in Bengaluru, India.\n• The satellite will be used to observe the Earth from space.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Science",
+      "url": "https://www.thehindu.com/sci-tech/science/galaxeye-launches-mission-drishti-indias-largest-privately-developed-earth-observation-satellite/article70934749.ece",
+      "relevance_score": 0.9422,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 77,
+      "title": "GalaxEye Launches Mission Drishti Aboard SpaceX Rocket, India's Largest Private EO Satellite",
+      "summary": "• GalaxEye is India's largest private EO satellite, with a payload of more than 1,000 kg.\n• Mission Drishesti is the first mission to be launched by a SpaceX rocket.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/galaxeye-launches-mission-drishti-aboard-spacex-rocket-indias-largest-private-eo-satellite-ws-l-10070807.html",
+      "relevance_score": 0.9306,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 62,
+      "title": "Chants of power: How slogans set the tone in Bengal, Tamil Nadu, Kerala, Assam elections",
+      "summary": "• Chant of power is key to winning elections in Kerala, Bengal and Tamil Nadu.\n• Chanting of power also key to victory in Assam and West Bengal elections.",
+      "category": "State News",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/chants-of-power-how-slogans-set-the-tone-in-bengal-tamil-nadu-kerala-assam-elections/articleshow/130727393.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 76,
+      "title": "From T20 World Cup heroes to IPL 2026 flops: Will MI rest their Indian core?",
+      "summary": "• Mumbai Indians will play in the IPL for the first time in 2026.\n• The IPL will be held in Mumbai from May 26 to May 31.",
+      "category": "Sports",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mi-indian-core-flop-ipl-2026-t20-world-cup-hangover-jayawardene-2904923-2026-05-03?utm_source=rss",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 61,
+      "title": "Tamil Nadu polls: What will Vijay be - Delhi's Arvind Kejriwal or Bihar's Prashant Kishor?",
+      "summary": "• Tamil Nadu elections: Who will be the next chief minister of Tamil Nadu?.\n• Who will become the new chief minister?.",
+      "category": "State News",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-what-will-vijay-be-delhis-arvind-kejriwal-or-bihars-prashant-kishor/articleshow/130730355.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 58,
+      "title": "GT vs PBKS Playing 11, IPL 2026 Today Match: Will Prasidh Krishna return for Gujarat vs Punjab?",
+      "summary": "• Gujarat play Punjab at the Eden Gardens in Kolkata, India.\n• Gujarat have won the IPL in each of the last two seasons.",
+      "category": "State News",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/cricket/gt-vs-pbks-ipl-2026-playing-11-predicted-today-match-gujarat-titans-vs-punjab-kings-vs-match-squad-players-list-10668110/",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 80,
+      "title": "Hockey in the air: How lacrosse is rising in India on the road to LA Olympics",
+      "summary": "• Lacrosse in India is on its way to becoming one of the most popular sports in the country.\n• The sport is growing in popularity in India ahead of the LA Olympics in 2016.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/other-sports/how-lacrosse-is-growing-in-india-lai-journey-olympics/article70934624.ece",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 81,
+      "title": "FIFA World Cup 2026 — Sergino Dest returns from injury to boost World Cup hopes of USA",
+      "summary": "• Dest will play for the USA at the 2026 World Cup in South Africa.\n• Dest has been out with a knee injury since November.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup-2026-injury-update-sergino-dest-back-in-team-usa-us-latest-update-for-wc-squad/article70934405.ece",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 59,
+      "title": "A father’s belief, a daughter’s dream: Nandni Sharma’s rise to India’s T20 World Cup squad",
+      "summary": "• Sharma is the daughter of former cricketer Shikhar Dhawan.\n• Dhawan is the highest runscorer in the history of T20 cricket in India.\n• Sharma has scored more than 1,000 runs in T20s.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/cricket/nandni-sharma-rise-india-t20-world-cup-squad-10668085/",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 50,
+      "title": "Germany focuses on shared interests after U.S. announces troop drawdown",
+      "summary": "• Germany and the United States have been at odds for years over troop numbers in Iraq and Afghanistan.\n• Germany says it wants to work with the U.N.\n• To reduce the number of troops there.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/germany-focuses-on-shared-interests-after-us-announces-troop-drawdown/article70934273.ece",
+      "relevance_score": 0.8163,
       "published_date": "2026-05-03"
     },
     {
@@ -28,6 +138,16 @@
       "source": "The Hindu - International",
       "url": "https://www.thehindu.com/news/international/donald-trump-says-us-not-likely-to-accept-new-iran-peace-proposal/article70934297.ece",
       "relevance_score": 0.8154,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 79,
+      "title": "DNA analysis: The cell broadcast system behind India`s emergency alerts",
+      "summary": "• India has one of the largest cell phone networks in the world.\n• The system is used to send emergency alerts across the country.\n• It is also used to broadcast emergency messages to the public.",
+      "category": "Science & Technology",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/dna-analysis-the-cell-broadcast-system-behind-indias-emergency-alerts-3043011.html",
+      "relevance_score": 0.8079,
       "published_date": "2026-05-03"
     },
     {
@@ -111,6 +231,16 @@
       "published_date": "2026-05-02"
     },
     {
+      "id": 55,
+      "title": "By Election Results 2026 Date & Time: When will Gujarat, Karnataka, Maharashtra, Nagaland, Tripura bypoll vote counting begin?",
+      "summary": "• When will the vote counting in Maharashtra, Gujarat and Karnataka begin?.\n• What will be the date and time of the bypolls in Karnataka and Maharashtra?.\n• What is the date & time for the vote count in Gujarat and Maharashtra.",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/by-election-results-2026-date-when-goa-gujarat-karnataka-maharashtra-nagaland-tripura-bypoll-vote-counting-begin-10666866/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-02"
+    },
+    {
       "id": 44,
       "title": "Govt tests new system for real-time alerts on disasters, emergencies",
       "summary": "• The system will send alerts to the public in real time in the event of a disaster or emergency.",
@@ -148,6 +278,56 @@
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/joshi-to-steer-prasar-bharati-in-digital-transition-phase/articleshow/130719168.cms",
       "relevance_score": 0.9063,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": 75,
+      "title": "Mexico City sinking few centimetres per month, leaving fractured roads, buildings; NASA–ISRO track crisis in real time",
+      "summary": "• NASA–ISRO track crisis in real time; NASA-ISRO team will be on the ground in case of emergency.\n• Mexico City is sinking a few metres a month, according to latest estimates.",
+      "category": "Science & Technology",
+      "source": "LiveMint - Science",
+      "url": "https://www.livemint.com/science/news/mexico-city-sinking-few-centimetres-per-month-leaving-fractured-roads-buildings-nasa-isro-track-crisis-in-real-time-11777720333924.html",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": 52,
+      "title": "CRICKET | Parkar emerges the costliest buy in T20 Mumbai auction",
+      "summary": "• He is also the first person to buy two Mumbai franchises in a single auction.\n• The Mumbai T20 franchise is worth an estimated $1.2 billion.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/cricket/cricket-parkar-emerges-the-costliest-buy-in-t20-mumbai-auction/article70933034.ece",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": 72,
+      "title": "US Supreme Court asked to restore abortion pill access",
+      "summary": "• The Supreme Court is expected to rule on the case in the next few weeks.\n• The decision is likely to be announced by the end of June.",
+      "category": "Polity & Governance",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": 56,
+      "title": "RBI Governor Malhotra flags rising global economic risks",
+      "summary": "• He says India's economy is in good shape, but there are still risks of a slowdown in the global economy.\n• He also warns of a possible slowdown in India's economic growth in the coming years.",
+      "category": "Economy & Banking",
+      "source": "Indian Express - Business",
+      "url": "https://indianexpress.com/article/business/rbi-governor-malhotra-flags-rising-global-economic-risks-10667158/",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": 60,
+      "title": "India Women’s T20 World Cup squad announced: Nandni Sharma named in 15-member squad; Harleen Deol, Amanjot Kaur miss out",
+      "summary": "• Harleen Deol, Amanjot Kaur miss out on place in the squad.\n• India women's team to take part in the tournament in Australia and New Zealand.",
+      "category": "Sports",
+      "source": "Indian Express - Cricket",
+      "url": "https://indianexpress.com/article/sports/cricket/india-womens-t20-world-cup-squad-announced-nandini-sharma-named-in-15-member-squad-harleen-deol-amanjot-kaur-miss-out-10667668/",
+      "relevance_score": 0.88,
       "published_date": "2026-05-02"
     },
     {
@@ -361,6 +541,16 @@
       "published_date": "2026-04-30"
     },
     {
+      "id": 57,
+      "title": "Indian stock markets open lower: Sensex, Nifty fall over 1% as global oil prices surge",
+      "summary": "• Sensex, Nifty fall over 1% as globalOil prices surge over the past few months.\n• Indian stock markets opened lower on Friday.\n• SenseX, Nallas fall over one per cent; Sensex closed at record highs.",
+      "category": "Economy & Banking",
+      "source": "Indian Express - Business",
+      "url": "https://indianexpress.com/article/business/indian-stock-markets-sensex-nifty-global-oil-prices-surge-10663394/",
+      "relevance_score": 0.88,
+      "published_date": "2026-04-30"
+    },
+    {
       "id": 5,
       "title": "How AI helped promote community-led development in Rajasthan",
       "summary": "• A project to improve water resilience in two Rajasthan districts strengthened existing government efforts by using AI.\n• The application was also lightweight enough to sit inside any large program that depends on frontline behaviour change and local coordination.\n• It was designed to improve last-mile responsiveness.",
@@ -421,6 +611,16 @@
       "published_date": "2026-04-29"
     },
     {
+      "id": 66,
+      "title": "Practicing today for tomorrow’s emergencies – WHO convenes countries and partners to simulate response to major disease outbreak",
+      "summary": "• 26 countries and territories, 600 health emergency experts and over 25 partners took part in Exercise Polaris II.\n• The 2-day high-level simulation exercise was based around an outbreak of a fictional new bacterium spreading across the world.\n• It allowed countries to test their preparedness for pandemics and other major health emergencies.",
+      "category": "Polity & Governance",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/27-04-2026-practicing-today-for-tomorrow-s-emergencies-who-convenes-countries-and-partners-to-simulate-response-to-major-disease-outbreak",
+      "relevance_score": 0.88,
+      "published_date": "2026-04-27"
+    },
+    {
       "id": 34,
       "title": "K Kavitha launches Telangana Rashtra Sena, 7 months after breaking from father's BRS",
       "summary": "• K Chandrasekhar Rao's daughter Kavitha has launched Telangana Rashtra Sena, her own political party.\n• She resigned from the BRS seven months ago over differences with party leadership.\n• She is the daughter of the former Chief Minister of Andhra Pradesh, K ChandraseKhar Rao.",
@@ -429,6 +629,36 @@
       "url": "https://www.livemint.com/politics/k-kavitha-launches-telangana-rashtra-sena-7-months-after-breaking-from-fathers-brs-11777093378164.html",
       "relevance_score": 0.8057,
       "published_date": "2026-04-25"
+    },
+    {
+      "id": 68,
+      "title": "Largest catch-up initiative delivers over 100 million childhood vaccinations",
+      "summary": "• The Big Catch-Up (BCU) is a multi-year, multi-country effort to address vaccination declines driven largely by the COVID-19 pandemic.\n• The initiative concluded in March 2026 and is on track to meet its target of catching up 21&nbsp;million children.",
+      "category": "Polity & Governance",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/24-04-2026-largest-catch-up-initiative-delivers-over-100-million-childhood-vaccinations",
+      "relevance_score": 0.88,
+      "published_date": "2026-04-24"
+    },
+    {
+      "id": 67,
+      "title": "WHO prequalifies first-ever malaria treatment for newborns and infants, adds new diagnostic tests",
+      "summary": "• WHO prequalifies first treatment for newborns and young infants weighing between two and five kilograms.\n• Artemether-lumefantrine is the first antimalarial formulation designed specifically for the youngest malaria patients.\n• WHO also prequalified three new rapid diagnostic tests (RDTs) designed to address emerging diagnostic challenges.",
+      "category": "Polity & Governance",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests",
+      "relevance_score": 0.88,
+      "published_date": "2026-04-24"
+    },
+    {
+      "id": 69,
+      "title": "WHO reports measurable health impact in 2025 amid transition to new strategy",
+      "summary": "• The World Health Organization (WHO) today released its Results Report for 2025.\n• The report highlights measurable improvements in people&rsquo;s health worldwide in 2025.\n• Despite this progress, the report cautions that important ambitions remain unmet, leaving with the world off track to meet the health-related Sustainable Development Goals.",
+      "category": "Polity & Governance",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/23-04-2026-who-reports-measurable-health-impact-in-2025-amid-transition-to-new-strategy",
+      "relevance_score": 0.94,
+      "published_date": "2026-04-23"
     },
     {
       "id": 26,
@@ -481,6 +711,86 @@
       "published_date": "2026-04-06"
     },
     {
+      "id": 70,
+      "title": "Progress in reducing child deaths slows as 4.9 million children die before age five",
+      "summary": "• Since 2015, the pace of reduction in child mortality has slowed by more than 60 per cent.\n• Newborn deaths account for nearly half of all under-five deaths.\n• Malaria remained the single largest killer in this age group.\n• Fragile and conflict-affected countries continue to bear a disproportionate share of the burden.",
+      "category": "Polity & Governance",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/18-03-2026-progress-in-reducing-child-deaths-slows-as-4.9-million-children-die-before-age-five",
+      "relevance_score": 0.88,
+      "published_date": "2026-03-18"
+    },
+    {
+      "id": 71,
+      "title": "Conflict deepens health crisis across Middle East, WHO says",
+      "summary": "• Health systems across the Region are coming under strain as injuries and displacement rise, attacks on health care continue, and public health risks increase.\n• Health workers, patients and health facilities must always be protected under international humanitarian law.\n• WHO calls on all parties to protect civilians and health care, ensure unimpeded and sustained humanitarian access, and pursue de-escalation of the conflict.",
+      "category": "Polity & Governance",
+      "source": "WHO",
+      "url": "https://www.who.int/news/item/11-03-2026-conflict-deepens-health-crisis-across-middle-east--who-says",
+      "relevance_score": 0.91,
+      "published_date": "2026-03-11"
+    },
+    {
+      "id": 53,
+      "title": "Chennai RWA shines in TN’s solar race",
+      "summary": "• RWA is one of India's leading trade associations.\n• Rwa is based in Chennai, Tamil Nadu, but also has offices in Mumbai and Bangalore.",
+      "category": "Science & Technology",
+      "source": "The Hindu - States",
+      "url": "https://www.thehindu.com/news/cities/chennai/chennairwashines-in-tnssolar-race/article70633195.ece",
+      "relevance_score": 0.9115,
+      "published_date": "2026-02-15"
+    },
+    {
+      "id": 73,
+      "title": "60 years of the Commonwealth Secretariat: A legacy of unity, vision and progress",
+      "summary": "• By Professor Luis Franceschi, Commonwealth&nbsp;Assistant Secretary-General.\n• A vision rooted in equality and co–operation.\n• We support 56 member countries on boosting trade, tackling climate change and strengthening democratic institutions.\n• In an increasingly fragmented world, the Commonwealth remains a force for good.",
+      "category": "Polity & Governance",
+      "source": "Commonwealth Secretariat",
+      "url": "https://thecommonwealth.org/news/60-years-of-the-commonwealth-secretariat",
+      "relevance_score": 0.88,
+      "published_date": "2025-06-24"
+    },
+    {
+      "id": 74,
+      "title": "Commonwealth nations adopt pivotal ocean declaration in Samoa",
+      "summary": "• The declaration was agreed at the Commonwealth Heads of Government Meeting (CHOGM) in Samoa.\n• It paves the way for robust, ambitious, innovative and transformative action for a Common Wealth of shared ocean prosperity, resilience and sustainability.\n• Key aspects of the declaration include recognition of national maritime boundaries in the face of sea-level rise.",
+      "category": "Polity & Governance",
+      "source": "Commonwealth Secretariat",
+      "url": "https://thecommonwealth.org/news/chogm2024/commonwealth-nations-adopt-ocean-declaration",
+      "relevance_score": 0.88,
+      "published_date": "2024-10-26"
+    },
+    {
+      "id": 63,
+      "title": "Teen Innovator Soars to New Heights: Mehar Singh Breaks Guinness World Record with Lightning-Fast Drone Ascent",
+      "summary": "• Mehar breaks record with lightning-fast drone ascent.\n• Singh also breaks record for fastest drone descent by a teenager.",
+      "category": "Science & Technology",
+      "source": "Times of India - Science",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/teen-innovator-soars-to-new-heights-mehar-singh-breaks-guinness-world-record-with-lightning-fast-drone-ascent/articleshow/112866457.cms",
+      "relevance_score": 0.8236,
+      "published_date": "2024-08-28"
+    },
+    {
+      "id": 64,
+      "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
+      "summary": "• It can also help you check details of train tickets and get refunds.\n• The tool is available for iOS and Android users and is available on Google Play and iOS.",
+      "category": "Science & Technology",
+      "source": "Times of India - Science",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/this-new-ai-tool-can-help-you-book-train-tickets-get-refunds-and-check-details-on-irctc-website-and-app/articleshow/108431623.cms",
+      "relevance_score": 0.8541,
+      "published_date": "2024-03-12"
+    },
+    {
+      "id": 65,
+      "title": "Why Earth Sciences minister Rijiju is upset with this European IT company",
+      "summary": "• The company is based in Brussels, Belgium, but has offices in the Netherlands and Germany.\n• The minister is upset because the company has been taking advantage of the country's IT infrastructure.",
+      "category": "Science & Technology",
+      "source": "Times of India - Science",
+      "url": "https://timesofindia.indiatimes.com/gadgets-news/why-earth-sciences-minister-rijiju-is-upset-with-this-european-it-company/articleshow/108390810.cms",
+      "relevance_score": 0.8819,
+      "published_date": "2024-03-11"
+    },
+    {
       "id": 31,
       "title": "Time for government, companies to adopt artificial intelligence: Deloitte India",
       "summary": "• “Indian companies need to re-skill, train, and acquire more relevant talent, if they are to successfully integrate AI technologies.\n• It is an uphill race in which there will be winners and losers,” said Deloitte India CEO N Venkatram.",
@@ -491,6 +801,6 @@
       "published_date": "2020-12-27"
     }
   ],
-  "count": 49,
-  "updated_at": "2026-05-03T06:21:58.950192Z"
+  "count": 80,
+  "updated_at": "2026-05-03T10:52:26.586254Z"
 }
