@@ -9,10 +9,29 @@ window.getUser   = () => JSON.parse(localStorage.getItem("ca_user") || "null");
 window.setUser   = (u) => localStorage.setItem("ca_user", JSON.stringify(u));
 window.clearUser = async () => {
   localStorage.removeItem("ca_user");
-  if(window.supabase) await window.supabase.auth.signOut();
+  if(window._supabase) await window._supabase.auth.signOut();
 };
 window.isAdmin   = () => { const u = getUser(); return !!(u && u.role === "admin"); };
 window.isLogged  = () => !!getUser();
+
+// Handle Google OAuth redirect on any page
+(async () => {
+  try {
+    const { createClient } = supabase;
+    window._supabase = createClient(SUPABASE_URL, SUPABASE_KEY);
+    const { data: { session } } = await window._supabase.auth.getSession();
+    if (session && session.user && !getUser()) {
+      const u = session.user;
+      setUser({
+        name:   u.user_metadata?.full_name || u.email.split("@")[0],
+        email:  u.email,
+        role:   "user",
+        avatar: (u.user_metadata?.full_name || u.email).slice(0,2).toUpperCase(),
+      });
+      if (location.pathname.includes("login")) window.location.href = "index.html";
+    }
+  } catch(e) {}
+})();
 
 window.requireLogin = () => { if (!isLogged()) { window.location.href = "login.html"; return false; } return true; };
 window.requireAdmin = () => { if (!isAdmin()) { window.location.href = "index.html"; return false; } return true; };

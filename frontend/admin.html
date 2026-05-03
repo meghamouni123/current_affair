@@ -437,7 +437,7 @@ async function loadDashboard(){
     <div class="dl-name">${name.length>20?name.slice(0,18)+"…":name}</div>
     <div class="dl-val">${cnt}</div></div>`).join("");
 
-  // Daily chart (last 7 days)
+  // Daily line chart (last 7 days)
   const dayData=Array(7).fill(0);
   data.forEach(a=>{
     const d=new Date(a.published_date||a.published_at||"");
@@ -445,10 +445,27 @@ async function loadDashboard(){
     if(diff>=0&&diff<7)dayData[6-diff]++;
   });
   const maxD=Math.max(...dayData,1);
-  document.getElementById("dailyChart").innerHTML=dayData.map((v,i)=>{
-    const d=new Date();d.setDate(d.getDate()-(6-i));
-    return`<div class="bc-col"><div class="bc-val">${v}</div><div class="bc-bar" style="height:${Math.max(5,v/maxD*100)}%;background:${i===6?'var(--accent)':'rgba(244,185,66,.4)'}"></div><div class="bc-label">${DAYS[d.getDay()]}</div></div>`;
-  }).join("");
+  const svgW=560,svgH=100,svgPad=24;
+  const pts=dayData.map((v,i)=>{
+    const x=svgPad+(i*(svgW-2*svgPad)/6);
+    const y=svgH-svgPad-(v/maxD*(svgH-2*svgPad));
+    return`${x},${y}`;
+  }).join(" ");
+  document.getElementById("dailyChart").innerHTML=`
+    <svg width="100%" viewBox="0 0 ${svgW} ${svgH+16}" style="overflow:visible;display:block">
+      <defs><linearGradient id="lg" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgba(244,185,66,.3)"/><stop offset="100%" stop-color="rgba(244,185,66,0)"/></linearGradient></defs>
+      <polygon points="${pts} ${svgPad+(6*(svgW-2*svgPad)/6)},${svgH-svgPad} ${svgPad},${svgH-svgPad}" fill="url(#lg)"/>
+      <polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+      ${dayData.map((v,i)=>{
+        const x=svgPad+(i*(svgW-2*svgPad)/6);
+        const y=svgH-svgPad-(v/maxD*(svgH-2*svgPad));
+        const d=new Date();d.setDate(d.getDate()-(6-i));
+        const lbl=['Sun','Mon','Tue','Wed','Thu','Fri','Sat'][d.getDay()];
+        return`<circle cx="${x}" cy="${y}" r="4" fill="var(--accent)"/>
+        <text x="${x}" y="${svgH+12}" font-size="10" fill="var(--muted)" text-anchor="middle">${lbl}</text>
+        <text x="${x}" y="${y-8}" font-size="10" fill="var(--accent)" text-anchor="middle">${v}</text>`;
+      }).join("")}
+    </svg>`;
 
   // Local stats
   const visits=JSON.parse(localStorage.getItem("ca_visits")||"[]");
