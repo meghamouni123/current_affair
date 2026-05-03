@@ -92,6 +92,14 @@ class Pipeline:
                 self._url_hash_cache.add(url_hash)
             return None
 
+        # Reject single-line summaries (less than 2 bullet points)
+        bullet_count = summary.count('•')
+        if bullet_count < 2:
+            self._skipped_count += 1
+            if url_hash:
+                self._url_hash_cache.add(url_hash)
+            return None
+
         stored = {
             'date':       article.get('date', str(date.today())),
             'category':   category,
