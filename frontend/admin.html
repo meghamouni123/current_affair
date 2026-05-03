@@ -223,8 +223,14 @@ tr:last-child td{border-bottom:none}
       <div class="card">
         <div class="sec-title">🗓️ Weekly Activity Heatmap</div>
         <div style="display:flex;gap:3px;margin-bottom:6px">
-          <div style="width:40px"></div>
-          ${['Mon','Tue','Wed','Thu','Fri','Sat','Sun'].map(d=>`<div style="flex:1;text-align:center;font-size:.68rem;color:var(--muted)">${d}</div>`).join("")}
+          <div style="width:64px"></div>
+          <div style="flex:1;text-align:center;font-size:.68rem;color:var(--muted)">Mon</div>
+          <div style="flex:1;text-align:center;font-size:.68rem;color:var(--muted)">Tue</div>
+          <div style="flex:1;text-align:center;font-size:.68rem;color:var(--muted)">Wed</div>
+          <div style="flex:1;text-align:center;font-size:.68rem;color:var(--muted)">Thu</div>
+          <div style="flex:1;text-align:center;font-size:.68rem;color:var(--muted)">Fri</div>
+          <div style="flex:1;text-align:center;font-size:.68rem;color:var(--muted)">Sat</div>
+          <div style="flex:1;text-align:center;font-size:.68rem;color:var(--muted)">Sun</div>
         </div>
         <div id="heatmapWrap"></div>
       </div>
