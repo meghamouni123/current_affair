@@ -270,7 +270,7 @@ function renderArts(arts){
         <span class="badge ${cls}">${a.category}</span>
         ${a.url?`<a href="${a.url}" target="_blank" class="src-tag">📰 ${a.source||"Source"} ↗</a>`:`<span class="src-tag">📰 ${a.source||""}</span>`}
         <span class="score-chip">⭐ ${pct}%</span>
-        ${d?`<span class="date-tag">📅 ${d}</span>`:""}
+        ${d?`<span class="date-tag">${d}</span>`:""}
       </div>
       <div class="card-title">${a.title}</div>
       <div class="card-summary" id="cs-${a.id}">${a.summary||"No summary."}</div>

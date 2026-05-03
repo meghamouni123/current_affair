@@ -11,28 +11,31 @@
 body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden}
 .bg-grid{position:fixed;inset:0;background-image:linear-gradient(rgba(244,185,66,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(244,185,66,.04) 1px,transparent 1px);background-size:40px 40px;pointer-events:none}
 .bg-glow{position:fixed;width:600px;height:600px;border-radius:50%;background:radial-gradient(circle,rgba(244,185,66,.08) 0%,transparent 70%);top:-100px;left:50%;transform:translateX(-50%);pointer-events:none}
-.card{background:var(--card);border:1px solid var(--border);border-radius:24px;padding:48px 44px;width:100%;max-width:420px;position:relative;z-index:1;box-shadow:0 24px 80px rgba(0,0,0,.5)}
-.logo-wrap{text-align:center;margin-bottom:32px}
-.logo-icon{width:68px;height:68px;background:linear-gradient(135deg,var(--accent),#e8961a);border-radius:18px;display:inline-flex;align-items:center;justify-content:center;font-size:28px;margin-bottom:16px;box-shadow:0 8px 24px rgba(244,185,66,.3)}
-.logo-title{font-family:'Playfair Display',serif;font-size:1.8rem;font-weight:800}
+.card{background:var(--card);border:1px solid var(--border);border-radius:24px;padding:40px 44px;width:100%;max-width:420px;position:relative;z-index:1;box-shadow:0 24px 80px rgba(0,0,0,.5)}
+.logo-wrap{text-align:center;margin-bottom:28px}
+.logo-icon{width:60px;height:60px;background:linear-gradient(135deg,var(--accent),#e8961a);border-radius:16px;display:inline-flex;align-items:center;justify-content:center;font-size:24px;margin-bottom:12px;box-shadow:0 8px 24px rgba(244,185,66,.3)}
+.logo-title{font-family:'Playfair Display',serif;font-size:1.6rem;font-weight:800}
 .logo-title em{font-style:normal;color:var(--accent)}
-.logo-sub{font-size:.82rem;color:var(--muted);margin-top:4px}
-.tabs{display:flex;background:var(--surface);border-radius:12px;padding:4px;margin-bottom:24px;gap:4px}
-.tab{flex:1;padding:9px;border:none;border-radius:9px;font-family:'DM Sans',sans-serif;font-size:.85rem;font-weight:600;cursor:pointer;transition:all .2s;background:none;color:var(--muted)}
+.logo-sub{font-size:.78rem;color:var(--muted);margin-top:3px}
+.tabs{display:flex;background:var(--surface);border-radius:10px;padding:3px;margin-bottom:20px;gap:3px}
+.tab{flex:1;padding:8px;border:none;border-radius:8px;font-family:'DM Sans',sans-serif;font-size:.82rem;font-weight:600;cursor:pointer;transition:all .2s;background:none;color:var(--muted)}
 .tab.active{background:var(--card);color:var(--text);box-shadow:0 1px 4px rgba(0,0,0,.3)}
-.inp{width:100%;padding:12px 16px;background:var(--surface);border:1px solid var(--border);border-radius:10px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.88rem;outline:none;transition:border-color .2s;margin-bottom:10px}
+.inp{width:100%;padding:11px 14px;background:var(--surface);border:1px solid var(--border);border-radius:10px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.86rem;outline:none;transition:border-color .2s;margin-bottom:9px}
 .inp:focus{border-color:var(--accent)}
 .inp::placeholder{color:var(--muted)}
-.submit-btn{width:100%;padding:13px;background:var(--accent);color:#0d1117;border:none;border-radius:12px;font-family:'DM Sans',sans-serif;font-size:.92rem;font-weight:700;cursor:pointer;transition:all .2s;margin-top:4px}
+.submit-btn{width:100%;padding:12px;background:var(--accent);color:#0d1117;border:none;border-radius:11px;font-family:'DM Sans',sans-serif;font-size:.9rem;font-weight:700;cursor:pointer;transition:all .2s;margin-top:2px}
 .submit-btn:hover{opacity:.9;transform:translateY(-1px)}
-.error{background:rgba(224,92,92,.12);border:1px solid rgba(224,92,92,.3);border-radius:8px;padding:10px 14px;font-size:.82rem;color:#e07e7e;margin-bottom:12px;display:none}
-.toast{position:fixed;bottom:24px;right:24px;background:var(--card);border:1px solid var(--green);border-radius:10px;padding:12px 20px;font-size:.85rem;color:var(--green);z-index:999;display:none}
-.form-section{display:none}.form-section.active{display:block}
-.google-btn{width:100%;padding:13px;background:var(--surface);border:1px solid var(--border);border-radius:12px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.9rem;font-weight:500;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:10px;transition:all .2s;margin-bottom:4px}
-.google-btn:hover{border-color:var(--accent);background:rgba(244,185,66,.05);transform:translateY(-1px)}
-.google-icon{width:20px;height:20px}
-.divider{display:flex;align-items:center;gap:12px;margin:12px 0;color:var(--muted);font-size:.78rem}
+.google-btn{width:100%;padding:11px;background:var(--surface);border:1px solid var(--border);border-radius:11px;color:var(--text);font-family:'DM Sans',sans-serif;font-size:.88rem;font-weight:500;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:10px;transition:all .2s;margin-bottom:8px}
+.google-btn:hover{border-color:var(--accent);background:rgba(244,185,66,.05)}
+.google-icon{width:18px;height:18px}
+.divider{display:flex;align-items:center;gap:10px;margin:10px 0;color:var(--muted);font-size:.75rem}
 .divider::before,.divider::after{content:'';flex:1;height:1px;background:var(--border)}
+.link-btn{background:none;border:none;color:var(--accent);font-family:'DM Sans',sans-serif;font-size:.8rem;cursor:pointer;padding:0;text-decoration:underline}
+.forgot-row{text-align:right;margin-top:-4px;margin-bottom:8px}
+.error{background:rgba(224,92,92,.12);border:1px solid rgba(224,92,92,.3);border-radius:8px;padding:9px 13px;font-size:.8rem;color:#e07e7e;margin-bottom:10px;display:none}
+.success{background:rgba(63,185,80,.12);border:1px solid rgba(63,185,80,.3);border-radius:8px;padding:9px 13px;font-size:.8rem;color:var(--green);margin-bottom:10px;display:none}
+.form-section{display:none}.form-section.active{display:block}
+.toast{position:fixed;bottom:24px;right:24px;background:var(--card);border:1px solid var(--green);border-radius:10px;padding:11px 18px;font-size:.83rem;color:var(--green);z-index:999;display:none}
 </style>
 </head>
 <body>
@@ -46,20 +49,61 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min
   </div>
 
   <div id="errorBox" class="error"></div>
+  <div id="successBox" class="success"></div>
 
   <div class="tabs">
-    <button class="tab active" onclick="switchTab('user',this)">👤 User Login</button>
-    <button class="tab" onclick="switchTab('admin',this)">🔐 Admin Login</button>
+    <button class="tab active" onclick="switchTab('user',this)">👤 User</button>
+    <button class="tab" onclick="switchTab('admin',this)">🔐 Admin</button>
   </div>
 
-  <!-- User login: name + email only -->
+  <!-- User section -->
   <div class="form-section active" id="userForm">
-    <input class="inp" id="userName" type="text" placeholder="Your name">
-    <input class="inp" id="userEmail" type="email" placeholder="Email address" onkeydown="if(event.key==='Enter')userLogin()">
-    <button class="submit-btn" onclick="userLogin()">Enter Portal →</button>
+    <!-- Google login -->
+    <button class="google-btn" onclick="loginWithGoogle()">
+      <svg class="google-icon" viewBox="0 0 24 24">
+        <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+        <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/>
+        <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+        <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+      </svg>
+      Continue with Google
+    </button>
+    <div class="divider">or</div>
+
+    <!-- Login form -->
+    <div id="loginForm">
+      <input class="inp" id="loginEmail" type="email" placeholder="Email address">
+      <input class="inp" id="loginPass" type="password" placeholder="Password" onkeydown="if(event.key==='Enter')emailLogin()">
+      <div class="forgot-row"><button class="link-btn" onclick="showForgot()">Forgot password?</button></div>
+      <button class="submit-btn" onclick="emailLogin()">Sign In</button>
+      <div style="text-align:center;margin-top:12px;font-size:.8rem;color:var(--muted)">
+        New user? <button class="link-btn" onclick="showSignup()">Create account</button>
+      </div>
+    </div>
+
+    <!-- Signup form -->
+    <div id="signupForm" style="display:none">
+      <input class="inp" id="signupName" type="text" placeholder="Full name">
+      <input class="inp" id="signupEmail" type="email" placeholder="Email address">
+      <input class="inp" id="signupPass" type="password" placeholder="Password (min 6 chars)" onkeydown="if(event.key==='Enter')emailSignup()">
+      <button class="submit-btn" onclick="emailSignup()">Create Account</button>
+      <div style="text-align:center;margin-top:12px;font-size:.8rem;color:var(--muted)">
+        Already have account? <button class="link-btn" onclick="showLogin()">Sign in</button>
+      </div>
+    </div>
+
+    <!-- Forgot password form -->
+    <div id="forgotForm" style="display:none">
+      <p style="font-size:.82rem;color:var(--muted);margin-bottom:12px">Enter your email to receive a password reset link.</p>
+      <input class="inp" id="forgotEmail" type="email" placeholder="Email address" onkeydown="if(event.key==='Enter')sendReset()">
+      <button class="submit-btn" onclick="sendReset()">Send Reset Link</button>
+      <div style="text-align:center;margin-top:12px;font-size:.8rem;color:var(--muted)">
+        <button class="link-btn" onclick="showLogin()">← Back to login</button>
+      </div>
+    </div>
   </div>
 
-  <!-- Admin login -->
+  <!-- Admin section -->
   <div class="form-section" id="adminForm">
     <input class="inp" id="adminEmail" type="email" placeholder="Admin email" onkeydown="if(event.key==='Enter')adminLogin()">
     <input class="inp" id="adminPass" type="password" placeholder="Password" onkeydown="if(event.key==='Enter')adminLogin()">
@@ -68,14 +112,32 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min
 </div>
 <div class="toast" id="toast"></div>
 
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
 <script src="config.js"></script>
 <script>
 const ADMIN_EMAIL    = "admin@cadaily.com";
 const ADMIN_PASSWORD = "Admin@1234";
 
+// Init Supabase
+window._supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+
 function init() {
+  // Already logged in
   const u = getUser();
-  if (u) { window.location.href = u.role === "admin" ? "admin.html" : "index.html"; }
+  if (u) { window.location.href = u.role === "admin" ? "admin.html" : "index.html"; return; }
+  // Handle Google OAuth callback
+  _supabase.auth.onAuthStateChange((event, session) => {
+    if ((event === 'SIGNED_IN') && session?.user) {
+      const u = session.user;
+      setUser({
+        name:   u.user_metadata?.full_name || u.email.split("@")[0],
+        email:  u.email,
+        role:   "user",
+        avatar: (u.user_metadata?.full_name || u.email).slice(0,2).toUpperCase(),
+      });
+      window.location.href = "index.html";
+    }
+  });
 }
 
 function switchTab(tab, btn) {
@@ -83,16 +145,77 @@ function switchTab(tab, btn) {
   document.querySelectorAll(".form-section").forEach(f => f.classList.remove("active"));
   btn.classList.add("active");
   document.getElementById(tab + "Form").classList.add("active");
+  clearMessages();
 }
 
-function userLogin() {
-  const name  = document.getElementById("userName").value.trim();
-  const email = document.getElementById("userEmail").value.trim();
-  if (!email) { showError("Please enter your email"); return; }
-  const n = name || email.split("@")[0];
-  setUser({ name: n, email, role: "user", avatar: n.slice(0,2).toUpperCase() });
-  showToast("Welcome, " + n + "!");
+function showLogin()  { document.getElementById("loginForm").style.display="block"; document.getElementById("signupForm").style.display="none"; document.getElementById("forgotForm").style.display="none"; clearMessages(); }
+function showSignup() { document.getElementById("loginForm").style.display="none"; document.getElementById("signupForm").style.display="block"; document.getElementById("forgotForm").style.display="none"; clearMessages(); }
+function showForgot() { document.getElementById("loginForm").style.display="none"; document.getElementById("signupForm").style.display="none"; document.getElementById("forgotForm").style.display="block"; clearMessages(); }
+
+function loginWithGoogle() {
+  _supabase.auth.signInWithOAuth({
+    provider: 'google',
+    options: { redirectTo: window.location.origin + '/index.html' }
+  }).then(({ error }) => { if (error) showError(error.message); });
+}
+
+async function emailLogin() {
+  const email = document.getElementById("loginEmail").value.trim();
+  const pass  = document.getElementById("loginPass").value;
+  if (!email || !pass) { showError("Please enter email and password"); return; }
+  const { data, error } = await _supabase.auth.signInWithPassword({ email, password: pass });
+  if (error) {
+    if (error.message.includes("Invalid")) showError("Invalid email or password");
+    else showError(error.message);
+    return;
+  }
+  const u = data.user;
+  setUser({
+    name:   u.user_metadata?.full_name || u.email.split("@")[0],
+    email:  u.email,
+    role:   "user",
+    avatar: (u.user_metadata?.full_name || u.email).slice(0,2).toUpperCase(),
+  });
+  showToast("Welcome back!");
   setTimeout(() => window.location.href = "index.html", 700);
+}
+
+async function emailSignup() {
+  const name  = document.getElementById("signupName").value.trim();
+  const email = document.getElementById("signupEmail").value.trim();
+  const pass  = document.getElementById("signupPass").value;
+  if (!name || !email || !pass) { showError("Please fill all fields"); return; }
+  if (pass.length < 6) { showError("Password must be at least 6 characters"); return; }
+  const { data, error } = await _supabase.auth.signUp({
+    email, password: pass,
+    options: { data: { full_name: name } }
+  });
+  if (error) {
+    if (error.message.includes("already registered") || error.message.includes("already exists")) {
+      showError("Account already exists. Please login.");
+    } else {
+      showError(error.message);
+    }
+    return;
+  }
+  if (data.user && !data.session) {
+    showSuccess("Account created! Check your email to confirm, then login.");
+    showLogin();
+  } else if (data.session) {
+    setUser({ name, email, role: "user", avatar: name.slice(0,2).toUpperCase() });
+    showToast("Welcome, " + name + "!");
+    setTimeout(() => window.location.href = "index.html", 700);
+  }
+}
+
+async function sendReset() {
+  const email = document.getElementById("forgotEmail").value.trim();
+  if (!email) { showError("Please enter your email"); return; }
+  const { error } = await _supabase.auth.resetPasswordForEmail(email, {
+    redirectTo: window.location.origin + '/login.html'
+  });
+  if (error) { showError(error.message); return; }
+  showSuccess("Password reset link sent to " + email);
 }
 
 function adminLogin() {
@@ -109,8 +232,17 @@ function adminLogin() {
 
 function showError(msg) {
   const b = document.getElementById("errorBox");
+  document.getElementById("successBox").style.display = "none";
   b.textContent = msg; b.style.display = "block";
-  setTimeout(() => b.style.display = "none", 3000);
+}
+function showSuccess(msg) {
+  const b = document.getElementById("successBox");
+  document.getElementById("errorBox").style.display = "none";
+  b.textContent = msg; b.style.display = "block";
+}
+function clearMessages() {
+  document.getElementById("errorBox").style.display = "none";
+  document.getElementById("successBox").style.display = "none";
 }
 function showToast(msg) {
   const t = document.getElementById("toast");
