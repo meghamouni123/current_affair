@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 86,
+      "title": "What is Mission Drishti? Bengaluru-passed GalaxEye launches world’s first OptoSAR satellite. Here's what makes it unique",
+      "summary": "• Here's what makes it unique and how it will be used in the future.\n• It will be the first of its kind in the world.",
+      "category": "Science & Technology",
+      "source": "LiveMint - Science",
+      "url": "https://www.livemint.com/science/news/mission-drishti-bengaluru-passed-galaxeye-launches-world-first-optosar-satellite-heres-what-makes-it-unique-pm-modi-11777807352112.html",
+      "relevance_score": 0.9705,
+      "published_date": "2026-05-03"
+    },
+    {
       "id": 48,
       "title": "Assembly Elections Result 2026: High-Profile Seats To Watch On May 4 Across 4 States, Puducherry",
       "summary": "• Key Assembly seats in West Bengal, Assam, Tamil Nadu, Kerala and Puducherry will decide May 4 results.\n• BJP, TMC, DMK, AIADMK, LDF, UDF, TVK all in contention.",
@@ -61,16 +71,6 @@
       "published_date": "2026-05-03"
     },
     {
-      "id": 76,
-      "title": "From T20 World Cup heroes to IPL 2026 flops: Will MI rest their Indian core?",
-      "summary": "• Mumbai Indians will play in the IPL for the first time in 2026.\n• The IPL will be held in Mumbai from May 26 to May 31.",
-      "category": "Sports",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/cricket/story/mi-indian-core-flop-ipl-2026-t20-world-cup-hangover-jayawardene-2904923-2026-05-03?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-03"
-    },
-    {
       "id": 61,
       "title": "Tamil Nadu polls: What will Vijay be - Delhi's Arvind Kejriwal or Bihar's Prashant Kishor?",
       "summary": "• Tamil Nadu elections: Who will be the next chief minister of Tamil Nadu?.\n• Who will become the new chief minister?.",
@@ -81,13 +81,23 @@
       "published_date": "2026-05-03"
     },
     {
-      "id": 58,
-      "title": "GT vs PBKS Playing 11, IPL 2026 Today Match: Will Prasidh Krishna return for Gujarat vs Punjab?",
-      "summary": "• Gujarat play Punjab at the Eden Gardens in Kolkata, India.\n• Gujarat have won the IPL in each of the last two seasons.",
-      "category": "State News",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/gt-vs-pbks-ipl-2026-playing-11-predicted-today-match-gujarat-titans-vs-punjab-kings-vs-match-squad-players-list-10668110/",
-      "relevance_score": 0.88,
+      "id": 76,
+      "title": "From T20 World Cup heroes to IPL 2026 flops: Will MI rest their Indian core?",
+      "summary": "• Mumbai Indians will play in the IPL for the first time in 2026.\n• The IPL will be held in Mumbai from May 26 to May 31.",
+      "category": "Sports",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/cricket/story/mi-indian-core-flop-ipl-2026-t20-world-cup-hangover-jayawardene-2904923-2026-05-03?utm_source=rss",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 83,
+      "title": "ADB launches $70 billion connectivity plan; Asia power and digital networks to expand by 2035",
+      "summary": "• ADB: Asia power, digital networks will expand by 50 per cent by the end of the decade.\n• ADb: Asia's power anddigital networks will grow by 50per cent by 2020.",
+      "category": "Science & Technology",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/adb-launches-70-billion-connectivity-plan-asia-power-and-digital-networks-to-expand-by-2035/articleshow/130733270.cms",
+      "relevance_score": 0.8895,
       "published_date": "2026-05-03"
     },
     {
@@ -121,6 +131,36 @@
       "published_date": "2026-05-03"
     },
     {
+      "id": 58,
+      "title": "GT vs PBKS Playing 11, IPL 2026 Today Match: Will Prasidh Krishna return for Gujarat vs Punjab?",
+      "summary": "• Gujarat play Punjab at the Eden Gardens in Kolkata, India.\n• Gujarat have won the IPL in each of the last two seasons.",
+      "category": "State News",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/cricket/gt-vs-pbks-ipl-2026-playing-11-predicted-today-match-gujarat-titans-vs-punjab-kings-vs-match-squad-players-list-10668110/",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 85,
+      "title": "GT vs PBKS  prediction: Who’ll win, Gujarat Titans or Punjab Kings? We asked ChatGPT",
+      "summary": "• We asked ChatGPT who we think will come out on top.\n• Gujarat Titans vs Punjab Kings: Team news, probable line ups, odds and more.",
+      "category": "State News",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/trends/gt-vs-pbks-prediction-who-ll-win-gujarat-titans-or-punjab-kings-we-asked-chatgpt-11777809227006.html",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 84,
+      "title": "UGC NET June 2026 Registration: Step-by-Step Guide To Fill Application Form",
+      "summary": "• UGNET 2026: How to apply and how to fill out the application form.\n• For more information, visit the UG NET 2026 registration page.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/education/ugc-net-june-2026-registration-step-by-step-guide-to-fill-application-form-11442455#publisher=newsstand",
+      "relevance_score": 0.874,
+      "published_date": "2026-05-03"
+    },
+    {
       "id": 50,
       "title": "Germany focuses on shared interests after U.S. announces troop drawdown",
       "summary": "• Germany and the United States have been at odds for years over troop numbers in Iraq and Afghanistan.\n• Germany says it wants to work with the U.N.\n• To reduce the number of troops there.",
@@ -148,6 +188,16 @@
       "source": "Zee News - India",
       "url": "https://zeenews.india.com/india/dna-analysis-the-cell-broadcast-system-behind-indias-emergency-alerts-3043011.html",
       "relevance_score": 0.8079,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 82,
+      "title": "West Bengal assembly poll results 2026: From Bhowanipore to Behrampore; key constituencies to watch for",
+      "summary": "• West Bengal assembly elections 2026 will be held on February 25.\n• The results will be announced on February 26.",
+      "category": "State News",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/west-bengal-assembly-poll-results-2026-from-bhowanipore-to-behrampore-key-constituencies-to-watch-for/articleshow/130730614.cms",
+      "relevance_score": 0.8035,
       "published_date": "2026-05-03"
     },
     {
@@ -281,32 +331,32 @@
       "published_date": "2026-05-02"
     },
     {
-      "id": 75,
-      "title": "Mexico City sinking few centimetres per month, leaving fractured roads, buildings; NASA–ISRO track crisis in real time",
-      "summary": "• NASA–ISRO track crisis in real time; NASA-ISRO team will be on the ground in case of emergency.\n• Mexico City is sinking a few metres a month, according to latest estimates.",
-      "category": "Science & Technology",
-      "source": "LiveMint - Science",
-      "url": "https://www.livemint.com/science/news/mexico-city-sinking-few-centimetres-per-month-leaving-fractured-roads-buildings-nasa-isro-track-crisis-in-real-time-11777720333924.html",
-      "relevance_score": 0.88,
-      "published_date": "2026-05-02"
-    },
-    {
-      "id": 52,
-      "title": "CRICKET | Parkar emerges the costliest buy in T20 Mumbai auction",
-      "summary": "• He is also the first person to buy two Mumbai franchises in a single auction.\n• The Mumbai T20 franchise is worth an estimated $1.2 billion.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/cricket/cricket-parkar-emerges-the-costliest-buy-in-t20-mumbai-auction/article70933034.ece",
-      "relevance_score": 0.88,
-      "published_date": "2026-05-02"
-    },
-    {
       "id": 72,
       "title": "US Supreme Court asked to restore abortion pill access",
       "summary": "• The Supreme Court is expected to rule on the case in the next few weeks.\n• The decision is likely to be announced by the end of June.",
       "category": "Polity & Governance",
       "source": "BBC World",
       "url": "https://www.bbc.com/news/articles/c2k20z5yj3wo?at_medium=RSS&at_campaign=rss",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": 60,
+      "title": "India Women’s T20 World Cup squad announced: Nandni Sharma named in 15-member squad; Harleen Deol, Amanjot Kaur miss out",
+      "summary": "• Harleen Deol, Amanjot Kaur miss out on place in the squad.\n• India women's team to take part in the tournament in Australia and New Zealand.",
+      "category": "Sports",
+      "source": "Indian Express - Cricket",
+      "url": "https://indianexpress.com/article/sports/cricket/india-womens-t20-world-cup-squad-announced-nandini-sharma-named-in-15-member-squad-harleen-deol-amanjot-kaur-miss-out-10667668/",
+      "relevance_score": 0.88,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": 75,
+      "title": "Mexico City sinking few centimetres per month, leaving fractured roads, buildings; NASA–ISRO track crisis in real time",
+      "summary": "• NASA–ISRO track crisis in real time; NASA-ISRO team will be on the ground in case of emergency.\n• Mexico City is sinking a few metres a month, according to latest estimates.",
+      "category": "Science & Technology",
+      "source": "LiveMint - Science",
+      "url": "https://www.livemint.com/science/news/mexico-city-sinking-few-centimetres-per-month-leaving-fractured-roads-buildings-nasa-isro-track-crisis-in-real-time-11777720333924.html",
       "relevance_score": 0.88,
       "published_date": "2026-05-02"
     },
@@ -321,12 +371,12 @@
       "published_date": "2026-05-02"
     },
     {
-      "id": 60,
-      "title": "India Women’s T20 World Cup squad announced: Nandni Sharma named in 15-member squad; Harleen Deol, Amanjot Kaur miss out",
-      "summary": "• Harleen Deol, Amanjot Kaur miss out on place in the squad.\n• India women's team to take part in the tournament in Australia and New Zealand.",
+      "id": 52,
+      "title": "CRICKET | Parkar emerges the costliest buy in T20 Mumbai auction",
+      "summary": "• He is also the first person to buy two Mumbai franchises in a single auction.\n• The Mumbai T20 franchise is worth an estimated $1.2 billion.",
       "category": "Sports",
-      "source": "Indian Express - Cricket",
-      "url": "https://indianexpress.com/article/sports/cricket/india-womens-t20-world-cup-squad-announced-nandini-sharma-named-in-15-member-squad-harleen-deol-amanjot-kaur-miss-out-10667668/",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/cricket/cricket-parkar-emerges-the-costliest-buy-in-t20-mumbai-auction/article70933034.ece",
       "relevance_score": 0.88,
       "published_date": "2026-05-02"
     },
@@ -801,6 +851,6 @@
       "published_date": "2020-12-27"
     }
   ],
-  "count": 80,
-  "updated_at": "2026-05-03T10:52:26.586254Z"
+  "count": 85,
+  "updated_at": "2026-05-03T14:15:49.755350Z"
 }
