@@ -26,7 +26,7 @@ def export_articles_json(output_path: str) -> int:
         FROM exam_ca_articles
         WHERE relevance_score >= 0.8
         ORDER BY published_at DESC, relevance_score DESC
-        LIMIT 500
+        LIMIT 1000
     """)
     cols = [d[0] for d in cur.description]
     rows = [dict(zip(cols, r)) for r in cur.fetchall()]
