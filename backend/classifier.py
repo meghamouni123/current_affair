@@ -242,23 +242,37 @@ class ArticleClassifier:
             logger.error(f"batch classify error: {e}")
             return [self._keyword_fallback(t) for t in texts]
 
-    def is_exam_relevant(self, text: str, threshold: float = 0.80) -> Tuple[bool, str, float]:
+    def is_exam_relevant(self, text: str, threshold: float = 0.80, feed_category: str = '') -> Tuple[bool, str, float]:
         tl = text.lower()
         for sig in NOT_RELEVANT_SIGNALS:
             if sig in tl:
                 return False, 'NOT_RELEVANT', 0.30
-        # Strong keyword override — if 2+ keywords match a category, use it
+
+        # Strong keyword override — if 3+ keywords match a category, trust it directly
         kw_scores = {
             cat: sum(1 for kw in kws if kw in tl)
             for cat, kws in CATEGORY_PATTERNS.items()
         }
-        kw_scores = {k: v for k, v in kw_scores.items() if v >= 2}
-        if kw_scores:
-            best_kw = max(kw_scores, key=kw_scores.get)
-            kw_conf = min(0.82 + kw_scores[best_kw] * 0.03, 0.95)
+        kw_best = {k: v for k, v in kw_scores.items() if v >= 3}
+        if kw_best:
+            best_kw = max(kw_best, key=kw_best.get)
+            kw_conf = min(0.82 + kw_best[best_kw] * 0.03, 0.95)
             return True, best_kw, kw_conf
+
         # ML model classification
         cat, conf = self.classify(text)
+
+        # Feed category hint boost: if ML agrees with feed category, lower threshold slightly
+        if feed_category and feed_category in CATEGORY_PATTERNS:
+            if cat == feed_category and conf >= 0.65:
+                return True, cat, conf
+            # If ML is uncertain but feed category has 1+ keyword match, use feed category
+            feed_kw_match = kw_scores.get(feed_category, 0)
+            if conf < threshold and feed_kw_match >= 1:
+                boosted_conf = min(conf + 0.10, 0.95)
+                if boosted_conf >= threshold:
+                    return True, feed_category, boosted_conf
+
         return (conf >= threshold and cat != 'NOT_RELEVANT'), cat, conf
 
     def _keyword_fallback(self, text: str) -> Tuple[str, float]:

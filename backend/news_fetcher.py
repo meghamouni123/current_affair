@@ -161,13 +161,14 @@ def fetch_rss_feed(feed_info: Dict, extract_text: bool = True) -> List[Dict]:
                     text_for_classification = title
 
                 articles.append({
-                    'headline':   title,
-                    'text':       text_for_classification,
-                    'url':        link,
-                    'url_hash':   url_hash,
-                    'source':     feed_name,
-                    'date':       pub_date,
-                    'fetched_at': datetime.now().isoformat(),
+                    'headline':      title,
+                    'text':          text_for_classification,
+                    'url':           link,
+                    'url_hash':      url_hash,
+                    'source':        feed_name,
+                    'date':          pub_date,
+                    'fetched_at':    datetime.now().isoformat(),
+                    'feed_category': feed_info.get('category', ''),
                 })
                 time.sleep(0.05)
 

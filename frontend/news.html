@@ -269,6 +269,17 @@ async function loadArts(){
   }
 }
 
+function formatDate(str){
+  if(!str) return "";
+  // Handle YYYY-MM-DD safely without timezone shift
+  const parts = str.split('T')[0].split('-');
+  if(parts.length === 3){
+    const months=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    return `${parseInt(parts[2])} ${months[parseInt(parts[1])-1]} ${parts[0]}`;
+  }
+  return str;
+}
+
 function renderArts(arts){
   const bm=getBookmarks();
   const list=document.getElementById("artList");
@@ -278,8 +289,7 @@ function renderArts(arts){
     const pct=Math.round((a.relevance_score||0)*100);
     const saved=!!bm[a.id];
     const dateStr=a.published_date||a.published_at||"";
-    const d=dateStr?new Date(dateStr).toLocaleDateString("en-IN",{day:"numeric",month:"short",year:"numeric"}):"";
-    return`<div class="article-card" style="animation-delay:${i*0.04}s" onclick="markRead(${a.id})">
+    const d=dateStr?formatDate(dateStr):"";    return`<div class="article-card" style="animation-delay:${i*0.04}s" onclick="markRead(${a.id})">
       <div class="card-meta">
         <span class="badge ${cls}">${a.category}</span>
         ${a.url?`<a href="${a.url}" target="_blank" class="src-tag">📰 ${a.source||"Source"} ↗</a>`:`<span class="src-tag">📰 ${a.source||""}</span>`}

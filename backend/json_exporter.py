@@ -21,11 +21,11 @@ def export_articles_json(output_path: str) -> int:
     cur  = conn.cursor()
 
     cur.execute("""
-        SELECT id, title, summary, category, source, url,
-               relevance_score, published_at::date AS published_date
+        SELECT id, headline AS title, summary, category, source, url,
+               confidence AS relevance_score, date AS published_date
         FROM exam_ca_articles
-        WHERE relevance_score >= 0.8
-        ORDER BY published_at DESC, relevance_score DESC
+        WHERE confidence >= 0.8
+        ORDER BY created_at DESC, confidence DESC
         LIMIT 500
     """)
     cols = [d[0] for d in cur.description]

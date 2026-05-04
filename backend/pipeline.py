@@ -18,10 +18,29 @@ from database import init_db, insert_article, url_exists, get_stats
 from classifier import get_classifier
 from summarizer import generate_summary
 
+import re
+
 logger = logging.getLogger(__name__)
 
 CONFIDENCE_THRESHOLD       = 0.80
 DEDUP_SIMILARITY_THRESHOLD = 0.95
+HEADLINE_SIMILARITY_THRESHOLD = 0.55  # catch same story from different sources
+
+
+def _normalize_headline(h: str) -> str:
+    """Lowercase, remove punctuation, collapse spaces."""
+    h = h.lower()
+    h = re.sub(r'[^a-z0-9\s]', ' ', h)
+    return re.sub(r'\s+', ' ', h).strip()
+
+
+def _headline_similarity(a: str, b: str) -> float:
+    """Jaccard similarity on word sets."""
+    wa = set(_normalize_headline(a).split())
+    wb = set(_normalize_headline(b).split())
+    if not wa or not wb:
+        return 0.0
+    return len(wa & wb) / len(wa | wb)
 
 
 class Pipeline:
@@ -29,6 +48,7 @@ class Pipeline:
         self.classifier = get_classifier()
         self._embedding_cache: List[np.ndarray] = []
         self._url_hash_cache: set = set()
+        self._headline_cache: List[str] = []
         self._processed_count = 0
         self._stored_count    = 0
         self._skipped_count   = 0
@@ -40,6 +60,13 @@ class Pipeline:
         cache_matrix = np.vstack(self._embedding_cache)
         sims = cosine_similarity(embedding.reshape(1, -1), cache_matrix)[0]
         return float(np.max(sims)) > DEDUP_SIMILARITY_THRESHOLD
+
+    def _is_duplicate_by_headline(self, headline: str) -> bool:
+        """Catch same story from different sources using word-overlap."""
+        for cached in self._headline_cache:
+            if _headline_similarity(headline, cached) >= HEADLINE_SIMILARITY_THRESHOLD:
+                return True
+        return False
 
     def process_article(self, article: Dict) -> Optional[Dict]:
         url_hash = article.get('url_hash', '')
@@ -60,7 +87,9 @@ class Pipeline:
         full_text = f"{headline}. {text}" if headline not in text else text
 
         is_relevant, category, confidence = self.classifier.is_exam_relevant(
-            full_text, threshold=CONFIDENCE_THRESHOLD
+            full_text,
+            threshold=CONFIDENCE_THRESHOLD,
+            feed_category=article.get('feed_category', '')
         )
         self._processed_count += 1
 
@@ -72,6 +101,13 @@ class Pipeline:
 
         embedding = self.classifier.get_embedding(full_text)
 
+        if self._is_duplicate_by_headline(headline):
+            self._skipped_count += 1
+            logger.debug(f"Headline dedup: {headline[:60]}")
+            if url_hash:
+                self._url_hash_cache.add(url_hash)
+            return None
+
         if self._is_duplicate_by_embedding(embedding):
             self._skipped_count += 1
             if url_hash:
@@ -81,6 +117,9 @@ class Pipeline:
         self._embedding_cache.append(embedding)
         if len(self._embedding_cache) > 700:
             self._embedding_cache = self._embedding_cache[-700:]
+        self._headline_cache.append(headline)
+        if len(self._headline_cache) > 700:
+            self._headline_cache = self._headline_cache[-700:]
 
         logger.info(f"✓ [{category}] ({confidence:.2f}) {headline[:70]}")
 
@@ -92,9 +131,9 @@ class Pipeline:
                 self._url_hash_cache.add(url_hash)
             return None
 
-        # Reject single-line summaries (less than 2 bullet points)
+        # Reject summaries with less than 3 bullet points
         bullet_count = summary.count('•')
-        if bullet_count < 2:
+        if bullet_count < 3:
             self._skipped_count += 1
             if url_hash:
                 self._url_hash_cache.add(url_hash)

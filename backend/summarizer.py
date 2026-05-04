@@ -113,7 +113,7 @@ def _format_bullets(summary: str, headline: str, num_bullets: int = 6) -> Option
         return None
 
     raw = re.split(r'(?<=[.!?])\s+', summary.strip())
-    sentences = [s.strip().rstrip('.') for s in raw if len(s.split()) >= 5]
+    sentences = [s.strip().rstrip('.') for s in raw if len(s.split()) >= 8]
 
     if not sentences:
         return None
@@ -131,17 +131,23 @@ def _format_bullets(summary: str, headline: str, num_bullets: int = 6) -> Option
         filtered = sentences
 
     selected = filtered[:num_bullets]
-    if not selected:
+    if len(selected) < 3:
+        extra = [s for s in sentences if s not in filtered]
+        selected = (filtered + extra)[:num_bullets]
+    if len(selected) < 3:
         return None
 
     bullets = []
     for sent in selected:
-        if len(sent) > 220:
-            sent = sent[:220].rsplit(' ', 1)[0] + '…'
+        # Ensure each bullet has at least ~2 lines worth of content (15+ words)
+        if len(sent.split()) < 10:
+            continue
+        if len(sent) > 280:
+            sent = sent[:280].rsplit(' ', 1)[0] + '…'
         sent = sent[0].upper() + sent[1:]
         bullets.append(f'• {sent}.')
 
-    return '\n'.join(bullets) if bullets else None
+    return '\n'.join(bullets) if len(bullets) >= 3 else None
 
 
 def generate_summary(headline: str, text: str, num_bullets: int = 6) -> Optional[str]:
@@ -236,16 +242,18 @@ def _extractive_fallback(headline: str, text: str, num_bullets: int = 6) -> Opti
     top      = sorted(scored[:num_bullets], key=lambda x: x[0])
     selected = [s for _, s in top]
 
-    if len(selected) < 2:
+    if len(selected) < 3:
         return None
 
     bullets = []
     for sent in selected:
         sent = sent.strip().rstrip('.')
         if not sent: continue
-        if len(sent) > 210:
-            sent = sent[:210].rsplit(' ', 1)[0] + '…'
+        if len(sent.split()) < 10:
+            continue
+        if len(sent) > 280:
+            sent = sent[:280].rsplit(' ', 1)[0] + '…'
         sent = sent[0].upper() + sent[1:]
         bullets.append(f'• {sent}.')
 
-    return '\n'.join(bullets) if len(bullets) >= 2 else None
+    return '\n'.join(bullets) if len(bullets) >= 3 else None
