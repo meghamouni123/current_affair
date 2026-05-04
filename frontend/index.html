@@ -177,7 +177,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);dis
     <div class="kpi-card">
       <div class="kpi-icon">📰</div>
       <div class="kpi-val" id="kpi1">—</div>
-      <div class="kpi-label">Total Articles Today</div>
+      <div class="kpi-label">Articles Today</div>
       <div class="kpi-change kpi-up" id="kpi1c">Loading…</div>
     </div>
     <div class="kpi-card">
@@ -254,9 +254,13 @@ function updateProgress(){
 
 function updateKPIs(articles){
   const today = new Date().toISOString().slice(0,10);
-  const todayCount = articles.filter(a => (a.published_at||"").startsWith(today)).length;
-  document.getElementById("kpi1").textContent = todayCount || articles.length;
-  document.getElementById("kpi1c").textContent = "↑ Updated today";
+  const todayCount = articles.filter(a => {
+    const d = a.published_date || (a.published_at||"").slice(0,10);
+    return d === today;
+  }).length;
+  const totalCount = articles.length;
+  document.getElementById("kpi1").textContent = todayCount;
+  document.getElementById("kpi1c").textContent = `↑ ${totalCount} total in DB`;
   document.getElementById("kpi3").textContent = Object.keys(getBookmarks()).length;
   const qh = getQuizHistory();
   document.getElementById("kpi4").textContent = qh.length;
@@ -297,7 +301,7 @@ async function loadData(){
           <div class="ac-summary">${(a.summary||"").replace(/•/g,"").trim()}</div>
           <div class="ac-meta">
             <span>📰 ${a.source||"Source"}</span>
-            <span>${new Date(a.published_at).toLocaleDateString("en-IN",{day:"numeric",month:"short"})}</span>
+            <span>${new Date(a.published_date||a.published_at||"").toLocaleDateString("en-IN",{day:"numeric",month:"short"})}</span>
             <span class="ac-score">⭐ ${pct}%</span>
           </div>
         </div>
