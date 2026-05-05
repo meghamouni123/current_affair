@@ -172,8 +172,7 @@ tr:last-child td{border-bottom:none}
         <div class="kpi-card"><div class="kpi-icon">📂</div><div class="kpi-val">12</div><div class="kpi-label">Categories</div><div class="kpi-change neutral">All active</div></div>
         <div class="kpi-card"><div class="kpi-icon">🧠</div><div class="kpi-val" id="dk4">—</div><div class="kpi-label">Quiz Attempts</div><div class="kpi-change up">This session</div></div>
         <div class="kpi-card"><div class="kpi-icon">🔖</div><div class="kpi-val" id="dk5">—</div><div class="kpi-label">Total Bookmarks</div><div class="kpi-change neutral">Across users</div></div>
-        <div class="kpi-card"><div class="kpi-icon">⭐</div><div class="kpi-val" id="dk6">—</div><div class="kpi-label">Avg. Relevance</div><div class="kpi-change up">MPNet score</div></div>
-        <div class="kpi-card"><div class="kpi-icon">📡</div><div class="kpi-val" id="dk7">—</div><div class="kpi-label">RSS Sources</div><div class="kpi-change neutral">Active feeds</div></div>
+        <div class="kpi-card"><div class="kpi-icon">📡</div><div class="kpi-val">100</div><div class="kpi-label">RSS Sources</div><div class="kpi-change neutral">Active feeds</div></div>
         <div class="kpi-card"><div class="kpi-icon">📖</div><div class="kpi-val" id="dk8">—</div><div class="kpi-label">Articles Read</div><div class="kpi-change up">Total reads</div></div>
       </div>
 
@@ -510,7 +509,6 @@ async function loadDashboard(){
   document.getElementById("dk2").textContent=visits.length;
   document.getElementById("dk4").textContent=getQuizHistory().length;
   document.getElementById("dk5").textContent=Object.keys(getBookmarks()).length;
-  document.getElementById("dk7").textContent="200+";
   document.getElementById("dk8").textContent=getReadHistory().length;
 
   // Activity feed

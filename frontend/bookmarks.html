@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bookmarks — NewsPrep</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--accent:#f4b942;--text:#e6edf3;--muted:#7d8590;--card:#1c2128;--green:#3fb950;--red:#e05c5c;--blue:#58a6ff}
+*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+/* Top Navbar */
+.topnav{position:sticky;top:0;z-index:200;background:var(--surface);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 28px;height:58px}
+.tn-logo{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:800;text-decoration:none;color:var(--text)}
+.tn-logo em{font-style:normal;color:var(--accent)}
+.tn-links{display:flex;align-items:center;gap:4px}
+.tn-link{display:flex;align-items:center;gap:6px;padding:7px 14px;border-radius:9px;font-size:.85rem;font-weight:500;color:var(--muted);text-decoration:none;transition:all .2s;white-space:nowrap}
+.tn-link:hover{background:rgba(244,185,66,.08);color:var(--text)}
+.tn-link.active{background:rgba(244,185,66,.12);color:var(--accent);font-weight:600}
+.tn-right{display:flex;align-items:center;gap:10px}
+.user-chip{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--border);padding:5px 12px 5px 6px;border-radius:9px;cursor:pointer;font-size:.82rem;font-weight:500}
+.user-avatar{width:26px;height:26px;border-radius:50%;background:linear-gradient(135deg,var(--accent),#e8961a);display:flex;align-items:center;justify-content:center;font-size:.65rem;font-weight:700;color:#0d1117}
+/* Main */
+.main{padding:28px 32px;max-width:1000px;margin:0 auto}
+.page-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:24px}
+.page-title{font-family:'Playfair Display',serif;font-size:1.5rem;font-weight:800}
+.bm-count{background:rgba(244,185,66,.12);border:1px solid rgba(244,185,66,.25);border-radius:20px;padding:4px 14px;font-size:.8rem;color:var(--accent);font-weight:600}
+.clear-btn{background:rgba(224,92,92,.1);border:1px solid rgba(224,92,92,.3);color:var(--red);border-radius:9px;padding:7px 16px;font-family:'DM Sans',sans-serif;font-size:.82rem;font-weight:600;cursor:pointer;transition:all .2s}
+.clear-btn:hover{background:rgba(224,92,92,.2)}
+/* Filter bar */
+.filter-bar{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px}
+.f-btn{background:var(--card);border:1px solid var(--border);border-radius:20px;padding:5px 14px;font-size:.78rem;font-weight:500;color:var(--muted);cursor:pointer;transition:all .2s}
+.f-btn:hover{border-color:var(--accent);color:var(--accent)}
+.f-btn.active{background:rgba(244,185,66,.12);border-color:var(--accent);color:var(--accent);font-weight:600}
+/* Article cards */
+.article-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:18px 20px;margin-bottom:12px;transition:all .2s;animation:fadeIn .3s ease both}
+.article-card:hover{border-color:rgba(244,185,66,.25);transform:translateY(-1px)}
+@keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+.card-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:10px}
+.badge{padding:3px 10px;border-radius:5px;font-size:.65rem;font-weight:700;text-transform:uppercase;letter-spacing:.4px}
+.date-tag{font-size:.75rem;color:var(--muted);margin-left:auto}
+.score-chip{background:rgba(244,185,66,.12);color:var(--accent);font-size:.7rem;font-weight:700;padding:2px 8px;border-radius:4px}
+.card-title{font-family:'Playfair Display',serif;font-size:1.05rem;font-weight:700;line-height:1.4;margin-bottom:10px}
+.card-summary{font-size:.88rem;line-height:1.8;color:var(--muted);white-space:pre-line;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;transition:all .3s}
+.card-summary.exp{-webkit-line-clamp:unset;overflow:visible}
+.card-footer{display:flex;align-items:center;gap:8px;margin-top:12px;padding-top:10px;border-top:1px solid var(--border)}
+.rm-btn{background:none;border:none;cursor:pointer;font-size:.8rem;color:var(--accent);font-family:'DM Sans',sans-serif;font-weight:600;padding:0}
+.src-btn{text-decoration:none;font-size:.8rem;font-weight:600;color:var(--blue)}
+.src-btn:hover{opacity:.75}
+.del-btn{background:none;border:1px solid rgba(224,92,92,.3);cursor:pointer;font-size:.78rem;color:var(--red);padding:4px 10px;border-radius:6px;font-family:'DM Sans',sans-serif;transition:all .2s;margin-left:auto}
+.del-btn:hover{background:rgba(224,92,92,.1)}
+/* Empty state */
+.empty{text-align:center;padding:80px 20px;color:var(--muted)}
+.empty-icon{font-size:4rem;margin-bottom:16px}
+.empty h3{font-family:'Playfair Display',serif;font-size:1.3rem;margin-bottom:8px;color:var(--text)}
+.empty p{font-size:.88rem;line-height:1.6;margin-bottom:24px}
+.go-btn{background:var(--accent);color:#0d1117;border:none;border-radius:10px;padding:11px 28px;font-family:'DM Sans',sans-serif;font-size:.9rem;font-weight:700;cursor:pointer;text-decoration:none;display:inline-block}
+/* Cat colors */
+.c-eco{background:rgba(63,185,80,.15);color:#3fb950}.c-pol{background:rgba(188,140,255,.15);color:#bc8cff}
+.c-int{background:rgba(88,166,255,.15);color:#58a6ff}.c-sci{background:rgba(244,185,66,.15);color:#f4b942}
+.c-sch{background:rgba(224,92,92,.15);color:#e05c5c}.c-rep{background:rgba(92,184,224,.15);color:#5cb8e0}
+.c-spo{background:rgba(92,224,184,.15);color:#5ce0b8}.c-awa{background:rgba(224,184,92,.15);color:#e0b85c}
+.c-imp{background:rgba(224,120,92,.15);color:#e0785c}.c-sum{background:rgba(120,92,224,.15);color:#785ce0}
+.c-nat{background:rgba(244,185,66,.15);color:#f4b942}.c-sta{background:rgba(66,185,244,.15);color:#42b9f4}
+@media(max-width:640px){.main{padding:16px}.tn-links{display:none}}
+</style>
+</head>
+<body>
+<script src="config.js"></script>
+<script>if(!requireLogin());</script>
+
+<nav class="topnav">
+  <a class="tn-logo" href="index.html">News<em>Prep</em></a>
+  <div class="tn-links">
+    <a class="tn-link" href="index.html">🏠 Home</a>
+    <a class="tn-link" href="news.html">📰 Current Affairs</a>
+    <a class="tn-link" href="quiz.html">🧠 Daily Quiz</a>
+    <a class="tn-link active" href="bookmarks.html">🔖 Bookmarks</a>
+    <a class="tn-link" href="profile.html">👤 Profile</a>
+  </div>
+  <div class="tn-right">
+    <div class="user-chip" onclick="location.href='profile.html'">
+      <div class="user-avatar" id="userAv">U</div>
+      <span id="userName">User</span>
+    </div>
+    <a class="tn-link" href="#" onclick="clearUser();location.href='login.html';return false;" style="color:var(--red)">🚪</a>
+  </div>
+</nav>
+
+<div class="main">
+  <div class="page-header">
+    <div>
+      <div class="page-title">🔖 My Bookmarks</div>
+    </div>
+    <div style="display:flex;align-items:center;gap:10px">
+      <span class="bm-count" id="bmCount">0 saved</span>
+      <button class="clear-btn" onclick="clearAll()">🗑️ Clear All</button>
+    </div>
+  </div>
+
+  <!-- Category filter -->
+  <div class="filter-bar" id="filterBar">
+    <button class="f-btn active" onclick="filterCat('',this)">All</button>
+  </div>
+
+  <!-- Bookmark list -->
+  <div id="bmList"></div>
+</div>
+
+<script>
+const CAT_MAP={
+  "Economy & Banking":"c-eco","Polity & Governance":"c-pol","International Relations":"c-int",
+  "Science & Technology":"c-sci","Schemes & Appointments":"c-sch","Reports & Indices":"c-rep",
+  "Sports":"c-spo","Awards & Honours":"c-awa","Important Days & Obituaries":"c-imp",
+  "Summits & Conferences":"c-sum","National News":"c-nat","State News":"c-sta"
+};
+
+let allBookmarks = [];
+let activeCat = '';
+
+function init(){
+  const u = getUser();
+  if(!u) return;
+  document.getElementById("userAv").textContent = (u.avatar||u.name.slice(0,2)).toUpperCase();
+  document.getElementById("userName").textContent = u.name.split(" ")[0];
+  loadBookmarks();
+  trackVisit();
+}
+
+function loadBookmarks(){
+  const bm = getBookmarks(); // {id: {title, summary, category, source, url, relevance_score, published_date}}
+  allBookmarks = Object.entries(bm).map(([id, data]) => ({id, ...data}));
+  allBookmarks.sort((a,b) => (b.saved_at||"") > (a.saved_at||"") ? 1 : -1);
+
+  // Build category filter buttons
+  const cats = [...new Set(allBookmarks.map(a => a.category).filter(Boolean))];
+  const bar = document.getElementById("filterBar");
+  bar.innerHTML = `<button class="f-btn active" onclick="filterCat('',this)">All (${allBookmarks.length})</button>` +
+    cats.map(c => `<button class="f-btn" onclick="filterCat('${c.replace(/'/g,"\\'")}',this)">${c} (${allBookmarks.filter(a=>a.category===c).length})</button>`).join("");
+
+  renderList(allBookmarks);
+}
+
+function filterCat(cat, btn){
+  activeCat = cat;
+  document.querySelectorAll(".f-btn").forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  const filtered = cat ? allBookmarks.filter(a => a.category === cat) : allBookmarks;
+  renderList(filtered);
+}
+
+function renderList(items){
+  document.getElementById("bmCount").textContent = allBookmarks.length + " saved";
+  const list = document.getElementById("bmList");
+
+  if(!items.length){
+    list.innerHTML = `<div class="empty">
+      <div class="empty-icon">🔖</div>
+      <h3>${allBookmarks.length ? "No articles in this category" : "No bookmarks yet"}</h3>
+      <p>${allBookmarks.length ? "Try selecting a different category filter." : "Start reading articles and save the ones you want to revisit."}</p>
+      <a class="go-btn" href="news.html">📰 Browse Articles</a>
+    </div>`;
+    return;
+  }
+
+  list.innerHTML = items.map((a,i) => {
+    const cls = CAT_MAP[a.category] || "c-nat";
+    const pct = Math.round((a.relevance_score||0)*100);
+    const dateStr = a.published_date || a.published_at || "";
+    const displayDate = dateStr ? new Date(dateStr).toLocaleDateString("en-IN",{day:"numeric",month:"short",year:"numeric"}) : "";
+    const summaryClean = (a.summary||"").replace(/•/g,"•").trim();
+    return `<div class="article-card" style="animation-delay:${i*0.04}s">
+      <div class="card-meta">
+        <span class="badge ${cls}">${a.category||"General"}</span>
+        <span style="font-size:.75rem;color:var(--muted)">📰 ${a.source||""}</span>
+        ${pct>0?`<span class="score-chip">⭐ ${pct}%</span>`:""}
+        <span class="date-tag">${displayDate}</span>
+      </div>
+      <div class="card-title">${a.title||a.headline||"Untitled"}</div>
+      <div class="card-summary" id="sum${i}">${summaryClean}</div>
+      <div class="card-footer">
+        <button class="rm-btn" onclick="toggleSummary('sum${i}',this)">Read more ↓</button>
+        ${a.url?`<a class="src-btn" href="${a.url}" target="_blank">🔗 Source</a>`:""}
+        <button class="del-btn" onclick="removeBookmark('${a.id}')">🗑️ Remove</button>
+      </div>
+    </div>`;
+  }).join("");
+}
+
+function toggleSummary(id, btn){
+  const el = document.getElementById(id);
+  el.classList.toggle("exp");
+  btn.textContent = el.classList.contains("exp") ? "Show less ↑" : "Read more ↓";
+}
+
+function removeBookmark(id){
+  const bm = getBookmarks();
+  delete bm[id];
+  saveBookmarks(bm);
+  loadBookmarks();
+}
+
+function clearAll(){
+  if(!confirm("Remove all bookmarks?")) return;
+  saveBookmarks({});
+  loadBookmarks();
+}
+
+init();
+</script>
+<script defer src="/_vercel/insights/script.js"></script>
+</body>
+</html>
