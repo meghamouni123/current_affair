@@ -6,14 +6,19 @@
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--accent:#f4b942;--text:#e6edf3;--muted:#7d8590;--card:#1c2128;--green:#3fb950;--red:#e05c5c;--blue:#58a6ff;--purple:#bc8cff}
-*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);display:flex;min-height:100vh}
-.sidebar{width:240px;min-height:100vh;background:var(--surface);border-right:1px solid var(--border);position:fixed;top:0;left:0;z-index:100;padding:20px 12px}
-.sb-title{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:800;padding:8px;margin-bottom:12px}
-.sb-title em{font-style:normal;color:var(--accent)}
-.nav-item{display:flex;align-items:center;gap:12px;padding:10px 12px;border-radius:10px;font-size:.88rem;font-weight:500;color:var(--muted);text-decoration:none;margin-bottom:2px;transition:all .2s}
-.nav-item:hover{background:rgba(244,185,66,.08);color:var(--text)}
-.nav-item.active{background:rgba(244,185,66,.12);color:var(--accent);font-weight:600}
-.main{margin-left:240px;flex:1;padding:32px;max-width:900px}
+*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+/* ── Top Navbar ── */
+.topnav{position:sticky;top:0;z-index:200;background:var(--surface);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 28px;height:58px}
+.tn-logo{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:800;text-decoration:none;color:var(--text)}
+.tn-logo em{font-style:normal;color:var(--accent)}
+.tn-links{display:flex;align-items:center;gap:4px}
+.tn-link{display:flex;align-items:center;gap:6px;padding:7px 14px;border-radius:9px;font-size:.85rem;font-weight:500;color:var(--muted);text-decoration:none;transition:all .2s;white-space:nowrap}
+.tn-link:hover{background:rgba(244,185,66,.08);color:var(--text)}
+.tn-link.active{background:rgba(244,185,66,.12);color:var(--accent);font-weight:600}
+.tn-right{display:flex;align-items:center;gap:10px}
+.user-chip{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--border);padding:5px 12px 5px 6px;border-radius:9px;cursor:pointer;font-size:.82rem;font-weight:500}
+.user-avatar{width:26px;height:26px;border-radius:50%;background:linear-gradient(135deg,var(--accent),#e8961a);display:flex;align-items:center;justify-content:center;font-size:.65rem;font-weight:700;color:#0d1117}
+.main{padding:32px;max-width:900px;margin:0 auto}
 .page-title{font-family:'Playfair Display',serif;font-size:1.6rem;font-weight:800;margin-bottom:8px}
 .page-sub{color:var(--muted);font-size:.88rem;margin-bottom:28px}
 /* Quiz states */
@@ -87,14 +92,21 @@
 <body>
 <script src="config.js"></script>
 <script>if(!requireLogin());</script>
-<nav class="sidebar">
-  <div class="sb-title">News<em>Prep</em></div>
-  <a class="nav-item" href="index.html">🏠 Home</a>
-  <a class="nav-item" href="news.html">📰 Current Affairs</a>
-  <a class="nav-item active" href="quiz.html">🧠 Daily Quiz</a>
-  <a class="nav-item" href="profile.html">👤 Profile</a>
-  <a class="nav-item" href="#" onclick="clearUser();location.href='login.html'">🚪 Logout</a>
-  <a class="nav-item" href="#" id="themeToggleBtn" onclick="toggleTheme();return false;">☀️ Light Mode</a>
+<nav class="topnav">
+  <a class="tn-logo" href="index.html">News<em>Prep</em></a>
+  <div class="tn-links">
+    <a class="tn-link" href="index.html">🏠 Home</a>
+    <a class="tn-link" href="news.html">📰 Current Affairs</a>
+    <a class="tn-link active" href="quiz.html">🧠 Daily Quiz</a>
+    <a class="tn-link" href="profile.html">👤 Profile</a>
+  </div>
+  <div class="tn-right">
+    <div class="user-chip" onclick="location.href='profile.html'">
+      <div class="user-avatar" id="userAv">U</div>
+      <span id="userName">User</span>
+    </div>
+    <a class="tn-link" href="#" onclick="clearUser();location.href='login.html';return false;" style="color:var(--red)">🚪</a>
+  </div>
 </nav>
 <div class="main">
   <div class="page-title">🧠 Daily Quiz</div>
