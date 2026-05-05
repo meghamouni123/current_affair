@@ -126,7 +126,7 @@ def parse_feed_date(entry) -> str:
 
 
 def fetch_rss_feed(feed_info: Dict, extract_text: bool = True) -> List[Dict]:
-    if not HAS_FEEDPARSER or not HAS_REQUESTS:
+    if not HAS_FEEDPARSER:
         return []
 
     articles  = []
@@ -134,12 +134,27 @@ def fetch_rss_feed(feed_info: Dict, extract_text: bool = True) -> List[Dict]:
     feed_name = feed_info['name']
 
     try:
-        # Fetch with timeout to avoid hanging feeds (e.g. Olympics)
-        headers = {'User-Agent': 'Mozilla/5.0 (compatible; CABot/1.0)'}
-        resp = requests.get(feed_url, headers=headers, timeout=15)
-        resp.raise_for_status()
-        parsed = feedparser.parse(resp.content)
-        if parsed.bozo and not parsed.entries:
+        parsed = None
+
+        # Try requests first (with timeout), fallback to feedparser direct
+        if HAS_REQUESTS:
+            try:
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                    'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+                    'Accept-Language': 'en-US,en;q=0.9',
+                }
+                resp = requests.get(feed_url, headers=headers, timeout=15)
+                resp.raise_for_status()
+                parsed = feedparser.parse(resp.content)
+            except Exception:
+                pass
+
+        # Fallback: feedparser direct (uses its own urllib with different headers)
+        if parsed is None or (parsed.bozo and not parsed.entries):
+            parsed = feedparser.parse(feed_url)
+
+        if not parsed or (parsed.bozo and not parsed.entries):
             return []
 
         for entry in parsed.entries[:20]:

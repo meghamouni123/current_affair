@@ -1,688 +1,104 @@
 {
   "feeds": [
-    {
-      "name": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/feeder/default.rss",
-      "category": "Polity & Governance",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/feeder/default.rss",
-      "category": "International Relations",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/feeder/default.rss",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Science",
-      "url": "https://www.thehindu.com/sci-tech/science/feeder/default.rss",
-      "category": "Science & Technology",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss",
-      "category": "Science & Technology",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/feeder/default.rss",
-      "category": "Sports",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Tamil Nadu",
-      "url": "https://www.thehindu.com/news/states/tamil-nadu/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Kerala",
-      "url": "https://www.thehindu.com/news/states/kerala/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Karnataka",
-      "url": "https://www.thehindu.com/news/states/karnataka/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Andhra Pradesh",
-      "url": "https://www.thehindu.com/news/states/andhra-pradesh/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Telangana",
-      "url": "https://www.thehindu.com/news/states/telangana/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Maharashtra",
-      "url": "https://www.thehindu.com/news/states/maharashtra/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Uttar Pradesh",
-      "url": "https://www.thehindu.com/news/states/uttar-pradesh/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Bihar",
-      "url": "https://www.thehindu.com/news/states/bihar/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Rajasthan",
-      "url": "https://www.thehindu.com/news/states/rajasthan/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - West Bengal",
-      "url": "https://www.thehindu.com/news/states/west-bengal/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Obituaries",
-      "url": "https://www.thehindu.com/obituaries/feeder/default.rss",
-      "category": "Important Days & Obituaries",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Arts",
-      "url": "https://www.thehindu.com/arts/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - Books",
-      "url": "https://www.thehindu.com/books/feeder/default.rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "The Hindu - States",
-      "url": "https://www.thehindu.com/news/states/feeder/default.rss",
-      "category": "State News",
-      "priority": 1
-    },
-    {
-      "name": "Frontline Magazine",
-      "url": "https://frontline.thehindu.com/feeder/default.rss",
-      "category": "Polity & Governance",
-      "priority": 1
-    },
-    {
-      "name": "Indian Express - India",
-      "url": "https://indianexpress.com/section/india/feed/",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "Indian Express - World",
-      "url": "https://indianexpress.com/section/world/feed/",
-      "category": "International Relations",
-      "priority": 1
-    },
-    {
-      "name": "Indian Express - Business",
-      "url": "https://indianexpress.com/section/business/feed/",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "Indian Express - Explained",
-      "url": "https://indianexpress.com/section/explained/feed/",
-      "category": "Polity & Governance",
-      "priority": 1
-    },
-    {
-      "name": "Indian Express - Technology",
-      "url": "https://indianexpress.com/section/technology/feed/",
-      "category": "Science & Technology",
-      "priority": 1
-    },
-    {
-      "name": "Indian Express - Sports",
-      "url": "https://indianexpress.com/section/sports/feed/",
-      "category": "Sports",
-      "priority": 1
-    },
-    {
-      "name": "Indian Express - Cricket",
-      "url": "https://indianexpress.com/section/sports/cricket/feed/",
-      "category": "Sports",
-      "priority": 1
-    },
-    {
-      "name": "Indian Express - Research",
-      "url": "https://indianexpress.com/section/research/feed/",
-      "category": "Science & Technology",
-      "priority": 1
-    },
-    {
-      "name": "Indian Express - Environment",
-      "url": "https://indianexpress.com/section/environment/feed/",
-      "category": "Science & Technology",
-      "priority": 1
-    },
-    {
-      "name": "Indian Express - Entertainment",
-      "url": "https://indianexpress.com/section/entertainment/feed/",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml",
-      "category": "International Relations",
-      "priority": 2
-    },
-    {
-      "name": "Hindustan Times - Business",
-      "url": "https://www.hindustantimes.com/feeds/rss/business/rssfeed.xml",
-      "category": "Economy & Banking",
-      "priority": 2
-    },
-    {
-      "name": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/feeds/rss/sports/rssfeed.xml",
-      "category": "Sports",
-      "priority": 2
-    },
-    {
-      "name": "Hindustan Times - Delhi",
-      "url": "https://www.hindustantimes.com/feeds/rss/delhi/rssfeed.xml",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "Hindustan Times - Mumbai",
-      "url": "https://www.hindustantimes.com/feeds/rss/mumbai/rssfeed.xml",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms",
-      "category": "Economy & Banking",
-      "priority": 2
-    },
-    {
-      "name": "Times of India - World",
-      "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
-      "category": "International Relations",
-      "priority": 2
-    },
-    {
-      "name": "Times of India - Sports",
-      "url": "https://timesofindia.indiatimes.com/rssfeeds/1221656.cms",
-      "category": "Sports",
-      "priority": 2
-    },
-    {
-      "name": "Times of India - Delhi",
-      "url": "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "Times of India - Mumbai",
-      "url": "https://timesofindia.indiatimes.com/rssfeeds/7503829.cms",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "Times of India - Science",
-      "url": "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms",
-      "category": "Science & Technology",
-      "priority": 2
-    },
-    {
-      "name": "PIB - All Press Releases",
-      "url": "https://pib.gov.in/rss.aspx",
-      "category": "Polity & Governance",
-      "priority": 1
-    },
-    {
-      "name": "PIB - Economy",
-      "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "PIB - Science & Technology",
-      "url": "https://pib.gov.in/RssMain.aspx?ModId=3&Lang=1&Regid=3",
-      "category": "Science & Technology",
-      "priority": 1
-    },
-    {
-      "name": "PIB - Social",
-      "url": "https://pib.gov.in/RssMain.aspx?ModId=2&Lang=1&Regid=3",
-      "category": "Schemes & Appointments",
-      "priority": 1
-    },
-    {
-      "name": "PIB - Health",
-      "url": "https://pib.gov.in/RssMain.aspx?ModId=7&Lang=1&Regid=3",
-      "category": "Science & Technology",
-      "priority": 1
-    },
-    {
-      "name": "PIB - Defence",
-      "url": "https://pib.gov.in/RssMain.aspx?ModId=1&Lang=1&Regid=3",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "PIB - Agriculture",
-      "url": "https://pib.gov.in/RssMain.aspx?ModId=10&Lang=1&Regid=3",
-      "category": "Schemes & Appointments",
-      "priority": 1
-    },
-    {
-      "name": "PIB - Education",
-      "url": "https://pib.gov.in/RssMain.aspx?ModId=13&Lang=1&Regid=3",
-      "category": "Schemes & Appointments",
-      "priority": 1
-    },
-    {
-      "name": "PIB - Culture",
-      "url": "https://pib.gov.in/RssMain.aspx?ModId=14&Lang=1&Regid=3",
-      "category": "Schemes & Appointments",
-      "priority": 1
-    },
-    {
-      "name": "DD News",
-      "url": "https://ddnews.gov.in/en/rss.xml",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "NITI Aayog",
-      "url": "https://www.niti.gov.in/rss-feed",
-      "category": "Polity & Governance",
-      "priority": 1
-    },
-    {
-      "name": "AIR News",
-      "url": "https://newsonair.gov.in/rss",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "MyGov India",
-      "url": "https://www.mygov.in/feeds/all/rss.xml",
-      "category": "Polity & Governance",
-      "priority": 1
-    },
-    {
-      "name": "RBI - Press Releases",
-      "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=feed",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "ISRO",
-      "url": "https://www.isro.gov.in/rss.xml",
-      "category": "Science & Technology",
-      "priority": 1
-    },
-    {
-      "name": "Ministry of Finance",
-      "url": "https://finmin.nic.in/rss.xml",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "SEBI Press Releases",
-      "url": "https://www.sebi.gov.in/sebi_data/rss/all_release.xml",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "Election Commission of India",
-      "url": "https://eci.gov.in/rss/press-release.xml",
-      "category": "Polity & Governance",
-      "priority": 1
-    },
-    {
-      "name": "NASA",
-      "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
-      "category": "Science & Technology",
-      "priority": 2
-    },
-    {
-      "name": "World Bank",
-      "url": "https://www.worldbank.org/en/news/all/rss",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "IMF",
-      "url": "https://www.imf.org/en/News/RSS",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "UN News",
-      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
-      "category": "International Relations",
-      "priority": 1
-    },
-    {
-      "name": "UN News - Peace & Security",
-      "url": "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/rss.xml",
-      "category": "International Relations",
-      "priority": 1
-    },
-    {
-      "name": "UN News - Humanitarian",
-      "url": "https://news.un.org/feed/subscribe/en/news/topic/humanitarian-aid/rss.xml",
-      "category": "International Relations",
-      "priority": 1
-    },
-    {
-      "name": "WHO",
-      "url": "https://www.who.int/rss-feeds/news-english.xml",
-      "category": "Science & Technology",
-      "priority": 1
-    },
-    {
-      "name": "UNDP News",
-      "url": "https://www.undp.org/content/undp/en/home/presscenter/articles.rss",
-      "category": "International Relations",
-      "priority": 1
-    },
-    {
-      "name": "OECD News",
-      "url": "https://www.oecd.org/newsroom/feed/",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "BBC World",
-      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
-      "category": "International Relations",
-      "priority": 2
-    },
-    {
-      "name": "BBC Business",
-      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
-      "category": "Economy & Banking",
-      "priority": 2
-    },
-    {
-      "name": "BBC - Science & Environment",
-      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "category": "Science & Technology",
-      "priority": 2
-    },
-    {
-      "name": "Reuters World",
-      "url": "https://feeds.reuters.com/Reuters/worldNews",
-      "category": "International Relations",
-      "priority": 2
-    },
-    {
-      "name": "Reuters Business",
-      "url": "https://feeds.reuters.com/reuters/businessNews",
-      "category": "Economy & Banking",
-      "priority": 2
-    },
-    {
-      "name": "PRS Legislative Research",
-      "url": "https://prsindia.org/feed",
-      "category": "Polity & Governance",
-      "priority": 1
-    },
-    {
-      "name": "Observer Research Foundation",
-      "url": "https://www.orfonline.org/feed/",
-      "category": "International Relations",
-      "priority": 1
-    },
-    {
-      "name": "The Diplomat",
-      "url": "https://thediplomat.com/feed/",
-      "category": "International Relations",
-      "priority": 2
-    },
-    {
-      "name": "WEF Agenda",
-      "url": "https://www.weforum.org/agenda/feed/",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "ASEAN Secretariat",
-      "url": "https://asean.org/feed/",
-      "category": "International Relations",
-      "priority": 1
-    },
-    {
-      "name": "Commonwealth Secretariat",
-      "url": "https://thecommonwealth.org/rss.xml",
-      "category": "International Relations",
-      "priority": 2
-    },
-    {
-      "name": "Nobel Prize News",
-      "url": "https://www.nobelprize.org/feeds/all/",
-      "category": "Science & Technology",
-      "priority": 1
-    },
-    {
-      "name": "Olympics News",
-      "url": "https://olympics.com/en/news/rss",
-      "category": "Sports",
-      "priority": 1
-    },
-    {
-      "name": "NDTV - India",
-      "url": "https://feeds.feedburner.com/ndtvnews-india-news",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "NDTV - World",
-      "url": "https://feeds.feedburner.com/ndtvnews-world-news",
-      "category": "International Relations",
-      "priority": 2
-    },
-    {
-      "name": "NDTV - Business",
-      "url": "https://feeds.feedburner.com/ndtvnews-business",
-      "category": "Economy & Banking",
-      "priority": 2
-    },
-    {
-      "name": "NDTV - Science",
-      "url": "https://feeds.feedburner.com/ndtvnews-science",
-      "category": "Science & Technology",
-      "priority": 2
-    },
-    {
-      "name": "NDTV - Sports",
-      "url": "https://feeds.feedburner.com/NdtvSports",
-      "category": "Sports",
-      "priority": 2
-    },
-    {
-      "name": "Business Standard - Top Stories",
-      "url": "https://www.business-standard.com/rss/home_page_top_stories.rss",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "Business Standard - Economy",
-      "url": "https://www.business-standard.com/rss/economy-policy-10601.rss",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "Economic Times - Economy",
-      "url": "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380681.cms",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "Economic Times - Policy",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/20771706.cms",
-      "category": "Polity & Governance",
-      "priority": 1
-    },
-    {
-      "name": "LiveMint - News",
-      "url": "https://www.livemint.com/rss/news",
-      "category": "National News",
-      "priority": 1
-    },
-    {
-      "name": "LiveMint - Economy",
-      "url": "https://www.livemint.com/rss/economy",
-      "category": "Economy & Banking",
-      "priority": 1
-    },
-    {
-      "name": "LiveMint - Politics",
-      "url": "https://www.livemint.com/rss/politics",
-      "category": "Polity & Governance",
-      "priority": 1
-    },
-    {
-      "name": "LiveMint - Science",
-      "url": "https://www.livemint.com/rss/science",
-      "category": "Science & Technology",
-      "priority": 1
-    },
-    {
-      "name": "India Today - India",
-      "url": "https://www.indiatoday.in/rss/home",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "India Today - Sports",
-      "url": "https://www.indiatoday.in/rss/sports",
-      "category": "Sports",
-      "priority": 2
-    },
-    {
-      "name": "Financial Express",
-      "url": "https://www.financialexpress.com/feed/",
-      "category": "Economy & Banking",
-      "priority": 2
-    },
-    {
-      "name": "The Tribune",
-      "url": "https://www.tribuneindia.com/rss/feed",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "Deccan Herald - National",
-      "url": "https://www.deccanherald.com/national/feed",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "Deccan Herald - Karnataka",
-      "url": "https://www.deccanherald.com/state/feed",
-      "category": "State News",
-      "priority": 2
-    },
-    {
-      "name": "The Wire - Politics",
-      "url": "https://thewire.in/politics/feed",
-      "category": "Polity & Governance",
-      "priority": 2
-    },
-    {
-      "name": "Scroll India",
-      "url": "https://scroll.in/feed",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "News18 - India",
-      "url": "https://www.news18.com/rss/india.xml",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "News18 - World",
-      "url": "https://www.news18.com/rss/world.xml",
-      "category": "International Relations",
-      "priority": 2
-    },
-    {
-      "name": "Zee News - India",
-      "url": "https://zeenews.india.com/rss/india-national-news.xml",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "The Print - India",
-      "url": "https://theprint.in/feed/",
-      "category": "Polity & Governance",
-      "priority": 2
-    },
-    {
-      "name": "Firstpost - India",
-      "url": "https://www.firstpost.com/rss/india.xml",
-      "category": "National News",
-      "priority": 2
-    },
-    {
-      "name": "Wion - India",
-      "url": "https://www.wionews.com/feeds/india.xml",
-      "category": "International Relations",
-      "priority": 2
-    },
-    {
-      "name": "Sportstar",
-      "url": "https://sportstar.thehindu.com/feeder/default.rss",
-      "category": "Sports",
-      "priority": 1
-    },
-    {
-      "name": "Down to Earth",
-      "url": "https://www.downtoearth.org.in/rss",
-      "category": "Science & Technology",
-      "priority": 1
-    }
+    {"name": "The Hindu - National", "url": "https://www.thehindu.com/news/national/feeder/default.rss", "category": "Polity & Governance", "priority": 1},
+    {"name": "The Hindu - International", "url": "https://www.thehindu.com/news/international/feeder/default.rss", "category": "International Relations", "priority": 1},
+    {"name": "The Hindu - Business", "url": "https://www.thehindu.com/business/feeder/default.rss", "category": "Economy & Banking", "priority": 1},
+    {"name": "The Hindu - Science", "url": "https://www.thehindu.com/sci-tech/science/feeder/default.rss", "category": "Science & Technology", "priority": 1},
+    {"name": "The Hindu - Technology", "url": "https://www.thehindu.com/sci-tech/technology/feeder/default.rss", "category": "Science & Technology", "priority": 1},
+    {"name": "The Hindu - Sport", "url": "https://www.thehindu.com/sport/feeder/default.rss", "category": "Sports", "priority": 1},
+    {"name": "The Hindu - States", "url": "https://www.thehindu.com/news/states/feeder/default.rss", "category": "State News", "priority": 1},
+    {"name": "Frontline Magazine", "url": "https://frontline.thehindu.com/feeder/default.rss", "category": "Polity & Governance", "priority": 1},
+    {"name": "Indian Express - India", "url": "https://indianexpress.com/section/india/feed/", "category": "National News", "priority": 1},
+    {"name": "Indian Express - World", "url": "https://indianexpress.com/section/world/feed/", "category": "International Relations", "priority": 1},
+    {"name": "Indian Express - Business", "url": "https://indianexpress.com/section/business/feed/", "category": "Economy & Banking", "priority": 1},
+    {"name": "Indian Express - Explained", "url": "https://indianexpress.com/section/explained/feed/", "category": "Polity & Governance", "priority": 1},
+    {"name": "Indian Express - Technology", "url": "https://indianexpress.com/section/technology/feed/", "category": "Science & Technology", "priority": 1},
+    {"name": "Indian Express - Sports", "url": "https://indianexpress.com/section/sports/feed/", "category": "Sports", "priority": 1},
+    {"name": "Indian Express - Cricket", "url": "https://indianexpress.com/section/sports/cricket/feed/", "category": "Sports", "priority": 1},
+    {"name": "Indian Express - Research", "url": "https://indianexpress.com/section/research/feed/", "category": "Science & Technology", "priority": 1},
+    {"name": "Indian Express - Entertainment", "url": "https://indianexpress.com/section/entertainment/feed/", "category": "National News", "priority": 2},
+    {"name": "Hindustan Times - India", "url": "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml", "category": "National News", "priority": 2},
+    {"name": "Hindustan Times - World", "url": "https://www.hindustantimes.com/feeds/rss/world-news/rssfeed.xml", "category": "International Relations", "priority": 2},
+    {"name": "Hindustan Times - Business", "url": "https://www.hindustantimes.com/feeds/rss/business/rssfeed.xml", "category": "Economy & Banking", "priority": 2},
+    {"name": "Hindustan Times - Sports", "url": "https://www.hindustantimes.com/feeds/rss/sports/rssfeed.xml", "category": "Sports", "priority": 2},
+    {"name": "Hindustan Times - Delhi", "url": "https://www.hindustantimes.com/feeds/rss/delhi/rssfeed.xml", "category": "National News", "priority": 2},
+    {"name": "Hindustan Times - Mumbai", "url": "https://www.hindustantimes.com/feeds/rss/mumbai/rssfeed.xml", "category": "National News", "priority": 2},
+    {"name": "Times of India - India", "url": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms", "category": "National News", "priority": 2},
+    {"name": "Times of India - Business", "url": "https://timesofindia.indiatimes.com/rssfeeds/1898055.cms", "category": "Economy & Banking", "priority": 2},
+    {"name": "Times of India - World", "url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", "category": "International Relations", "priority": 2},
+    {"name": "Times of India - Sports", "url": "https://timesofindia.indiatimes.com/rssfeeds/1221656.cms", "category": "Sports", "priority": 2},
+    {"name": "Times of India - Delhi", "url": "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms", "category": "National News", "priority": 2},
+    {"name": "Times of India - Mumbai", "url": "https://timesofindia.indiatimes.com/rssfeeds/7503829.cms", "category": "National News", "priority": 2},
+    {"name": "Times of India - Science", "url": "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms", "category": "Science & Technology", "priority": 2},
+    {"name": "PIB - All Press Releases", "url": "https://pib.gov.in/rss.aspx", "category": "Polity & Governance", "priority": 1},
+    {"name": "PIB - Economy", "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3", "category": "Economy & Banking", "priority": 1},
+    {"name": "PIB - Science & Technology", "url": "https://pib.gov.in/RssMain.aspx?ModId=3&Lang=1&Regid=3", "category": "Science & Technology", "priority": 1},
+    {"name": "PIB - Social", "url": "https://pib.gov.in/RssMain.aspx?ModId=2&Lang=1&Regid=3", "category": "Schemes & Appointments", "priority": 1},
+    {"name": "PIB - Health", "url": "https://pib.gov.in/RssMain.aspx?ModId=7&Lang=1&Regid=3", "category": "Science & Technology", "priority": 1},
+    {"name": "PIB - Defence", "url": "https://pib.gov.in/RssMain.aspx?ModId=1&Lang=1&Regid=3", "category": "National News", "priority": 1},
+    {"name": "PIB - Agriculture", "url": "https://pib.gov.in/RssMain.aspx?ModId=10&Lang=1&Regid=3", "category": "Schemes & Appointments", "priority": 1},
+    {"name": "PIB - Education", "url": "https://pib.gov.in/RssMain.aspx?ModId=13&Lang=1&Regid=3", "category": "Schemes & Appointments", "priority": 1},
+    {"name": "PIB - Culture", "url": "https://pib.gov.in/RssMain.aspx?ModId=14&Lang=1&Regid=3", "category": "Schemes & Appointments", "priority": 1},
+    {"name": "DD News", "url": "https://ddnews.gov.in/en/rss.xml", "category": "National News", "priority": 1},
+    {"name": "NITI Aayog", "url": "https://www.niti.gov.in/rss-feed", "category": "Polity & Governance", "priority": 1},
+    {"name": "AIR News", "url": "https://newsonair.gov.in/rss", "category": "National News", "priority": 1},
+    {"name": "MyGov India", "url": "https://www.mygov.in/feeds/all/rss.xml", "category": "Polity & Governance", "priority": 1},
+    {"name": "RBI - Press Releases", "url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=feed", "category": "Economy & Banking", "priority": 1},
+    {"name": "ISRO", "url": "https://www.isro.gov.in/rss.xml", "category": "Science & Technology", "priority": 1},
+    {"name": "Ministry of Finance", "url": "https://finmin.nic.in/rss.xml", "category": "Economy & Banking", "priority": 1},
+    {"name": "SEBI Press Releases", "url": "https://www.sebi.gov.in/sebi_data/rss/all_release.xml", "category": "Economy & Banking", "priority": 1},
+    {"name": "Election Commission of India", "url": "https://eci.gov.in/rss/press-release.xml", "category": "Polity & Governance", "priority": 1},
+    {"name": "NASA", "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss", "category": "Science & Technology", "priority": 2},
+    {"name": "World Bank", "url": "https://www.worldbank.org/en/news/all/rss", "category": "Economy & Banking", "priority": 1},
+    {"name": "IMF", "url": "https://www.imf.org/en/News/RSS", "category": "Economy & Banking", "priority": 1},
+    {"name": "UN News", "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "category": "International Relations", "priority": 1},
+    {"name": "UN News - Peace & Security", "url": "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/rss.xml", "category": "International Relations", "priority": 1},
+    {"name": "UN News - Humanitarian", "url": "https://news.un.org/feed/subscribe/en/news/topic/humanitarian-aid/rss.xml", "category": "International Relations", "priority": 1},
+    {"name": "WHO", "url": "https://www.who.int/rss-feeds/news-english.xml", "category": "Science & Technology", "priority": 1},
+    {"name": "UNDP News", "url": "https://www.undp.org/content/undp/en/home/presscenter/articles.rss", "category": "International Relations", "priority": 1},
+    {"name": "OECD News", "url": "https://www.oecd.org/newsroom/feed/", "category": "Economy & Banking", "priority": 1},
+    {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml", "category": "International Relations", "priority": 2},
+    {"name": "BBC Business", "url": "https://feeds.bbci.co.uk/news/business/rss.xml", "category": "Economy & Banking", "priority": 2},
+    {"name": "BBC - Science & Environment", "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml", "category": "Science & Technology", "priority": 2},
+    {"name": "Reuters World", "url": "https://feeds.reuters.com/Reuters/worldNews", "category": "International Relations", "priority": 2},
+    {"name": "Reuters Business", "url": "https://feeds.reuters.com/reuters/businessNews", "category": "Economy & Banking", "priority": 2},
+    {"name": "PRS Legislative Research", "url": "https://prsindia.org/feed", "category": "Polity & Governance", "priority": 1},
+    {"name": "Observer Research Foundation", "url": "https://www.orfonline.org/feed/", "category": "International Relations", "priority": 1},
+    {"name": "The Diplomat", "url": "https://thediplomat.com/feed/", "category": "International Relations", "priority": 2},
+    {"name": "WEF Agenda", "url": "https://www.weforum.org/agenda/feed/", "category": "Economy & Banking", "priority": 1},
+    {"name": "ASEAN Secretariat", "url": "https://asean.org/feed/", "category": "International Relations", "priority": 1},
+    {"name": "Commonwealth Secretariat", "url": "https://thecommonwealth.org/rss.xml", "category": "International Relations", "priority": 2},
+    {"name": "Nobel Prize News", "url": "https://www.nobelprize.org/feeds/all/", "category": "Science & Technology", "priority": 1},
+    {"name": "Olympics News", "url": "https://olympics.com/en/news/rss", "category": "Sports", "priority": 1},
+    {"name": "NDTV - India", "url": "https://feeds.feedburner.com/ndtvnews-india-news", "category": "National News", "priority": 2},
+    {"name": "NDTV - World", "url": "https://feeds.feedburner.com/ndtvnews-world-news", "category": "International Relations", "priority": 2},
+    {"name": "NDTV - Business", "url": "https://feeds.feedburner.com/ndtvnews-business", "category": "Economy & Banking", "priority": 2},
+    {"name": "NDTV - Science", "url": "https://feeds.feedburner.com/ndtvnews-science", "category": "Science & Technology", "priority": 2},
+    {"name": "NDTV - Sports", "url": "https://feeds.feedburner.com/NdtvSports", "category": "Sports", "priority": 2},
+    {"name": "Business Standard - Top Stories", "url": "https://www.business-standard.com/rss/home_page_top_stories.rss", "category": "Economy & Banking", "priority": 1},
+    {"name": "Business Standard - Economy", "url": "https://www.business-standard.com/rss/economy-policy-10601.rss", "category": "Economy & Banking", "priority": 1},
+    {"name": "Economic Times - Top", "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cms", "category": "Economy & Banking", "priority": 1},
+    {"name": "Economic Times - Economy", "url": "https://economictimes.indiatimes.com/news/economy/rssfeeds/1373380681.cms", "category": "Economy & Banking", "priority": 1},
+    {"name": "Economic Times - Policy", "url": "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/20771706.cms", "category": "Polity & Governance", "priority": 1},
+    {"name": "LiveMint - News", "url": "https://www.livemint.com/rss/news", "category": "National News", "priority": 1},
+    {"name": "LiveMint - Economy", "url": "https://www.livemint.com/rss/economy", "category": "Economy & Banking", "priority": 1},
+    {"name": "LiveMint - Politics", "url": "https://www.livemint.com/rss/politics", "category": "Polity & Governance", "priority": 1},
+    {"name": "LiveMint - Science", "url": "https://www.livemint.com/rss/science", "category": "Science & Technology", "priority": 1},
+    {"name": "India Today - India", "url": "https://www.indiatoday.in/rss/home", "category": "National News", "priority": 2},
+    {"name": "India Today - Sports", "url": "https://www.indiatoday.in/rss/sports", "category": "Sports", "priority": 2},
+    {"name": "Financial Express", "url": "https://www.financialexpress.com/feed/", "category": "Economy & Banking", "priority": 2},
+    {"name": "The Tribune", "url": "https://www.tribuneindia.com/rss/feed", "category": "National News", "priority": 2},
+    {"name": "Deccan Herald - National", "url": "https://www.deccanherald.com/national/feed", "category": "National News", "priority": 2},
+    {"name": "Deccan Herald - Karnataka", "url": "https://www.deccanherald.com/state/feed", "category": "State News", "priority": 2},
+    {"name": "The Wire - Politics", "url": "https://thewire.in/politics/feed", "category": "Polity & Governance", "priority": 2},
+    {"name": "Scroll India", "url": "https://scroll.in/feed", "category": "National News", "priority": 2},
+    {"name": "News18 - India", "url": "https://www.news18.com/rss/india.xml", "category": "National News", "priority": 2},
+    {"name": "News18 - World", "url": "https://www.news18.com/rss/world.xml", "category": "International Relations", "priority": 2},
+    {"name": "Zee News - India", "url": "https://zeenews.india.com/rss/india-national-news.xml", "category": "National News", "priority": 2},
+    {"name": "The Print - India", "url": "https://theprint.in/feed/", "category": "Polity & Governance", "priority": 2},
+    {"name": "Firstpost - India", "url": "https://www.firstpost.com/rss/india.xml", "category": "National News", "priority": 2},
+    {"name": "Wion - India", "url": "https://www.wionews.com/feeds/india.xml", "category": "International Relations", "priority": 2},
+    {"name": "Sportstar", "url": "https://sportstar.thehindu.com/feeder/default.rss", "category": "Sports", "priority": 1},
+    {"name": "Down to Earth", "url": "https://www.downtoearth.org.in/rss", "category": "Science & Technology", "priority": 1}
   ]
 }
