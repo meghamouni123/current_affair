@@ -250,30 +250,43 @@ function init(){
     }).join("");
   }
 
-  // Category Performance Chart — based on quiz question categories
+  // Reading Performance Chart — actual category-wise read counts
   const catEl=document.getElementById("catPerf");
-  if(qh.length>0){
-    // Build per-category score from stored quiz results
-    const catScores={};
-    const catCounts={};
-    // Use simulated distribution weighted by quiz history avg
-    const baseAvg=qh.length?Math.round(qh.reduce((s,q)=>s+(q.score||0),0)/qh.length):50;
-    CATS_PERF.forEach(c=>{
-      // Vary ±20% around average for realistic display
-      const variance=Math.floor(Math.random()*40)-20;
-      catScores[c.name]=Math.min(100,Math.max(10,baseAvg+variance));
+  const catReads=getCatReads();
+  // Aggregate all days
+  const catTotals={};
+  Object.values(catReads).forEach(dayObj=>{
+    Object.entries(dayObj).forEach(([cat,cnt])=>{
+      catTotals[cat]=(catTotals[cat]||0)+cnt;
     });
-    catEl.innerHTML=CATS_PERF.map(c=>{
-      const pct=catScores[c.name];
-      const lcolor=pct>=70?"var(--green)":pct>=50?"var(--accent)":"var(--red)";
+  });
+  const CATS_PERF_LIST=[
+    {name:"Economy & Banking",color:"#3fb950"},
+    {name:"Polity & Governance",color:"#bc8cff"},
+    {name:"International Relations",color:"#58a6ff"},
+    {name:"Science & Technology",color:"#f4b942"},
+    {name:"Sports",color:"#5ce0b8"},
+    {name:"Awards & Honours",color:"#e0b85c"},
+    {name:"Important Days & Obituaries",color:"#e0785c"},
+    {name:"Summits & Conferences",color:"#785ce0"},
+    {name:"National News",color:"#42b9f4"},
+    {name:"Schemes & Appointments",color:"#e05c5c"},
+  ];
+  const hasReads=Object.keys(catTotals).length>0;
+  if(hasReads){
+    const maxReads=Math.max(...CATS_PERF_LIST.map(c=>catTotals[c.name]||0),1);
+    catEl.innerHTML=CATS_PERF_LIST.map(c=>{
+      const cnt=catTotals[c.name]||0;
+      const pct=Math.round(cnt/maxReads*100);
+      const lcolor=pct>=70?"var(--green)":pct>=40?"var(--accent)":"var(--red)";
       return`<div class="cp-item">
         <div class="cp-name">${c.name}</div>
         <div class="cp-bar-wrap"><div class="cp-bar" style="width:${pct}%;background:${c.color}"></div></div>
-        <div class="cp-pct" style="color:${lcolor}">${pct}%</div>
+        <div class="cp-pct" style="color:${lcolor}">${cnt} read</div>
       </div>`;
     }).join("");
   } else {
-    catEl.innerHTML=`<div style="color:var(--muted);font-size:.85rem;text-align:center;padding:20px 0">Take quizzes to see your category performance 📊</div>`;
+    catEl.innerHTML=`<div style="color:var(--muted);font-size:.85rem;text-align:center;padding:20px 0">Start reading articles to see your category performance 📖</div>`;
   }
 
   // Achievements

@@ -297,7 +297,7 @@ function renderArts(arts){
     const pct=Math.round((a.relevance_score||0)*100);
     const saved=!!bm[a.id];
     const dateStr=a.published_date||a.published_at||"";
-    const d=dateStr?formatDate(dateStr):"";    return`<div class="article-card" style="animation-delay:${i*0.04}s" onclick="markRead(${a.id})">
+    const d=dateStr?formatDate(dateStr):"";    return`<div class="article-card" style="animation-delay:${i*0.04}s" onclick="markRead(${a.id});markCatRead('${(a.category||'').replace(/'/g,"\\'")}')">
       <div class="card-meta">
         <span class="badge ${cls}">${a.category}</span>
         ${a.url?`<a href="${a.url}" target="_blank" class="src-tag">📰 ${a.source||"Source"} ↗</a>`:`<span class="src-tag">📰 ${a.source||""}</span>`}

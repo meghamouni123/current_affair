@@ -26,6 +26,20 @@ window.saveBookmarks  = (b) => localStorage.setItem("ca_bookmarks", JSON.stringi
 window.getReadHistory = () => { try { return JSON.parse(localStorage.getItem("ca_read") || "[]"); } catch { return []; } };
 window.markRead       = (id) => { const h = getReadHistory(); if (!h.includes(id)) { h.unshift(id); localStorage.setItem("ca_read", JSON.stringify(h.slice(0, 200))); } };
 
+// Category-wise read tracking
+window.getCatReads = () => { try { return JSON.parse(localStorage.getItem("ca_cat_reads") || "{}"); } catch { return {}; } };
+window.markCatRead = (category) => {
+  if(!category) return;
+  const today = new Date().toISOString().slice(0,10);
+  const data = getCatReads();
+  if(!data[today]) data[today] = {};
+  data[today][category] = (data[today][category] || 0) + 1;
+  // Keep only last 30 days
+  const keys = Object.keys(data).sort();
+  if(keys.length > 30) keys.slice(0, keys.length - 30).forEach(k => delete data[k]);
+  localStorage.setItem("ca_cat_reads", JSON.stringify(data));
+};
+
 window.trackVisit = () => {
   const u = getUser();
   const visits = JSON.parse(localStorage.getItem("ca_visits") || "[]");
