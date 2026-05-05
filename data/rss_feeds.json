@@ -499,12 +499,6 @@
       "priority": 1
     },
     {
-      "name": "Olympics News",
-      "url": "https://olympics.com/en/news/rss",
-      "category": "Sports",
-      "priority": 1
-    },
-    {
       "name": "NDTV - India",
       "url": "https://feeds.feedburner.com/ndtvnews-india-news",
       "category": "National News",
