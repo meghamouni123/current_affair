@@ -55,6 +55,8 @@ EXAM_KEYWORDS = [
     'vaccine', 'health', 'hospital', 'drug', 'medicine', 'aiims', 'icmr',
     'railway', 'highway', 'airport', 'port', 'infrastructure', 'smart city',
     'state', 'district', 'inaugurated', 'launched', 'foundation stone',
+    'election result', 'election results', 'assembly result', 'poll result',
+    'seats won', 'vote count', 'winner', 'constituency', 'mla',
 ]
 
 NOT_RELEVANT_SIGNALS = [
@@ -142,7 +144,7 @@ def fetch_rss_feed(feed_info: Dict, extract_text: bool = True) -> List[Dict]:
         if parsed.bozo and not parsed.entries:
             return []
 
-        for entry in parsed.entries[:20]:
+        for entry in parsed.entries[:50]:
             try:
                 title    = getattr(entry, 'title',   '').strip()
                 link     = getattr(entry, 'link',    '').strip()

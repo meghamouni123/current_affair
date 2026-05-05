@@ -30,6 +30,9 @@ CATEGORY_PATTERNS = {
         'president of india', 'prime minister', 'chief minister', 'preamble',
         'fundamental rights', 'article 370', 'eci', 'general election', 'rti',
         'lokpal', 'enforcement directorate', 'delimitation', 'by-election',
+        'election result', 'election results', 'assembly election result',
+        'poll outcome', 'vote count', 'seats won', 'party wins', 'bjp wins',
+        'congress wins', 'aap wins', 'majority government', 'hung assembly',
     ],
     'International Relations': [
         'bilateral', 'mou signed', 'diplomatic', 'foreign minister', 'ambassador',
@@ -109,6 +112,9 @@ CATEGORY_PATTERNS = {
     'State News': [
         'state government', 'chief minister', 'state cabinet',
         'state assembly', 'vidhan sabha', 'state budget',
+        'election result', 'election results', 'assembly election',
+        'assembly results', 'poll result', 'vote count', 'winner list',
+        'constituency', 'mla elected', 'seats won', 'majority',
         'andhra pradesh', 'telangana', 'karnataka', 'tamil nadu', 'kerala',
         'maharashtra', 'gujarat', 'rajasthan', 'uttar pradesh', 'bihar',
         'west bengal', 'odisha', 'madhya pradesh', 'punjab', 'haryana',
