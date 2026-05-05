@@ -254,7 +254,7 @@ tr:last-child td{border-bottom:none}
       <div class="card">
         <div class="table-wrap">
           <table>
-            <thead><tr><th>#</th><th>Headline</th><th>Category</th><th>Source</th><th>Score</th><th>Date</th><th>Status</th><th>Actions</th></tr></thead>
+            <thead><tr><th>#</th><th>Headline</th><th>Category</th><th>Source</th><th>Score</th><th>Date</th><th>Actions</th></tr></thead>
             <tbody id="artTableBody"></tbody>
           </table>
         </div>
@@ -663,7 +663,6 @@ function renderArtTable(){
       <td style="color:var(--muted);font-size:.78rem">${a.source||"—"}</td>
       <td><span class="badge ${sc}">${pct}%</span></td>
       <td style="color:var(--muted);font-size:.78rem">${dateStr?new Date(dateStr).toLocaleDateString("en-IN",{day:"numeric",month:"short"}):"—"}</td>
-      <td><span class="badge badge-green">Active</span></td>
       <td style="display:flex;gap:4px">
         ${a.url?`<a href="${a.url}" target="_blank" class="btn btn-ghost" style="padding:3px 8px;font-size:.72rem">🔗</a>`:""}
       </td></tr>`;
