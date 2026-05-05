@@ -711,10 +711,14 @@ const DEFAULT_Q_BANK = [
 ];
 
 function getAdminQuestions(){
+  const VERSION = "may2026-v3";
   const stored=localStorage.getItem("ca_admin_questions");
-  if(stored){try{return JSON.parse(stored);}catch(e){}}
-  // First time: seed with defaults and save
+  const storedVer=localStorage.getItem("ca_admin_questions_ver");
+  // Force refresh if version mismatch
+  if(stored && storedVer===VERSION){try{return JSON.parse(stored);}catch(e){}}
+  // Seed with latest defaults
   localStorage.setItem("ca_admin_questions",JSON.stringify(DEFAULT_Q_BANK));
+  localStorage.setItem("ca_admin_questions_ver",VERSION);
   return DEFAULT_Q_BANK;
 }
 function saveAdminQuestions(qs){
