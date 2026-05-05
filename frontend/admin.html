@@ -296,15 +296,18 @@ tr:last-child td{border-bottom:none}
     <!-- ═══ QUIZ ═══ -->
     <div class="section" id="sec-quiz">
       <div class="kpi-grid" style="grid-template-columns:repeat(3,1fr)">
-        <div class="kpi-card"><div class="kpi-icon">🧠</div><div class="kpi-val" id="qk1">30</div><div class="kpi-label">Total Questions</div></div>
+        <div class="kpi-card"><div class="kpi-icon">🧠</div><div class="kpi-val" id="qk1">—</div><div class="kpi-label">Total Questions</div></div>
         <div class="kpi-card"><div class="kpi-icon">📊</div><div class="kpi-val" id="qk2">—</div><div class="kpi-label">Attempts Today</div></div>
         <div class="kpi-card"><div class="kpi-icon">⭐</div><div class="kpi-val" id="qk3">—</div><div class="kpi-label">Avg Score</div></div>
       </div>
-      <div class="toolbar"><button class="btn btn-primary" onclick="openQModal()">+ Add Question</button></div>
+      <div class="toolbar">
+        <button class="btn btn-primary" onclick="openQModal()">+ Add Question</button>
+        <span style="font-size:.78rem;color:var(--muted);margin-left:8px">Changes sync to User Quiz instantly via localStorage</span>
+      </div>
       <div class="card">
         <div class="table-wrap">
           <table>
-            <thead><tr><th>#</th><th>Question</th><th>Category</th><th>Difficulty</th></tr></thead>
+            <thead><tr><th>#</th><th>Question</th><th>Category</th><th>Difficulty</th><th>Actions</th></tr></thead>
             <tbody id="quizTable"></tbody>
           </table>
         </div>
@@ -374,20 +377,46 @@ tr:last-child td{border-bottom:none}
 
 <!-- Quiz Question Modal -->
 <div class="modal-overlay" id="qModal">
-  <div class="modal">
-    <div class="modal-title">🧠 Add Quiz Question <button class="modal-close" onclick="closeModal('qModal')">✕</button></div>
+  <div class="modal" style="max-width:580px">
+    <div class="modal-title"><span id="qModalTitle">🧠 Add Quiz Question</span> <button class="modal-close" onclick="closeModal('qModal')">✕</button></div>
+    <input type="hidden" id="qEditIdx" value="-1">
     <div class="form-group"><label class="form-label">Question</label><textarea class="form-textarea" id="qQ" placeholder="Enter question…"></textarea></div>
     <div class="form-group"><label class="form-label">Option A</label><input class="form-inp" id="qA" placeholder="Option A"></div>
     <div class="form-group"><label class="form-label">Option B</label><input class="form-inp" id="qB" placeholder="Option B"></div>
     <div class="form-group"><label class="form-label">Option C</label><input class="form-inp" id="qC" placeholder="Option C"></div>
     <div class="form-group"><label class="form-label">Option D</label><input class="form-inp" id="qD" placeholder="Option D"></div>
-    <div class="form-group"><label class="form-label">Correct Answer</label>
-      <select class="form-sel" id="qAns"><option value="0">A</option><option value="1">B</option><option value="2">C</option><option value="3">D</option></select>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px">
+      <div class="form-group"><label class="form-label">Correct Answer</label>
+        <select class="form-sel" id="qAns"><option value="0">A</option><option value="1">B</option><option value="2">C</option><option value="3">D</option></select>
+      </div>
+      <div class="form-group"><label class="form-label">Difficulty</label>
+        <select class="form-sel" id="qDiff"><option value="Easy">Easy</option><option value="Medium">Medium</option><option value="Hard">Hard</option></select>
+      </div>
+    </div>
+    <div class="form-group"><label class="form-label">Category</label>
+      <select class="form-sel" id="qCat">
+        <option>Economy & Banking</option><option>Polity & Governance</option><option>International Relations</option>
+        <option>Science & Technology</option><option>Sports</option><option>Awards & Honours</option>
+        <option>Current Affairs</option><option>National News</option>
+      </select>
     </div>
     <div class="form-group"><label class="form-label">Explanation</label><textarea class="form-textarea" id="qExp" placeholder="Explain the correct answer…"></textarea></div>
     <div class="modal-footer">
       <button class="btn btn-ghost" onclick="closeModal('qModal')">Cancel</button>
       <button class="btn btn-primary" onclick="saveQuestion()">💾 Save Question</button>
+    </div>
+  </div>
+</div>
+
+<!-- Confirm Delete Modal -->
+<div class="modal-overlay" id="delModal">
+  <div class="modal" style="max-width:380px;text-align:center">
+    <div style="font-size:2.5rem;margin-bottom:12px">🗑️</div>
+    <div style="font-size:1rem;font-weight:700;margin-bottom:8px">Delete Question?</div>
+    <div style="font-size:.85rem;color:var(--muted);margin-bottom:20px" id="delQText"></div>
+    <div style="display:flex;gap:10px;justify-content:center">
+      <button class="btn btn-ghost" onclick="closeModal('delModal')">Cancel</button>
+      <button class="btn btn-danger" onclick="confirmDelete()">🗑️ Delete</button>
     </div>
   </div>
 </div>
@@ -667,25 +696,68 @@ function loadUsers(){
 function filterUsers(){loadUsers();}
 
 // ── Quiz ──────────────────────────────────────────────────────────────────────
+const DEFAULT_Q_BANK = [
+  // ── May 4, 2025 Current Affairs ──
+  {q:"India conducted 'Operation Sindoor' targeting terror infrastructure in which country?",opts:["Afghanistan","Bangladesh","Pakistan","Nepal"],ans:2,exp:"Operation Sindoor was India's precision military strike on 9 terror camps in Pakistan and Pakistan-occupied Kashmir on May 7, 2025, in retaliation for the Pahalgam attack.",cat:"Current Affairs",diff:"Medium"},
+  {q:"The Pahalgam terror attack that triggered Operation Sindoor occurred in which month of 2025?",opts:["March","April","May","June"],ans:1,exp:"The Pahalgam terror attack occurred on April 22, 2025, killing 26 tourists. It triggered India's Operation Sindoor.",cat:"Current Affairs",diff:"Easy"},
+  {q:"Which Indian state recently passed a resolution demanding Special Category Status (SCS)?",opts:["Bihar","Andhra Pradesh","Odisha","Jharkhand"],ans:0,exp:"Bihar's assembly passed a resolution in May 2025 demanding Special Category Status from the Centre, citing economic backwardness.",cat:"Current Affairs",diff:"Medium"},
+  {q:"India's GDP growth rate for FY 2024-25 was projected at approximately?",opts:["6.4%","6.8%","7.2%","7.6%"],ans:0,exp:"India's GDP growth for FY 2024-25 was projected at 6.4% by NSO, making it the fastest-growing major economy globally.",cat:"Economy & Banking",diff:"Medium"},
+  {q:"Which country was elected as the new President of the UN General Assembly for 2025-26?",opts:["Brazil","Philippines","South Africa","Egypt"],ans:1,exp:"Philippines' Philemon Yang was elected as President of the 80th UN General Assembly session for 2025-26.",cat:"International Relations",diff:"Hard"},
+  // ── May 5, 2025 Current Affairs ──
+  {q:"India's first indigenously developed quantum computer was unveiled by which institution?",opts:["IIT Delhi","IISc Bangalore","DRDO","C-DAC"],ans:3,exp:"C-DAC unveiled India's first indigenously developed quantum computer 'Rudra' in May 2025, a major milestone in India's quantum computing mission.",cat:"Science & Technology",diff:"Medium"},
+  {q:"Which Indian cricketer announced retirement from Test cricket in May 2025?",opts:["Virat Kohli","Rohit Sharma","Ravindra Jadeja","Shubman Gill"],ans:1,exp:"Rohit Sharma announced his retirement from Test cricket in May 2025 after a distinguished career spanning over 15 years.",cat:"Sports",diff:"Easy"},
+  {q:"The 'Viksit Bharat' vision targets India becoming a developed nation by which year?",opts:["2035","2040","2047","2050"],ans:2,exp:"Viksit Bharat (Developed India) is PM Modi's vision to make India a developed nation by 2047, coinciding with 100 years of independence.",cat:"Polity & Governance",diff:"Easy"},
+  {q:"Which country hosted the SCO (Shanghai Cooperation Organisation) Summit in 2025?",opts:["Russia","China","Kazakhstan","Pakistan"],ans:2,exp:"Kazakhstan hosted the SCO Summit in 2025. India is a full member of SCO since 2017.",cat:"International Relations",diff:"Medium"},
+  {q:"India's Unified Payments Interface (UPI) crossed how many monthly transactions in April 2025?",opts:["10 billion","14 billion","18 billion","20 billion"],ans:1,exp:"UPI crossed 14 billion monthly transactions in April 2025, reinforcing India's position as a global leader in digital payments.",cat:"Economy & Banking",diff:"Hard"},
+  // ── Static CA Bank ──
+  {q:"Which organization releases the Human Development Index (HDI) annually?",opts:["World Bank","UNDP","IMF","WHO"],ans:1,exp:"UNDP (United Nations Development Programme) publishes HDI annually measuring health, education, and living standards.",cat:"International Relations",diff:"Easy"},
+  {q:"What does 'REPO Rate' mean in Indian banking context?",opts:["Rate at which RBI lends to banks","Rate at which banks lend to customers","Rate of return on government bonds","Rate of foreign exchange"],ans:0,exp:"Repo rate is the rate at which RBI lends short-term funds to commercial banks against government securities.",cat:"Economy & Banking",diff:"Medium"},
+  {q:"Article 370 of the Indian Constitution was related to which state?",opts:["Sikkim","Nagaland","Jammu & Kashmir","Arunachal Pradesh"],ans:2,exp:"Article 370 granted special autonomous status to Jammu & Kashmir. It was abrogated in August 2019.",cat:"Polity & Governance",diff:"Easy"},
+  {q:"Which mission is India's first solar observation mission?",opts:["Chandrayaan-3","Gaganyaan","Aditya-L1","MOM"],ans:2,exp:"Aditya-L1 is India's first solar mission launched by ISRO in 2023, positioned at the L1 Lagrange point.",cat:"Science & Technology",diff:"Medium"},
+  {q:"Which body regulates the securities market in India?",opts:["RBI","SEBI","IRDA","PFRDA"],ans:1,exp:"SEBI (Securities and Exchange Board of India) regulates and develops the securities market in India.",cat:"Economy & Banking",diff:"Easy"},
+  {q:"Which country became the first to land on the lunar south pole?",opts:["USA","China","Russia","India"],ans:3,exp:"India's Chandrayaan-3 mission achieved historic success on August 23, 2023, landing near the lunar south pole.",cat:"Science & Technology",diff:"Easy"},
+  {q:"The G20 Summit 2023 was held in which Indian city?",opts:["Mumbai","Delhi","Bengaluru","Hyderabad"],ans:1,exp:"The G20 Leaders' Summit 2023 was held in New Delhi in September 2023, under India's G20 Presidency.",cat:"International Relations",diff:"Easy"},
+  {q:"UDAN scheme is related to which sector?",opts:["Railways","Road transport","Aviation","Shipping"],ans:2,exp:"UDAN (Ude Desh ka Aam Naagrik) is a regional aviation connectivity scheme aimed at making air travel affordable.",cat:"Polity & Governance",diff:"Easy"},
+  {q:"Which state has the largest coastline in India?",opts:["Andhra Pradesh","Tamil Nadu","Gujarat","Maharashtra"],ans:2,exp:"Gujarat has the longest coastline among Indian states at approximately 1,600 km, including the Saurashtra coast.",cat:"National News",diff:"Easy"},
+  {q:"PM-KISAN scheme provides financial assistance to farmers of?",opts:["₹4,000/year","₹6,000/year","₹8,000/year","₹10,000/year"],ans:1,exp:"PM-KISAN provides income support of ₹6,000 per year (₹2,000 per installment, 3 installments) to eligible farmer families.",cat:"Polity & Governance",diff:"Easy"},
+];
+
+function getAdminQuestions(){
+  const stored=localStorage.getItem("ca_admin_questions");
+  if(stored){try{return JSON.parse(stored);}catch(e){}}
+  // First time: seed with defaults and save
+  localStorage.setItem("ca_admin_questions",JSON.stringify(DEFAULT_Q_BANK));
+  return DEFAULT_Q_BANK;
+}
+function saveAdminQuestions(qs){
+  localStorage.setItem("ca_admin_questions",JSON.stringify(qs));
+}
+
+let pendingDelIdx=-1;
+
 function loadQuiz(){
+  const qs=getAdminQuestions();
+  document.getElementById("qk1").textContent=qs.length;
   document.getElementById("qk2").textContent=getQuizHistory().length;
   const qh=getQuizHistory();
-  const avg=qh.length?Math.round(qh.reduce((s,q)=>s+(q.score||0),0)/qh.length):0;
+  const avg=qh.length?Math.round(qh.reduce((s,q)=>s+(q.score||0),0)/qh.length*10):0;
   document.getElementById("qk3").textContent=avg+"%";
-  const Q_BANK_PREVIEW=[
-    {q:"Which organization releases the HDI annually?",cat:"International",diff:"Easy"},
-    {q:"What does REPO Rate mean in Indian banking?",cat:"Economy",diff:"Medium"},
-    {q:"Article 370 was related to which state?",cat:"Polity",diff:"Easy"},
-    {q:"India's first solar observation mission?",cat:"Science",diff:"Medium"},
-    {q:"Which body regulates securities market in India?",cat:"Economy",diff:"Easy"},
-  ];
-  document.getElementById("quizTable").innerHTML=Q_BANK_PREVIEW.map((q,i)=>`
-    <tr><td>${i+1}</td><td style="max-width:350px">${q.q}</td>
-    <td><span class="badge badge-blue">${q.cat}</span></td>
-    <td><span class="badge ${q.diff==='Easy'?'badge-green':'badge-yellow'}">${q.diff}</span></td></tr>`).join("");
+
+  document.getElementById("quizTable").innerHTML=qs.map((q,i)=>`
+    <tr>
+      <td>${i+1}</td>
+      <td style="max-width:300px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${q.q}">${q.q}</td>
+      <td><span class="badge badge-blue" style="font-size:.62rem">${q.cat||"General"}</span></td>
+      <td><span class="badge ${q.diff==='Easy'?'badge-green':q.diff==='Hard'?'badge-red':'badge-yellow'}">${q.diff||"Medium"}</span></td>
+      <td style="display:flex;gap:4px">
+        <button class="btn btn-ghost" style="padding:3px 10px;font-size:.72rem" onclick="editQuestion(${i})">✏️ Edit</button>
+        <button class="btn btn-danger" style="padding:3px 10px;font-size:.72rem" onclick="deleteQuestion(${i})">🗑️</button>
+      </td>
+    </tr>`).join("")||"<tr><td colspan='5' style='color:var(--muted);text-align:center'>No questions yet</td></tr>";
+
   const ranges=["0-40%","41-60%","61-80%","81-100%"];
   const dist=[0,0,0,0];
-  qh.forEach(q=>{const s=q.score||0;if(s<=40)dist[0]++;else if(s<=60)dist[1]++;else if(s<=80)dist[2]++;else dist[3]++;});
+  qh.forEach(q=>{const s=(q.score||0)*10;if(s<=40)dist[0]++;else if(s<=60)dist[1]++;else if(s<=80)dist[2]++;else dist[3]++;});
   const maxD=Math.max(...dist,1);
   const sColors=["#e05c5c","#f4b942","#58a6ff","#3fb950"];
   document.getElementById("scoreDistChart").innerHTML=dist.map((v,i)=>`
@@ -694,12 +766,76 @@ function loadQuiz(){
     <div class="bc-label">${ranges[i]}</div></div>`).join("");
 }
 
+function editQuestion(idx){
+  const qs=getAdminQuestions();
+  const q=qs[idx];
+  document.getElementById("qEditIdx").value=idx;
+  document.getElementById("qModalTitle").textContent="✏️ Edit Quiz Question";
+  document.getElementById("qQ").value=q.q;
+  document.getElementById("qA").value=q.opts[0];
+  document.getElementById("qB").value=q.opts[1];
+  document.getElementById("qC").value=q.opts[2];
+  document.getElementById("qD").value=q.opts[3];
+  document.getElementById("qAns").value=q.ans;
+  document.getElementById("qDiff").value=q.diff||"Medium";
+  document.getElementById("qCat").value=q.cat||"Current Affairs";
+  document.getElementById("qExp").value=q.exp||"";
+  document.getElementById("qModal").classList.add("show");
+}
+
+function deleteQuestion(idx){
+  const qs=getAdminQuestions();
+  pendingDelIdx=idx;
+  document.getElementById("delQText").textContent=qs[idx].q.slice(0,80)+"…";
+  document.getElementById("delModal").classList.add("show");
+}
+
+function confirmDelete(){
+  if(pendingDelIdx<0)return;
+  const qs=getAdminQuestions();
+  qs.splice(pendingDelIdx,1);
+  saveAdminQuestions(qs);
+  pendingDelIdx=-1;
+  closeModal("delModal");
+  loadQuiz();
+  showToast("Question deleted ✅");
+}
+
 // ── Modals ────────────────────────────────────────────────────────────────────
 function openArtModal(){document.getElementById("artModal").classList.add("show");}
-function openQModal(){document.getElementById("qModal").classList.add("show");}
+function openQModal(){
+  document.getElementById("qEditIdx").value=-1;
+  document.getElementById("qModalTitle").textContent="🧠 Add Quiz Question";
+  ["qQ","qA","qB","qC","qD","qExp"].forEach(id=>document.getElementById(id).value="");
+  document.getElementById("qAns").value=0;
+  document.getElementById("qDiff").value="Medium";
+  document.getElementById("qCat").value="Current Affairs";
+  document.getElementById("qModal").classList.add("show");
+}
 function closeModal(id){document.getElementById(id).classList.remove("show");}
 function saveArticle(){showToast("Articles are managed via GitHub Actions pipeline");}
-function saveQuestion(){showToast("Question saved ✅");closeModal("qModal");}
+
+function saveQuestion(){
+  const q=document.getElementById("qQ").value.trim();
+  const a=document.getElementById("qA").value.trim();
+  const b=document.getElementById("qB").value.trim();
+  const c=document.getElementById("qC").value.trim();
+  const d=document.getElementById("qD").value.trim();
+  const ans=parseInt(document.getElementById("qAns").value);
+  const exp=document.getElementById("qExp").value.trim();
+  const diff=document.getElementById("qDiff").value;
+  const cat=document.getElementById("qCat").value;
+  if(!q||!a||!b||!c||!d){showToast("Fill all fields ⚠️","var(--red)");return;}
+  const newQ={q,opts:[a,b,c,d],ans,exp,cat,diff};
+  const qs=getAdminQuestions();
+  const editIdx=parseInt(document.getElementById("qEditIdx").value);
+  if(editIdx>=0){qs[editIdx]=newQ;showToast("Question updated ✅");}
+  else{qs.push(newQ);showToast("Question added ✅");}
+  saveAdminQuestions(qs);
+  closeModal("qModal");
+  loadQuiz();
+}
+
 function saveConfig(){showToast("Update config.js in the codebase");}
 
 // ── Toast ─────────────────────────────────────────────────────────────────────
