@@ -66,6 +66,17 @@ def _word_overlap(s1: str, s2: str) -> float:
     return len(w1 & w2) / len(w1 | w2)
 
 
+def _is_question(sent: str) -> bool:
+    """Filter out question sentences from bullets."""
+    s = sent.strip()
+    if s.endswith('?'):
+        return True
+    ql = s.lower()
+    if ql.startswith(('who ', 'what ', 'why ', 'when ', 'where ', 'how ', 'which ', 'will ', 'can ', 'is ', 'are ', 'was ', 'were ', 'do ', 'does ', 'did ')):
+        return True
+    return False
+
+
 def _is_duplicate(sent: str, selected: List[str], threshold: float = 0.40) -> bool:
     """Check if sentence is too similar to any already selected."""
     for s in selected:
@@ -194,6 +205,8 @@ def _build_bullets(
         sent = sent.strip().rstrip('.')
         if len(sent.split()) < 8:
             continue
+        if _is_question(sent):
+            continue
         if _word_overlap(headline, sent) > 0.65:
             continue
         if _is_duplicate(sent, selected):
@@ -208,6 +221,8 @@ def _build_bullets(
             break
         sent = sent.strip().rstrip('.')
         if len(sent.split()) < 8:
+            continue
+        if _is_question(sent):
             continue
         if _word_overlap(headline, sent) > 0.65:
             continue
@@ -306,6 +321,8 @@ def _extractive_fallback(headline: str, text: str, num_bullets: int = 6) -> Opti
             break
         sent = sent.strip().rstrip('.')
         if len(sent.split()) < 8:
+            continue
+        if _is_question(sent):
             continue
         if _is_duplicate(sent, selected, threshold=0.35):
             continue
