@@ -64,10 +64,6 @@ CATEGORY_PATTERNS = {
         'press freedom index', 'corruption perception', 'global innovation index',
         'economic survey', 'annual report', 'niti aayog report', 'rbi report',
         'india ranked', 'india ranks', 'india position', 'global competitiveness',
-        'report published', 'report launched', 'index published', 'data released',
-        'statistics released', 'census data', 'nfhs', 'plfs', 'aser report',
-        'transparency international', 'freedom house', 'v-dem', 'fitch', 'moody',
-        'credit rating', 's&p rating', 'india gdp growth', 'growth forecast',
     ],
     'Sports': [
         'cricket', 'ipl', 'world cup', 'olympics', 'commonwealth games',
@@ -85,11 +81,6 @@ CATEGORY_PATTERNS = {
         'ashoka chakra', 'sahitya akademi', 'man booker', 'fields medal',
         'awarded to', 'felicitated', 'honoured with', 'civilian honour',
         'lifetime achievement', 'honorary doctorate',
-        'award ceremony', 'prize winner', 'award winner', 'conferred with',
-        'national film award', 'dada saheb phalke', 'sangeet natak akademi',
-        'lalit kala akademi', 'arjuna award', 'dronacharya award',
-        'khel ratna', 'dhyan chand award', 'tenzing norgay award',
-        'indira gandhi prize', 'rajiv gandhi award', 'saraswati samman',
     ],
     'Important Days & Obituaries': [
         'world day', 'international day', 'national day', 'observed on',
@@ -107,12 +98,6 @@ CATEGORY_PATTERNS = {
         'g7 summit', 'nato summit', 'un general assembly', 'unga',
         'climate summit', 'cop28', 'cop29', 'cop30', 'paris agreement',
         'bilateral summit', 'quad summit', 'east asia summit', 'asean summit',
-        'ministerial conference', 'high-level meeting', 'joint statement',
-        'joint communique', 'summit declaration', 'leaders summit',
-        'world summit', 'global summit', 'annual summit', 'trilateral meet',
-        'multilateral summit', 'regional summit', 'virtual summit',
-        'india-africa summit', 'india-eu summit', 'india-asean summit',
-        'scо summit', 'g77 summit', 'commonwealth summit',
     ],
     'National News': [
         'india government', 'central government', 'union minister',
@@ -128,10 +113,6 @@ CATEGORY_PATTERNS = {
         'maharashtra', 'gujarat', 'rajasthan', 'uttar pradesh', 'bihar',
         'west bengal', 'odisha', 'madhya pradesh', 'punjab', 'haryana',
         'assam', 'manipur', 'goa', 'delhi', 'jammu kashmir', 'ladakh',
-        'uttarakhand', 'himachal pradesh', 'jharkhand', 'chhattisgarh',
-        'tripura', 'meghalaya', 'nagaland', 'mizoram', 'arunachal pradesh',
-        'sikkim', 'puducherry', 'chandigarh', 'state cm', 'state minister',
-        'state scheme', 'state policy', 'state election', 'by-poll',
     ],
 }
 
@@ -140,22 +121,21 @@ NOT_RELEVANT_SIGNALS = [
     'fashion week', 'beauty tips', 'tv serial', 'reality show',
     'box office', 'web series', 'hair care', 'skin care',
     'weight loss tips', 'movie review', 'gossip',
-    # Weather / general
-    'weather forecast', 'rain alert', 'rain forecast', 'temperature today',
-    'heatwave alert', 'cyclone alert', 'flood alert', 'weather update',
-    'monsoon forecast', 'imd forecast',
-    # Exam schedules
-    'exam schedule', 'admit card', 'hall ticket', 'exam date sheet',
-    'answer key released', 'cut off marks', 'merit list released',
-    # Stock tips
-    'stock tips', 'buy sell', 'share price target', 'multibagger',
-    'intraday tips', 'trading tips',
-    # Traffic / local noise
-    'traffic jam', 'road block', 'traffic update',
-    # Scores / fantasy
-    'ipl score', 'match score', 'live score', 'fantasy team',
-    # Food / lifestyle
+    'weather forecast', 'rain alert', 'rain today', 'temperature today',
+    'traffic jam', 'road block', 'road accident',
     'recipe', 'cooking tips', 'restaurant review', 'food review',
+    'stock tips', 'buy sell', 'share price target', 'multibagger',
+    'ipl score', 'match score', 'live score', 'fantasy team',
+    # Exam schedule / admit card / result — not current affairs
+    'exam schedule', 'exam date', 'admit card', 'hall ticket',
+    'answer key', 'result declared', 'cut off marks', 'merit list',
+    'ssc exam', 'upsc exam date', 'neet exam', 'jee exam',
+    'board exam', 'cbse result', 'icse result',
+    # General lifestyle / entertainment
+    'astrology', 'rashifal', 'kundali', 'vastu tips',
+    'relationship tips', 'love tips', 'marriage tips',
+    'viral video', 'trending video', 'funny video',
+    'ipl auction', 'player auction', 'fantasy cricket',
 ]
 
 
@@ -273,54 +253,37 @@ class ArticleClassifier:
             logger.error(f"batch classify error: {e}")
             return [self._keyword_fallback(t) for t in texts]
 
-    # Categories that are harder for ML to detect — use lower keyword threshold
-    WEAK_CATEGORIES = {
-        'Reports & Indices', 'Awards & Honours',
-        'Important Days & Obituaries', 'Summits & Conferences',
-        'Schemes & Appointments',
-    }
-
     def is_exam_relevant(self, text: str, threshold: float = 0.80, feed_category: str = '') -> Tuple[bool, str, float]:
         tl = text.lower()
         for sig in NOT_RELEVANT_SIGNALS:
             if sig in tl:
                 return False, 'NOT_RELEVANT', 0.30
 
+        # Reject pure question-format headlines (quiz questions, not news)
+        stripped = text.strip()
+        if stripped.endswith('?') and len(stripped.split()) <= 20:
+            return False, 'NOT_RELEVANT', 0.25
+
+        # Strong keyword override — if 3+ keywords match a category, trust it directly
         kw_scores = {
             cat: sum(1 for kw in kws if kw in tl)
             for cat, kws in CATEGORY_PATTERNS.items()
         }
-
-        # Strong categories: 3+ keywords needed
-        kw_best_strong = {k: v for k, v in kw_scores.items()
-                          if v >= 3 and k not in self.WEAK_CATEGORIES}
-        if kw_best_strong:
-            best_kw = max(kw_best_strong, key=kw_best_strong.get)
-            kw_conf = min(0.82 + kw_best_strong[best_kw] * 0.03, 0.95)
-            return True, best_kw, kw_conf
-
-        # Weak categories: 2+ keywords is enough
-        kw_best_weak = {k: v for k, v in kw_scores.items()
-                        if v >= 2 and k in self.WEAK_CATEGORIES}
-        if kw_best_weak:
-            best_kw = max(kw_best_weak, key=kw_best_weak.get)
-            kw_conf = min(0.81 + kw_best_weak[best_kw] * 0.02, 0.92)
+        kw_best = {k: v for k, v in kw_scores.items() if v >= 3}
+        if kw_best:
+            best_kw = max(kw_best, key=kw_best.get)
+            kw_conf = min(0.82 + kw_best[best_kw] * 0.03, 0.95)
             return True, best_kw, kw_conf
 
         # ML model classification
         cat, conf = self.classify(text)
 
-        # Feed category hint: if feed is a weak category and has 1+ keyword, trust it
+        # Feed category hint boost: if ML agrees with feed category, lower threshold slightly
         if feed_category and feed_category in CATEGORY_PATTERNS:
-            feed_kw_match = kw_scores.get(feed_category, 0)
-            if feed_category in self.WEAK_CATEGORIES and feed_kw_match >= 1:
-                boosted_conf = min(conf + 0.15, 0.92)
-                if boosted_conf >= threshold:
-                    return True, feed_category, boosted_conf
-            # Normal feed boost: ML agrees with feed category
             if cat == feed_category and conf >= 0.65:
                 return True, cat, conf
-            # ML uncertain but feed has keyword match
+            # If ML is uncertain but feed category has 1+ keyword match, use feed category
+            feed_kw_match = kw_scores.get(feed_category, 0)
             if conf < threshold and feed_kw_match >= 1:
                 boosted_conf = min(conf + 0.10, 0.95)
                 if boosted_conf >= threshold:

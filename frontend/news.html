@@ -3,14 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Current Affairs — CA Daily</title>
+<title>Current Affairs — NewsPrep</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--accent:#f4b942;--text:#e6edf3;--muted:#7d8590;--card:#1c2128;--green:#3fb950;--blue:#58a6ff;--red:#e05c5c}
-body.light{--bg:#f6f8fa;--surface:#ffffff;--border:#d0d7de;--text:#1f2328;--muted:#444c56;--card:#ffffff}
-*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);display:flex;min-height:100vh;font-size:14px;transition:background .2s,color .2s}
-.theme-toggle-btn{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:6px 12px;font-size:.8rem;cursor:pointer;color:var(--text);font-family:'DM Sans',sans-serif;transition:all .2s}
-.theme-toggle-btn:hover{border-color:var(--accent);color:var(--accent)}
+*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);display:flex;min-height:100vh;font-size:14px}
 .sidebar{width:220px;min-height:100vh;background:var(--surface);border-right:1px solid var(--border);position:fixed;top:0;left:0;display:flex;flex-direction:column;z-index:100}
 .sb-logo{padding:20px;border-bottom:1px solid var(--border)}
 .sb-logo-title{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:800}
@@ -55,19 +52,17 @@ input[type="date"]::-webkit-calendar-picker-indicator{filter:invert(.5)}
 .results-info strong{color:var(--text)}
 .sort-sel{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:6px 10px;font-family:'DM Sans',sans-serif;font-size:.82rem;color:var(--text);outline:none;cursor:pointer}
 /* Article card */
-.article-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:20px 22px;margin-bottom:14px;transition:all .2s;animation:slideUp .3s ease both}
-body.light .article-card{box-shadow:0 1px 6px rgba(0,0,0,.08)}
+.article-card{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:18px 20px;margin-bottom:12px;transition:all .2s;animation:slideUp .3s ease both}
 .article-card:hover{border-color:rgba(244,185,66,.25);transform:translateY(-1px)}
 @keyframes slideUp{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
 .card-meta{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:10px}
 .badge{padding:3px 10px;border-radius:5px;font-size:.65rem;font-weight:700;text-transform:uppercase;letter-spacing:.4px}
-.src-tag{font-size:.82rem;color:var(--muted);text-decoration:none;transition:color .2s}
+.src-tag{font-size:.75rem;color:var(--muted);text-decoration:none;transition:color .2s}
 .src-tag:hover{color:var(--accent)}
-.date-tag{font-size:.82rem;color:var(--muted);margin-left:auto}
-.score-chip{background:rgba(244,185,66,.12);color:var(--accent);font-size:.76rem;font-weight:700;padding:2px 8px;border-radius:4px}
-.card-title{font-family:'Playfair Display',serif;font-size:1.15rem;font-weight:700;line-height:1.45;margin-bottom:10px}
-.card-summary{font-size:.92rem;line-height:1.85;color:#c9d1d9;white-space:pre-line;display:-webkit-box;-webkit-line-clamp:4;line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;transition:all .3s}
-body.light .card-summary{color:#3a3f47}
+.date-tag{font-size:.75rem;color:var(--muted);margin-left:auto}
+.score-chip{background:rgba(244,185,66,.12);color:var(--accent);font-size:.7rem;font-weight:700;padding:2px 8px;border-radius:4px}
+.card-title{font-family:'Playfair Display',serif;font-size:1.05rem;font-weight:700;line-height:1.4;margin-bottom:10px}
+.card-summary{font-size:.92rem;line-height:1.85;color:var(--muted);white-space:pre-line;display:-webkit-box;-webkit-line-clamp:4;line-clamp:4;-webkit-box-orient:vertical;overflow:hidden;transition:all .3s}
 .card-summary.exp{-webkit-line-clamp:unset;overflow:visible}
 .card-footer{display:flex;align-items:center;gap:8px;margin-top:12px;padding-top:10px;border-top:1px solid var(--border);flex-wrap:wrap}
 .rm-btn{background:none;border:none;cursor:pointer;font-size:.8rem;color:var(--accent);font-family:'DM Sans',sans-serif;font-weight:600;padding:0}
@@ -105,7 +100,7 @@ body.light .card-summary{color:#3a3f47}
 <script>requireLogin();</script>
 
 <nav class="sidebar">
-  <div class="sb-logo"><div class="sb-logo-title">CA<em>Daily</em> Portal</div></div>
+  <div class="sb-logo"><div class="sb-logo-title">News<em>Prep</em></div></div>
   <div class="sb-nav">
     <a class="nav-item" href="index.html">🏠 Home</a>
     <a class="nav-item active" href="news.html">📰 Current Affairs</a>
@@ -113,6 +108,7 @@ body.light .card-summary{color:#3a3f47}
     <a class="nav-item" href="profile.html">👤 Profile</a>
     <a class="nav-item" id="adminLink" href="admin.html" style="display:none">⚙️ Admin Panel</a>
     <a class="nav-item" href="#" onclick="clearUser();location.href='login.html'">🚪 Logout</a>
+    <a class="nav-item" href="#" id="themeToggleBtn" onclick="toggleTheme();return false;">☀️ Light Mode</a>
   </div>
 </nav>
 
@@ -123,7 +119,6 @@ body.light .card-summary{color:#3a3f47}
       <span class="si">🔍</span>
       <input class="search-inp" id="searchInp" placeholder="Search articles…" oninput="onSearch(this.value)">
     </div>
-    <button class="theme-toggle-btn" onclick="toggleTheme()">☀️ Light</button>
   </div>
 
   <div class="content-layout">

@@ -39,32 +39,6 @@ def _get_mpnet():
     return _mpnet_model
 
 
-def _is_question_or_noise(sent: str) -> bool:
-    """Filter out questions, promotional, and noise sentences."""
-    s = sent.strip()
-    # Questions
-    if s.endswith('?'):
-        return True
-    q_starters = ('what ', 'why ', 'how ', 'when ', 'where ', 'who ', 'which ',
-                   'is it ', 'are there ', 'do you ', 'did you ', 'can you ',
-                   'could you ', 'would you ', 'should you ', 'have you ')
-    if s.lower().startswith(q_starters):
-        return True
-    # Promotional / noise patterns
-    noise_patterns = [
-        r'\bclick here\b', r'\bread more\b', r'\bsubscribe\b', r'\bnewsletter\b',
-        r'\bfollow us\b', r'\bshare this\b', r'\bcomment below\b',
-        r'\bwatch video\b', r'\bphoto\b.*\bcredit\b', r'\bimage\b.*\bcourtesy\b',
-        r'\badvertisement\b', r'\bsponsored\b', r'\brelated article\b',
-        r'\balso read\b', r'\bsee also\b', r'\bmore from\b',
-        r'^\s*\d+\s*$',  # lone numbers
-    ]
-    for pat in noise_patterns:
-        if re.search(pat, s, re.IGNORECASE):
-            return True
-    return False
-
-
 def _split_sentences(text: str) -> List[str]:
     """Split text into clean sentences."""
     abbrevs = r'(?:Mr|Mrs|Ms|Dr|Prof|Sr|Jr|St|vs|etc|approx|Rs|U\.S|U\.K)'
@@ -73,7 +47,7 @@ def _split_sentences(text: str) -> List[str]:
     result = []
     for s in sents:
         s = s.replace('<DOT>', '.').strip()
-        if len(s.split()) >= 6 and not _is_question_or_noise(s):
+        if len(s.split()) >= 6:
             result.append(s)
     return result
 
@@ -218,6 +192,9 @@ def _build_bullets(
     # Add BART sentences first (they're abstractive, good quality)
     for sent in bart_sents:
         sent = sent.strip().rstrip('.')
+        # Skip question-format sentences
+        if sent.endswith('?'):
+            continue
         if len(sent.split()) < 8:
             continue
         if _word_overlap(headline, sent) > 0.65:
@@ -233,6 +210,9 @@ def _build_bullets(
         if len(selected) >= num_bullets:
             break
         sent = sent.strip().rstrip('.')
+        # Skip question-format sentences
+        if sent.endswith('?'):
+            continue
         if len(sent.split()) < 8:
             continue
         if _word_overlap(headline, sent) > 0.65:
@@ -331,6 +311,8 @@ def _extractive_fallback(headline: str, text: str, num_bullets: int = 6) -> Opti
         if len(selected) >= num_bullets:
             break
         sent = sent.strip().rstrip('.')
+        if sent.endswith('?'):
+            continue
         if len(sent.split()) < 8:
             continue
         if _is_duplicate(sent, selected, threshold=0.35):

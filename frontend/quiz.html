@@ -2,14 +2,11 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daily Quiz — CA Daily</title>
+<title>Daily Quiz — NewsPrep</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--accent:#f4b942;--text:#e6edf3;--muted:#7d8590;--card:#1c2128;--green:#3fb950;--red:#e05c5c;--blue:#58a6ff;--purple:#bc8cff}
-body.light{--bg:#f6f8fa;--surface:#ffffff;--border:#d0d7de;--text:#1f2328;--muted:#444c56;--card:#ffffff}
-*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);display:flex;min-height:100vh;transition:background .2s,color .2s}
-.theme-toggle-btn{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:6px 12px;font-size:.8rem;cursor:pointer;color:var(--text);font-family:'DM Sans',sans-serif;transition:all .2s;position:fixed;top:16px;right:16px;z-index:200}
-.theme-toggle-btn:hover{border-color:var(--accent);color:var(--accent)}
+*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);display:flex;min-height:100vh}
 .sidebar{width:240px;min-height:100vh;background:var(--surface);border-right:1px solid var(--border);position:fixed;top:0;left:0;z-index:100;padding:20px 12px}
 .sb-title{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:800;padding:8px;margin-bottom:12px}
 .sb-title em{font-style:normal;color:var(--accent)}
@@ -90,14 +87,14 @@ body.light{--bg:#f6f8fa;--surface:#ffffff;--border:#d0d7de;--text:#1f2328;--mute
 <body>
 <script src="config.js"></script>
 <script>if(!requireLogin());</script>
-<button class="theme-toggle-btn" onclick="toggleTheme()">☀️ Light</button>
 <nav class="sidebar">
-  <div class="sb-title">CA<em>Daily</em></div>
+  <div class="sb-title">News<em>Prep</em></div>
   <a class="nav-item" href="index.html">🏠 Home</a>
   <a class="nav-item" href="news.html">📰 Current Affairs</a>
   <a class="nav-item active" href="quiz.html">🧠 Daily Quiz</a>
   <a class="nav-item" href="profile.html">👤 Profile</a>
   <a class="nav-item" href="#" onclick="clearUser();location.href='login.html'">🚪 Logout</a>
+  <a class="nav-item" href="#" id="themeToggleBtn" onclick="toggleTheme();return false;">☀️ Light Mode</a>
 </nav>
 <div class="main">
   <div class="page-title">🧠 Daily Quiz</div>

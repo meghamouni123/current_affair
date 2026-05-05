@@ -2,14 +2,11 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Admin Panel — CA Daily</title>
+<title>Admin Panel — NewsPrep</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--accent:#f4b942;--text:#e6edf3;--muted:#7d8590;--card:#1c2128;--green:#3fb950;--red:#e05c5c;--blue:#58a6ff;--purple:#bc8cff;--orange:#f0883e}
-body.light{--bg:#f6f8fa;--surface:#ffffff;--border:#d0d7de;--text:#1f2328;--muted:#444c56;--card:#ffffff}
-*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);display:flex;min-height:100vh;transition:background .2s,color .2s}
-.theme-toggle-btn{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:5px 12px;font-size:.78rem;cursor:pointer;color:var(--text);font-family:'DM Sans',sans-serif;transition:all .2s}
-.theme-toggle-btn:hover{border-color:var(--accent);color:var(--accent)}
+*{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);display:flex;min-height:100vh}
 /* Admin sidebar */
 .sidebar{width:220px;min-height:100vh;background:var(--surface);border-right:1px solid var(--border);position:fixed;top:0;left:0;display:flex;flex-direction:column;z-index:100}
 .sb-header{padding:18px 16px;border-bottom:1px solid var(--border)}
@@ -131,7 +128,7 @@ tr:last-child td{border-bottom:none}
 <!-- Admin Sidebar -->
 <nav class="sidebar">
   <div class="sb-header">
-    <div class="sb-logo">CA<em>Daily</em></div>
+    <div class="sb-logo">News<em>Prep</em></div>
     <div class="sb-role">⚙️ Admin Panel</div>
   </div>
   <div class="sb-nav">
@@ -145,6 +142,7 @@ tr:last-child td{border-bottom:none}
     <div class="nav-divider"></div>
     <button class="nav-item" onclick="location.href='index.html'">🏠 User Portal</button>
     <button class="nav-item" onclick="clearUser();location.href='login.html'">🚪 Logout</button>
+    <button class="nav-item" id="themeToggleBtn" onclick="toggleTheme()">☀️ Light Mode</button>
   </div>
 </nav>
 
@@ -157,7 +155,6 @@ tr:last-child td{border-bottom:none}
     </div>
     <div class="tb-right">
       <div class="tb-badge">👑 Admin Access</div>
-      <button class="theme-toggle-btn" onclick="toggleTheme()">☀️ Light</button>
       <div class="user-chip">
         <div class="ua" id="adminAv">AD</div>
         <span id="adminName">Admin</span>
@@ -330,7 +327,7 @@ tr:last-child td{border-bottom:none}
         </div>
         <div class="card">
           <div class="sec-title">📧 Admin Emails</div>
-          <div class="form-group"><label class="form-label">Admin Email 1</label><input class="form-inp" value="admin@cadaily.com"></div>
+          <div class="form-group"><label class="form-label">Admin Email 1</label><input class="form-inp" value="admin@newsprep.com"></div>
           <div class="form-group"><label class="form-label">Admin Email 2</label><input class="form-inp" placeholder="Add another admin…"></div>
           <button class="btn btn-primary" onclick="showToast('Saved ✅')">💾 Save</button>
         </div>

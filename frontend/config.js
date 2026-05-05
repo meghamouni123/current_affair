@@ -1,4 +1,4 @@
-// CA Daily Portal — Config
+// NewsPrep — Config
 
 // Auth helpers — localStorage only
 window.getUser   = () => JSON.parse(localStorage.getItem("ca_user") || "null");
@@ -33,25 +33,40 @@ window.trackVisit = () => {
   localStorage.setItem("ca_visits", JSON.stringify(visits.slice(-500)));
 };
 
-// ── Dark / Light Mode ──────────────────────────────────────────────────────────
-window.getTheme  = () => localStorage.getItem("ca_theme") || "dark";
-window.setTheme  = (t) => { localStorage.setItem("ca_theme", t); applyTheme(t); };
+// ── Theme (dark / light mode) ──────────────────────────────────────────────
+window.getTheme    = () => localStorage.getItem("ca_theme") || "dark";
+window.setTheme    = (t) => { localStorage.setItem("ca_theme", t); applyTheme(t); };
 window.toggleTheme = () => setTheme(getTheme() === "dark" ? "light" : "dark");
 
-window.applyTheme = (t) => {
-  document.body.classList.toggle("light", t === "light");
-  // update all toggle buttons on the page
-  document.querySelectorAll(".theme-toggle-btn").forEach(btn => {
-    btn.textContent = t === "light" ? "🌙 Dark" : "☀️ Light";
-    btn.title = t === "light" ? "Switch to dark mode" : "Switch to light mode";
-  });
+window.applyTheme = (theme) => {
+  const root = document.documentElement;
+  if (theme === "light") {
+    root.style.setProperty("--bg",      "#f5f6fa");
+    root.style.setProperty("--surface", "#ffffff");
+    root.style.setProperty("--border",  "#dde1e7");
+    root.style.setProperty("--text",    "#1a1d23");
+    root.style.setProperty("--muted",   "#6b7280");
+    root.style.setProperty("--card",    "#ffffff");
+    root.style.setProperty("--accent",  "#d4900a");
+    root.style.setProperty("--green",   "#16a34a");
+    root.style.setProperty("--blue",    "#2563eb");
+    root.style.setProperty("--red",     "#dc2626");
+  } else {
+    root.style.setProperty("--bg",      "#0d1117");
+    root.style.setProperty("--surface", "#161b22");
+    root.style.setProperty("--border",  "#30363d");
+    root.style.setProperty("--text",    "#e6edf3");
+    root.style.setProperty("--muted",   "#7d8590");
+    root.style.setProperty("--card",    "#1c2128");
+    root.style.setProperty("--accent",  "#f4b942");
+    root.style.setProperty("--green",   "#3fb950");
+    root.style.setProperty("--blue",    "#58a6ff");
+    root.style.setProperty("--red",     "#e05c5c");
+  }
+  // Update toggle button label if present
+  const btn = document.getElementById("themeToggleBtn");
+  if (btn) btn.textContent = theme === "light" ? "🌙 Dark Mode" : "☀️ Light Mode";
 };
 
-// Auto-apply theme as soon as config.js loads (before page renders)
-(function() {
-  const t = localStorage.getItem("ca_theme") || "dark";
-  if (t === "light") document.documentElement.classList.add("light-preload");
-})();
-
-// Call applyTheme after DOM is ready
-document.addEventListener("DOMContentLoaded", () => applyTheme(getTheme()));
+// Auto-apply saved theme on every page load
+(function() { applyTheme(getTheme()); })();
