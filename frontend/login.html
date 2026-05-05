@@ -123,43 +123,68 @@ function showLogin()  { document.getElementById("loginForm").style.display="bloc
 function showSignup() { document.getElementById("loginForm").style.display="none"; document.getElementById("signupForm").style.display="block"; document.getElementById("forgotForm").style.display="none"; clearMessages(); }
 function showForgot() { document.getElementById("loginForm").style.display="none"; document.getElementById("signupForm").style.display="none"; document.getElementById("forgotForm").style.display="block"; clearMessages(); }
 
-function emailLogin() {
+async function emailLogin() {
   const email = document.getElementById("loginEmail").value.trim().toLowerCase();
   const pass  = document.getElementById("loginPass").value;
   if (!email || !pass) { showError("Please enter email and password"); return; }
-  const users = getUsers();
-  const user  = users.find(u => u.email === email);
-  if (!user) { showError("No account found. Please create an account."); return; }
-  if (user.password !== btoa(pass)) { showError("Invalid email or password"); return; }
-  setUser({ name: user.name, email: user.email, role: "user", avatar: user.name.slice(0,2).toUpperCase() });
-  showToast("Welcome back, " + user.name + "!");
-  setTimeout(() => window.location.href = "index.html", 700);
+  try {
+    const r = await fetch('/api/auth', {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({ action:'login', email, password:pass, page:'login', device:navigator.userAgent.slice(0,50) })
+    });
+    const data = await r.json();
+    if (!r.ok) { showError(data.error || "Login failed"); return; }
+    setUser({ name: data.user.name, email: data.user.email, role: data.user.role, avatar: data.user.name.slice(0,2).toUpperCase() });
+    showToast("Welcome back, " + data.user.name + "!");
+    setTimeout(() => window.location.href = "index.html", 700);
+  } catch(e) {
+    // Fallback to localStorage if API unavailable
+    const users = getUsers();
+    const user  = users.find(u => u.email === email);
+    if (!user) { showError("No account found. Please create an account."); return; }
+    if (user.password !== btoa(pass)) { showError("Invalid email or password"); return; }
+    setUser({ name: user.name, email: user.email, role: "user", avatar: user.name.slice(0,2).toUpperCase() });
+    showToast("Welcome back, " + user.name + "!");
+    setTimeout(() => window.location.href = "index.html", 700);
+  }
 }
 
-function emailSignup() {
+async function emailSignup() {
   const name  = document.getElementById("signupName").value.trim();
   const email = document.getElementById("signupEmail").value.trim().toLowerCase();
   const pass  = document.getElementById("signupPass").value;
   if (!name || !email || !pass) { showError("Please fill all fields"); return; }
   if (pass.length < 6) { showError("Password must be at least 6 characters"); return; }
-  const users = getUsers();
-  if (users.find(u => u.email === email)) { showError("Account already exists. Please login."); return; }
-  users.push({ name, email, password: btoa(pass) });
-  saveUsers(users);
-  setUser({ name, email, role: "user", avatar: name.slice(0,2).toUpperCase() });
-  showToast("Welcome, " + name + "!");
-  setTimeout(() => window.location.href = "index.html", 700);
+  try {
+    const r = await fetch('/api/auth', {
+      method:'POST', headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({ action:'register', name, email, password:pass, page:'register', device:navigator.userAgent.slice(0,50) })
+    });
+    const data = await r.json();
+    if (!r.ok) { showError(data.error || "Registration failed"); return; }
+    // Also save locally as fallback
+    const users = getUsers();
+    if (!users.find(u => u.email === email)) { users.push({ name, email, password: btoa(pass) }); saveUsers(users); }
+    setUser({ name, email, role: "user", avatar: name.slice(0,2).toUpperCase() });
+    showToast("Welcome, " + name + "!");
+    setTimeout(() => window.location.href = "index.html", 700);
+  } catch(e) {
+    // Fallback to localStorage
+    const users = getUsers();
+    if (users.find(u => u.email === email)) { showError("Account already exists. Please login."); return; }
+    users.push({ name, email, password: btoa(pass) });
+    saveUsers(users);
+    setUser({ name, email, role: "user", avatar: name.slice(0,2).toUpperCase() });
+    showToast("Welcome, " + name + "!");
+    setTimeout(() => window.location.href = "index.html", 700);
+  }
 }
 
 function sendReset() {
   const email = document.getElementById("forgotEmail").value.trim().toLowerCase();
   if (!email) { showError("Please enter your email"); return; }
-  const users = getUsers();
-  if (!users.find(u => u.email === email)) { showError("No account found with this email"); return; }
   showSuccess("Contact admin@newsprep.com with your email to reset your password.");
 }
-
-function adminLogin() {
   const email = document.getElementById("adminEmail").value.trim();
   const pass  = document.getElementById("adminPass").value;
   if (email === ADMIN_EMAIL && pass === ADMIN_PASSWORD) {

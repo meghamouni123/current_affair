@@ -232,7 +232,7 @@ tr:last-child td{border-bottom:none}
         <div class="sec-title">👥 Login Sessions</div>
         <div class="table-wrap">
           <table id="sessionTable">
-            <thead><tr><th>#</th><th>User</th><th>Page</th><th>Time</th></tr></thead>
+            <thead><tr><th>#</th><th>User</th><th>Page</th><th>Device</th><th>Time</th></tr></thead>
             <tbody id="sessionBody"></tbody>
           </table>
         </div>
@@ -520,19 +520,33 @@ async function loadDashboard(){
 }
 
 // ── Analytics ─────────────────────────────────────────────────────────────────
-function loadAnalytics(){
-  const visits=JSON.parse(localStorage.getItem("ca_visits")||"[]");
-  const users=[...new Set(visits.map(v=>v.user).filter(u=>u&&u!=="guest"))];
-  document.getElementById("an1").textContent=visits.length;
-  document.getElementById("an2").textContent=users.length||visits.length;
-  document.getElementById("an4").textContent=visits.length;
+async function loadAnalytics(){
+  // Try to load from DB first
+  let dbSessions=[], dbUsers=[];
+  try{
+    const r=await fetch('/api/auth',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({action:'get_sessions'})});
+    if(r.ok){const d=await r.json();dbSessions=d.sessions||[];dbUsers=d.users||[];}
+  }catch(e){}
 
-  // Page breakdown from real visits
-  const pageCounts={};
-  visits.forEach(v=>{const p=(v.page||"/").replace(/.*\//,"")||"home";pageCounts[p]=(pageCounts[p]||0)+1;});
-  const pageEntries=Object.entries(pageCounts).sort((a,b)=>b[1]-a[1]).slice(0,4);
-  const totalVisits=visits.length||1;
+  // Merge with localStorage visits
+  const visits=JSON.parse(localStorage.getItem("ca_visits")||"[]");
+  const totalSessions=dbSessions.length||visits.length;
+  const uniqueUsers=dbUsers.length||[...new Set(visits.map(v=>v.user).filter(u=>u&&u!=="guest"))].length;
+
+  document.getElementById("an1").textContent=totalSessions;
+  document.getElementById("an2").textContent=uniqueUsers||totalSessions;
+  document.getElementById("an4").textContent=totalSessions;
+
   const colors=["#f4b942","#3fb950","#58a6ff","#bc8cff"];
+
+  // Page breakdown
+  const pageCounts={};
+  (dbSessions.length?dbSessions:visits).forEach(v=>{
+    const p=(v.page||"/").replace(/.*\//,"")||"home";
+    pageCounts[p]=(pageCounts[p]||0)+1;
+  });
+  const pageEntries=Object.entries(pageCounts).sort((a,b)=>b[1]-a[1]).slice(0,5);
+  const totalVisits=Math.max(totalSessions,1);
   document.getElementById("trafficSrc").innerHTML=`
     <div style="display:flex;flex-direction:column;gap:10px">
       ${pageEntries.length?pageEntries.map(([page,cnt],i)=>{
@@ -543,25 +557,40 @@ function loadAnalytics(){
             <div style="width:${pct}%;height:100%;background:${colors[i%4]};border-radius:4px"></div>
           </div>
           <div style="width:36px;text-align:right;font-weight:600;color:${colors[i%4]}">${pct}%</div>
-        </div>`;}).join(""):`<div style="color:var(--muted);font-size:.85rem">No page visits tracked yet. Browse the portal to see data.</div>`}
+        </div>`;}).join(""):`<div style="color:var(--muted);font-size:.85rem">No page visits tracked yet.</div>`}
     </div>`;
 
-  // User activity
-  const userVisits={};
-  visits.forEach(v=>{const u=v.user||"guest";userVisits[u]=(userVisits[u]||0)+1;});
-  const topUsers=Object.entries(userVisits).sort((a,b)=>b[1]-a[1]).slice(0,3);
-  document.getElementById("deviceBreak").innerHTML=`
-    <div style="display:flex;flex-direction:column;gap:10px">
-      ${topUsers.length?topUsers.map(([user,cnt],i)=>{
-        const pct=Math.round(cnt/totalVisits*100);
-        return`<div style="display:flex;align-items:center;gap:10px;font-size:.82rem">
-          <div style="width:120px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${user}</div>
-          <div style="flex:1;background:var(--surface);border-radius:4px;height:8px;overflow:hidden">
-            <div style="width:${pct}%;height:100%;background:${colors[i%4]};border-radius:4px"></div>
-          </div>
-          <div style="width:36px;text-align:right;font-weight:600;color:${colors[i%4]}">${cnt}</div>
-        </div>`;}).join(""):`<div style="color:var(--muted);font-size:.85rem">No user activity yet.</div>`}
-    </div>`;
+  // Registered users from DB
+  if(dbUsers.length){
+    document.getElementById("deviceBreak").innerHTML=`
+      <div style="display:flex;flex-direction:column;gap:8px">
+        ${dbUsers.slice(0,5).map((u,i)=>`
+          <div style="display:flex;align-items:center;gap:10px;font-size:.82rem">
+            <div style="width:28px;height:28px;border-radius:50%;background:rgba(244,185,66,.15);display:flex;align-items:center;justify-content:center;font-size:.7rem;font-weight:700;color:var(--accent);flex-shrink:0">${(u.name||u.email).slice(0,2).toUpperCase()}</div>
+            <div style="flex:1;overflow:hidden">
+              <div style="font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${u.name||"—"}</div>
+              <div style="color:var(--muted);font-size:.72rem">${u.email}</div>
+            </div>
+            <span class="badge badge-green" style="font-size:.65rem">${u.role||"user"}</span>
+          </div>`).join("")}
+      </div>`;
+  } else {
+    const userVisits={};
+    visits.forEach(v=>{const u=v.user||"guest";userVisits[u]=(userVisits[u]||0)+1;});
+    const topUsers=Object.entries(userVisits).sort((a,b)=>b[1]-a[1]).slice(0,3);
+    document.getElementById("deviceBreak").innerHTML=`
+      <div style="display:flex;flex-direction:column;gap:10px">
+        ${topUsers.length?topUsers.map(([user,cnt],i)=>{
+          const pct=Math.round(cnt/totalVisits*100);
+          return`<div style="display:flex;align-items:center;gap:10px;font-size:.82rem">
+            <div style="width:120px;color:var(--muted);overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${user}</div>
+            <div style="flex:1;background:var(--surface);border-radius:4px;height:8px;overflow:hidden">
+              <div style="width:${pct}%;height:100%;background:${colors[i%4]};border-radius:4px"></div>
+            </div>
+            <div style="width:36px;text-align:right;font-weight:600;color:${colors[i%4]}">${cnt}</div>
+          </div>`;}).join(""):`<div style="color:var(--muted);font-size:.85rem">No user activity yet.</div>`}
+      </div>`;
+  }
 
   const hmData=Array.from({length:4},()=>Array.from({length:7},()=>Math.floor(Math.random()*30)));
   const hmMax=Math.max(...hmData.flat(),1);
@@ -578,11 +607,19 @@ function loadAnalytics(){
   });
   document.getElementById("heatmapWrap").innerHTML=hmHtml;
 
-  document.getElementById("sessionBody").innerHTML=visits.slice(-15).reverse().map((v,i)=>`
+  // Session table — DB sessions first, fallback to localStorage
+  const sessionRows = dbSessions.length ? dbSessions.slice(0,15).map((s,i)=>`
+    <tr><td>${i+1}</td><td>${s.name||s.email.split('@')[0]}</td>
+    <td><span class="badge badge-blue">${(s.page||"/").replace(/.*\//,"")||"/"}</span></td>
+    <td style="font-size:.72rem;color:var(--muted)">${s.device?s.device.slice(0,20):"—"}</td>
+    <td>${new Date(s.logged_in_at).toLocaleString("en-IN",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})}</td></tr>`).join("")
+  : visits.slice(-15).reverse().map((v,i)=>`
     <tr><td>${i+1}</td><td>${v.user||"guest"}</td>
     <td><span class="badge badge-blue">${(v.page||"/").replace(/.*\//,"")||"/"}</span></td>
-    <td>${new Date(v.time).toLocaleString("en-IN",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})}</td></tr>`).join("")||
-    "<tr><td colspan='4' style='color:var(--muted);text-align:center'>No sessions yet</td></tr>";
+    <td style="font-size:.72rem;color:var(--muted)">—</td>
+    <td>${new Date(v.time).toLocaleString("en-IN",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"})}</td></tr>`).join("");
+  document.getElementById("sessionBody").innerHTML = sessionRows ||
+    "<tr><td colspan='5' style='color:var(--muted);text-align:center'>No sessions yet</td></tr>";
 }
 
 // ── Articles ──────────────────────────────────────────────────────────────────

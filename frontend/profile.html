@@ -75,6 +75,7 @@
 .rl-num{width:22px;height:22px;background:rgba(244,185,66,.15);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:.7rem;font-weight:700;color:var(--accent);flex-shrink:0}
 
 /* Quiz history chart */
+.quiz-chart-wrap{width:100%;overflow:hidden}
 .quiz-bars{display:flex;align-items:flex-end;gap:6px;height:80px;padding-top:8px}
 .qb-bar{flex:1;border-radius:4px 4px 0 0;transition:height .8s ease;min-width:16px;cursor:pointer;position:relative}
 .qb-bar:hover::after{content:attr(data-tip);position:absolute;bottom:110%;left:50%;transform:translateX(-50%);background:var(--card);border:1px solid var(--border);border-radius:6px;padding:3px 8px;font-size:.7rem;white-space:nowrap;color:var(--text)}
@@ -152,7 +153,7 @@
         </div>
       </div>
       <div style="font-size:.75rem;color:var(--muted);margin-bottom:6px">Last 10 Quiz Attempts</div>
-      <div class="quiz-bars" id="quizBars"></div>
+      <div class="quiz-chart-wrap" id="quizLineChart"></div>
     </div>
 
     <!-- Achievements -->
@@ -241,13 +242,42 @@ function init(){
     document.getElementById("scoreNum").textContent=avg+"%";
     const circ=2*Math.PI*40;
     document.getElementById("scoreFill").style.strokeDashoffset=circ-(circ*avg/100);
-    const bars=document.getElementById("quizBars");
+
+    // Quiz line chart (SVG)
     const last10=qh.slice(0,10).reverse();
-    bars.innerHTML=last10.map(q=>{
-      const h=Math.max(10,q.score||0);
-      const c=h>=80?"var(--green)":h>=60?"var(--accent)":"var(--red)";
-      return`<div class="qb-bar" style="height:${h}%;background:${c}" data-tip="${q.score||0}%"></div>`;
-    }).join("");
+    const scores=last10.map(q=>q.score||0);
+    const svgW=320,svgH=80,pad=16;
+    const n=scores.length;
+    const months=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    if(n>1){
+      const maxS=Math.max(...scores,10);
+      const pts=scores.map((s,i)=>{
+        const x=pad+(i*(svgW-2*pad)/(n-1));
+        const y=svgH-pad-(s/maxS*(svgH-2*pad));
+        return`${x},${y}`;
+      }).join(" ");
+      document.getElementById("quizLineChart").innerHTML=`
+        <svg width="100%" viewBox="0 0 ${svgW} ${svgH+20}" style="overflow:visible;display:block">
+          <defs><linearGradient id="qlg" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="0%" stop-color="rgba(244,185,66,.25)"/>
+            <stop offset="100%" stop-color="rgba(244,185,66,0)"/>
+          </linearGradient></defs>
+          <polygon points="${pts} ${pad+(n-1)*(svgW-2*pad)/(n-1)},${svgH-pad} ${pad},${svgH-pad}" fill="url(#qlg)"/>
+          <polyline points="${pts}" fill="none" stroke="var(--accent)" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+          ${scores.map((s,i)=>{
+            const x=pad+(i*(svgW-2*pad)/(n-1));
+            const y=svgH-pad-(s/maxS*(svgH-2*pad));
+            const c=s>=80?"var(--green)":s>=60?"var(--accent)":"var(--red)";
+            const d=last10[i].date?new Date(last10[i].date):null;
+            const lbl=d?`${d.getDate()} ${months[d.getMonth()]}`:`Q${i+1}`;
+            return`<circle cx="${x}" cy="${y}" r="4" fill="${c}" stroke="var(--bg)" stroke-width="1.5"/>
+            <text x="${x}" y="${y-8}" font-size="9" fill="${c}" text-anchor="middle" font-weight="700">${s}%</text>
+            <text x="${x}" y="${svgH+16}" font-size="8" fill="var(--muted)" text-anchor="middle">${lbl}</text>`;
+          }).join("")}
+        </svg>`;
+    } else {
+      document.getElementById("quizLineChart").innerHTML=`<div style="color:var(--muted);font-size:.82rem;padding:10px 0">Take more quizzes to see trend 📈</div>`;
+    }
   }
 
   // Reading Performance Chart — actual category-wise read counts
