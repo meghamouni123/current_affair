@@ -165,20 +165,20 @@ function renderList(items){
     const cls = CAT_MAP[a.category] || "c-nat";
     const pct = Math.round((a.relevance_score||0)*100);
     const dateStr = a.published_date || a.published_at || "";
-    const displayDate = dateStr ? new Date(dateStr).toLocaleDateString("en-IN",{day:"numeric",month:"short",year:"numeric"}) : "";
-    const summaryClean = (a.summary||"").replace(/•/g,"•").trim();
+    const displayDate = dateStr ? new Date(dateStr.split('T')[0]).toLocaleDateString("en-IN",{day:"numeric",month:"short",year:"numeric"}) : "";
+    const summaryClean = (a.summary||"").trim();
     return `<div class="article-card" style="animation-delay:${i*0.04}s">
       <div class="card-meta">
         <span class="badge ${cls}">${a.category||"General"}</span>
-        <span style="font-size:.75rem;color:var(--muted)">📰 ${a.source||""}</span>
+        ${a.url?`<a href="${a.url}" target="_blank" class="src-tag">📰 ${a.source||"Source"} ↗</a>`:`<span style="font-size:.75rem;color:var(--muted)">📰 ${a.source||""}</span>`}
         ${pct>0?`<span class="score-chip">⭐ ${pct}%</span>`:""}
-        <span class="date-tag">${displayDate}</span>
+        ${displayDate?`<span class="date-tag">${displayDate}</span>`:""}
       </div>
       <div class="card-title">${a.title||a.headline||"Untitled"}</div>
-      <div class="card-summary" id="sum${i}">${summaryClean}</div>
+      <div class="card-summary" id="sum${i}">${summaryClean||"No summary available."}</div>
       <div class="card-footer">
-        <button class="rm-btn" onclick="toggleSummary('sum${i}',this)">Read more ↓</button>
-        ${a.url?`<a class="src-btn" href="${a.url}" target="_blank">🔗 Source</a>`:""}
+        <button class="rm-btn" onclick="toggleSummary('sum${i}',this)">Read more ▼</button>
+        ${a.url?`<a class="src-btn" href="${a.url}" target="_blank">🔗 Source ↗</a>`:""}
         <button class="del-btn" onclick="removeBookmark('${a.id}')">🗑️ Remove</button>
       </div>
     </div>`;
@@ -188,7 +188,7 @@ function renderList(items){
 function toggleSummary(id, btn){
   const el = document.getElementById(id);
   el.classList.toggle("exp");
-  btn.textContent = el.classList.contains("exp") ? "Show less ↑" : "Read more ↓";
+  btn.textContent = el.classList.contains("exp") ? "Read less ▲" : "Read more ▼";
 }
 
 function removeBookmark(id){
