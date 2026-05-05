@@ -81,7 +81,7 @@ class Pipeline:
                 self._url_hash_cache.add(url_hash)
                 return None
 
-        if len(text.split()) < 30:
+        if len(text.split()) < 100:
             text = headline
 
         full_text = f"{headline}. {text}" if headline not in text else text
@@ -131,9 +131,9 @@ class Pipeline:
                 self._url_hash_cache.add(url_hash)
             return None
 
-        # Reject summaries with less than 2 bullet points
+        # Reject summaries with less than 3 bullet points
         bullet_count = summary.count('•')
-        if bullet_count < 2:
+        if bullet_count < 3:
             self._skipped_count += 1
             if url_hash:
                 self._url_hash_cache.add(url_hash)
@@ -200,7 +200,7 @@ def run_pipeline_once(use_rss: bool = True, use_api: bool = True, max_feeds: int
     pipeline = Pipeline()
 
     logger.info("Step 1: Fetching news...")
-    articles = fetch_recent_news(use_rss=use_rss, use_api=use_api, max_rss_feeds=max_feeds, extract_full_text=True)
+    articles = fetch_recent_news(use_rss=use_rss, use_api=use_api, max_rss_feeds=max_feeds)
     logger.info(f"Fetched {len(articles)} articles")
 
     logger.info("Step 2: Classify → Deduplicate → Summarize → Store...")

@@ -90,7 +90,7 @@ def is_exam_relevant_headline(headline: str) -> bool:
     return False
 
 
-def extract_article_text(url: str, timeout: int = 8) -> Optional[str]:
+def extract_article_text(url: str, timeout: int = 10) -> Optional[str]:
     if not HAS_REQUESTS:
         return None
     try:
@@ -134,27 +134,8 @@ def fetch_rss_feed(feed_info: Dict, extract_text: bool = True) -> List[Dict]:
     feed_name = feed_info['name']
 
     try:
-        parsed = None
-
-        # Try requests first (with timeout), fallback to feedparser direct
-        if HAS_REQUESTS:
-            try:
-                headers = {
-                    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-                    'Accept': 'application/rss+xml, application/xml, text/xml, */*',
-                    'Accept-Language': 'en-US,en;q=0.9',
-                }
-                resp = requests.get(feed_url, headers=headers, timeout=15)
-                resp.raise_for_status()
-                parsed = feedparser.parse(resp.content)
-            except Exception:
-                pass
-
-        # Fallback: feedparser direct (uses its own urllib with different headers)
-        if parsed is None or (parsed.bozo and not parsed.entries):
-            parsed = feedparser.parse(feed_url)
-
-        if not parsed or (parsed.bozo and not parsed.entries):
+        parsed = feedparser.parse(feed_url)
+        if parsed.bozo and not parsed.entries:
             return []
 
         for entry in parsed.entries[:20]:
@@ -202,39 +183,22 @@ def fetch_rss_feed(feed_info: Dict, extract_text: bool = True) -> List[Dict]:
 
 
 def fetch_all_rss_feeds(max_feeds: int = None, extract_text: bool = False) -> List[Dict]:
-    from concurrent.futures import ThreadPoolExecutor, as_completed
-
     feeds = load_feeds()
     if max_feeds:
         feeds = feeds[:max_feeds]
 
     all_articles = []
     seen_hashes  = set()
-    total = len(feeds)
 
-    def fetch_one(args):
-        i, feed = args
-        try:
-            articles = fetch_rss_feed(feed, extract_text=extract_text)
-            logger.info(f"[{i+1}/{total}] Fetching: {feed['name']}")
-            return articles
-        except Exception as e:
-            logger.warning(f"Feed error {feed['name']}: {e}")
-            return []
-
-    # Parallel fetch — 8 workers, fast enough without overloading
-    with ThreadPoolExecutor(max_workers=8) as executor:
-        futures = {executor.submit(fetch_one, (i, feed)): feed for i, feed in enumerate(feeds)}
-        for future in as_completed(futures):
-            try:
-                articles = future.result()
-                for article in articles:
-                    h = article['url_hash']
-                    if h not in seen_hashes:
-                        seen_hashes.add(h)
-                        all_articles.append(article)
-            except Exception:
-                pass
+    for i, feed in enumerate(feeds):
+        logger.info(f"[{i+1}/{len(feeds)}] Fetching: {feed['name']}")
+        articles = fetch_rss_feed(feed, extract_text=extract_text)
+        for article in articles:
+            h = article['url_hash']
+            if h not in seen_hashes:
+                seen_hashes.add(h)
+                all_articles.append(article)
+        time.sleep(0.5)
 
     logger.info(f"Total unique articles fetched: {len(all_articles)}")
     return all_articles
