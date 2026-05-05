@@ -448,22 +448,21 @@ async function loadDashboard(){
   document.getElementById("dk1").textContent=data.length;
   document.getElementById("dk1c").textContent=`↑ ${todayCount} today`;
   const avg=data.length?Math.round(data.reduce((s,a)=>s+(a.relevance_score||0),0)/data.length*100):0;
-  document.getElementById("dk6").textContent=avg+"%";
 
   // Category horizontal bar chart
   const counts={};data.forEach(a=>counts[a.category]=(counts[a.category]||0)+1);
   const allCats=Object.entries(counts).sort((a,b)=>b[1]-a[1]);
-  const maxCnt=Math.max(...allCats.map(([,v])=>v),1);
+  const totalArts=data.length||1;
   const catColors={"Economy & Banking":"#3fb950","Polity & Governance":"#bc8cff","International Relations":"#58a6ff","Science & Technology":"#f4b942","Schemes & Appointments":"#e05c5c","Reports & Indices":"#5cb8e0","Sports":"#5ce0b8","Awards & Honours":"#e0b85c","Important Days & Obituaries":"#e0785c","Summits & Conferences":"#785ce0","National News":"#f4b942","State News":"#42b9f4"};
   document.getElementById("catBarChart").innerHTML=`<div style="display:flex;flex-direction:column;gap:8px">`+allCats.map(([name,cnt])=>{
-    const pct=Math.round(cnt/maxCnt*100);
+    const pct=Math.round(cnt/totalArts*100);
     const col=catColors[name]||"#f4b942";
     return`<div style="display:flex;align-items:center;gap:8px;font-size:.78rem">
       <div style="width:160px;color:var(--muted);flex-shrink:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">${name}</div>
       <div style="flex:1;background:var(--surface);border-radius:4px;height:10px;overflow:hidden">
         <div style="width:${pct}%;height:100%;background:${col};border-radius:4px;transition:width .8s"></div>
       </div>
-      <div style="width:28px;text-align:right;font-weight:700;color:${col}">${cnt}</div>
+      <div style="width:38px;text-align:right;font-weight:700;color:${col}">${pct}%</div>
     </div>`;
   }).join("")+`</div>`;
 
