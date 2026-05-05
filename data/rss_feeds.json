@@ -69,7 +69,6 @@
     {"name": "ASEAN Secretariat", "url": "https://asean.org/feed/", "category": "International Relations", "priority": 1},
     {"name": "Commonwealth Secretariat", "url": "https://thecommonwealth.org/rss.xml", "category": "International Relations", "priority": 2},
     {"name": "Nobel Prize News", "url": "https://www.nobelprize.org/feeds/all/", "category": "Science & Technology", "priority": 1},
-    {"name": "Olympics News", "url": "https://olympics.com/en/news/rss", "category": "Sports", "priority": 1},
     {"name": "NDTV - India", "url": "https://feeds.feedburner.com/ndtvnews-india-news", "category": "National News", "priority": 2},
     {"name": "NDTV - World", "url": "https://feeds.feedburner.com/ndtvnews-world-news", "category": "International Relations", "priority": 2},
     {"name": "NDTV - Business", "url": "https://feeds.feedburner.com/ndtvnews-business", "category": "Economy & Banking", "priority": 2},
