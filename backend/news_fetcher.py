@@ -201,7 +201,7 @@ def fetch_rss_feed(feed_info: Dict, extract_text: bool = True) -> List[Dict]:
     return articles
 
 
-def fetch_all_rss_feeds(max_feeds: int = None, extract_text: bool = False) -> List[Dict]:
+def fetch_all_rss_feeds(max_feeds: int = None, extract_text: bool = True) -> List[Dict]:
     feeds = load_feeds()
     if max_feeds:
         feeds = feeds[:max_feeds]
