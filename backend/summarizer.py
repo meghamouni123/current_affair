@@ -33,11 +33,45 @@ def _get_mpnet():
             pass
         try:
             from sentence_transformers import SentenceTransformer
-            logger.info("Loading MPNet for LexRank pre-summarization...")
             _mpnet_model = SentenceTransformer('all-mpnet-base-v2')
         except Exception as e:
             logger.error(f"MPNet load failed: {e}")
     return _mpnet_model
+
+
+def _split_sentences(text: str) -> List[str]:
+    """Split text into clean sentences."""
+    abbrevs = r'(?:Mr|Mrs|Ms|Dr|Prof|Sr|Jr|St|vs|etc|approx|Rs|U\.S|U\.K)'
+    t = re.sub(rf'\b({abbrevs})\.', r'\1<DOT>', text.strip())
+    sents = re.split(r'(?<=[.!?])\s+', t)
+    result = []
+    for s in sents:
+        s = s.replace('<DOT>', '.').strip()
+        if len(s.split()) >= 6:
+            result.append(s)
+    return result
+
+
+def _word_overlap(s1: str, s2: str) -> float:
+    """Jaccard overlap ignoring stopwords."""
+    STOP = {'the','a','an','and','or','but','in','on','at','to','for','of','with',
+            'by','from','is','are','was','were','be','been','has','have','had',
+            'this','that','it','its','as','also','which','who','not','no','so',
+            'he','she','they','we','their','his','her','said','says','told'}
+    def words(s):
+        return set(re.sub(r'[^a-z0-9\s]', ' ', s.lower()).split()) - STOP
+    w1, w2 = words(s1), words(s2)
+    if not w1 or not w2:
+        return 0.0
+    return len(w1 & w2) / len(w1 | w2)
+
+
+def _is_duplicate(sent: str, selected: List[str], threshold: float = 0.40) -> bool:
+    """Check if sentence is too similar to any already selected."""
+    for s in selected:
+        if _word_overlap(sent, s) >= threshold:
+            return True
+    return False
 
 
 def _lexrank_extract(text: str, max_tokens: int = 950) -> str:
@@ -46,14 +80,11 @@ def _lexrank_extract(text: str, max_tokens: int = 950) -> str:
     import networkx as nx
     from sklearn.metrics.pairwise import cosine_similarity
 
-    try:
-        nltk.data.find('tokenizers/punkt_tab')
-    except LookupError:
-        nltk.download('punkt_tab', quiet=True)
-    try:
-        nltk.data.find('tokenizers/punkt')
-    except LookupError:
-        nltk.download('punkt', quiet=True)
+    for resource in ['punkt_tab', 'punkt']:
+        try:
+            nltk.data.find(f'tokenizers/{resource}')
+        except LookupError:
+            nltk.download(resource, quiet=True)
 
     sentences = nltk.sent_tokenize(text)
     sentences = [s.strip() for s in sentences if len(s.split()) >= 5]
@@ -62,8 +93,7 @@ def _lexrank_extract(text: str, max_tokens: int = 950) -> str:
 
     mpnet = _get_mpnet()
     if mpnet is None:
-        words = text.split()
-        return ' '.join(words[:800])
+        return ' '.join(text.split()[:800])
 
     sent_embs  = mpnet.encode(sentences, batch_size=32, show_progress_bar=False)
     sim_matrix = cosine_similarity(sent_embs)
@@ -75,15 +105,13 @@ def _lexrank_extract(text: str, max_tokens: int = 950) -> str:
     except Exception:
         scores = nx.pagerank(graph)
 
-    ranked_indices = sorted(scores, key=scores.get, reverse=True)
-    selected = []
-    token_count = 0
-    for idx in ranked_indices:
-        sent = sentences[idx]
-        toks = len(sent.split())
+    ranked = sorted(scores, key=scores.get, reverse=True)
+    selected, token_count = [], 0
+    for idx in ranked:
+        toks = len(sentences[idx].split())
         if token_count + toks > max_tokens:
             break
-        selected.append((idx, sent))
+        selected.append((idx, sentences[idx]))
         token_count += toks
 
     selected.sort(key=lambda x: x[0])
@@ -96,11 +124,12 @@ def _bart_summarize(input_text: str) -> Optional[str]:
         inputs = tokenizer(input_text, return_tensors='pt', max_length=1024, truncation=True)
         summary_ids = model.generate(
             inputs['input_ids'],
-            max_length=150,
-            min_length=50,
+            max_length=220,
+            min_length=80,
             num_beams=4,
             early_stopping=True,
-            no_repeat_ngram_size=3
+            no_repeat_ngram_size=3,
+            length_penalty=1.5,
         )
         return tokenizer.decode(summary_ids[0], skip_special_tokens=True).strip()
     except Exception as e:
@@ -108,46 +137,95 @@ def _bart_summarize(input_text: str) -> Optional[str]:
         return None
 
 
-def _format_bullets(summary: str, headline: str, num_bullets: int = 6) -> Optional[str]:
-    if not summary:
-        return None
+def _build_bullets(
+    bart_summary: Optional[str],
+    full_text: str,
+    headline: str,
+    num_bullets: int = 6,
+) -> Optional[str]:
+    """
+    Build bullet points by combining BART summary sentences + extractive
+    sentences from full_text. Deduplicates aggressively.
+    """
+    # 1. Collect candidate sentences from BART output
+    bart_sents = _split_sentences(bart_summary) if bart_summary else []
 
-    raw = re.split(r'(?<=[.!?])\s+', summary.strip())
-    sentences = [s.strip().rstrip('.') for s in raw if len(s.split()) >= 8]
+    # 2. Collect candidate sentences from full text (extractive)
+    full_sents = _split_sentences(full_text)
 
-    if not sentences:
-        return None
+    # 3. Score full_text sentences by importance
+    import math
+    from collections import Counter
+    STOP = {'the','a','an','and','or','but','in','on','at','to','for','of','with',
+            'by','from','is','are','was','were','be','been','has','have','had',
+            'this','that','it','its','as','also','which','who','not','no','so',
+            'he','she','they','we','their','his','her','said','says','told'}
+    NUM_PAT   = re.compile(r'\b\d+(?:\.\d+)?(?:\s*%|\s*crore|\s*billion|\s*lakh|\s*million)?\b')
+    IMPORTANT = ['launched','inaugurated','signed','appointed','won','first','india',
+                 'government','scheme','awarded','ranked','record','approved','passed',
+                 'agreement','bilateral','summit','policy','act','bill','mission']
 
-    def _overlap(s1: str, s2: str) -> float:
-        stop = {'the','a','an','and','or','in','on','at','to','for','of','with','by','is','are','was','were','has','have'}
-        w1 = set(re.sub(r'[^a-z0-9\s]', ' ', s1.lower()).split()) - stop
-        w2 = set(re.sub(r'[^a-z0-9\s]', ' ', s2.lower()).split()) - stop
-        if not w1:
-            return 0.0
-        return len(w1 & w2) / len(w1)
+    all_words = []
+    for s in full_sents:
+        all_words.extend(w.lower().strip('.,!?;:') for w in s.split()
+                         if w.lower().strip('.,!?;:') not in STOP and len(w) > 2)
+    tf = Counter(all_words)
+    total = max(sum(tf.values()), 1)
+    n = len(full_sents)
 
-    filtered = [s for s in sentences if _overlap(headline, s) < 0.55]
-    if not filtered:
-        filtered = sentences
+    def score(sent, pos):
+        words = sent.lower().split()
+        if not words: return 0.0
+        ws = sum(tf.get(w.strip('.,!?;:'), 0) / total for w in words) / len(words)
+        ks = sum(1 for t in IMPORTANT if t in sent.lower()) * 0.15
+        ns = min(len(NUM_PAT.findall(sent)) * 0.12, 0.35)
+        ps = 0.20 if pos == 0 else (0.10 if pos <= n * 0.2 else 0.0)
+        lp = 1.0 if len(words) <= 35 else 0.75
+        return (ws + ks + ns + ps) * lp
 
-    selected = filtered[:num_bullets]
-    if len(selected) < 3:
-        extra = [s for s in sentences if s not in filtered]
-        selected = (filtered + extra)[:num_bullets]
+    scored_full = sorted(enumerate(full_sents), key=lambda x: score(x[1], x[0]), reverse=True)
+    top_full = [s for _, s in scored_full[:num_bullets * 2]]
+
+    # 4. Build final bullet list: prefer BART sentences, fill with extractive
+    selected: List[str] = []
+
+    # Add BART sentences first (they're abstractive, good quality)
+    for sent in bart_sents:
+        sent = sent.strip().rstrip('.')
+        if len(sent.split()) < 8:
+            continue
+        if _word_overlap(headline, sent) > 0.65:
+            continue
+        if _is_duplicate(sent, selected):
+            continue
+        selected.append(sent)
+        if len(selected) >= num_bullets:
+            break
+
+    # Fill remaining slots with extractive sentences
+    for sent in top_full:
+        if len(selected) >= num_bullets:
+            break
+        sent = sent.strip().rstrip('.')
+        if len(sent.split()) < 8:
+            continue
+        if _word_overlap(headline, sent) > 0.65:
+            continue
+        if _is_duplicate(sent, selected, threshold=0.35):
+            continue
+        selected.append(sent)
+
     if len(selected) < 3:
         return None
 
     bullets = []
     for sent in selected:
-        # Ensure each bullet has at least ~2 lines worth of content (15+ words)
-        if len(sent.split()) < 10:
-            continue
-        if len(sent) > 280:
-            sent = sent[:280].rsplit(' ', 1)[0] + '…'
+        if len(sent) > 300:
+            sent = sent[:300].rsplit(' ', 1)[0] + '…'
         sent = sent[0].upper() + sent[1:]
         bullets.append(f'• {sent}.')
 
-    return '\n'.join(bullets) if len(bullets) >= 3 else None
+    return '\n'.join(bullets)
 
 
 def generate_summary(headline: str, text: str, num_bullets: int = 6) -> Optional[str]:
@@ -155,64 +233,47 @@ def generate_summary(headline: str, text: str, num_bullets: int = 6) -> Optional
     if not body:
         body = headline
 
-    word_count = len(body.split())
-
-    if word_count > 800:
+    # LexRank pre-extraction for long articles
+    if len(body.split()) > 800:
         input_text = _lexrank_extract(body, max_tokens=950)
     else:
         input_text = body
 
-    raw_summary = _bart_summarize(input_text)
+    # BART abstractive summary
+    bart_output = _bart_summarize(input_text)
 
-    if not raw_summary:
-        return _extractive_fallback(headline, body, num_bullets)
+    # Build bullets combining BART + extractive
+    result = _build_bullets(bart_output, body, headline, num_bullets)
 
-    bullets = _format_bullets(raw_summary, headline, num_bullets)
+    if result:
+        return result
 
-    if not bullets:
-        return _extractive_fallback(headline, body, num_bullets)
-
-    return bullets
+    # Pure extractive fallback
+    return _extractive_fallback(headline, body, num_bullets)
 
 
 def _extractive_fallback(headline: str, text: str, num_bullets: int = 6) -> Optional[str]:
     import math
     from collections import Counter
 
-    STOPWORDS = {
-        'the','a','an','and','or','but','in','on','at','to','for','of','with',
-        'by','from','is','are','was','were','be','been','has','have','had',
-        'this','that','these','those','it','its','as','also','which','who',
-        'not','no','so','such','he','she','they','we','their','his','her',
-        'said','says','told','according',
-    }
+    STOP = {'the','a','an','and','or','but','in','on','at','to','for','of','with',
+            'by','from','is','are','was','were','be','been','has','have','had',
+            'this','that','these','those','it','its','as','also','which','who',
+            'not','no','so','such','he','she','they','we','their','his','her',
+            'said','says','told','according'}
 
-    def _split(t):
-        abbrevs = r'(?:Mr|Mrs|Ms|Dr|Prof|Sr|Jr|St|vs|etc|approx|Rs|U\.S|U\.K)'
-        p = re.sub(rf'\b({abbrevs})\.', r'\1<DOT>', t.strip())
-        sents = re.split(r'(?<=[.!?])\s+', p)
-        return [s.replace('<DOT>', '.').strip() for s in sents if len(s.split()) >= 6]
-
-    sentences = _split(text)
+    sentences = _split_sentences(text)
     if not sentences:
         return None
 
-    def _hl_overlap(s):
-        w1 = set(re.sub(r'[^a-z0-9\s]', ' ', headline.lower()).split()) - STOPWORDS
-        w2 = set(re.sub(r'[^a-z0-9\s]', ' ', s.lower()).split()) - STOPWORDS
-        if not w1: return 0.0
-        return len(w1 & w2) / len(w1)
-
-    body_sents = [s for s in sentences if _hl_overlap(s) < 0.55]
+    body_sents = [s for s in sentences if _word_overlap(headline, s) < 0.55]
     if len(body_sents) < 2:
         body_sents = sentences
 
     all_words = []
     for s in body_sents:
-        all_words.extend(
-            w.lower().strip('.,!?;:') for w in s.split()
-            if w.lower().strip('.,!?;:') not in STOPWORDS and len(w) > 2
-        )
+        all_words.extend(w.lower().strip('.,!?;:') for w in s.split()
+                         if w.lower().strip('.,!?;:') not in STOP and len(w) > 2)
     tf = Counter(all_words)
     total = max(sum(tf.values()), 1)
     doc_cnt = Counter()
@@ -228,32 +289,40 @@ def _extractive_fallback(headline: str, text: str, num_bullets: int = 6) -> Opti
         words = sent.lower().split()
         if not words: return 0.0
         ws = sum(
-            (tf.get(w.strip('.,!?;:'), 0)/total) *
-            math.log((n+1)/(doc_cnt.get(w.strip('.,!?;:'), 0)+1))
+            (tf.get(w.strip('.,!?;:'), 0) / total) *
+            math.log((n + 1) / (doc_cnt.get(w.strip('.,!?;:'), 0) + 1))
             for w in words
         ) / len(words)
         ks = sum(1 for t in IMPORTANT if t in sent.lower()) * 0.15
         ns = min(len(NUM_PAT.findall(sent)) * 0.12, 0.35)
-        ps = 0.25 if pos == 0 else (0.15 if pos <= n*0.2 else 0.0)
+        ps = 0.25 if pos == 0 else (0.15 if pos <= n * 0.2 else 0.0)
         lp = 1.0 if len(words) <= 35 else 0.75
         return (ws + ks + ns + ps) * lp
 
     scored   = sorted(enumerate(body_sents), key=lambda x: score(x[1], x[0]), reverse=True)
-    top      = sorted(scored[:num_bullets], key=lambda x: x[0])
-    selected = [s for _, s in top]
+    selected: List[str] = []
+    for _, sent in scored:
+        if len(selected) >= num_bullets:
+            break
+        sent = sent.strip().rstrip('.')
+        if len(sent.split()) < 8:
+            continue
+        if _is_duplicate(sent, selected, threshold=0.35):
+            continue
+        selected.append(sent)
+
+    # Sort back to original order
+    order = {s: i for i, s in enumerate(body_sents)}
+    selected.sort(key=lambda s: order.get(s, 999))
 
     if len(selected) < 3:
         return None
 
     bullets = []
     for sent in selected:
-        sent = sent.strip().rstrip('.')
-        if not sent: continue
-        if len(sent.split()) < 10:
-            continue
-        if len(sent) > 280:
-            sent = sent[:280].rsplit(' ', 1)[0] + '…'
+        if len(sent) > 300:
+            sent = sent[:300].rsplit(' ', 1)[0] + '…'
         sent = sent[0].upper() + sent[1:]
         bullets.append(f'• {sent}.')
 
-    return '\n'.join(bullets) if len(bullets) >= 3 else None
+    return '\n'.join(bullets)
