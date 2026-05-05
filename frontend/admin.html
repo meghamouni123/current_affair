@@ -135,7 +135,6 @@ tr:last-child td{border-bottom:none}
     <button class="nav-item active" onclick="showSection('dashboard',this)">📊 Dashboard</button>
     <button class="nav-item" onclick="showSection('analytics',this)">👥 Visitor Analytics</button>
     <button class="nav-item" onclick="showSection('articles',this)">📰 Article Management</button>
-    <button class="nav-item" onclick="showSection('categories',this)">📂 Categories</button>
     <button class="nav-item" onclick="showSection('users',this)">👤 User Management</button>
     <button class="nav-item" onclick="showSection('quiz',this)">🧠 Quiz Management</button>
     <button class="nav-item" onclick="showSection('settings',this)">⚙️ Settings</button>
@@ -267,11 +266,6 @@ tr:last-child td{border-bottom:none}
           </div>
         </div>
       </div>
-    </div>
-
-    <!-- ═══ CATEGORIES ═══ -->
-    <div class="section" id="sec-categories">
-      <div class="grid2" id="catCardsGrid" style="grid-template-columns:repeat(3,1fr)"></div>
     </div>
 
     <!-- ═══ USERS ═══ -->
@@ -425,7 +419,7 @@ const u=getUser();
 if(u){document.getElementById("adminAv").textContent=(u.avatar||u.name.slice(0,2)).toUpperCase();document.getElementById("adminName").textContent=u.name;}
 trackVisit();
 
-const SECTION_META={dashboard:["📊 Dashboard","Overview"],analytics:["👥 Visitor Analytics","Traffic & Users"],articles:["📰 Article Management","CRUD"],categories:["📂 Categories","Overview"],users:["👤 User Management","All Users"],quiz:["🧠 Quiz Management","Questions & Scores"],settings:["⚙️ Settings","Config"]};
+const SECTION_META={dashboard:["📊 Dashboard","Overview"],analytics:["👥 Visitor Analytics","Traffic & Users"],articles:["📰 Article Management","CRUD"],users:["👤 User Management","All Users"],quiz:["🧠 Quiz Management","Questions & Scores"],settings:["⚙️ Settings","Config"]};
 
 function showSection(id,btn){
   document.querySelectorAll(".section").forEach(s=>s.classList.remove("active"));
@@ -439,7 +433,6 @@ function showSection(id,btn){
   if(id==="dashboard")loadDashboard();
   if(id==="analytics")loadAnalytics();
   if(id==="articles")loadArticles();
-  if(id==="categories")loadCategories();
   if(id==="users")loadUsers();
   if(id==="quiz")loadQuiz();
 }
