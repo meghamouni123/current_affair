@@ -127,26 +127,45 @@ async function emailLogin() {
   const email = document.getElementById("loginEmail").value.trim().toLowerCase();
   const pass  = document.getElementById("loginPass").value;
   if (!email || !pass) { showError("Please enter email and password"); return; }
+
+  // Try API first
+  let apiOk = false;
   try {
     const r = await fetch('/api/auth', {
       method:'POST', headers:{'Content-Type':'application/json'},
       body: JSON.stringify({ action:'login', email, password:pass, page:'login', device:navigator.userAgent.slice(0,50) })
     });
     const data = await r.json();
-    if (!r.ok) { showError(data.error || "Login failed"); return; }
-    setUser({ name: data.user.name, email: data.user.email, role: data.user.role, avatar: data.user.name.slice(0,2).toUpperCase() });
-    showToast("Welcome back, " + data.user.name + "!");
-    setTimeout(() => window.location.href = "index.html", 700);
-  } catch(e) {
-    // Fallback to localStorage if API unavailable
-    const users = getUsers();
-    const user  = users.find(u => u.email === email);
-    if (!user) { showError("No account found. Please create an account."); return; }
-    if (user.password !== btoa(pass)) { showError("Invalid email or password"); return; }
-    setUser({ name: user.name, email: user.email, role: "user", avatar: user.name.slice(0,2).toUpperCase() });
-    showToast("Welcome back, " + user.name + "!");
-    setTimeout(() => window.location.href = "index.html", 700);
-  }
+    if (r.ok && data.success) {
+      // Sync to localStorage for offline fallback
+      const users = getUsers();
+      if (!users.find(u => u.email === email)) {
+        users.push({ name: data.user.name, email, password: btoa(pass) });
+        saveUsers(users);
+      }
+      setUser({ name: data.user.name, email: data.user.email, role: data.user.role, avatar: data.user.name.slice(0,2).toUpperCase() });
+      showToast("Welcome back, " + data.user.name + "!");
+      setTimeout(() => window.location.href = "index.html", 700);
+      apiOk = true;
+    } else if (r.status === 401) {
+      showError("Invalid email or password"); return;
+    } else if (r.status === 404) {
+      showError("No account found. Please create an account."); return;
+    } else {
+      // API error — fall through to localStorage
+    }
+  } catch(e) { /* API unavailable — use localStorage */ }
+
+  if (apiOk) return;
+
+  // Fallback: localStorage
+  const users = getUsers();
+  const user  = users.find(u => u.email === email);
+  if (!user) { showError("No account found. Please create an account."); return; }
+  if (user.password !== btoa(pass)) { showError("Invalid email or password"); return; }
+  setUser({ name: user.name, email: user.email, role: "user", avatar: user.name.slice(0,2).toUpperCase() });
+  showToast("Welcome back, " + user.name + "!");
+  setTimeout(() => window.location.href = "index.html", 700);
 }
 
 async function emailSignup() {
@@ -155,29 +174,24 @@ async function emailSignup() {
   const pass  = document.getElementById("signupPass").value;
   if (!name || !email || !pass) { showError("Please fill all fields"); return; }
   if (pass.length < 6) { showError("Password must be at least 6 characters"); return; }
+
+  // Always save to localStorage first (guaranteed to work)
+  const users = getUsers();
+  if (users.find(u => u.email === email)) { showError("Account already exists. Please login."); return; }
+  users.push({ name, email, password: btoa(pass) });
+  saveUsers(users);
+
+  // Also try API (for cross-device sync)
   try {
-    const r = await fetch('/api/auth', {
+    await fetch('/api/auth', {
       method:'POST', headers:{'Content-Type':'application/json'},
       body: JSON.stringify({ action:'register', name, email, password:pass, page:'register', device:navigator.userAgent.slice(0,50) })
     });
-    const data = await r.json();
-    if (!r.ok) { showError(data.error || "Registration failed"); return; }
-    // Also save locally as fallback
-    const users = getUsers();
-    if (!users.find(u => u.email === email)) { users.push({ name, email, password: btoa(pass) }); saveUsers(users); }
-    setUser({ name, email, role: "user", avatar: name.slice(0,2).toUpperCase() });
-    showToast("Welcome, " + name + "!");
-    setTimeout(() => window.location.href = "index.html", 700);
-  } catch(e) {
-    // Fallback to localStorage
-    const users = getUsers();
-    if (users.find(u => u.email === email)) { showError("Account already exists. Please login."); return; }
-    users.push({ name, email, password: btoa(pass) });
-    saveUsers(users);
-    setUser({ name, email, role: "user", avatar: name.slice(0,2).toUpperCase() });
-    showToast("Welcome, " + name + "!");
-    setTimeout(() => window.location.href = "index.html", 700);
-  }
+  } catch(e) { /* API unavailable — localStorage already saved */ }
+
+  setUser({ name, email, role: "user", avatar: name.slice(0,2).toUpperCase() });
+  showToast("Welcome, " + name + "!");
+  setTimeout(() => window.location.href = "index.html", 700);
 }
 
 function sendReset() {
