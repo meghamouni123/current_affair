@@ -7,8 +7,6 @@
 <style>
 :root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--accent:#f4b942;--text:#e6edf3;--muted:#7d8590;--card:#1c2128;--green:#3fb950;--red:#e05c5c;--blue:#58a6ff;--purple:#bc8cff}
 *{box-sizing:border-box;margin:0;padding:0}body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
-
-/* ── Top Navbar ── */
 .topnav{position:sticky;top:0;z-index:200;background:var(--surface);border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;padding:0 28px;height:58px}
 .tn-logo{font-family:'Playfair Display',serif;font-size:1.1rem;font-weight:800;text-decoration:none;color:var(--text)}
 .tn-logo em{font-style:normal;color:var(--accent)}
@@ -21,12 +19,8 @@
 .tn-btn:hover{background:var(--accent);color:#0d1117}
 .user-chip{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--border);padding:5px 12px 5px 6px;border-radius:9px;cursor:pointer;font-size:.82rem;font-weight:500}
 .user-avatar{width:26px;height:26px;border-radius:50%;background:linear-gradient(135deg,var(--accent),#e8961a);display:flex;align-items:center;justify-content:center;font-size:.65rem;font-weight:700;color:#0d1117}
-
-/* ── Main ── */
 .main{padding:28px 32px;max-width:1100px;margin:0 auto}
 .page-title{font-family:'Playfair Display',serif;font-size:1.5rem;font-weight:800;margin-bottom:24px}
-
-/* Profile header */
 .profile-header{background:linear-gradient(135deg,rgba(244,185,66,.12),rgba(244,185,66,.04));border:1px solid rgba(244,185,66,.25);border-radius:20px;padding:28px 32px;display:flex;align-items:center;gap:24px;margin-bottom:24px}
 .profile-avatar{width:80px;height:80px;border-radius:50%;background:linear-gradient(135deg,var(--accent),#e8961a);display:flex;align-items:center;justify-content:center;font-size:2rem;font-weight:700;color:#0d1117;flex-shrink:0;border:3px solid rgba(244,185,66,.4)}
 .profile-info h2{font-family:'Playfair Display',serif;font-size:1.4rem;font-weight:800;margin-bottom:4px}
@@ -36,13 +30,9 @@
 .profile-stats{margin-left:auto;display:flex;gap:20px;text-align:center;flex-shrink:0}
 .ps-val{font-family:'Playfair Display',serif;font-size:1.8rem;font-weight:800;color:var(--accent)}
 .ps-label{font-size:.72rem;color:var(--muted);margin-top:2px}
-
-/* Grid */
 .grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:20px}
 .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:22px}
 .card-title{font-size:.95rem;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px}
-
-/* Score ring */
 .score-ring-wrap{display:flex;align-items:center;gap:20px;margin-bottom:14px}
 .ring{position:relative;width:100px;height:100px;flex-shrink:0}
 .ring svg{transform:rotate(-90deg)}
@@ -51,35 +41,23 @@
 .ring-pct{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center}
 .ring-num{font-size:1.2rem;font-weight:800;color:var(--accent)}
 .ring-lbl{font-size:.6rem;color:var(--muted)}
-
-/* Category performance bars */
 .cat-perf{display:flex;flex-direction:column;gap:10px}
 .cp-item{display:flex;align-items:center;gap:10px}
 .cp-name{font-size:.78rem;width:160px;flex-shrink:0;color:var(--muted)}
 .cp-bar-wrap{flex:1;background:var(--surface);border-radius:10px;height:8px;overflow:hidden}
 .cp-bar{height:100%;border-radius:10px;transition:width 1s ease}
-.cp-pct{font-size:.75rem;font-weight:700;width:36px;text-align:right;flex-shrink:0}
-
-/* Achievements */
+.cp-pct{font-size:.75rem;font-weight:700;width:48px;text-align:right;flex-shrink:0}
 .ach-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}
-.ach-item{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px;text-align:center;transition:all .2s}
+.ach-item{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px;text-align:center}
 .ach-item.earned{border-color:rgba(244,185,66,.3);background:rgba(244,185,66,.05)}
 .ach-item.locked{opacity:.5}
 .ach-emoji{font-size:1.8rem;margin-bottom:6px}
 .ach-name{font-size:.75rem;font-weight:600;margin-bottom:2px}
 .ach-desc{font-size:.68rem;color:var(--muted)}
-
-/* Reading history */
 .read-list{display:flex;flex-direction:column;gap:8px;max-height:280px;overflow-y:auto}
 .rl-item{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:10px 14px;font-size:.82rem;display:flex;align-items:center;gap:10px}
 .rl-num{width:22px;height:22px;background:rgba(244,185,66,.15);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:.7rem;font-weight:700;color:var(--accent);flex-shrink:0}
-
-/* Quiz history chart */
 .quiz-chart-wrap{width:100%;overflow:hidden}
-.quiz-bars{display:flex;align-items:flex-end;gap:6px;height:80px;padding-top:8px}
-.qb-bar{flex:1;border-radius:4px 4px 0 0;transition:height .8s ease;min-width:16px;cursor:pointer;position:relative}
-.qb-bar:hover::after{content:attr(data-tip);position:absolute;bottom:110%;left:50%;transform:translateX(-50%);background:var(--card);border:1px solid var(--border);border-radius:6px;padding:3px 8px;font-size:.7rem;white-space:nowrap;color:var(--text)}
-
 @media(max-width:900px){.grid2{grid-template-columns:1fr}.profile-header{flex-direction:column;text-align:center}.profile-stats{margin-left:0}}
 @media(max-width:640px){.tn-links{display:none}.main{padding:16px}}
 </style>
@@ -88,7 +66,6 @@
 <script src="config.js"></script>
 <script>if(!requireLogin());</script>
 
-<!-- Top Navbar -->
 <nav class="topnav">
   <a class="tn-logo" href="index.html">News<em>Prep</em></a>
   <div class="tn-links">
@@ -106,7 +83,6 @@
       <span id="navName">User</span>
       <span style="color:var(--muted);font-size:.75rem">· Profile</span>
     </div>
-    </div>
     <a class="tn-link" href="#" onclick="clearUser();location.href='login.html';return false;" style="color:var(--red)">🚪 Logout</a>
     <button id="themeToggleBtn" onclick="toggleTheme()" style="background:var(--card);border:1px solid var(--border);color:var(--muted);border-radius:8px;padding:5px 11px;font-family:'DM Sans',sans-serif;font-size:.78rem;cursor:pointer">☀️ Light</button>
   </div>
@@ -115,7 +91,6 @@
 <div class="main">
   <div class="page-title">👤 My Profile</div>
 
-  <!-- Profile header -->
   <div class="profile-header">
     <div class="profile-avatar" id="profAv">U</div>
     <div class="profile-info">
@@ -132,7 +107,6 @@
   </div>
 
   <div class="grid2">
-    <!-- Overall score -->
     <div class="card">
       <div class="card-title">📊 Overall Performance</div>
       <div class="score-ring-wrap">
@@ -158,21 +132,18 @@
       <div class="quiz-chart-wrap" id="quizLineChart"></div>
     </div>
 
-    <!-- Achievements -->
     <div class="card">
       <div class="card-title">🏅 Achievements</div>
       <div class="ach-grid" id="achGrid"></div>
     </div>
 
-    <!-- Category Performance Chart -->
     <div class="card">
       <div class="card-title">📖 Reading Performance</div>
       <div class="cat-perf" id="catPerf">
-        <div style="color:var(--muted);font-size:.85rem">Take quizzes to see performance by category</div>
+        <div style="color:var(--muted);font-size:.85rem">Start reading articles to see your category performance 📖</div>
       </div>
     </div>
 
-    <!-- Reading history -->
     <div class="card">
       <div class="card-title">📖 Reading Activity</div>
       <div style="margin-bottom:12px;font-size:.82rem;color:var(--muted)">Articles recently read: <strong id="readCount" style="color:var(--text)">0</strong></div>
@@ -184,19 +155,6 @@
 </div>
 
 <script>
-const CATS_PERF=[
-  {name:"Economy & Banking",color:"#3fb950"},
-  {name:"Polity & Governance",color:"#bc8cff"},
-  {name:"International Relations",color:"#58a6ff"},
-  {name:"Science & Technology",color:"#f4b942"},
-  {name:"Sports",color:"#5ce0b8"},
-  {name:"Awards & Honours",color:"#e0b85c"},
-  {name:"Important Days & Obituaries",color:"#e0785c"},
-  {name:"Summits & Conferences",color:"#785ce0"},
-  {name:"National News",color:"#42b9f4"},
-  {name:"Schemes & Appointments",color:"#e05c5c"},
-];
-
 const ACHIEVEMENTS=[
   {emoji:"🚀",name:"First Quiz",desc:"Complete your first quiz",check:h=>h.length>=1},
   {emoji:"🔥",name:"5 Quizzes",desc:"Complete 5 quizzes",check:h=>h.length>=5},
@@ -208,21 +166,27 @@ const ACHIEVEMENTS=[
   {emoji:"⭐",name:"Consistent",desc:"Use app for 3 days",check:()=>true},
 ];
 
+const CATS_PERF_LIST=[
+  {name:"Economy & Banking",color:"#3fb950"},{name:"Polity & Governance",color:"#bc8cff"},
+  {name:"International Relations",color:"#58a6ff"},{name:"Science & Technology",color:"#f4b942"},
+  {name:"Sports",color:"#5ce0b8"},{name:"Awards & Honours",color:"#e0b85c"},
+  {name:"Important Days & Obituaries",color:"#e0785c"},{name:"Summits & Conferences",color:"#785ce0"},
+  {name:"National News",color:"#42b9f4"},{name:"Schemes & Appointments",color:"#e05c5c"},
+];
+
 function init(){
   const u=getUser();if(!u)return;
   if(isAdmin())document.getElementById("adminLink").style.display="flex";
 
-  // Navbar
   document.getElementById("navAv").textContent=(u.avatar||u.name.slice(0,2)).toUpperCase();
   document.getElementById("navName").textContent=u.name.split(" ")[0];
-
   document.getElementById("profAv").textContent=(u.avatar||u.name.slice(0,2)).toUpperCase();
   document.getElementById("profName").textContent=u.name;
   document.getElementById("profEmail").textContent=u.email;
 
+  const qh=getQuizHistory();
   const badges=[];
   if(u.role==="admin")badges.push("👑 Admin");
-  const qh=getQuizHistory();
   if(qh.length>=10)badges.push("💎 Champion");
   else if(qh.length>=5)badges.push("🔥 Active");
   else badges.push("🌱 Learner");
@@ -235,7 +199,7 @@ function init(){
   document.getElementById("psStreak").textContent=Math.min(qh.length,7);
   document.getElementById("readCount").textContent=read.length;
 
-  // Quiz performance ring
+  // Quiz performance ring + line chart
   if(qh.length){
     const avg=Math.round(qh.reduce((s,q)=>s+(q.score||0),0)/qh.length);
     const best=Math.max(...qh.map(q=>q.score||0));
@@ -245,12 +209,10 @@ function init(){
     const circ=2*Math.PI*40;
     document.getElementById("scoreFill").style.strokeDashoffset=circ-(circ*avg/100);
 
-    // Quiz line chart (SVG)
     const last10=qh.slice(0,10).reverse();
     const scores=last10.map(q=>q.score||0);
-    const svgW=320,svgH=80,pad=16;
-    const n=scores.length;
     const months=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
+    const svgW=320,svgH=80,pad=16,n=scores.length;
     if(n>1){
       const maxS=Math.max(...scores,10);
       const pts=scores.map((s,i)=>{
@@ -282,30 +244,14 @@ function init(){
     }
   }
 
-  // Reading Performance Chart — actual category-wise read counts
+  // Reading Performance
   const catEl=document.getElementById("catPerf");
   const catReads=getCatReads();
-  // Aggregate all days
   const catTotals={};
   Object.values(catReads).forEach(dayObj=>{
-    Object.entries(dayObj).forEach(([cat,cnt])=>{
-      catTotals[cat]=(catTotals[cat]||0)+cnt;
-    });
+    Object.entries(dayObj).forEach(([cat,cnt])=>{ catTotals[cat]=(catTotals[cat]||0)+cnt; });
   });
-  const CATS_PERF_LIST=[
-    {name:"Economy & Banking",color:"#3fb950"},
-    {name:"Polity & Governance",color:"#bc8cff"},
-    {name:"International Relations",color:"#58a6ff"},
-    {name:"Science & Technology",color:"#f4b942"},
-    {name:"Sports",color:"#5ce0b8"},
-    {name:"Awards & Honours",color:"#e0b85c"},
-    {name:"Important Days & Obituaries",color:"#e0785c"},
-    {name:"Summits & Conferences",color:"#785ce0"},
-    {name:"National News",color:"#42b9f4"},
-    {name:"Schemes & Appointments",color:"#e05c5c"},
-  ];
-  const hasReads=Object.keys(catTotals).length>0;
-  if(hasReads){
+  if(Object.keys(catTotals).length>0){
     const maxReads=Math.max(...CATS_PERF_LIST.map(c=>catTotals[c.name]||0),1);
     catEl.innerHTML=CATS_PERF_LIST.map(c=>{
       const cnt=catTotals[c.name]||0;
@@ -317,8 +263,6 @@ function init(){
         <div class="cp-pct" style="color:${lcolor}">${cnt} read</div>
       </div>`;
     }).join("");
-  } else {
-    catEl.innerHTML=`<div style="color:var(--muted);font-size:.85rem;text-align:center;padding:20px 0">Start reading articles to see your category performance 📖</div>`;
   }
 
   // Achievements

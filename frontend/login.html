@@ -185,6 +185,8 @@ function sendReset() {
   if (!email) { showError("Please enter your email"); return; }
   showSuccess("Contact admin@newsprep.com with your email to reset your password.");
 }
+
+function adminLogin() {
   const email = document.getElementById("adminEmail").value.trim();
   const pass  = document.getElementById("adminPass").value;
   if (email === ADMIN_EMAIL && pass === ADMIN_PASSWORD) {
