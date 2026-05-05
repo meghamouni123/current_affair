@@ -20,31 +20,25 @@
 .user-chip{display:flex;align-items:center;gap:8px;background:var(--card);border:1px solid var(--border);padding:5px 12px 5px 6px;border-radius:9px;cursor:pointer;font-size:.82rem;font-weight:500}
 .user-avatar{width:26px;height:26px;border-radius:50%;background:linear-gradient(135deg,var(--accent),#e8961a);display:flex;align-items:center;justify-content:center;font-size:.65rem;font-weight:700;color:#0d1117}
 /* Main layout */
-.main{display:flex;flex-direction:column;min-height:calc(100vh - 58px)}
-/* Content layout */
-.content-layout{display:flex;flex:1}
-/* Filters sidebar */
-.filters-panel{width:240px;min-height:100%;background:var(--surface);border-right:1px solid var(--border);padding:16px;flex-shrink:0}
-.filter-section{margin-bottom:20px}
-.filter-title{font-size:.72rem;font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:var(--muted);margin-bottom:10px;padding-bottom:6px;border-bottom:1px solid var(--border)}
-.date-inp{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:8px 10px;font-family:'DM Sans',sans-serif;font-size:.82rem;color:var(--text);outline:none;margin-bottom:6px;transition:border-color .2s}
+.main{display:flex;flex-direction:column;min-height:calc(100vh - 58px);padding:20px 28px}
+/* Top filter bar */
+.filter-bar-top{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:16px 20px;margin-bottom:18px;display:flex;flex-wrap:wrap;gap:14px;align-items:flex-end}
+.fb-group{display:flex;flex-direction:column;gap:5px}
+.fb-label{font-size:.7rem;font-weight:700;text-transform:uppercase;letter-spacing:.6px;color:var(--muted)}
+.fb-row{display:flex;align-items:center;gap:6px;flex-wrap:wrap}
+.date-inp{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:7px 10px;font-family:'DM Sans',sans-serif;font-size:.82rem;color:var(--text);outline:none;transition:border-color .2s;width:130px}
 .date-inp:focus{border-color:var(--accent)}
 input[type="date"]::-webkit-calendar-picker-indicator{filter:invert(.5)}
-.quick-btns{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px}
-.qbtn{background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:4px 10px;font-size:.75rem;color:var(--muted);cursor:pointer;transition:all .2s}
+.qbtn{background:var(--bg);border:1px solid var(--border);border-radius:6px;padding:5px 11px;font-size:.75rem;color:var(--muted);cursor:pointer;transition:all .2s;white-space:nowrap}
 .qbtn:hover{border-color:var(--accent);color:var(--accent)}
-.cat-btn{display:flex;align-items:center;justify-content:space-between;width:100%;background:none;border:none;padding:8px 10px;border-radius:8px;cursor:pointer;font-family:'DM Sans',sans-serif;font-size:.83rem;color:var(--muted);transition:all .2s;text-align:left;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.cat-btn:hover{background:rgba(244,185,66,.06);color:var(--text)}
-.cat-btn.active{background:rgba(244,185,66,.12);color:var(--accent);font-weight:600}
-.cat-cnt{font-size:.7rem;background:var(--bg);padding:1px 6px;border-radius:10px}
-.cat-btn.active .cat-cnt{background:rgba(244,185,66,.2);color:var(--accent)}
-.apply-btn{width:100%;background:var(--accent);color:#0d1117;border:none;border-radius:10px;padding:10px;font-family:'DM Sans',sans-serif;font-size:.88rem;font-weight:700;cursor:pointer;margin-top:6px;transition:opacity .2s}
+.cat-sel{background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:7px 10px;font-family:'DM Sans',sans-serif;font-size:.82rem;color:var(--text);outline:none;cursor:pointer;min-width:180px}
+.cat-sel:focus{border-color:var(--accent)}
+.apply-btn{background:var(--accent);color:#0d1117;border:none;border-radius:8px;padding:8px 18px;font-family:'DM Sans',sans-serif;font-size:.83rem;font-weight:700;cursor:pointer;transition:opacity .2s;white-space:nowrap}
 .apply-btn:hover{opacity:.9}
-.clear-btn{width:100%;background:none;border:1px solid var(--border);color:var(--muted);border-radius:10px;padding:9px;font-family:'DM Sans',sans-serif;font-size:.82rem;cursor:pointer;margin-top:6px;transition:all .2s}
+.clear-btn{background:none;border:1px solid var(--border);color:var(--muted);border-radius:8px;padding:8px 14px;font-family:'DM Sans',sans-serif;font-size:.82rem;cursor:pointer;transition:all .2s;white-space:nowrap}
 .clear-btn:hover{border-color:var(--red);color:var(--red)}
-/* Articles area */
-.articles-area{flex:1;padding:20px 24px;overflow-y:auto}
-.top-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:16px}
+/* Top bar */
+.top-bar{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px}
 .results-info{font-size:.85rem;color:var(--muted)}
 .results-info strong{color:var(--text)}
 .sort-sel{background:var(--card);border:1px solid var(--border);border-radius:8px;padding:6px 10px;font-family:'DM Sans',sans-serif;font-size:.82rem;color:var(--text);outline:none;cursor:pointer}
@@ -122,42 +116,57 @@ input[type="date"]::-webkit-calendar-picker-indicator{filter:invert(.5)}
 
 <div class="main">
 
-  <div class="content-layout">
-    <!-- Filters -->
-    <div class="filters-panel">
-      <div class="filter-section">
-        <div class="filter-title">Date Range</div>
+  <!-- Top Filter Bar -->
+  <div class="filter-bar-top">
+    <div class="fb-group">
+      <div class="fb-label">Date Range</div>
+      <div class="fb-row">
         <input type="date" class="date-inp" id="dateFrom">
+        <span style="color:var(--muted);font-size:.8rem">to</span>
         <input type="date" class="date-inp" id="dateTo">
-        <div class="quick-btns">
-          <button class="qbtn" onclick="setRange(1)">Today</button>
-          <button class="qbtn" onclick="setYesterday()">Yesterday</button>
-          <button class="qbtn" onclick="setRange(7)">7 days</button>
-          <button class="qbtn" onclick="setRange(15)">15 days</button>
-          <button class="qbtn" onclick="setRange(30)">30 days</button>
-        </div>
+        <button class="qbtn" onclick="setRange(1)">Today</button>
+        <button class="qbtn" onclick="setYesterday()">Yesterday</button>
+        <button class="qbtn" onclick="setRange(7)">7d</button>
+        <button class="qbtn" onclick="setRange(30)">30d</button>
       </div>
-      <div class="filter-section">
-        <div class="filter-title">Category</div>
-        <div id="catList"></div>
-      </div>
-      <button class="apply-btn" onclick="applyFilters()">Apply Filters</button>
-      <button class="clear-btn" onclick="clearFilters()">✕ Clear All</button>
     </div>
-
-    <!-- Articles -->
-    <div class="articles-area">
-      <div class="top-bar">
-        <div class="results-info" id="resInfo">Loading…</div>
-        <select class="sort-sel" id="sortSel" onchange="applyFilters()">
-          <option value="date">Latest First</option>
-          <option value="score">Highest Score</option>
-        </select>
+    <div class="fb-group">
+      <div class="fb-label">Category</div>
+      <select class="cat-sel" id="catSel" onchange="setCatFromSel()">
+        <option value="All">🗂️ All Categories</option>
+        <option value="Economy & Banking">💰 Economy & Banking</option>
+        <option value="Polity & Governance">🏛️ Polity & Governance</option>
+        <option value="International Relations">🌐 International Relations</option>
+        <option value="Science & Technology">🚀 Science & Technology</option>
+        <option value="Schemes & Appointments">📋 Schemes & Appointments</option>
+        <option value="Reports & Indices">📊 Reports & Indices</option>
+        <option value="Sports">🏆 Sports</option>
+        <option value="Awards & Honours">🏅 Awards & Honours</option>
+        <option value="Important Days & Obituaries">📅 Important Days & Obituaries</option>
+        <option value="Summits & Conferences">🤝 Summits & Conferences</option>
+        <option value="National News">🇮🇳 National News</option>
+        <option value="State News">📍 State News</option>
+      </select>
+    </div>
+    <div class="fb-group">
+      <div class="fb-label">Actions</div>
+      <div class="fb-row">
+        <button class="apply-btn" onclick="applyFilters()">Apply</button>
+        <button class="clear-btn" onclick="clearFilters()">✕ Clear</button>
       </div>
-      <div id="artList"></div>
-      <div class="pagination" id="pgn"></div>
     </div>
   </div>
+
+  <!-- Articles -->
+  <div class="top-bar">
+    <div class="results-info" id="resInfo">Loading…</div>
+    <select class="sort-sel" id="sortSel" onchange="applyFilters()">
+      <option value="date">Latest First</option>
+      <option value="score">Highest Score</option>
+    </select>
+  </div>
+  <div id="artList"></div>
+  <div class="pagination" id="pgn"></div>
 </div>
 
 <script>
@@ -186,8 +195,8 @@ trackVisit();
 
 // URL params
 const up=new URLSearchParams(location.search);
-if(up.get("cat"))st.cat=up.get("cat");
-if(up.get("q")){st.q=up.get("q");document.getElementById("searchInp").value=st.q;}
+if(up.get("cat")){st.cat=up.get("cat");const sel=document.getElementById("catSel");if(sel)sel.value=st.cat;}
+if(up.get("q")){st.q=up.get("q");}
 
 // Default dates: last 30 days
 const today=new Date(),wago=new Date();wago.setDate(today.getDate()-30);
@@ -195,15 +204,6 @@ document.getElementById("dateTo").value=today.toISOString().slice(0,10);
 document.getElementById("dateFrom").value=wago.toISOString().slice(0,10);
 st.from=document.getElementById("dateFrom").value;
 st.to=document.getElementById("dateTo").value;
-
-// Build cat list
-const catListEl=document.getElementById("catList");
-catListEl.innerHTML=`<button class="cat-btn ${st.cat==='All'?'active':''}" data-c="All" onclick="setCat('All',this)">🗂️ All Categories</button>`;
-CATS.forEach(c=>{
-  const b=document.createElement("button");b.className="cat-btn"+(st.cat===c.name?" active":"");
-  b.dataset.c=c.name;b.innerHTML=`${c.emoji} ${c.name} <span class="cat-cnt" id="cc-${c.name.replace(/\W/g,'')}">—</span>`;
-  b.onclick=function(){setCat(c.name,this)};catListEl.appendChild(b);
-});
 
 function setRange(days){
   const t=new Date(),f=new Date();f.setDate(t.getDate()-days+1);
@@ -218,14 +218,19 @@ function setYesterday(){
   document.getElementById("dateTo").value=ys;
   applyFilters();
 }
-function setCat(c,btn){
-  st.cat=c;st.page=1;
-  document.querySelectorAll(".cat-btn").forEach(b=>b.classList.remove("active"));
-  if(btn)btn.classList.add("active");
+function setCatFromSel(){
+  st.cat=document.getElementById("catSel").value;
+  st.page=1;
 }
 function onSearch(v){clearTimeout(srchTimer);srchTimer=setTimeout(()=>{st.q=v;st.page=1;loadArts();},400);}
 function applyFilters(){st.from=document.getElementById("dateFrom").value;st.to=document.getElementById("dateTo").value;st.page=1;loadArts();}
-function clearFilters(){st={...st,cat:"All",from:"",to:"",q:"",page:1};document.getElementById("dateFrom").value="";document.getElementById("dateTo").value="";document.getElementById("searchInp").value="";document.querySelectorAll(".cat-btn").forEach(b=>b.classList.toggle("active",b.dataset.c==="All"));loadArts();}
+function clearFilters(){
+  st={...st,cat:"All",from:"",to:"",q:"",page:1};
+  document.getElementById("dateFrom").value="";
+  document.getElementById("dateTo").value="";
+  document.getElementById("catSel").value="All";
+  loadArts();
+}
 
 function showSkel(){document.getElementById("artList").innerHTML=Array(5).fill("").map(()=>`<div class="skeleton"><div class="sk sk-t"></div><div class="sk sk-b"></div><div class="sk sk-b2"></div></div>`).join("");}
 
