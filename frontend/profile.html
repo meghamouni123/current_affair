@@ -126,14 +126,6 @@
       <div class="quiz-bars" id="quizBars"></div>
     </div>
 
-    <!-- Category performance -->
-    <div class="card">
-      <div class="card-title">📂 Category Performance</div>
-      <div class="cat-perf" id="catPerf">
-        <div style="color:var(--muted);font-size:.85rem">Take quizzes to see performance by category</div>
-      </div>
-    </div>
-
     <!-- Achievements -->
     <div class="card">
       <div class="card-title">🏅 Achievements</div>
@@ -214,20 +206,6 @@ function init(){
       return`<div class="qb-bar" style="height:${h}%;background:${c}" data-tip="${q.score||0}%"></div>`;
     }).join("");
   }
-
-  // Category performance (simulated from quiz history)
-  const catEl=document.getElementById("catPerf");
-  catEl.innerHTML=CATS_PERF.map(c=>{
-    const pct=40+Math.floor(Math.random()*55); // simulated — real would need per-cat tracking
-    const cls=pct>=70?"bar-high":pct>=50?"bar-mid":"bar-low";
-    const label=pct>=70?"High":pct>=50?"Medium":"Low";
-    const lcolor=pct>=70?"var(--green)":pct>=50?"var(--accent)":"var(--red)";
-    return`<div class="cp-item">
-      <div class="cp-name">${c.name}</div>
-      <div class="cp-bar-wrap"><div class="cp-bar ${cls}" style="width:${pct}%;background:${c.color}"></div></div>
-      <div class="cp-pct" style="color:${lcolor}">${pct}%</div>
-    </div>`;
-  }).join("");
 
   // Achievements
   document.getElementById("achGrid").innerHTML=ACHIEVEMENTS.map(a=>{
