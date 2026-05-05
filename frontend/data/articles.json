@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 3504,
+      "title": "Anthropic, OpenAI launch AI services companies, challenge TCS and Infosys in India",
+      "summary": "• An earlier version of this article stated that Anthropic and OpenAI were working on AI services.\n• We are happy to clarify that this was not the case.\n• We apologise for any confusion caused as a result of this.\n• We have been asked to make clear that we are working on an AI services company.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/technology/news/story/anthropic-openai-launch-ai-services-companies-challenge-tcs-and-infosys-in-india-2906776-2026-05-05?utm_source=rss",
+      "relevance_score": 0.9546,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3480,
+      "title": "What OpenAI, Anthropic’s new enterprise AI services ventures mean for Indian IT firms",
+      "summary": "• OpenAI is a joint venture between Anthropic and OpenAI.\n• Anthropic is an AI company based in San Francisco, California.\n• It has been working with Google, Facebook, Microsoft and others to develop artificial intelligence.\n• The company also has its own AI division, OpenAI AI, based in New York.",
+      "category": "Science & Technology",
+      "source": "Indian Express - Technology",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-anthropic-enterprise-ai-services-ventures-it-sector-10674418/",
+      "relevance_score": 0.9327,
+      "published_date": "2026-05-05"
+    },
+    {
       "id": 3438,
       "title": "Secretary-General of ASEAN receives the Chargé d’Affaires ad interim of the Mission of the Russian Federation to ASEAN",
       "summary": "• The Russian mission is based in Bangkok, Thailand.\n• The mission is part of the Association of Southeast Asian Nations (ASEAN) mission.\n• It is the first mission of its kind to be established in the region.\n• The Mission is headed by the Russian Ambassador to the Republic of Thailand.",
@@ -11,6 +31,16 @@
       "published_date": "2026-05-05"
     },
     {
+      "id": 3503,
+      "title": "West Bengal Election Results: Mamata Banerjee among 22 ministers who lost in TMC debacle. Full list here",
+      "summary": "• West Bengal Election results: West Bengal election Results: All 22 ministers lost their seats in the TMC's debacle.\n• Mamata was one of the 22 ministers to lose their seats.\n• She was replaced by Kunal Ghosh, who lost his seat in the state assembly elections.",
+      "category": "State News",
+      "source": "LiveMint - Politics",
+      "url": "https://www.livemint.com/politics/news/west-bengal-election-results-mamata-banerjee-among-22-ministers-who-lost-in-tmc-debacle-11777969507892.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-05"
+    },
+    {
       "id": 3414,
       "title": "Assembly Elections 2026: BJP leads West Bengal, TVK storms Tamil Nadu, UDF returns in Kerala",
       "summary": "• Assembly elections in Kerala to be held in 2026, says Kerala United Democratic Party (Kerala UDF) chief.\n• Kerala UDF has been in power for more than 30 years, but has never won an assembly seat.\n• Kerala has been ruled by the UDF since the late 1980s.",
@@ -18,6 +48,26 @@
       "source": "Frontline Magazine",
       "url": "https://frontline.thehindu.com/the-nation/assembly-results-bjp-vijay-udf-surge/article70937836.ece",
       "relevance_score": 0.91,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3508,
+      "title": "Lukaku returns to Napoli after injury in boost to Belgium before FIFA World Cup 2026",
+      "summary": "• Lukaku was injured in Belgium's 2-1 win over Holland in Euro 2016 qualifier.\n• Belgium are bidding to host the World Cup for the first time in 2026 in South Africa.\n• Belgium will be hosting the tournament for the second time in their history, having won the tournament in 1986.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/romelu-lukaku-back-from-injury-to-napoli-belgium-national-team-boost-for-fifa-world-cup-2026/article70941284.ece",
+      "relevance_score": 0.8931,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3486,
+      "title": "Skeet shooters miss out on final spots in ISSF World Cup Shotgun",
+      "summary": "• Shooters fail to qualify for final four spots in the ISSF Shotgun World Cup.\n• The final four places will be decided at a later stage of the competition.\n• Click here for more information on the ISSF World Cup in Shotgun event in South Africa in May and June.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/skeet-shooters-miss-out-on-final-spots-in-issf-world-cup-shotgun-101777981156384.html",
+      "relevance_score": 0.8909,
       "published_date": "2026-05-05"
     },
     {
@@ -91,7 +141,27 @@
       "published_date": "2026-05-05"
     },
     {
-      "id": 3448,
+      "id": 3483,
+      "title": "How Heinrich Klaasen and Shreyas Iyer have quietly become the most valuable batters in IPL 2026",
+      "summary": "• How they could be one of the most influential players in the IPL next season.\n• And how they can help India win their first IPL title in 2026 in South Africa.\n• And why they will be the most important players for India in the next IPL season.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/cricket/heinrich-klaasen-shreyas-iyer-most-valuable-batters-ipl-2026-10674368/",
+      "relevance_score": 0.8471,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3502,
+      "title": "Why RBI wants to keep India's gold at home",
+      "summary": "• Why it is trying to keep the country's gold reserves in India.\n• And why it is doing it in such a way that it can be easily accessed by the public.\n• The reason for the move is to protect India's dwindling gold reserves, the central bank says.",
+      "category": "Economy & Banking",
+      "source": "LiveMint - Economy",
+      "url": "https://www.livemint.com/economy/rbi-gold-reserve-central-banks-us-treasury-yield-west-asia-war-11777967888957.html",
+      "relevance_score": 0.8465,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3497,
       "title": "MHT CET 2026 Physics, Chemistry And Maths Session 2 City Intimation Slip Out; Exams From May 12",
       "summary": "• Exams from May 12 will be held in the City of Berlin, Berlin, Germany.\n• The session will focus on physics, chemistry and Maths.\n• The final exam will take place in Berlin on May 26.",
       "category": "Science & Technology",
@@ -121,12 +191,82 @@
       "published_date": "2026-05-04"
     },
     {
+      "id": 3456,
+      "title": "Japan, Australia agree to deepen cooperation on energy, defence and critical minerals",
+      "summary": "• Japan and Australia to strengthen cooperation in areas such as energy and defence.\n• Japan, Australia will deepen cooperation in fields of energy, defense, critical minerals and mining.\n• Japan will also increase cooperation in other key areas like defence, defence, energy, and minerals.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/japan-australia-cooperation-on-energy-defence-and-critical-minerals/article70937615.ece",
+      "relevance_score": 0.9605,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3471,
+      "title": "Tamil Nadu Assembly Election Results 2026 Winners: TVK secures 108 seats; DMK wins 59 — check constituency-wise",
+      "summary": "• TVK won 108 seats, DMK won 59 seats in the 2026 Tamil Nadu Assembly elections.\n• Tamil Nadu held its first ever general election on November 25, 2013.\n• The result was a victory for the Communist Party of India (CPI) and the ruling Tamil Nadu Communist Party (TDP).",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-winners-list-constituency-wise-seat-wise-10664508/",
+      "relevance_score": 0.95,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3469,
+      "title": "West Bengal Assembly Election Results 2026 Winners: BJP wins 207 seats, TMC 80 – Check Constituency-Wise, Party-Wise Full List",
+      "summary": "• West Bengal Assembly election results 2026: BJP won 207 seats.\n• TMC won 80 seats, BJP won 78 seats.\n• Click here to see the full list of seats.",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/west-bengal-assembly-election-results-2026-winners-constituency-wise-seat-wise-full-list-10665665/",
+      "relevance_score": 0.95,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3470,
+      "title": "Election Commission of India Assembly Election Results 2026: How to check Assam, Kerala, Tamil Nadu, Bengal results on eci.gov.in",
+      "summary": "• Eci.Gov.in is the official website of the Election Commission of the India.\n• The results will be available on the website for 24 hours after the results are announced.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/election-commission-of-india-eci-assembly-election-results-2026-assam-kerala-tamil-nadu-west-bengal-puducherry-on-eci-gov-in-10666603/",
+      "relevance_score": 0.95,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3478,
+      "title": "Assam Assembly Election Results | Himanta factor to Gogoi’s loss: 5 key takeaways",
+      "summary": "• Assam Assembly election Results: Himanta was a key factor to the loss of the ruling party.\n• Assamese voters went to the polls to elect a new government in the state.\n• The results were announced at 8.30pm on Tuesday.\n• The result was announced at 9.30am on Wednesday.",
+      "category": "State News",
+      "source": "Indian Express - Explained",
+      "url": "https://indianexpress.com/article/explained/explained-politics/himanta-factor-to-gogois-loss-five-key-takeaways-from-assam-elections-10672985/",
+      "relevance_score": 0.94,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3466,
+      "title": "Mobile medical unit launched in Tirupati",
+      "summary": "• Mobile medical unit is first of its kind in the country.\n• It will be used to treat the sick and provide emergency medical care in the city.\n• The unit will also be used for emergency care in other parts of the country, including Delhi, Mumbai and Hyderabad.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90 or visit a local Samaritans branch, or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Andhra Pradesh",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/mobile-medical-unit-launched-in-tirupati/article70939264.ece",
+      "relevance_score": 0.9263,
+      "published_date": "2026-05-04"
+    },
+    {
       "id": 3416,
       "title": "Nepal Cabinet resends constitutional council ordinance to President",
       "summary": "• Nepalese Cabinet res sends constitutional council Ordinance to President for approval.\n• President will sign the ordinance into law on Monday.\n• The ordinance will govern the country's constitution and power of the president.\n• The Cabinet will also decide on the constitution of the new parliament.",
       "category": "Polity & Governance",
       "source": "Indian Express - World",
       "url": "https://indianexpress.com/article/world/nepal-cabinet-resends-constitutional-council-ordinance-to-president-10673053/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3465,
+      "title": "Tamil Nadu election results: Vijay’s TVK takes early lead in over 100 seats",
+      "summary": "• Vijay's TVK has a lead of more than 100 seats in the Tamil Nadu assembly.\n• Vijayan's party has a majority of over 100 out of the state's total assembly seats.\n• The results will be announced at 8.30pm on Thursday.\n• The election will be held on February 14 and 15.",
+      "category": "State News",
+      "source": "The Hindu - Tamil Nadu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijays-tvk-disrupts-dravidian-bipolar-politics-takes-early-lead-in-over-100-seats/article70937564.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-04"
     },
@@ -161,6 +301,56 @@
       "published_date": "2026-05-04"
     },
     {
+      "id": 3457,
+      "title": "Stock markets end higher; Sensex rallies 356 points",
+      "summary": "• Sensex rallied 356 points; S&P, Nifty also rise.\n• Sensexes hit record highs; Nifty at record high; NSE at record low; BSE at all-time high.\n• India's FTSE, NSE, BSE, CSE, HSE, and NSE all rise; BSNL, IBSE, IIP, CIMS, NSPL, TCS, HCL, HSI, NIFT, others fall.",
+      "category": "Economy & Banking",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/markets/stock-markets-end-higher-sensex-rallies-356-points/article70938424.ece",
+      "relevance_score": 0.8471,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3454,
+      "title": "Europe, Canada pull together in Yerevan in Trump's shadow",
+      "summary": "• Europe, Canada hold talks on economic, security issues in Armenia.\n• EU, Canada meet for first time since Donald Trump's election as U.S. president.\n• European, Canadian leaders to meet in Armenia on Monday and Tuesday for talks on trade, economic issues.\n• The meeting will take place in the capital, Yerevanshah.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/europe-canada-pull-together-in-yerevan-in-trumps-shadow/article70940279.ece",
+      "relevance_score": 0.829,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3458,
+      "title": "NCLAT dismisses Vedanta's appeal against selection of Adani group's bid for Jaiprakash Associates",
+      "summary": "• Vedanta won't be able to bid for the firm after Adani's bid was rejected by NCLAT.\n• Adani will be allowed to take over the firm from Vedanta in a deal worth $1.2 billion.\n• Adan will also get control of a majority stake in the firm, with Vedanta getting a minority stake.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/Industry/nclat-dismisses-vedantas-appeal-against-selection-of-adani-groups-bid-for-jaiprakash-associates/article70937558.ece",
+      "relevance_score": 0.8277,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3464,
+      "title": "Once a legislator in Puducherry, ‘Bussy’ Anand, now elected to T.N. Assembly",
+      "summary": "• He was a member of the Tamil National Congress (TNC) party.\n• He is the son of former TNC legislator Bussy Anand.\n• Anand was elected to the TNC on a TNC party ticket.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - Tamil Nadu",
+      "url": "https://www.thehindu.com/news/cities/chennai/once-a-legislator-in-puducherry-bussy-anand-now-elected-to-tn-assembly/article70939877.ece",
+      "relevance_score": 0.8243,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3484,
+      "title": "Why RCB, Mumbai Indians and Chennai Super Kings at the IPL make a difference to merch vendors",
+      "summary": "• Why RCB and Mumbai Indians are the most successful teams in IPL history.\n• Why they are so popular with fans and why they make a big difference to merchandise vendors.\n• Click here for more IPL 2014 news and updates.\n• Follow all the latest IPL 2015 news on our live blog.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/cricket/rcb-mumbai-indians-chennai-super-kings-ipl-merch-vendors-10671649/",
+      "relevance_score": 0.8227,
+      "published_date": "2026-05-04"
+    },
+    {
       "id": 3409,
       "title": "New Mexico seeks child safety restrictions on Meta apps, algorithms in trial's 2nd phase",
       "summary": "• New Mexico wants to limit children's access to Meta apps and algorithms.\n• The trial is expected to last at least two more weeks before it goes to the appeals court for a final decision on whether to ban the apps from the state's public schools and public libraries.\n• For more information on the trial, go to: www.mexicantrial.com.",
@@ -191,6 +381,16 @@
       "published_date": "2026-05-03"
     },
     {
+      "id": 3475,
+      "title": "ECI Election Results 2026 LIVE Updates: Constituency-wise winners for West Bengal, Tamil Nadu, Assam, Kerala",
+      "summary": "• ECI Election results 2026: Candidates will be able to cast their votes in a single block of votes.\n• The results will be announced at 8.30pm local time (9.30am GMT) on Wednesday.\n• The elections will be held on November 7 and 8.",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/election-commission-of-india-eci-tamil-nadu-assam-puducherry-west-bengal-kerala-election-results-2026-live-eciresults-nic-in-results-eci-gov-in-10669077/",
+      "relevance_score": 0.95,
+      "published_date": "2026-05-03"
+    },
+    {
       "id": 3405,
       "title": "India’s first State-led Centre of Excellence for space tech launched in Bengaluru",
       "summary": "• India's first state-led centre for space technology to be set up in the city.\n• The centre will be based in the state of Karnataka.\n• It will be a centre of excellence for space and space-related technology.\n• It is the first of its kind in the country and will focus on space technology.",
@@ -211,6 +411,46 @@
       "published_date": "2026-05-03"
     },
     {
+      "id": 3474,
+      "title": "Kerala Election Results 2026: BJP wins 3 Assembly seats in Kerala for the first time",
+      "summary": "• BJP wins three Assembly seats for first time in Kerala in 2026 elections.\n• BJP win 3 seats in the state's Assembly for the very first time, winning three seats each in two states.\n• BJP will win three seats in all three states in the 2026 election.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/live-updates-kerala-assembly-election-results-2026-live-eci-election-commission-of-india-ldf-vs-udf-seat-tally-10666033/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 3472,
+      "title": "ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win",
+      "summary": "• Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win.\n• ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks Modi, Gandhi for their greetings.\n• EICL declares TVK as winners of Tamil Nadu Assembly Election 2026.\n• Tamil Nadu to go to the polls in 2026 for first time in 50 years.\n• Election to be held on November 7, 25, 28, 28 and 29.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-tvk-10665171/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 3476,
+      "title": "TN Assembly Election Results 2026: Vijay’s TVK record historic win, gains over 100 seats",
+      "summary": "• Vijay's TVK wins record-breaking 100 seats in the state's first ever general election.\n• Tamil Nadu will hold its first general election in 2026.\n• The results will be announced on November 25.\n• The result will be declared on November 26.\n• The election will be held on the same day as the general elections.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-10665989/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 3473,
+      "title": "Kerala Election Results 2026 LIVE Counting Updates: Voters hand UDF clear edge in Kerala polls, Left falls behind",
+      "summary": "• UDF leads with a clear majority of more than 50 per cent of the vote.\n• Kerala voters to go to the polls in 2026 for the first time in a state election in 50 years.\n• Kerala to hold general elections for first time since 1970s, with UDF leading with more than 40 per cent.",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/kerala-assembly-election-results-2026-live-updates-ldf-vs-udf-pinarayi-vijayan-vd-satheesan-2-10667096/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
       "id": 3403,
       "title": "J. Craig Venter, who won the race to sequence the human genome, dies at 79",
       "summary": "• Venter was a pioneer in the field of genome sequencing.\n• He worked on the project at the University of California, San Diego, for more than 20 years.\n• He was married to his wife, Susan, for 20 years before his death in 2009.\n• He is survived by his wife and three children.",
@@ -219,6 +459,16 @@
       "url": "https://www.thehindu.com/sci-tech/science/j-craig-venter-who-won-the-race-to-sequence-the-human-genome-dies-at-79/article70935212.ece",
       "relevance_score": 0.8212,
       "published_date": "2026-05-03"
+    },
+    {
+      "id": 3481,
+      "title": "Elon Musk says OpenAI abandoned ‘charity’ mission: Key takeaways from testimony",
+      "summary": "• Musk: ‘I don’t think it’s a good idea for us to try and solve every single problem.’ Musk: We’re not trying to solve every problem.\n• We just want to make the world a better place.\n• ‘We’ve got a lot of work to do,’ he said.",
+      "category": "Science & Technology",
+      "source": "Indian Express - Technology",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/elon-musk-openai-trial-key-takeaways-from-testimony-10666967/",
+      "relevance_score": 0.8311,
+      "published_date": "2026-05-02"
     },
     {
       "id": 1408,
@@ -601,22 +851,22 @@
       "published_date": "2026-04-30"
     },
     {
-      "id": 1429,
-      "title": "Why May 1 Is Celebrated As Maharashtra Day And Gujarat Day? History, Significance, And Wishes to Share",
-      "summary": "• Maharashtra Day and Gujarat Day are celebrated every year on May 1 to mark the formation of the two states.\n• The date also coincides with International Labour Day.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/lifestyle/why-may-1-is-celebrated-as-maharashtra-day-and-gujarat-day-history-significance-and-wishes-to-share-9314594.html",
-      "relevance_score": 0.9169,
-      "published_date": "2026-04-30"
-    },
-    {
       "id": 1425,
       "title": "Why May 1 Is Celebrated As Maharashtra Day And Gujarat Day? History, Significance, And Wishes to Share",
       "summary": "• Maharashtra Day and Gujarat Day are celebrated every year on May 1 to mark the formation of the two states.\n• The date also coincides with International Labour Day.",
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/lifestyle/events/why-may-1-is-celebrated-as-maharashtra-day-and-gujarat-day-history-significance-and-wishes-to-share-ws-kl-9314594.html",
+      "relevance_score": 0.9169,
+      "published_date": "2026-04-30"
+    },
+    {
+      "id": 1429,
+      "title": "Why May 1 Is Celebrated As Maharashtra Day And Gujarat Day? History, Significance, And Wishes to Share",
+      "summary": "• Maharashtra Day and Gujarat Day are celebrated every year on May 1 to mark the formation of the two states.\n• The date also coincides with International Labour Day.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/lifestyle/why-may-1-is-celebrated-as-maharashtra-day-and-gujarat-day-history-significance-and-wishes-to-share-9314594.html",
       "relevance_score": 0.9169,
       "published_date": "2026-04-30"
     },
@@ -651,6 +901,16 @@
       "published_date": "2026-04-30"
     },
     {
+      "id": 3468,
+      "title": "Delimitation and the democracy deficit",
+      "summary": "• A look at the role of the media in the United States.\n• The role of media in American politics is to blame for the country's deficit of democracy.\n• The media plays a key role in the formation of the U.S. government.\n• It is also responsible for much of the nation's decision-making process.\n• It also plays a major role in shaping the way the country is run.",
+      "category": "Polity & Governance",
+      "source": "Frontline Magazine",
+      "url": "https://frontline.thehindu.com/the-nation/delimitation-gerrymandering-india-crisis/article70923857.ece",
+      "relevance_score": 0.8588,
+      "published_date": "2026-04-30"
+    },
+    {
       "id": 1427,
       "title": "Laurus Labs Q4 Results: Cons PAT increased 19% to Rs 279 crore, revenue rises 5%",
       "summary": "• Full-year net profit surged 148% to Rs 889 crore, driven by strong growth in its CDMO and Generics divisions.\n• The company also announced an interim dividend of Rs 1.20 per share.",
@@ -658,6 +918,16 @@
       "source": "Economic Times - Top",
       "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/laurus-labs-q4-results-cons-pat-increased-19-to-rs-279-crore-revenue-rises-5/articleshow/130641549.cms",
       "relevance_score": 0.853,
+      "published_date": "2026-04-30"
+    },
+    {
+      "id": 3488,
+      "title": "Central Asia celebrates 20 years as a nuclear-weapon-free zone",
+      "summary": "• Central Asia has been a nuclear weapons-free region since 1998.\n• The region is now the world's largest non-nuclear weapon-free area.\n• The U.S. and Russia are the only countries to have nuclear arsenals in the region.\n• The United States has the most nuclear weapons in the world, followed by Russia.",
+      "category": "International Relations",
+      "source": "UN News",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167410",
+      "relevance_score": 0.8407,
       "published_date": "2026-04-30"
     },
     {
@@ -848,6 +1118,16 @@
       "source": "Times of India - World",
       "url": "https://timesofindia.indiatimes.com/sports/international-sports/fifa-makes-rarest-exception-to-let-afghan-womens-refugee-team-play-as-official-national-side-without-taliban-approval/articleshow/130603956.cms",
       "relevance_score": 0.8687,
+      "published_date": "2026-04-29"
+    },
+    {
+      "id": 3477,
+      "title": "How long-term bet on rupee saved Rs 14,000 crore of forex in February",
+      "summary": "• How long- term bet on Indian currency saved Rs14,000crore of forek in February, as reported by CNN.com.\n• Click here to read the full story on how the rupee was saved in February and how it will continue to be saved in the future.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Economy & Banking",
+      "source": "Indian Express - Business",
+      "url": "https://indianexpress.com/article/business/market/how-long-term-bet-on-rupee-saved-rs-14000-crore-of-forex-in-february-10663112/",
+      "relevance_score": 0.839,
       "published_date": "2026-04-29"
     },
     {
@@ -2441,6 +2721,16 @@
       "published_date": "2026-04-20"
     },
     {
+      "id": 3491,
+      "title": "The 'dumb machine' promising a clean energy breakthrough",
+      "summary": "• The 'dumble machine' promises a clean power breakthrough.\n• It's called the 'dumber machine' and it's being developed by the University of California at Los Angeles.\n• The machine is being developed to help develop clean energy sources.\n• It will also be used to develop renewable energy sources in the U.S. and around the world.",
+      "category": "Science & Technology",
+      "source": "BBC Business",
+      "url": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
+      "relevance_score": 0.9498,
+      "published_date": "2026-04-20"
+    },
+    {
       "id": 1237,
       "title": "Wheels Up for X-59",
       "summary": "• NASA’s X-59 quiet supersonic research aircraft flies over the Mojave Desert in California in this April 14, 2026, image.\n• The transition to flying with wheels up is a key milestone and an important step in the experimental aircraft&#8217;s test campaign.\n• The X-59 has made its highest and fastest flights so far, expanding its operational range [&#8230;].",
@@ -2651,16 +2941,6 @@
       "published_date": "2026-04-18"
     },
     {
-      "id": 1272,
-      "title": "PM Modi`s address at 8:30 pm: Will he announce a new plan for Women`s quota bill? Know more",
-      "summary": "• Prime Minister Narendra Modi is set to address the nation at 8:30 pm tonight.\n• It is expected that the Prime Minister will speak on the issue of the Women's Reservation Bill, which failed to pass in Parliament after the opposition blocked it.",
-      "category": "Polity & Governance",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/pm-modis-address-at-830-pm-will-he-announce-a-new-plan-for-womens-quota-bill-know-more-3038731.html",
-      "relevance_score": 0.9998,
-      "published_date": "2026-04-18"
-    },
-    {
       "id": 1283,
       "title": "Why Motilal Oswal’s BFSI fund is betting big on capital market ecosystem: Prateek Agarwal of Motilal Oswal AMC",
       "summary": "• Prateek Agarwal of Motilal Oswal AMC highlights a shift in financial sector growth from traditional banking to capital markets like AMCs, brokers, and exchanges.\n• He discusses how recent trade deals with the US and EU boost India's manufacturing and investment appeal, potentially reversing FII outflows and strengthening the rupee.",
@@ -2671,13 +2951,13 @@
       "published_date": "2026-04-18"
     },
     {
-      "id": 1270,
-      "title": "'They made a big mistake': PM Modi directs ministers to expose opposition's 'anti-women' stand",
-      "summary": "• Prime Minister Modi asserted that opposition parties will face repercussions for not backing the women's reservation bill, urging ministers to highlight their \"anti-women\" stance.\n• He reiterated the government's commitment to implement the reservation by 2029, accusing the opposition of a \"big mistake\" and attempting to cover up their actions after the bill's defeat in Lok Sabha.",
+      "id": 1272,
+      "title": "PM Modi`s address at 8:30 pm: Will he announce a new plan for Women`s quota bill? Know more",
+      "summary": "• Prime Minister Narendra Modi is set to address the nation at 8:30 pm tonight.\n• It is expected that the Prime Minister will speak on the issue of the Women's Reservation Bill, which failed to pass in Parliament after the opposition blocked it.",
       "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/they-made-a-big-mistake-pm-modi-directs-ministers-to-expose-oppositions-anti-women-stand/articleshow/130354958.cms",
-      "relevance_score": 0.9997,
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/pm-modis-address-at-830-pm-will-he-announce-a-new-plan-for-womens-quota-bill-know-more-3038731.html",
+      "relevance_score": 0.9998,
       "published_date": "2026-04-18"
     },
     {
@@ -2687,6 +2967,16 @@
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/women-reservation-bill-fails-in-lok-sabha-strategic-move-or-poor-planning/articleshow/130351599.cms",
+      "relevance_score": 0.9997,
+      "published_date": "2026-04-18"
+    },
+    {
+      "id": 1270,
+      "title": "'They made a big mistake': PM Modi directs ministers to expose opposition's 'anti-women' stand",
+      "summary": "• Prime Minister Modi asserted that opposition parties will face repercussions for not backing the women's reservation bill, urging ministers to highlight their \"anti-women\" stance.\n• He reiterated the government's commitment to implement the reservation by 2029, accusing the opposition of a \"big mistake\" and attempting to cover up their actions after the bill's defeat in Lok Sabha.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/they-made-a-big-mistake-pm-modi-directs-ministers-to-expose-oppositions-anti-women-stand/articleshow/130354958.cms",
       "relevance_score": 0.9997,
       "published_date": "2026-04-18"
     },
@@ -2738,16 +3028,6 @@
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/parliament-special-session-both-houses-adjourned-sine-die-budget-session-concludes/articleshow/130348246.cms",
       "relevance_score": 0.9941,
-      "published_date": "2026-04-18"
-    },
-    {
-      "id": 1294,
-      "title": "IMD weather forecast today: Arunachal, West Bengal, Sikkim brace for heavy rains; heatwave in Odisha",
-      "summary": "• Heavy rainfall is expected in Arunachal Pradesh, West Bengal, and Sikkim today, while heat waves will affect parts of Odisha and Madhya Pradesh.\n• Delhi temperatures are to remain between 20°C and 42°C.",
-      "category": "State News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/imd-weather-forecast-today-arunachal-west-bengal-sikkim-brace-for-heavy-rains-heatwave-in-odisha-11776473962506.html",
-      "relevance_score": 0.9915,
       "published_date": "2026-04-18"
     },
     {
@@ -3071,22 +3351,22 @@
       "published_date": "2026-04-17"
     },
     {
-      "id": 1343,
-      "title": "Parliament Special Session LIVE: INDIA bloc MPs to hold meeting to chalk out floor strategy over Delimitation Bill",
-      "summary": "• Parliament Special Session LIVE: Congress MP Priyanka Gandhi Vadra urged the Centre to implement the Nari Shakti Vandan Adhiniyam, reserving one-third seats for women in the Lok Sabha, on the basis of the….\n• Get latest udpates here on Mint!.",
-      "category": "Polity & Governance",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/parliament-special-session-live-india-bloc-delimitation-bill-women-reservation-lok-sabha-seats-amit-shah-pm-modi-bjp-11776399656057.html",
-      "relevance_score": 0.9654,
-      "published_date": "2026-04-17"
-    },
-    {
       "id": 1314,
       "title": "Poll inducement seizures cross Rs 865 crore in West Bengal, Tamil Nadu ahead of elections",
       "summary": "• West Bengal leads in liquor seizures, while Tamil Nadu reports the highest value of illegal cash confiscations.\n• Both states are under strict directives from the Election Commission to ensure free and fair elections.",
       "category": "State News",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/poll-inducement-seizures-cross-rs-865-crore-in-west-bengal-tamil-nadu-ahead-of-elections/articleshow/130338328.cms",
+      "relevance_score": 0.9654,
+      "published_date": "2026-04-17"
+    },
+    {
+      "id": 1343,
+      "title": "Parliament Special Session LIVE: INDIA bloc MPs to hold meeting to chalk out floor strategy over Delimitation Bill",
+      "summary": "• Parliament Special Session LIVE: Congress MP Priyanka Gandhi Vadra urged the Centre to implement the Nari Shakti Vandan Adhiniyam, reserving one-third seats for women in the Lok Sabha, on the basis of the….\n• Get latest udpates here on Mint!.",
+      "category": "Polity & Governance",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/parliament-special-session-live-india-bloc-delimitation-bill-women-reservation-lok-sabha-seats-amit-shah-pm-modi-bjp-11776399656057.html",
       "relevance_score": 0.9654,
       "published_date": "2026-04-17"
     },
@@ -4051,16 +4331,6 @@
       "published_date": "2026-04-13"
     },
     {
-      "id": 1556,
-      "title": "Weather forecast today: IMD predicts heavy rain for Himachal, Assam; mercury to rise by 3-6°C in Delhi, Gujarat",
-      "summary": "• Heavy rainfall and thunderstorms are predicted for Himachal Pradesh and other northeastern states.\n• IMD anticipates a temperature rise of 3-6°C in other parts of India.",
-      "category": "State News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/weather-forecast-today-imd-predicts-heavy-rain-for-himachal-assam-mercury-to-rise-by-3-6-c-in-delhi-gujarat-11776044117138.html",
-      "relevance_score": 0.9574,
-      "published_date": "2026-04-13"
-    },
-    {
       "id": 1523,
       "title": "Make draft bills public, say civil society members",
       "summary": "• Social activists, academics, and former civil servants have urged the government to publicly share draft bills on women's reservation and delimitation for wider consultation.\n• While wholeheartedly supporting women's reservation, the group expressed concern over the \"opaque and non-consultative manner\" of their introduction in the upcoming special parliamentary session.",
@@ -4931,16 +5201,6 @@
       "published_date": "2026-04-10"
     },
     {
-      "id": 1768,
-      "title": "RBI keeps repo rate unchanged, predicts 6.9% GDP growth",
-      "summary": "• The RBI kept its policy rate at 5.25% for the second consecutive meeting, citing concerns over elevated crude oil prices and global uncertainties.\n• Governor Malhotra expressed cautious optimism, assuring markets that temporary forex measures were aimed at curbing speculation and would be reviewed.\n• The central bank also eased capital norms for banks to support credit growth.",
-      "category": "Economy & Banking",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/rbi-keeps-repo-rate-unchanged-predicts-6-9-gdp-growth/articleshow/130127256.cms",
-      "relevance_score": 0.9997,
-      "published_date": "2026-04-09"
-    },
-    {
       "id": 1712,
       "title": "RBI mandates payment of inward remittances on same business day",
       "summary": "• The Reserve Bank of India is speeding up money transfers from abroad.\n• Banks must now credit foreign payments to accounts on the same business day.\n• This change aims to make remittances faster for everyone.\n• Banks have six months to get ready.\n• This move will help millions of people receive money quicker.\n• India is the world's top recipient of these funds.",
@@ -4951,13 +5211,13 @@
       "published_date": "2026-04-09"
     },
     {
-      "id": 1710,
-      "title": "RBI's move to scrap investment buffer could lift banks' capital",
-      "summary": "• Banks may soon see their capital positions improve.\n• The central bank proposes to remove the Investment Fluctuation Reserve.\n• This move could help lenders recover losses on bond investments.\n• Accumulated reserves might transfer to core capital.\n• This could boost lending capacity for banks.\n• The proposal is open for public comment.",
+      "id": 1768,
+      "title": "RBI keeps repo rate unchanged, predicts 6.9% GDP growth",
+      "summary": "• The RBI kept its policy rate at 5.25% for the second consecutive meeting, citing concerns over elevated crude oil prices and global uncertainties.\n• Governor Malhotra expressed cautious optimism, assuring markets that temporary forex measures were aimed at curbing speculation and would be reviewed.\n• The central bank also eased capital norms for banks to support credit growth.",
       "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbis-move-to-scrap-investment-buffer-could-lift-banks-capital/articleshow/130156335.cms",
-      "relevance_score": 0.997,
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/rbi-keeps-repo-rate-unchanged-predicts-6-9-gdp-growth/articleshow/130127256.cms",
+      "relevance_score": 0.9997,
       "published_date": "2026-04-09"
     },
     {
@@ -4967,6 +5227,16 @@
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/opposition-questions-rejection-of-notices-seeking-removal-of-cec/articleshow/130127012.cms",
+      "relevance_score": 0.997,
+      "published_date": "2026-04-09"
+    },
+    {
+      "id": 1710,
+      "title": "RBI's move to scrap investment buffer could lift banks' capital",
+      "summary": "• Banks may soon see their capital positions improve.\n• The central bank proposes to remove the Investment Fluctuation Reserve.\n• This move could help lenders recover losses on bond investments.\n• Accumulated reserves might transfer to core capital.\n• This could boost lending capacity for banks.\n• The proposal is open for public comment.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbis-move-to-scrap-investment-buffer-could-lift-banks-capital/articleshow/130156335.cms",
       "relevance_score": 0.997,
       "published_date": "2026-04-09"
     },
@@ -7351,21 +7621,21 @@
       "published_date": "2026-03-24"
     },
     {
-      "id": 2283,
-      "title": "DRDO successfully tests Agni-VI ICBM with range over 10,000 km",
-      "summary": "• MIRV technology enabled meaning Multiple Independently Targetable Re-entry Vehicles can be carried.\n• Test conducted from Dr APJ Abdul Kalam Island also known as Wheeler Island in Odisha.\n• India joins elite ICBM nations: USA, Russia, China, UK, and France.\n• Range exceeds 10,000 km making any global target reachable.\n• Defence Minister and PM congratulated DRDO scientists on the historic achievement.",
-      "category": "Science & Technology",
-      "source": "DRDO / Ministry of Defence",
-      "url": null,
-      "relevance_score": 0.97,
-      "published_date": "2026-03-24"
-    },
-    {
       "id": 2287,
       "title": "India GDP growth rate projected at 6.8% for FY 2026-27 by IMF",
       "summary": "• India remains the world fastest growing major economy for third consecutive year.\n• Services sector contributes 55% to GDP while manufacturing stands at 28%.\n• Private consumption growth is at 7.2% and government capex at Rs 11.21 lakh crore.\n• Global growth is projected at 3.3% by IMF in World Economic Outlook 2026.\n• India is ranked fastest growing among all G20 nations by IMF.",
       "category": "Economy & Banking",
       "source": "IMF World Economic Outlook",
+      "url": null,
+      "relevance_score": 0.97,
+      "published_date": "2026-03-24"
+    },
+    {
+      "id": 2283,
+      "title": "DRDO successfully tests Agni-VI ICBM with range over 10,000 km",
+      "summary": "• MIRV technology enabled meaning Multiple Independently Targetable Re-entry Vehicles can be carried.\n• Test conducted from Dr APJ Abdul Kalam Island also known as Wheeler Island in Odisha.\n• India joins elite ICBM nations: USA, Russia, China, UK, and France.\n• Range exceeds 10,000 km making any global target reachable.\n• Defence Minister and PM congratulated DRDO scientists on the historic achievement.",
+      "category": "Science & Technology",
+      "source": "DRDO / Ministry of Defence",
       "url": null,
       "relevance_score": 0.97,
       "published_date": "2026-03-24"
@@ -7781,6 +8051,16 @@
       "published_date": "2024-08-28"
     },
     {
+      "id": 3498,
+      "title": "Implementation of 'guarantees', decline of BRS favour Congress in Telangana, BJP aiming for better show",
+      "summary": "• The BJP is riding high on its growing voter base in Telangana.\n• The party doubled its vote share to nearly 14 per cent resulting in eight seats in the assembly elections held on November 30, last year.\n• BRS, which ruled the state for about a decade since its emergence, is low on morale following the defeat.\n• Its founder and former Chief Minister K Chandrasekhar Rao's daughter K Kavitha was arrested on the eve of poll dates announcement.\n• The BJP, riding high on its growing voter base in Telangana, is now aiming to win over 12 out of the total 17 seats and 35 per cent vote share, in the upcoming Lok Sabha polls.",
+      "category": "State News",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/news/elections/lok-sabha/india/implementation-of-guarantees-decline-of-brs-favour-congress-in-telangana-bjp-aiming-for-better-show/articleshow/108548569.cms",
+      "relevance_score": 0.91,
+      "published_date": "2024-03-16"
+    },
+    {
       "id": 3429,
       "title": "This new AI tool can help you book train tickets, get refunds and check details on IRCTC website and app",
       "summary": "• It can also help you check details of train tickets and get refunds.\n• The tool is available for iOS and Android users and is available on Google Play and the App Store.\n• For more information on the tool, visit theIRCTC.com/AI-Ticket.",
@@ -7829,8 +8109,38 @@
       "url": null,
       "relevance_score": 0.9679,
       "published_date": "2020-12-27"
+    },
+    {
+      "id": 3499,
+      "title": "Inflation reflects growth dynamics in India: Christopher Wood",
+      "summary": "• Inflation is a reflection of India's growth dynamics, says Wood.\n• India's inflation rate is at an all-time high of 7.7 per cent, according to the Reserve Bank of India.\n• In the past year, the rate has risen to 7.8 per cent.\n• In 2013, it hit a record high of 8.9 per cent in the month of March.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/inflation-reflects-growth-dynamics-in-india-christopher-wood/articleshow/6274053.cms",
+      "relevance_score": 0.8502,
+      "published_date": "2010-08-08"
+    },
+    {
+      "id": 3500,
+      "title": "Fin Crisis: Too late and too little done in US",
+      "summary": "• U.S. faces a financial crisis that threatens to engulf the entire world.\n• The crisis has already claimed the lives of more than 100,000 people in the past year.\n• Has set up a fund to help the victims of the financial crisis.\n• And has a total of $1.2 billion in assets.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/recos/fin-crisis-too-late-and-too-little-done-in-us/articleshow/3794549.cms",
+      "relevance_score": 0.8815,
+      "published_date": "2008-12-04"
+    },
+    {
+      "id": 3501,
+      "title": "Weak rupee takes its toll on cos with huge foreign debt",
+      "summary": "• Many of these firms have to rely on the rupee to make ends meet.\n• The rupee is one of the most heavily-indebted currencies in the world.\n• It has been hit by a series of global financial crises in the past few years.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/forex/weak-rupee-takes-its-toll-on-cos-with-huge-foreign-debt/articleshow/3546158.cms",
+      "relevance_score": 0.8707,
+      "published_date": "2008-10-01"
     }
   ],
-  "count": 783,
-  "updated_at": "2026-05-05T14:13:37.286689Z"
+  "count": 814,
+  "updated_at": "2026-05-05T15:44:57.434384Z"
 }
