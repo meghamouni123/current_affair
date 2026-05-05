@@ -23,8 +23,8 @@ import re
 logger = logging.getLogger(__name__)
 
 CONFIDENCE_THRESHOLD       = 0.80
-DEDUP_SIMILARITY_THRESHOLD = 0.95
-HEADLINE_SIMILARITY_THRESHOLD = 0.55  # catch same story from different sources
+DEDUP_SIMILARITY_THRESHOLD = 0.92   # semantic similarity — same meaning different words
+HEADLINE_SIMILARITY_THRESHOLD = 0.75  # word-overlap — exact/near-identical headlines
 
 
 def _normalize_headline(h: str) -> str:

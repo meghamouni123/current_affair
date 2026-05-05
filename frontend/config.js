@@ -32,3 +32,26 @@ window.trackVisit = () => {
   visits.push({ time: new Date().toISOString(), page: location.pathname, user: u?.email || "guest" });
   localStorage.setItem("ca_visits", JSON.stringify(visits.slice(-500)));
 };
+
+// ── Dark / Light Mode ──────────────────────────────────────────────────────────
+window.getTheme  = () => localStorage.getItem("ca_theme") || "dark";
+window.setTheme  = (t) => { localStorage.setItem("ca_theme", t); applyTheme(t); };
+window.toggleTheme = () => setTheme(getTheme() === "dark" ? "light" : "dark");
+
+window.applyTheme = (t) => {
+  document.body.classList.toggle("light", t === "light");
+  // update all toggle buttons on the page
+  document.querySelectorAll(".theme-toggle-btn").forEach(btn => {
+    btn.textContent = t === "light" ? "🌙 Dark" : "☀️ Light";
+    btn.title = t === "light" ? "Switch to dark mode" : "Switch to light mode";
+  });
+};
+
+// Auto-apply theme as soon as config.js loads (before page renders)
+(function() {
+  const t = localStorage.getItem("ca_theme") || "dark";
+  if (t === "light") document.documentElement.classList.add("light-preload");
+})();
+
+// Call applyTheme after DOM is ready
+document.addEventListener("DOMContentLoaded", () => applyTheme(getTheme()));

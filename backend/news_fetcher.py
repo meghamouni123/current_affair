@@ -58,10 +58,24 @@ EXAM_KEYWORDS = [
 ]
 
 NOT_RELEVANT_SIGNALS = [
+    # Entertainment / lifestyle
     'entertainment', 'bollywood', 'movie', 'film', 'actor', 'actress',
     'celebrity', 'gossip', 'fashion', 'lifestyle', 'recipe', 'food',
     'horoscope', 'astrology', 'dating', 'relationship', 'hair', 'beauty',
     'cricket match score', 'ipl score',
+    # Weather / general local news
+    'weather forecast', 'rain alert', 'rain forecast', 'temperature today',
+    'heatwave alert', 'cyclone alert', 'flood alert', 'weather update',
+    'monsoon forecast', 'imd forecast',
+    # Exam schedules / admit cards (not CA relevant)
+    'exam schedule', 'admit card', 'hall ticket', 'exam date', 'result declared',
+    'answer key', 'cut off marks', 'merit list', 'counselling schedule',
+    'upsc schedule', 'ssc schedule', 'ibps schedule',
+    # Stock tips / market noise
+    'stock tips', 'buy sell', 'share price target', 'multibagger',
+    'intraday tips', 'trading tips',
+    # Traffic / local
+    'traffic jam', 'road block', 'traffic update', 'road closure',
 ]
 
 

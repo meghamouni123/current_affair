@@ -7,8 +7,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#0d1117;--surface:#161b22;--border:#30363d;--accent:#f4b942;--text:#e6edf3;--muted:#7d8590;--card:#1c2128;--green:#3fb950;--red:#e05c5c}
+body.light{--bg:#f6f8fa;--surface:#ffffff;--border:#d0d7de;--text:#1f2328;--muted:#656d76;--card:#ffffff}
 *{box-sizing:border-box;margin:0;padding:0}
-body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden}
+body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden;transition:background .2s,color .2s}
+.theme-toggle-btn{position:fixed;top:16px;right:16px;background:var(--card);border:1px solid var(--border);border-radius:8px;padding:6px 12px;font-size:.8rem;cursor:pointer;color:var(--text);font-family:'DM Sans',sans-serif;transition:all .2s;z-index:10}
+.theme-toggle-btn:hover{border-color:var(--accent);color:var(--accent)}
 .bg-grid{position:fixed;inset:0;background-image:linear-gradient(rgba(244,185,66,.04) 1px,transparent 1px),linear-gradient(90deg,rgba(244,185,66,.04) 1px,transparent 1px);background-size:40px 40px;pointer-events:none}
 .bg-glow{position:fixed;width:600px;height:600px;border-radius:50%;background:radial-gradient(circle,rgba(244,185,66,.08) 0%,transparent 70%);top:-100px;left:50%;transform:translateX(-50%);pointer-events:none}
 .card{background:var(--card);border:1px solid var(--border);border-radius:24px;padding:40px 44px;width:100%;max-width:420px;position:relative;z-index:1;box-shadow:0 24px 80px rgba(0,0,0,.5)}
@@ -36,6 +39,7 @@ body{font-family:'DM Sans',sans-serif;background:var(--bg);color:var(--text);min
 <body>
 <div class="bg-grid"></div>
 <div class="bg-glow"></div>
+<button class="theme-toggle-btn" onclick="toggleTheme()">☀️ Light</button>
 <div class="card">
   <div class="logo-wrap">
     <div class="logo-icon">📰</div>
