@@ -120,8 +120,10 @@ let activeCat = '';
 function init(){
   const u = getUser();
   if(!u) return;
-  document.getElementById("userAv").textContent = (u.avatar||u.name.slice(0,2)).toUpperCase();
-  document.getElementById("userName").textContent = u.name.split(" ")[0];
+  const av=document.getElementById("userAv");
+  const un=document.getElementById("userName");
+  if(av)av.textContent=(u.avatar||u.name.slice(0,2)).toUpperCase();
+  if(un)un.textContent=u.name.split(" ")[0];
   loadBookmarks();
   trackVisit();
 }

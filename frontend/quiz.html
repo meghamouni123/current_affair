@@ -203,6 +203,9 @@ let questions=[], curQ=0, score=0, answers=[], timerInt=null, timeLeft=30;
 function shuffle(a){return [...a].sort(()=>Math.random()-.5);}
 function show(id){["startScreen","quizScreen","resultScreen"].forEach(s=>{document.getElementById(s).classList.remove("show");});document.getElementById(id).classList.add("show");}
 
+// Init user chip
+(function(){const u=getUser();if(u){const av=document.getElementById("userAv");const un=document.getElementById("userName");if(av)av.textContent=(u.avatar||u.name.slice(0,2)).toUpperCase();if(un)un.textContent=u.name.split(" ")[0];}})();
+
 function initHist(){
   const hist=getQuizHistory();
   if(!hist.length) return;

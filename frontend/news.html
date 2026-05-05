@@ -179,6 +179,13 @@ let st={page:1,ps:20,cat:"All",from:"",to:"",q:"",total:0,pages:1};
 let srchTimer=null;
 
 const u=getUser();if(u&&isAdmin())document.getElementById("adminLink").style.display="flex";
+// Update user chip
+if(u){
+  const av=document.getElementById("userAv");
+  const un=document.getElementById("userName");
+  if(av)av.textContent=(u.avatar||u.name.slice(0,2)).toUpperCase();
+  if(un)un.textContent=u.name.split(" ")[0];
+}
 trackVisit();
 
 const up=new URLSearchParams(location.search);
