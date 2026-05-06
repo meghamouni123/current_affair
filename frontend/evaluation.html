@@ -259,6 +259,8 @@ labels.forEach((l,i)=>{
   svgHtml+=`<rect x="${lx}" y="22" width="12" height="12" fill="${colors[i]}" rx="2"/>`;
   svgHtml+=`<text x="${lx+16}" y="32" font-size="10" fill="#b0bac5">${l}</text>`;
 });
+// separator line below legend
+svgHtml+=`<line x1="${padL}" y1="${padT-6}" x2="${svgW-padR}" y2="${padT-6}" stroke="rgba(48,54,61,.7)" stroke-width="1"/>`;
 svgHtml+=`</svg>`;
 document.getElementById("rougeChart").innerHTML=svgHtml;
 
