@@ -30,6 +30,11 @@
 .profile-stats{margin-left:auto;display:flex;gap:20px;text-align:center;flex-shrink:0}
 .ps-val{font-family:'Playfair Display',serif;font-size:1.8rem;font-weight:800;color:var(--accent)}
 .ps-label{font-size:.72rem;color:var(--muted);margin-top:2px}
+.ps-item{position:relative;cursor:default;padding:6px 10px;border-radius:10px;transition:background .2s}
+.ps-item:hover{background:rgba(244,185,66,.08)}
+.ps-item .ps-tooltip{position:absolute;bottom:calc(100% + 8px);left:50%;transform:translateX(-50%);background:#1c2128;border:1px solid rgba(244,185,66,.35);color:var(--text);font-size:.75rem;font-weight:500;padding:7px 12px;border-radius:9px;white-space:nowrap;pointer-events:none;opacity:0;transition:opacity .2s;z-index:100;box-shadow:0 4px 16px rgba(0,0,0,.4)}
+.ps-item .ps-tooltip::after{content:'';position:absolute;top:100%;left:50%;transform:translateX(-50%);border:5px solid transparent;border-top-color:rgba(244,185,66,.35)}
+.ps-item:hover .ps-tooltip{opacity:1}
 .grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:20px}
 .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:22px}
 .card-title{font-size:.95rem;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px}
@@ -97,10 +102,22 @@
       <div class="profile-badges" id="profBadges"></div>
     </div>
     <div class="profile-stats">
-      <div class="ps-item"><div class="ps-val" id="psRead">0</div><div class="ps-label">Articles Read</div></div>
-      <div class="ps-item"><div class="ps-val" id="psQuiz">0</div><div class="ps-label">Quizzes Done</div></div>
-      <div class="ps-item"><div class="ps-val" id="psBm">0</div><div class="ps-label">Bookmarks</div></div>
-      <div class="ps-item"><div class="ps-val" id="psStreak">0</div><div class="ps-label">Day Streak</div></div>
+      <div class="ps-item">
+        <div class="ps-tooltip">Total articles you've read so far</div>
+        <div class="ps-val" id="psRead">0</div><div class="ps-label">Articles Read</div>
+      </div>
+      <div class="ps-item">
+        <div class="ps-tooltip">Number of quizzes you've completed</div>
+        <div class="ps-val" id="psQuiz">0</div><div class="ps-label">Quizzes Done</div>
+      </div>
+      <div class="ps-item">
+        <div class="ps-tooltip">Articles saved to your bookmarks</div>
+        <div class="ps-val" id="psBm">0</div><div class="ps-label">Bookmarks</div>
+      </div>
+      <div class="ps-item">
+        <div class="ps-tooltip">Consecutive days you've been active</div>
+        <div class="ps-val" id="psStreak">0</div><div class="ps-label">Day Streak</div>
+      </div>
     </div>
   </div>
 
