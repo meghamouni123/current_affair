@@ -277,7 +277,7 @@ const PR_ALL = [
   {cat:"National", p:0.94, r:0.90},
   {cat:"State",    p:0.91, r:0.90},
 ];
-const prSvgW=640, prSvgH=160, prPadL=42, prPadB=60, prPadT=24, prPadR=12;
+const prSvgW=640, prSvgH=200, prPadL=42, prPadB=60, prPadT=24, prPadR=12;
 const prChartW=prSvgW-prPadL-prPadR, prChartH=prSvgH-prPadB-prPadT;
 const prMin=0.80, prMax=1.00, prRange=prMax-prMin;
 const prGroupW=prChartW/PR_ALL.length;
@@ -303,7 +303,7 @@ PR_ALL.forEach((d,gi)=>{
   // Rotated label
   const lx=prPadL+gi*prGroupW+prGroupW/2;
   const ly=prPadT+prChartH+10;
-  prSvg+=`<text transform="rotate(-40,${lx},${ly})" x="${lx}" y="${ly}" font-size="9" fill="#7d8590" text-anchor="end">${d.cat}</text>`;
+  prSvg+=`<text transform="rotate(-40,${lx},${ly})" x="${lx}" y="${ly}" font-size="9" fill="#b0bac5" text-anchor="end">${d.cat}</text>`;
 });
 // Legend
 prSvg+=`<rect x="${prPadL}" y="8" width="12" height="12" fill="${prColors[0]}" rx="2"/>`;
