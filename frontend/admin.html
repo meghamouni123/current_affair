@@ -171,7 +171,8 @@ tr:last-child td{border-bottom:none}
         <div class="kpi-card"><div class="kpi-icon">📂</div><div class="kpi-val">12</div><div class="kpi-label">Categories</div><div class="kpi-change neutral">All active</div></div>
         <div class="kpi-card"><div class="kpi-icon">🧠</div><div class="kpi-val" id="dk4">—</div><div class="kpi-label">Quiz Attempts</div><div class="kpi-change up">This session</div></div>
         <div class="kpi-card"><div class="kpi-icon">🔖</div><div class="kpi-val" id="dk5">—</div><div class="kpi-label">Total Bookmarks</div><div class="kpi-change neutral">Across users</div></div>
-        <div class="kpi-card"><div class="kpi-icon">📡</div><div class="kpi-val">100</div><div class="kpi-label">RSS Sources</div><div class="kpi-change neutral">30 min interval</div></div>
+        <div class="kpi-card"><div class="kpi-icon">📡</div><div class="kpi-val">100<span style="font-size:1rem">+</span></div><div class="kpi-label">RSS Sources</div></div>
+        <div class="kpi-card"><div class="kpi-icon">⏱️</div><div class="kpi-val">30<span style="font-size:1rem">min</span></div><div class="kpi-label">Fetch Interval</div><div class="kpi-change neutral">Auto pipeline</div></div>
         <div class="kpi-card"><div class="kpi-icon">📖</div><div class="kpi-val" id="dk8">—</div><div class="kpi-label">Articles Read</div><div class="kpi-change up">Total reads</div></div>
       </div>
 
@@ -182,10 +183,17 @@ tr:last-child td{border-bottom:none}
           <div id="dailyChart" style="width:100%;overflow:visible"></div>
         </div>
       </div>
-      <!-- Articles by Category below -->
-      <div class="card" style="margin-bottom:20px">
-        <div class="sec-title">📂 Articles by Category</div>
-        <div id="catBarChart"></div>
+      <!-- Articles by Category + Top Sources side by side -->
+      <div class="grid2" style="margin-bottom:20px">
+        <div class="card">
+          <div class="sec-title">📂 Articles by Category</div>
+          <div id="catBarChart"></div>
+        </div>
+        <div class="card">
+          <div class="sec-title">📰 Top Sources</div>
+          <div style="font-size:.75rem;color:var(--muted);margin-bottom:12px">Most productive news sources</div>
+          <div id="topSourcesChart"></div>
+        </div>
       </div>
 
       <!-- Recent activity -->
@@ -508,6 +516,23 @@ async function loadDashboard(){
   document.getElementById("dk4").textContent=getQuizHistory().length;
   document.getElementById("dk5").textContent=Object.keys(getBookmarks()).length;
   document.getElementById("dk8").textContent=getReadHistory().length;
+
+  // Top Sources chart
+  const srcCounts={};
+  data.forEach(a=>{if(a.source)srcCounts[a.source]=(srcCounts[a.source]||0)+1;});
+  const topSrcs=Object.entries(srcCounts).sort((a,b)=>b[1]-a[1]).slice(0,10);
+  const maxSrc=Math.max(...topSrcs.map(([,v])=>v),1);
+  document.getElementById("topSourcesChart").innerHTML=`<div style="display:flex;flex-direction:column;gap:7px">`+
+    topSrcs.map(([name,cnt])=>{
+      const pct=Math.round(cnt/maxSrc*100);
+      return`<div style="display:flex;align-items:center;gap:8px;font-size:.78rem">
+        <div style="width:140px;color:var(--muted);flex-shrink:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap" title="${name}">${name}</div>
+        <div style="flex:1;background:var(--surface);border-radius:4px;height:9px;overflow:hidden">
+          <div style="width:${pct}%;height:100%;background:var(--accent);border-radius:4px;transition:width .8s"></div>
+        </div>
+        <div style="width:28px;text-align:right;font-weight:700;color:var(--accent);font-size:.75rem">${cnt}</div>
+      </div>`;
+    }).join("")+`</div>`;
 
   // Activity feed
   const acts=[
