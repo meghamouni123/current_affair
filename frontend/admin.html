@@ -274,9 +274,9 @@ tr:last-child td{border-bottom:none}
     <!-- ═══ USERS ═══ -->
     <div class="section" id="sec-users">
       <div class="toolbar">
-        <input class="tb-inp" style="flex:1" placeholder="🔍 Search users…" oninput="filterUsers(this.value)">
+        <input class="tb-inp" style="flex:1" placeholder="🔍 Search users…" oninput="loadUsers(this.value)">
         <select class="tb-sel" onchange="filterUsers()">
-          <option>All Roles</option><option>admin</option><option>user</option>
+          <option value="All Roles">All Roles</option><option value="admin">admin</option><option value="user">user</option>
         </select>
       </div>
       <div class="card">
@@ -703,26 +703,56 @@ async function loadCategories(){
 }
 
 // ── Users ─────────────────────────────────────────────────────────────────────
-function loadUsers(){
+function loadUsers(searchQ, roleFilter){
   const visits=JSON.parse(localStorage.getItem("ca_visits")||"[]");
+  const registeredUsers=JSON.parse(localStorage.getItem("ca_users_db")||"[]");
+  const ADMIN_EMAIL="admin@cadaily.com";
+
+  // Build user map from visits
   const userMap={};
   visits.forEach(v=>{
+    if(!v.user||v.user==="guest")return;
     if(!userMap[v.user])userMap[v.user]={email:v.user,visits:0,lastSeen:v.time};
     userMap[v.user].visits++;
     if(v.time>userMap[v.user].lastSeen)userMap[v.user].lastSeen=v.time;
   });
-  const users=Object.values(userMap).sort((a,b)=>b.visits-a.visits);
+
+  // Merge with registered users to get names + roles
+  let users=Object.values(userMap).map(u=>{
+    const reg=registeredUsers.find(r=>r.email===u.email);
+    const isAdmin=u.email===ADMIN_EMAIL;
+    return{
+      ...u,
+      name:reg?reg.name:(u.email.split("@")[0]),
+      role:isAdmin?"admin":"user"
+    };
+  });
+
+  // Add admin if not in visits
+  if(!userMap[ADMIN_EMAIL]){
+    users.unshift({email:ADMIN_EMAIL,name:"Admin",visits:0,lastSeen:new Date().toISOString(),role:"admin"});
+  }
+
+  // Apply search filter
+  const q=(searchQ||document.querySelector('#sec-users .tb-inp')?.value||"").toLowerCase();
+  if(q) users=users.filter(u=>u.email.toLowerCase().includes(q)||u.name.toLowerCase().includes(q));
+
+  // Apply role filter
+  const role=(roleFilter||document.querySelector('#sec-users .tb-sel')?.value||"All Roles");
+  if(role==="admin") users=users.filter(u=>u.role==="admin");
+  else if(role==="user") users=users.filter(u=>u.role==="user");
+
   if(!users.length){
-    document.getElementById("userTable").innerHTML="<tr><td colspan='7' style='color:var(--muted);text-align:center'>No user sessions tracked yet</td></tr>";
+    document.getElementById("userTable").innerHTML="<tr><td colspan='7' style='color:var(--muted);text-align:center'>No users found</td></tr>";
     return;
   }
   document.getElementById("userTable").innerHTML=users.map((u,i)=>`
     <tr><td>${i+1}</td>
-    <td style="font-weight:500">${u.email.split("@")[0]||"Guest"}</td>
+    <td style="font-weight:500">${u.name||u.email.split("@")[0]}</td>
     <td style="color:var(--muted);font-size:.82rem">${u.email}</td>
-    <td><span class="badge badge-green">user</span></td>
+    <td><span class="badge ${u.role==='admin'?'badge-purple':'badge-green'}">${u.role}</span></td>
     <td>Portal</td>
-    <td style="color:var(--muted);font-size:.78rem">${new Date(u.lastSeen).toLocaleDateString("en-IN")}</td>
+    <td style="color:var(--muted);font-size:.78rem">${u.lastSeen?new Date(u.lastSeen).toLocaleDateString("en-IN"):"—"}</td>
     <td><span class="badge ${u.visits>10?'badge-green':u.visits>3?'badge-yellow':'badge-red'}">${u.visits>10?"High":u.visits>3?"Medium":"Low"}</span></td></tr>`).join("");
 }
 function filterUsers(){loadUsers();}
