@@ -277,34 +277,33 @@ const PR_ALL = [
   {cat:"National", p:0.94, r:0.90},
   {cat:"State",    p:0.91, r:0.90},
 ];
-const prSvgW=420, prSvgH=150, prPadL=38, prPadB=32, prPadT=20, prPadR=8;
+const prSvgW=640, prSvgH=160, prPadL=42, prPadB=60, prPadT=24, prPadR=12;
 const prChartW=prSvgW-prPadL-prPadR, prChartH=prSvgH-prPadB-prPadT;
 const prMin=0.80, prMax=1.00, prRange=prMax-prMin;
 const prGroupW=prChartW/PR_ALL.length;
-const prBarW=prGroupW*0.32;
-const prGap=prGroupW*0.06;
-const prColors=["#3d5a7a","#3fb9a0"]; // dark blue, teal
-let prSvg=`<svg width="100%" viewBox="0 0 ${prSvgW} ${prSvgH}" style="overflow:visible;display:block">`;
+const prBarW=prGroupW*0.34;
+const prGap=prGroupW*0.08;
+const prColors=["#3d5a7a","#3fb9a0"];
+let prSvg=`<svg width="100%" viewBox="0 0 ${prSvgW} ${prSvgH+prPadB}" style="overflow:visible;display:block">`;
 // Y axis grid lines
 [0.80,0.85,0.90,0.95,1.00].forEach(v=>{
   const y=prPadT+prChartH-((v-prMin)/prRange*prChartH);
   prSvg+=`<line x1="${prPadL}" y1="${y}" x2="${prSvgW-prPadR}" y2="${y}" stroke="rgba(48,54,61,.5)" stroke-width="1"/>`;
   prSvg+=`<text x="${prPadL-5}" y="${y+4}" font-size="9" fill="#7d8590" text-anchor="end">${v.toFixed(2)}</text>`;
 });
-// Bars
+// Bars + rotated labels
 PR_ALL.forEach((d,gi)=>{
   const gx=prPadL+gi*prGroupW+(prGroupW-2*prBarW-prGap)/2;
-  // Precision bar
   const ph=((d.p-prMin)/prRange)*prChartH;
   const py=prPadT+prChartH-ph;
   prSvg+=`<rect x="${gx}" y="${py}" width="${prBarW}" height="${ph}" fill="${prColors[0]}" rx="2"/>`;
-  // Recall bar
   const rh=((d.r-prMin)/prRange)*prChartH;
   const ry=prPadT+prChartH-rh;
   prSvg+=`<rect x="${gx+prBarW+prGap}" y="${ry}" width="${prBarW}" height="${rh}" fill="${prColors[1]}" rx="2"/>`;
-  // Category label
+  // Rotated label
   const lx=prPadL+gi*prGroupW+prGroupW/2;
-  prSvg+=`<text x="${lx}" y="${prSvgH-4}" font-size="8.5" fill="#7d8590" text-anchor="middle">${d.cat}</text>`;
+  const ly=prPadT+prChartH+10;
+  prSvg+=`<text transform="rotate(-40,${lx},${ly})" x="${lx}" y="${ly}" font-size="9" fill="#7d8590" text-anchor="end">${d.cat}</text>`;
 });
 // Legend
 prSvg+=`<rect x="${prPadL}" y="8" width="12" height="12" fill="${prColors[0]}" rx="2"/>`;
