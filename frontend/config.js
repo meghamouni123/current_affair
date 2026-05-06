@@ -18,26 +18,26 @@ window.fetchArticles = async () => {
   return json.articles || [];
 };
 
-// Quiz localStorage helpers
-window.getQuizHistory = () => { try { return JSON.parse(localStorage.getItem("ca_quiz") || "[]"); } catch { return []; } };
-window.saveQuizResult = (r) => { const h = getQuizHistory(); h.unshift(r); localStorage.setItem("ca_quiz", JSON.stringify(h.slice(0, 50))); };
-window.getBookmarks   = () => { try { return JSON.parse(localStorage.getItem("ca_bookmarks") || "{}"); } catch { return {}; } };
-window.saveBookmarks  = (b) => localStorage.setItem("ca_bookmarks", JSON.stringify(b));
-window.getReadHistory = () => { try { return JSON.parse(localStorage.getItem("ca_read") || "[]"); } catch { return []; } };
-window.markRead       = (id) => { const h = getReadHistory(); if (!h.includes(id)) { h.unshift(id); localStorage.setItem("ca_read", JSON.stringify(h.slice(0, 200))); } };
+// Quiz localStorage helpers — user-specific keys
+window.getQuizHistory = () => { try { const u=getUser(); const k=u?`ca_quiz_${u.email}`:'ca_quiz'; return JSON.parse(localStorage.getItem(k) || "[]"); } catch { return []; } };
+window.saveQuizResult = (r) => { const u=getUser(); const k=u?`ca_quiz_${u.email}`:'ca_quiz'; const h = getQuizHistory(); h.unshift(r); localStorage.setItem(k, JSON.stringify(h.slice(0, 50))); };
+window.getBookmarks   = () => { try { const u=getUser(); const k=u?`ca_bookmarks_${u.email}`:'ca_bookmarks'; return JSON.parse(localStorage.getItem(k) || "{}"); } catch { return {}; } };
+window.saveBookmarks  = (b) => { const u=getUser(); const k=u?`ca_bookmarks_${u.email}`:'ca_bookmarks'; localStorage.setItem(k, JSON.stringify(b)); };
+window.getReadHistory = () => { try { const u=getUser(); const k=u?`ca_read_${u.email}`:'ca_read'; return JSON.parse(localStorage.getItem(k) || "[]"); } catch { return []; } };
+window.markRead       = (id) => { const u=getUser(); const k=u?`ca_read_${u.email}`:'ca_read'; const h = getReadHistory(); if (!h.includes(id)) { h.unshift(id); localStorage.setItem(k, JSON.stringify(h.slice(0, 200))); } };
 
-// Category-wise read tracking
-window.getCatReads = () => { try { return JSON.parse(localStorage.getItem("ca_cat_reads") || "{}"); } catch { return {}; } };
+// Category-wise read tracking — user-specific
+window.getCatReads = () => { try { const u=getUser(); const k=u?`ca_cat_reads_${u.email}`:'ca_cat_reads'; return JSON.parse(localStorage.getItem(k) || "{}"); } catch { return {}; } };
 window.markCatRead = (category) => {
   if(!category) return;
+  const u=getUser(); const k=u?`ca_cat_reads_${u.email}`:'ca_cat_reads';
   const today = new Date().toISOString().slice(0,10);
   const data = getCatReads();
   if(!data[today]) data[today] = {};
   data[today][category] = (data[today][category] || 0) + 1;
-  // Keep only last 30 days
   const keys = Object.keys(data).sort();
-  if(keys.length > 30) keys.slice(0, keys.length - 30).forEach(k => delete data[k]);
-  localStorage.setItem("ca_cat_reads", JSON.stringify(data));
+  if(keys.length > 30) keys.slice(0, keys.length - 30).forEach(k2 => delete data[k2]);
+  localStorage.setItem(k, JSON.stringify(data));
 };
 
 window.trackVisit = () => {
