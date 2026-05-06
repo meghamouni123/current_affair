@@ -102,6 +102,11 @@ footer a:hover{color:var(--accent)}
 </head>
 <body>
 <script src="config.js"></script>
+<script>
+// If not logged in → go to login page
+// If already logged in → stay on home (landing page)
+if(!isLogged()) { window.location.href = 'login.html'; }
+</script>
 
 <!-- NAV -->
 <nav>
