@@ -102,33 +102,41 @@
       <div class="card-title">Hallucination Rate</div>
       <div class="card-sub">Factual accuracy on 100 evaluated summaries</div>
       <div style="display:flex;flex-direction:column;align-items:center;gap:20px">
-        <svg width="220" height="220" viewBox="0 0 220 220">
-          <!-- Background ring -->
-          <circle cx="110" cy="110" r="80" fill="none" stroke="#4a6080" stroke-width="36"/>
-          <!-- Orange slice 4% = 14.4deg of 360 = 14.4/360 * 2π*80 = 20.1px of 502.7 circumference -->
-          <circle cx="110" cy="110" r="80" fill="none" stroke="#e8883a" stroke-width="36"
-            stroke-dasharray="20.1 502.7" stroke-dashoffset="0"
-            transform="rotate(-90 110 110)"/>
-          <!-- 4% label inside orange slice -->
-          <text x="110" y="30" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="13" font-weight="700" fill="#fff">4%</text>
-          <!-- 96% label inside blue area -->
-          <text x="110" y="175" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="18" font-weight="700" fill="#fff">96%</text>
-          <!-- Center text -->
-          <text x="110" y="102" text-anchor="middle" font-family="Playfair Display,serif" font-size="22" font-weight="900" fill="#e6edf3">100</text>
-          <text x="110" y="118" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="10" fill="#7d8590">Summaries</text>
-          <text x="110" y="131" text-anchor="middle" font-family="DM Sans,sans-serif" font-size="10" fill="#7d8590">Evaluated</text>
-        </svg>
-        <!-- Legend -->
-        <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:12px 20px;display:flex;flex-direction:column;gap:8px;width:100%;max-width:260px">
-          <div style="display:flex;align-items:center;gap:10px;font-size:.83rem">
-            <div style="width:18px;height:18px;background:#4a6080;border-radius:3px;flex-shrink:0"></div>
-            <span style="flex:1">Factually Accurate</span>
-            <strong style="color:#e6edf3">— 96%</strong>
-          </div>
-          <div style="display:flex;align-items:center;gap:10px;font-size:.83rem">
-            <div style="width:18px;height:18px;background:#e8883a;border-radius:3px;flex-shrink:0"></div>
-            <span style="flex:1">Hallucinated Content</span>
-            <strong style="color:#e6edf3">— 4%</strong>
+        <!-- Exact match to screenshot: white bg, dark blue 96%, orange 4% at top -->
+        <div style="background:#fff;border-radius:16px;padding:24px;display:flex;flex-direction:column;align-items:center;gap:16px;width:100%">
+          <svg width="260" height="260" viewBox="0 0 260 260">
+            <!-- White background circle -->
+            <circle cx="130" cy="130" r="130" fill="#fff"/>
+            <!-- Dark blue ring (96%) — full circle base -->
+            <circle cx="130" cy="130" r="95" fill="none" stroke="#4a6282" stroke-width="44"/>
+            <!-- Orange slice (4% = 14.4deg) at top center -->
+            <!-- circumference = 2*π*95 = 596.9, 4% = 23.9px -->
+            <circle cx="130" cy="130" r="95" fill="none" stroke="#e8883a" stroke-width="44"
+              stroke-dasharray="23.9 572.9"
+              stroke-dashoffset="0"
+              transform="rotate(-90 130 130)"/>
+            <!-- White center hole -->
+            <circle cx="130" cy="130" r="73" fill="#fff"/>
+            <!-- Center text: 100 -->
+            <text x="130" y="122" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="900" fill="#1a1d23">100</text>
+            <!-- Center text: Summaries Evaluated -->
+            <text x="130" y="142" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#6b7280">Summaries</text>
+            <text x="130" y="158" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#6b7280">Evaluated</text>
+            <!-- 4% label inside orange slice (top area) -->
+            <text x="148" y="52" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#fff">4%</text>
+            <!-- 96% label inside blue area (bottom) -->
+            <text x="130" y="200" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#fff">96%</text>
+          </svg>
+          <!-- Legend box — white bg with border like screenshot -->
+          <div style="border:1.5px solid #d1d5db;border-radius:8px;padding:12px 24px;display:flex;flex-direction:column;gap:8px;background:#fff">
+            <div style="display:flex;align-items:center;gap:12px;font-size:.88rem;color:#1a1d23">
+              <div style="width:20px;height:14px;background:#4a6282;border-radius:2px;flex-shrink:0"></div>
+              <span>Factually Accurate &nbsp;— 96%</span>
+            </div>
+            <div style="display:flex;align-items:center;gap:12px;font-size:.88rem;color:#1a1d23">
+              <div style="width:20px;height:14px;background:#e8883a;border-radius:2px;flex-shrink:0"></div>
+              <span>Hallucinated Content — 4%</span>
+            </div>
           </div>
         </div>
       </div>
