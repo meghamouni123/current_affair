@@ -226,7 +226,7 @@ const ROUGE_DATA = [
   {method:"BART base",   r1:0.44, r2:0.21, rl:0.36},
   {method:"BART+LexRank",r1:0.46, r2:0.23, rl:0.38},
 ];
-const svgW=420,svgH=120,padL=38,padB=28,padT=18,padR=12;
+const svgW=480,svgH=120,padL=38,padB=28,padT=22,padR=20;
 const chartW=svgW-padL-padR, chartH=svgH-padB-padT;
 const maxVal=0.5;
 const groupW=chartW/ROUGE_DATA.length;
@@ -255,9 +255,9 @@ ROUGE_DATA.forEach((d,gi)=>{
 });
 // Legend top
 labels.forEach((l,i)=>{
-  const lx=padL+i*120;
+  const lx=padL+i*140;
   svgHtml+=`<rect x="${lx}" y="6" width="12" height="12" fill="${colors[i]}" rx="2"/>`;
-  svgHtml+=`<text x="${lx+16}" y="16" font-size="10" fill="#7d8590">${l}</text>`;
+  svgHtml+=`<text x="${lx+16}" y="16" font-size="10" fill="#b0bac5">${l}</text>`;
 });
 svgHtml+=`</svg>`;
 document.getElementById("rougeChart").innerHTML=svgHtml;
