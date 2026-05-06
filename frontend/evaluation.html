@@ -149,11 +149,11 @@
   <!-- ══ CLASSIFIER ══ -->
   <div class="section-title">🧠 Classifier Performance Metrics</div>
   <div class="grid2">
-    <!-- Precision vs Recall Top3 + Bottom3 -->
+    <!-- Precision vs Recall ALL 12 categories -->
     <div class="card">
       <div class="card-title">Precision vs Recall</div>
-      <div class="card-sub">Top 3 & Bottom 3 categories</div>
-      <div class="pr-chart" id="prChart"></div>
+      <div class="card-sub">Category-level comparison</div>
+      <div id="prBarChart" style="width:100%;overflow:visible"></div>
     </div>
 
     <!-- Overall Metrics -->
@@ -224,55 +224,57 @@ labels.forEach((l,i)=>{
 svgHtml+=`</svg>`;
 document.getElementById("rougeChart").innerHTML=svgHtml;
 
-// ── Precision vs Recall Top3 + Bottom3 ────────────────────────────────────
-const PR_DATA = [
-  // Top 3
-  {cat:"Sports",           p:0.99, r:0.99, top:true},
-  {cat:"Awards & Honours", p:0.98, r:0.97, top:true},
-  {cat:"Science & Tech",   p:0.97, r:0.97, top:true},
-  // Bottom 3
-  {cat:"State News",       p:0.87, r:0.85, top:false},
-  {cat:"National News",    p:0.88, r:0.87, top:false},
-  {cat:"Polity & Gov",     p:0.90, r:0.89, top:false},
+// ── Precision vs Recall — All 12 categories grouped bar chart ────────────
+const PR_ALL = [
+  {cat:"Economy",  p:0.94, r:0.93},
+  {cat:"Polity",   p:0.92, r:0.91},
+  {cat:"Int'l Rel",p:0.91, r:0.90},
+  {cat:"Sci & Tech",p:0.94,r:0.92},
+  {cat:"Schemes",  p:0.90, r:0.89},
+  {cat:"Reports",  p:0.91, r:0.90},
+  {cat:"Sports",   p:0.95, r:0.96},
+  {cat:"Awards",   p:0.92, r:0.91},
+  {cat:"Imp Days", p:0.90, r:0.90},
+  {cat:"Summits",  p:0.90, r:0.90},
+  {cat:"National", p:0.94, r:0.90},
+  {cat:"State",    p:0.91, r:0.90},
 ];
-const prEl=document.getElementById("prChart");
-let prHtml=`<div class="pr-section-label">🏆 Top 3 Categories</div>`;
-PR_DATA.filter(d=>d.top).forEach(d=>{
-  prHtml+=`<div class="pr-row">
-    <div class="pr-label">${d.cat}</div>
-    <div class="pr-bars">
-      <div class="pr-bar-wrap">
-        <div class="pr-bar" style="width:${d.p*100}%;background:#58a6ff;max-width:100%"></div>
-        <span class="pr-val" style="color:#58a6ff">${d.p}</span>
-      </div>
-      <div class="pr-bar-wrap">
-        <div class="pr-bar" style="width:${d.r*100}%;background:#3fb950;max-width:100%"></div>
-        <span class="pr-val" style="color:#3fb950">${d.r}</span>
-      </div>
-    </div>
-  </div>`;
+const prSvgW=520, prSvgH=200, prPadL=44, prPadB=40, prPadT=28, prPadR=10;
+const prChartW=prSvgW-prPadL-prPadR, prChartH=prSvgH-prPadB-prPadT;
+const prMin=0.80, prMax=1.00, prRange=prMax-prMin;
+const prGroupW=prChartW/PR_ALL.length;
+const prBarW=prGroupW*0.32;
+const prGap=prGroupW*0.06;
+const prColors=["#3d5a7a","#3fb9a0"]; // dark blue, teal
+let prSvg=`<svg width="100%" viewBox="0 0 ${prSvgW} ${prSvgH}" style="overflow:visible;display:block">`;
+// Y axis grid lines
+[0.80,0.82,0.84,0.86,0.88,0.90,0.92,0.94,0.96,0.98,1.00].forEach(v=>{
+  const y=prPadT+prChartH-((v-prMin)/prRange*prChartH);
+  prSvg+=`<line x1="${prPadL}" y1="${y}" x2="${prSvgW-prPadR}" y2="${y}" stroke="rgba(48,54,61,.5)" stroke-width="1"/>`;
+  prSvg+=`<text x="${prPadL-5}" y="${y+4}" font-size="9" fill="#7d8590" text-anchor="end">${v.toFixed(2)}</text>`;
 });
-prHtml+=`<div class="pr-section-label" style="margin-top:12px">⚠️ Bottom 3 Categories</div>`;
-PR_DATA.filter(d=>!d.top).forEach(d=>{
-  prHtml+=`<div class="pr-row">
-    <div class="pr-label">${d.cat}</div>
-    <div class="pr-bars">
-      <div class="pr-bar-wrap">
-        <div class="pr-bar" style="width:${d.p*100}%;background:#58a6ff;max-width:100%"></div>
-        <span class="pr-val" style="color:#58a6ff">${d.p}</span>
-      </div>
-      <div class="pr-bar-wrap">
-        <div class="pr-bar" style="width:${d.r*100}%;background:#3fb950;max-width:100%"></div>
-        <span class="pr-val" style="color:#3fb950">${d.r}</span>
-      </div>
-    </div>
-  </div>`;
+// Bars
+PR_ALL.forEach((d,gi)=>{
+  const gx=prPadL+gi*prGroupW+(prGroupW-2*prBarW-prGap)/2;
+  // Precision bar
+  const ph=((d.p-prMin)/prRange)*prChartH;
+  const py=prPadT+prChartH-ph;
+  prSvg+=`<rect x="${gx}" y="${py}" width="${prBarW}" height="${ph}" fill="${prColors[0]}" rx="2"/>`;
+  // Recall bar
+  const rh=((d.r-prMin)/prRange)*prChartH;
+  const ry=prPadT+prChartH-rh;
+  prSvg+=`<rect x="${gx+prBarW+prGap}" y="${ry}" width="${prBarW}" height="${rh}" fill="${prColors[1]}" rx="2"/>`;
+  // Category label
+  const lx=prPadL+gi*prGroupW+prGroupW/2;
+  prSvg+=`<text x="${lx}" y="${prSvgH-4}" font-size="8.5" fill="#7d8590" text-anchor="middle">${d.cat}</text>`;
 });
-prHtml+=`<div style="display:flex;gap:16px;margin-top:12px;font-size:.75rem">
-  <div style="display:flex;align-items:center;gap:5px"><div style="width:10px;height:10px;background:#58a6ff;border-radius:2px"></div>Precision</div>
-  <div style="display:flex;align-items:center;gap:5px"><div style="width:10px;height:10px;background:#3fb950;border-radius:2px"></div>Recall</div>
-</div>`;
-prEl.innerHTML=prHtml;
+// Legend
+prSvg+=`<rect x="${prPadL}" y="8" width="12" height="12" fill="${prColors[0]}" rx="2"/>`;
+prSvg+=`<text x="${prPadL+16}" y="18" font-size="10" fill="#7d8590">Precision</text>`;
+prSvg+=`<rect x="${prPadL+80}" y="8" width="12" height="12" fill="${prColors[1]}" rx="2"/>`;
+prSvg+=`<text x="${prPadL+96}" y="18" font-size="10" fill="#7d8590">Recall</text>`;
+prSvg+=`</svg>`;
+document.getElementById("prBarChart").innerHTML=prSvg;
 </script>
 <script defer src="/_vercel/insights/script.js"></script>
 </body>
