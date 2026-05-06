@@ -1,20 +1,23 @@
 """
 server.py — FastAPI + Uvicorn REST API
 READ-ONLY endpoints — no DELETE/DROP operations
-Run: uvicorn backend.server:app --reload --port 8000
+Run: python run.py
 """
 
 import os
 import sys
 import logging
-from typing import Optional, List
+from typing import Optional
 from datetime import date
 
+BASE_DIR     = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+FRONTEND_DIR = os.path.join(BASE_DIR, 'frontend')
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from fastapi import FastAPI, Query, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
+from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 
 from database import get_articles, get_article_count, get_stats, get_categories, get_dates_with_articles
@@ -28,22 +31,16 @@ app = FastAPI(
     version="1.0.0",
 )
 
-# Allow frontend (Vercel) to call this API
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_methods=["GET"],
+    allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["*"],
 )
 
 
 # ── Health check ──────────────────────────────────────────────────────────────
-@app.get("/")
-def root():
-    return {"status": "ok", "service": "NewsPrep API", "version": "1.0.0"}
-
-
-@app.get("/health")
+@app.get("/api/health")
 def health():
     try:
         stats = get_stats()
@@ -53,7 +50,7 @@ def health():
 
 
 # ── Articles ──────────────────────────────────────────────────────────────────
-@app.get("/articles")
+@app.get("/api/articles")
 def articles(
     date:     Optional[str] = Query(None, description="Filter by date YYYY-MM-DD"),
     date_from:Optional[str] = Query(None, description="Articles from this date"),
@@ -98,7 +95,7 @@ def articles(
 
 
 # ── Stats ─────────────────────────────────────────────────────────────────────
-@app.get("/stats")
+@app.get("/api/stats")
 def stats():
     """DB statistics — total, by category, by date"""
     try:
@@ -109,7 +106,7 @@ def stats():
 
 
 # ── Categories ────────────────────────────────────────────────────────────────
-@app.get("/categories")
+@app.get("/api/categories")
 def categories():
     """List all categories"""
     try:
@@ -119,7 +116,7 @@ def categories():
 
 
 # ── Dates ─────────────────────────────────────────────────────────────────────
-@app.get("/dates")
+@app.get("/api/dates")
 def dates(days: int = Query(30, ge=1, le=90)):
     """Dates that have articles"""
     try:
@@ -129,7 +126,7 @@ def dates(days: int = Query(30, ge=1, le=90)):
 
 
 # ── DB Table info (terminal output) ──────────────────────────────────────────
-@app.get("/db/info")
+@app.get("/api/db/info")
 def db_info():
     """Show exam_ca_articles table stats in terminal"""
     try:
@@ -157,6 +154,12 @@ def db_info():
         return info
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
+
+
+# ── Serve frontend HTML pages ─────────────────────────────────────────────────
+# Mount static frontend — html=True serves index.html at /
+if os.path.isdir(FRONTEND_DIR):
+    app.mount("/", StaticFiles(directory=FRONTEND_DIR, html=True), name="frontend")
 
 
 if __name__ == "__main__":
