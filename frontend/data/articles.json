@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": 3531,
+      "title": "Ballots of change: Gen-z finally said they want more through Bengal, Tamil Nadu, Assam, and Kerala poll results",
+      "summary": "• Polls were held on November 28 and 29, 2014.\n• Results will be announced on December 11 and 14, 2014, at 8am and 9am respectively.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/ballots-of-change-gen-z-finally-said-they-want-more-through-bengal-tamil-nadu-assam-and-kerala-poll-results-3044976.html",
+      "relevance_score": 0.94,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3525,
+      "title": "Assembly election results: Wave of change rolls over three states, sweeps away two CMs, 50 ministers",
+      "summary": "• Governor, lieutenant governor and lieutenant governor among those to lose their seats.\n• More than 50 ministers also lost their seats in the state's top three posts.\n• The results will be announced at a press conference later this afternoon.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/wave-of-change-rolls-over-three-states-sweeps-away-two-cms-50-ministers/articleshow/130841651.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3532,
+      "title": "West Bengal election results decoded: Did SIR drive BJP’s massive win? Data tells the story",
+      "summary": "• Data tells the story, says Amit Mitra, a senior BJP leader in the state.\n• Mitra: SIR was behind BJP's massive win in West Bengal.\n• SIR: I am happy with the results, but I am disappointed with the way the results were announced, says Mitra.\n• He says the results should not be interpreted as proof of SIR's involvement in the election.",
+      "category": "State News",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/west-bengal-election-results-decoded-did-sir-drive-bjp-s-massive-win-data-tells-the-story-3044958.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3524,
+      "title": "AERB allows major equipment installation at 5&amp;6 units of Kudankulam nuclear plant",
+      "summary": "• AERB will install new equipment at the plant's five and six units.\n• The plant is located in the state of Tamil Nadu in the island nation's north-eastern part of the country.\n• The nuclear plant is one of the largest in the world, with a capacity of 5.6 million tons of fuel.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/aerb-allows-major-equipment-installation-at-56-units-of-kudankulam-nuclear-plant/articleshow/130842744.cms",
+      "relevance_score": 0.8727,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3520,
+      "title": "Nepal President promulgates Constitutional Council Ordinance",
+      "summary": "• Nepalese president promulgates constitutional council Ordinance for the first time.\n• Constitutional Council is made up of members of the ruling Communist Party of Nepal (CPN) and other political parties.\n• It is the highest level of government in the country's political system.\n• It has been in existence for more than 100 years.\n• It was established in 1952 after the fall of British rule in India.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/nepal-president-promulgates-constitutional-council-ordinance/article70945458.ece",
+      "relevance_score": 0.8592,
+      "published_date": "2026-05-06"
+    },
+    {
       "id": 3504,
       "title": "Anthropic, OpenAI launch AI services companies, challenge TCS and Infosys in India",
       "summary": "• An earlier version of this article stated that Anthropic and OpenAI were working on AI services.\n• We are happy to clarify that this was not the case.\n• We apologise for any confusion caused as a result of this.\n• We have been asked to make clear that we are working on an AI services company.",
@@ -41,6 +91,16 @@
       "published_date": "2026-05-05"
     },
     {
+      "id": 3516,
+      "title": "Salman Khurshid backs Mamata Banerjee, raises questions over Bengal, Assam election results - 'we felt that too'",
+      "summary": "• He says 'we felt that too' and that the results were 'unfavourable' for the ruling Trinamool Congress party.\n• He adds: 'We felt it was not fair to the people of Bengal and Assam.\n• It was a setback for the party and for the state'.",
+      "category": "State News",
+      "source": "LiveMint - Politics",
+      "url": "https://www.livemint.com/politics/news/salman-khurshid-backs-mamata-banerjee-raises-questions-over-bengal-assam-election-results-we-felt-that-too-cm-tmc-11777993435990.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-05"
+    },
+    {
       "id": 3414,
       "title": "Assembly Elections 2026: BJP leads West Bengal, TVK storms Tamil Nadu, UDF returns in Kerala",
       "summary": "• Assembly elections in Kerala to be held in 2026, says Kerala United Democratic Party (Kerala UDF) chief.\n• Kerala UDF has been in power for more than 30 years, but has never won an assembly seat.\n• Kerala has been ruled by the UDF since the late 1980s.",
@@ -61,13 +121,13 @@
       "published_date": "2026-05-05"
     },
     {
-      "id": 3516,
-      "title": "Salman Khurshid backs Mamata Banerjee, raises questions over Bengal, Assam election results - 'we felt that too'",
-      "summary": "• He says 'we felt that too' and that the results were 'unfavourable' for the ruling Trinamool Congress party.\n• He adds: 'We felt it was not fair to the people of Bengal and Assam.\n• It was a setback for the party and for the state'.",
-      "category": "State News",
-      "source": "LiveMint - Politics",
-      "url": "https://www.livemint.com/politics/news/salman-khurshid-backs-mamata-banerjee-raises-questions-over-bengal-assam-election-results-we-felt-that-too-cm-tmc-11777993435990.html",
-      "relevance_score": 0.91,
+      "id": 3529,
+      "title": "Amb. Ina Marciulionyte on the Future of EU-Mongolia Ties",
+      "summary": "• In a new interview, she talks about the future of the EU and Mongolia.\n• She says the future is bright for the two countries, but it is not certain what the future holds for the rest of the world.\n• The interview will be broadcast on CNN at 8 p.m.",
+      "category": "International Relations",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/05/amb-ina-marciulionyte-on-the-future-of-eu-mongolia-ties/",
+      "relevance_score": 0.8952,
       "published_date": "2026-05-05"
     },
     {
@@ -78,6 +138,26 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/football/romelu-lukaku-back-from-injury-to-napoli-belgium-national-team-boost-for-fifa-world-cup-2026/article70941284.ece",
       "relevance_score": 0.8931,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3530,
+      "title": "Govt clears  ₹50,000-crore package to boost credit flow and support businesses",
+      "summary": "• Govt clears � $1.5 billion package to support small and medium businesses in the country.\n• The package is part of a larger plan to boost the country's credit flow to the private sector.\n• It is expected to be implemented by the end of the year.\n• The government has approved a total of $1.6 billion for the scheme.",
+      "category": "Economy & Banking",
+      "source": "LiveMint - Economy",
+      "url": "https://www.livemint.com/economy/govt-clears-50-000-crore-package-to-boost-credit-loan-flow-and-support-businesses-west-asia-11777994036252.html",
+      "relevance_score": 0.8914,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3521,
+      "title": "Skeet shooters miss out on final spots in ISSF World Cup Shotgun",
+      "summary": "• Shooters fail to qualify for final four spots in the ISSF Shotgun World Cup.\n• The final four places will be decided at a later stage of the competition.\n• Click here for more information on the ISSF World Cup in Shotgun event in South Africa in May and June.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/other-sports/skeet-shooters-miss-out-on-final-spots-in-issf-world-cup-shotgun/article70944756.ece",
+      "relevance_score": 0.8909,
       "published_date": "2026-05-05"
     },
     {
@@ -128,6 +208,16 @@
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/tamil-nadu-cm-swearing-in-short-of-majority-by-just-10-seats-tvk-chief-vijay-to-take-oath-on-may-7-but-how-will-it-form-government/articleshow/130829724.cms",
       "relevance_score": 0.8818,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3523,
+      "title": "India and Africa look for unity, stability and deeper ties ahead of IAFS 2026 summit",
+      "summary": "• India and Africa set to meet for first time in 2026 in Mumbai.\n• India, Africa to hold first ever summit of the two nations in New Delhi on January 26, 2026.\n• India to host summit of African nations in Mumbai on January 25, 2028.\n• India-Africa summit will be first of its kind between the two countries.",
+      "category": "International Relations",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/india-and-africa-look-for-unity-stability-and-deeper-ties-ahead-of-india-africa-forum-summit-2026-101777999062957.html",
+      "relevance_score": 0.876,
       "published_date": "2026-05-05"
     },
     {
@@ -211,6 +301,16 @@
       "published_date": "2026-05-05"
     },
     {
+      "id": 3522,
+      "title": "India lose 0-3 to Japan in AFC U-17 Women’s Asian Cup",
+      "summary": "• India were playing in their first ever tournament as part of the Asian Games.\n• India had won their opening two matches of the tournament.\n• They were beaten 2-1 by China and 2-0 by South Korea.\n• India also won the first two games of the group stage of the competition in 2010.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/india-lose-0-3-to-japan-in-afc-u-17-womens-asian-cup/article70944762.ece",
+      "relevance_score": 0.8325,
+      "published_date": "2026-05-05"
+    },
+    {
       "id": 3402,
       "title": "Space Wrap: From Sriharikota to Leh, preparations for Gaganyaan mission in full swing",
       "summary": "• Space Wrap: Gaganaan mission is on course to launch in August 2014.\n• Gagianaan is a joint mission between India and China.\n• It will send a rover into space to collect data on Earth's atmosphere.\n• The mission is expected to return to Earth in November 2014.",
@@ -261,22 +361,22 @@
       "published_date": "2026-05-04"
     },
     {
-      "id": 3470,
-      "title": "Election Commission of India Assembly Election Results 2026: How to check Assam, Kerala, Tamil Nadu, Bengal results on eci.gov.in",
-      "summary": "• Eci.Gov.in is the official website of the Election Commission of the India.\n• The results will be available on the website for 24 hours after the results are announced.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "State News",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/election-commission-of-india-eci-assembly-election-results-2026-assam-kerala-tamil-nadu-west-bengal-puducherry-on-eci-gov-in-10666603/",
-      "relevance_score": 0.95,
-      "published_date": "2026-05-04"
-    },
-    {
       "id": 3471,
       "title": "Tamil Nadu Assembly Election Results 2026 Winners: TVK secures 108 seats; DMK wins 59 — check constituency-wise",
       "summary": "• TVK won 108 seats, DMK won 59 seats in the 2026 Tamil Nadu Assembly elections.\n• Tamil Nadu held its first ever general election on November 25, 2013.\n• The result was a victory for the Communist Party of India (CPI) and the ruling Tamil Nadu Communist Party (TDP).",
       "category": "State News",
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-winners-list-constituency-wise-seat-wise-10664508/",
+      "relevance_score": 0.95,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3470,
+      "title": "Election Commission of India Assembly Election Results 2026: How to check Assam, Kerala, Tamil Nadu, Bengal results on eci.gov.in",
+      "summary": "• Eci.Gov.in is the official website of the Election Commission of the India.\n• The results will be available on the website for 24 hours after the results are announced.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/election-commission-of-india-eci-assembly-election-results-2026-assam-kerala-tamil-nadu-west-bengal-puducherry-on-eci-gov-in-10666603/",
       "relevance_score": 0.95,
       "published_date": "2026-05-04"
     },
@@ -301,22 +401,22 @@
       "published_date": "2026-05-04"
     },
     {
-      "id": 3465,
-      "title": "Tamil Nadu election results: Vijay’s TVK takes early lead in over 100 seats",
-      "summary": "• Vijay's TVK has a lead of more than 100 seats in the Tamil Nadu assembly.\n• Vijayan's party has a majority of over 100 out of the state's total assembly seats.\n• The results will be announced at 8.30pm on Thursday.\n• The election will be held on February 14 and 15.",
-      "category": "State News",
-      "source": "The Hindu - Tamil Nadu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijays-tvk-disrupts-dravidian-bipolar-politics-takes-early-lead-in-over-100-seats/article70937564.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-04"
-    },
-    {
       "id": 3416,
       "title": "Nepal Cabinet resends constitutional council ordinance to President",
       "summary": "• Nepalese Cabinet res sends constitutional council Ordinance to President for approval.\n• President will sign the ordinance into law on Monday.\n• The ordinance will govern the country's constitution and power of the president.\n• The Cabinet will also decide on the constitution of the new parliament.",
       "category": "Polity & Governance",
       "source": "Indian Express - World",
       "url": "https://indianexpress.com/article/world/nepal-cabinet-resends-constitutional-council-ordinance-to-president-10673053/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3465,
+      "title": "Tamil Nadu election results: Vijay’s TVK takes early lead in over 100 seats",
+      "summary": "• Vijay's TVK has a lead of more than 100 seats in the Tamil Nadu assembly.\n• Vijayan's party has a majority of over 100 out of the state's total assembly seats.\n• The results will be announced at 8.30pm on Thursday.\n• The election will be held on February 14 and 15.",
+      "category": "State News",
+      "source": "The Hindu - Tamil Nadu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijays-tvk-disrupts-dravidian-bipolar-politics-takes-early-lead-in-over-100-seats/article70937564.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-04"
     },
@@ -471,22 +571,22 @@
       "published_date": "2026-05-03"
     },
     {
-      "id": 3476,
-      "title": "TN Assembly Election Results 2026: Vijay’s TVK record historic win, gains over 100 seats",
-      "summary": "• Vijay's TVK wins record-breaking 100 seats in the state's first ever general election.\n• Tamil Nadu will hold its first general election in 2026.\n• The results will be announced on November 25.\n• The result will be declared on November 26.\n• The election will be held on the same day as the general elections.",
-      "category": "Polity & Governance",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-10665989/",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-03"
-    },
-    {
       "id": 3474,
       "title": "Kerala Election Results 2026: BJP wins 3 Assembly seats in Kerala for the first time",
       "summary": "• BJP wins three Assembly seats for first time in Kerala in 2026 elections.\n• BJP win 3 seats in the state's Assembly for the very first time, winning three seats each in two states.\n• BJP will win three seats in all three states in the 2026 election.",
       "category": "Polity & Governance",
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/live-updates-kerala-assembly-election-results-2026-live-eci-election-commission-of-india-ldf-vs-udf-seat-tally-10666033/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 3476,
+      "title": "TN Assembly Election Results 2026: Vijay’s TVK record historic win, gains over 100 seats",
+      "summary": "• Vijay's TVK wins record-breaking 100 seats in the state's first ever general election.\n• Tamil Nadu will hold its first general election in 2026.\n• The results will be announced on November 25.\n• The result will be declared on November 26.\n• The election will be held on the same day as the general elections.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-10665989/",
       "relevance_score": 0.91,
       "published_date": "2026-05-03"
     },
@@ -1151,22 +1251,22 @@
       "published_date": "2026-04-29"
     },
     {
-      "id": 1477,
-      "title": "FIFA makes rarest exception to let Afghan women’s refugee team play as official national side without Taliban approval",
-      "summary": "• FIFA has approved a landmark rule change allowing the Afghan women’s team, now competing as Afghan Women United, to return to international football despite being in exile since the Taliban takeover in 2021.\n• The decision removes the need for approval from Afghanistan’s ruling federation, restoring their pathway to competition and marking a major step for displaced athletes in global sport.",
-      "category": "Sports",
-      "source": "Times of India - World",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/fifa-makes-rarest-exception-to-let-afghan-womens-refugee-team-play-as-official-national-side-without-taliban-approval/articleshow/130603956.cms",
-      "relevance_score": 0.8687,
-      "published_date": "2026-04-29"
-    },
-    {
       "id": 1485,
       "title": "National medical commission removes cap on MBBS seats, eases population norm",
       "summary": "• These policy shifts aim to increase medical education capacity to meet rising demand.\n• Additionally, the distance norm for teaching hospitals has been revised to 10 km, with a relaxed limit for specific regions.",
       "category": "Science & Technology",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/nmc-removes-cap-on-mbbs-seats-eases-population-norm/articleshow/130596033.cms",
+      "relevance_score": 0.8687,
+      "published_date": "2026-04-29"
+    },
+    {
+      "id": 1477,
+      "title": "FIFA makes rarest exception to let Afghan women’s refugee team play as official national side without Taliban approval",
+      "summary": "• FIFA has approved a landmark rule change allowing the Afghan women’s team, now competing as Afghan Women United, to return to international football despite being in exile since the Taliban takeover in 2021.\n• The decision removes the need for approval from Afghanistan’s ruling federation, restoring their pathway to competition and marking a major step for displaced athletes in global sport.",
+      "category": "Sports",
+      "source": "Times of India - World",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/fifa-makes-rarest-exception-to-let-afghan-womens-refugee-team-play-as-official-national-side-without-taliban-approval/articleshow/130603956.cms",
       "relevance_score": 0.8687,
       "published_date": "2026-04-29"
     },
@@ -2991,22 +3091,22 @@
       "published_date": "2026-04-18"
     },
     {
-      "id": 1283,
-      "title": "Why Motilal Oswal’s BFSI fund is betting big on capital market ecosystem: Prateek Agarwal of Motilal Oswal AMC",
-      "summary": "• Prateek Agarwal of Motilal Oswal AMC highlights a shift in financial sector growth from traditional banking to capital markets like AMCs, brokers, and exchanges.\n• He discusses how recent trade deals with the US and EU boost India's manufacturing and investment appeal, potentially reversing FII outflows and strengthening the rupee.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/why-motilal-oswals-bfsi-fund-is-betting-big-on-capital-market-ecosystem-prateek-agarwal-of-motilal-oswal-amc/articleshow/130347563.cms",
-      "relevance_score": 0.9998,
-      "published_date": "2026-04-18"
-    },
-    {
       "id": 1272,
       "title": "PM Modi`s address at 8:30 pm: Will he announce a new plan for Women`s quota bill? Know more",
       "summary": "• Prime Minister Narendra Modi is set to address the nation at 8:30 pm tonight.\n• It is expected that the Prime Minister will speak on the issue of the Women's Reservation Bill, which failed to pass in Parliament after the opposition blocked it.",
       "category": "Polity & Governance",
       "source": "Zee News - India",
       "url": "https://zeenews.india.com/india/pm-modis-address-at-830-pm-will-he-announce-a-new-plan-for-womens-quota-bill-know-more-3038731.html",
+      "relevance_score": 0.9998,
+      "published_date": "2026-04-18"
+    },
+    {
+      "id": 1283,
+      "title": "Why Motilal Oswal’s BFSI fund is betting big on capital market ecosystem: Prateek Agarwal of Motilal Oswal AMC",
+      "summary": "• Prateek Agarwal of Motilal Oswal AMC highlights a shift in financial sector growth from traditional banking to capital markets like AMCs, brokers, and exchanges.\n• He discusses how recent trade deals with the US and EU boost India's manufacturing and investment appeal, potentially reversing FII outflows and strengthening the rupee.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/why-motilal-oswals-bfsi-fund-is-betting-big-on-capital-market-ecosystem-prateek-agarwal-of-motilal-oswal-amc/articleshow/130347563.cms",
       "relevance_score": 0.9998,
       "published_date": "2026-04-18"
     },
@@ -5251,22 +5351,22 @@
       "published_date": "2026-04-10"
     },
     {
-      "id": 1712,
-      "title": "RBI mandates payment of inward remittances on same business day",
-      "summary": "• The Reserve Bank of India is speeding up money transfers from abroad.\n• Banks must now credit foreign payments to accounts on the same business day.\n• This change aims to make remittances faster for everyone.\n• Banks have six months to get ready.\n• This move will help millions of people receive money quicker.\n• India is the world's top recipient of these funds.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mandates-payment-of-inward-remittances-on-same-business-day/articleshow/130156180.cms",
-      "relevance_score": 0.9997,
-      "published_date": "2026-04-09"
-    },
-    {
       "id": 1768,
       "title": "RBI keeps repo rate unchanged, predicts 6.9% GDP growth",
       "summary": "• The RBI kept its policy rate at 5.25% for the second consecutive meeting, citing concerns over elevated crude oil prices and global uncertainties.\n• Governor Malhotra expressed cautious optimism, assuring markets that temporary forex measures were aimed at curbing speculation and would be reviewed.\n• The central bank also eased capital norms for banks to support credit growth.",
       "category": "Economy & Banking",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/rbi-keeps-repo-rate-unchanged-predicts-6-9-gdp-growth/articleshow/130127256.cms",
+      "relevance_score": 0.9997,
+      "published_date": "2026-04-09"
+    },
+    {
+      "id": 1712,
+      "title": "RBI mandates payment of inward remittances on same business day",
+      "summary": "• The Reserve Bank of India is speeding up money transfers from abroad.\n• Banks must now credit foreign payments to accounts on the same business day.\n• This change aims to make remittances faster for everyone.\n• Banks have six months to get ready.\n• This move will help millions of people receive money quicker.\n• India is the world's top recipient of these funds.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mandates-payment-of-inward-remittances-on-same-business-day/articleshow/130156180.cms",
       "relevance_score": 0.9997,
       "published_date": "2026-04-09"
     },
@@ -5951,22 +6051,22 @@
       "published_date": "2026-04-07"
     },
     {
-      "id": 1868,
-      "title": "'Relevant for political debate, not for removal proceedings': Rajya Sabha chairman rejects opposition's notice to remove CEC",
-      "summary": "• Rajya Sabha chairman CP Radhakrishnan has rejected the opposition's motion to remove Chief Election Commissioner Gyanesh Kumar.\n• He stated that while the allegations are relevant for political discussion, they do not meet the constitutional threshold for removal proceedings.\n• The Speaker of the Lok Sabha also dismissed a similar notice.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/relevant-for-political-debate-not-for-removal-proceedings-rajya-sabha-chairman-rejects-opposition-notice-to-remove-cec/articleshow/130086357.cms",
-      "relevance_score": 0.9917,
-      "published_date": "2026-04-07"
-    },
-    {
       "id": 1866,
       "title": "Stock market: Which are top 10 gainers and losers on NSE &amp; BSE today? Check list",
       "summary": "• Indian equity benchmarks, Sensex and Nifty, staged a strong intraday recovery to close higher on Tuesday.\n• Easing crude oil prices, positive global cues, and robust buying in IT stocks fueled the rebound.\n• Despite initial weakness, markets ended firmly in the green, with IT stocks leading the gains.",
       "category": "Economy & Banking",
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-top-10-gainers-and-losers-on-nse-bse-on-april-7-check-list/articleshow/130087028.cms",
+      "relevance_score": 0.9917,
+      "published_date": "2026-04-07"
+    },
+    {
+      "id": 1868,
+      "title": "'Relevant for political debate, not for removal proceedings': Rajya Sabha chairman rejects opposition's notice to remove CEC",
+      "summary": "• Rajya Sabha chairman CP Radhakrishnan has rejected the opposition's motion to remove Chief Election Commissioner Gyanesh Kumar.\n• He stated that while the allegations are relevant for political discussion, they do not meet the constitutional threshold for removal proceedings.\n• The Speaker of the Lok Sabha also dismissed a similar notice.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/relevant-for-political-debate-not-for-removal-proceedings-rajya-sabha-chairman-rejects-opposition-notice-to-remove-cec/articleshow/130086357.cms",
       "relevance_score": 0.9917,
       "published_date": "2026-04-07"
     },
@@ -7671,21 +7771,21 @@
       "published_date": "2026-03-24"
     },
     {
-      "id": 2283,
-      "title": "DRDO successfully tests Agni-VI ICBM with range over 10,000 km",
-      "summary": "• MIRV technology enabled meaning Multiple Independently Targetable Re-entry Vehicles can be carried.\n• Test conducted from Dr APJ Abdul Kalam Island also known as Wheeler Island in Odisha.\n• India joins elite ICBM nations: USA, Russia, China, UK, and France.\n• Range exceeds 10,000 km making any global target reachable.\n• Defence Minister and PM congratulated DRDO scientists on the historic achievement.",
-      "category": "Science & Technology",
-      "source": "DRDO / Ministry of Defence",
-      "url": null,
-      "relevance_score": 0.97,
-      "published_date": "2026-03-24"
-    },
-    {
       "id": 2287,
       "title": "India GDP growth rate projected at 6.8% for FY 2026-27 by IMF",
       "summary": "• India remains the world fastest growing major economy for third consecutive year.\n• Services sector contributes 55% to GDP while manufacturing stands at 28%.\n• Private consumption growth is at 7.2% and government capex at Rs 11.21 lakh crore.\n• Global growth is projected at 3.3% by IMF in World Economic Outlook 2026.\n• India is ranked fastest growing among all G20 nations by IMF.",
       "category": "Economy & Banking",
       "source": "IMF World Economic Outlook",
+      "url": null,
+      "relevance_score": 0.97,
+      "published_date": "2026-03-24"
+    },
+    {
+      "id": 2283,
+      "title": "DRDO successfully tests Agni-VI ICBM with range over 10,000 km",
+      "summary": "• MIRV technology enabled meaning Multiple Independently Targetable Re-entry Vehicles can be carried.\n• Test conducted from Dr APJ Abdul Kalam Island also known as Wheeler Island in Odisha.\n• India joins elite ICBM nations: USA, Russia, China, UK, and France.\n• Range exceeds 10,000 km making any global target reachable.\n• Defence Minister and PM congratulated DRDO scientists on the historic achievement.",
+      "category": "Science & Technology",
+      "source": "DRDO / Ministry of Defence",
       "url": null,
       "relevance_score": 0.97,
       "published_date": "2026-03-24"
@@ -8191,6 +8291,6 @@
       "published_date": "2008-10-01"
     }
   ],
-  "count": 819,
-  "updated_at": "2026-05-05T17:29:27.817706Z"
+  "count": 829,
+  "updated_at": "2026-05-06T03:25:02.368119Z"
 }
