@@ -49,10 +49,11 @@ jobs:
       - name: Run ML Pipeline
         run: |
           python -c "
-          import logging, json
+          import logging, json, os
           logging.basicConfig(level=logging.INFO, format='%(asctime)s [%(levelname)s] %(message)s')
           from backend.pipeline import run_pipeline_once
-          result = run_pipeline_once(use_rss=True, use_api=True, max_feeds=None)
+          use_api = bool(os.environ.get('NEWSDATA_API_KEY', '').strip())
+          result = run_pipeline_once(use_rss=True, use_api=use_api, max_feeds=None)
           print(json.dumps(result, indent=2))
           "
 
@@ -60,9 +61,8 @@ jobs:
         run: |
           mkdir -p frontend/data
           python -c "
-          import logging, sys
+          import logging, sys, os
           logging.basicConfig(level=logging.INFO)
-          sys.path.insert(0, 'backend')
           from backend.json_exporter import export_articles_json
           n = export_articles_json('frontend/data/articles.json')
           print(f'Exported {n} articles to frontend/data/articles.json')
@@ -73,9 +73,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add frontend/data/articles.json
-          git diff --staged --quiet || git commit -m "chore: update articles.json [skip ci]"
-          git pull --rebase origin main
-          git push
+          git diff --staged --quiet && echo "No changes to commit" || (
+            git commit -m "chore: update articles.json [skip ci]" &&
+            git pull --rebase origin main --autostash &&
+            git push
+          )
 
       - name: Log pipeline summary
         if: always()
