@@ -116,7 +116,6 @@ if(!isLogged()) { window.location.href = 'login.html'; }
     <a href="quiz.html">Daily Quiz</a>
     <a href="bookmarks.html">Bookmarks</a>
     <a href="profile.html">Profile</a>
-    <a href="news.html" class="nav-cta">Start Reading →</a>
     <button id="themeToggleBtn" onclick="toggleTheme()" style="background:var(--card);border:1px solid var(--border);color:var(--muted);border-radius:8px;padding:6px 12px;font-family:'DM Sans',sans-serif;font-size:.82rem;cursor:pointer;transition:all .2s">☀️ Light Mode</button>
   </div>
 </nav>
@@ -217,13 +216,6 @@ if(!isLogged()) { window.location.href = 'login.html'; }
 <script>
 // If logged in, show admin link in nav
 const u = getUser();
-if(u && u.role === 'admin'){
-  const links = document.querySelector('.nav-links');
-  const adminA = document.createElement('a');
-  adminA.href = 'admin.html';
-  adminA.textContent = '⚙️ Admin';
-  links.insertBefore(adminA, links.lastElementChild);
-}
 trackVisit();
 </script>
 <script defer src="/_vercel/insights/script.js"></script>
