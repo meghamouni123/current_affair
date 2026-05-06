@@ -177,9 +177,9 @@ tr:last-child td{border-bottom:none}
 
       <div class="grid2">
         <!-- Daily activity chart — full width, taller -->
-        <div class="card" style="grid-column:1/-1">
+        <div class="card" style="grid-column:1/-1;margin-top:8px">
           <div class="sec-title">📈 Daily Article Volume (Last 15 days)</div>
-          <div class="bar-chart" id="dailyChart" style="height:160px"></div>
+          <div id="dailyChart" style="width:100%;overflow:visible"></div>
         </div>
       </div>
       <!-- Articles by Category below -->
@@ -479,7 +479,7 @@ async function loadDashboard(){
     if(diff>=0&&diff<DAYS15)dayData[DAYS15-1-diff]++;
   });
   const maxD=Math.max(...dayData,1);
-  const svgW=700,svgH=140,svgPad=30;
+  const svgW=700,svgH=160,svgPad=36;
   const pts=dayData.map((v,i)=>{
     const x=svgPad+(i*(svgW-2*svgPad)/(DAYS15-1));
     const y=svgH-svgPad-(v/maxD*(svgH-2*svgPad));
