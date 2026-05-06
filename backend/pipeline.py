@@ -1,9 +1,3 @@
-"""
-pipeline.py — ML Pipeline (Fetch → Classify → Summarize → Store)
-Runs on: GitHub Actions (daily, free 7GB RAM runner)
-NOT loaded by: render_server.py (that's DB-read only)
-"""
-
 import os
 import sys
 import logging
@@ -24,18 +18,16 @@ logger = logging.getLogger(__name__)
 
 CONFIDENCE_THRESHOLD       = 0.80
 DEDUP_SIMILARITY_THRESHOLD = 0.92
-HEADLINE_SIMILARITY_THRESHOLD = 0.45  # catch same story from different sources (lower = stricter)
+HEADLINE_SIMILARITY_THRESHOLD = 0.45
 
 
 def _normalize_headline(h: str) -> str:
-    """Lowercase, remove punctuation, collapse spaces."""
     h = h.lower()
     h = re.sub(r'[^a-z0-9\s]', ' ', h)
     return re.sub(r'\s+', ' ', h).strip()
 
 
 def _headline_similarity(a: str, b: str) -> float:
-    """Jaccard similarity on word sets."""
     wa = set(_normalize_headline(a).split())
     wb = set(_normalize_headline(b).split())
     if not wa or not wb:
@@ -62,12 +54,9 @@ class Pipeline:
         return float(np.max(sims)) > DEDUP_SIMILARITY_THRESHOLD
 
     def _is_duplicate_by_headline(self, headline: str) -> bool:
-        """Catch same story from different sources using word-overlap.
-        Also catches exact same headline regardless of threshold."""
         norm = _normalize_headline(headline)
         for cached in self._headline_cache:
             cached_norm = _normalize_headline(cached)
-            # Exact normalized match always dedup
             if norm == cached_norm:
                 return True
             if _headline_similarity(headline, cached) >= HEADLINE_SIMILARITY_THRESHOLD:
@@ -137,7 +126,6 @@ class Pipeline:
                 self._url_hash_cache.add(url_hash)
             return None
 
-        # Reject summaries with less than 3 bullet points
         bullet_count = summary.count('•')
         if bullet_count < 3:
             self._skipped_count += 1
@@ -231,7 +219,6 @@ DEMO_ARTICLES = []
 
 
 if __name__ == "__main__":
-    # GitHub Actions entrypoint
     logging.basicConfig(
         level=logging.INFO,
         format='%(asctime)s [%(levelname)s] %(name)s: %(message)s'

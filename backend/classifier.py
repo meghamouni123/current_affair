@@ -132,12 +132,10 @@ NOT_RELEVANT_SIGNALS = [
     'recipe', 'cooking tips', 'restaurant review', 'food review',
     'stock tips', 'buy sell', 'share price target', 'multibagger',
     'ipl score', 'match score', 'live score', 'fantasy team',
-    # Exam schedule / admit card / result — not current affairs
     'exam schedule', 'exam date', 'admit card', 'hall ticket',
     'answer key', 'result declared', 'cut off marks', 'merit list',
     'ssc exam', 'upsc exam date', 'neet exam', 'jee exam',
     'board exam', 'cbse result', 'icse result',
-    # General lifestyle / entertainment
     'astrology', 'rashifal', 'kundali', 'vastu tips',
     'relationship tips', 'love tips', 'marriage tips',
     'viral video', 'trending video', 'funny video',
@@ -265,12 +263,10 @@ class ArticleClassifier:
             if sig in tl:
                 return False, 'NOT_RELEVANT', 0.30
 
-        # Reject pure question-format headlines (quiz questions, not news)
         stripped = text.strip()
         if stripped.endswith('?') and len(stripped.split()) <= 20:
             return False, 'NOT_RELEVANT', 0.25
 
-        # Strong keyword override — if 3+ keywords match a category, trust it directly
         kw_scores = {
             cat: sum(1 for kw in kws if kw in tl)
             for cat, kws in CATEGORY_PATTERNS.items()
@@ -281,14 +277,11 @@ class ArticleClassifier:
             kw_conf = min(0.82 + kw_best[best_kw] * 0.03, 0.95)
             return True, best_kw, kw_conf
 
-        # ML model classification
         cat, conf = self.classify(text)
 
-        # Feed category hint boost: if ML agrees with feed category, lower threshold slightly
         if feed_category and feed_category in CATEGORY_PATTERNS:
             if cat == feed_category and conf >= 0.65:
                 return True, cat, conf
-            # If ML is uncertain but feed category has 1+ keyword match, use feed category
             feed_kw_match = kw_scores.get(feed_category, 0)
             if conf < threshold and feed_kw_match >= 1:
                 boosted_conf = min(conf + 0.10, 0.95)

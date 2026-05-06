@@ -1,9 +1,3 @@
-"""
-server.py — FastAPI + Uvicorn REST API
-READ-ONLY endpoints — no DELETE/DROP operations
-Run: python run.py
-"""
-
 import os
 import sys
 import logging
@@ -39,7 +33,6 @@ app.add_middleware(
 )
 
 
-# ── Health check ──────────────────────────────────────────────────────────────
 @app.get("/api/health")
 def health():
     try:
@@ -49,7 +42,6 @@ def health():
         raise HTTPException(status_code=500, detail=str(e))
 
 
-# ── Articles ──────────────────────────────────────────────────────────────────
 @app.get("/api/articles")
 def articles(
     date:     Optional[str] = Query(None, description="Filter by date YYYY-MM-DD"),
@@ -78,7 +70,6 @@ def articles(
             date_from=date_from,
             search=search,
         )
-        # Serialize dates
         for r in rows:
             for k, v in r.items():
                 if hasattr(v, 'isoformat'):
@@ -94,7 +85,6 @@ def articles(
         raise HTTPException(status_code=500, detail=str(e))
 
 
-# ── Stats ─────────────────────────────────────────────────────────────────────
 @app.get("/api/stats")
 def stats():
     """DB statistics — total, by category, by date"""
@@ -105,7 +95,6 @@ def stats():
         raise HTTPException(status_code=500, detail=str(e))
 
 
-# ── Categories ────────────────────────────────────────────────────────────────
 @app.get("/api/categories")
 def categories():
     """List all categories"""
@@ -115,7 +104,6 @@ def categories():
         raise HTTPException(status_code=500, detail=str(e))
 
 
-# ── Dates ─────────────────────────────────────────────────────────────────────
 @app.get("/api/dates")
 def dates(days: int = Query(30, ge=1, le=90)):
     """Dates that have articles"""
@@ -125,7 +113,6 @@ def dates(days: int = Query(30, ge=1, le=90)):
         raise HTTPException(status_code=500, detail=str(e))
 
 
-# ── DB Table info (terminal output) ──────────────────────────────────────────
 @app.get("/api/db/info")
 def db_info():
     """Show exam_ca_articles table stats in terminal"""
@@ -141,7 +128,6 @@ def db_info():
             "by_category": s["by_category"],
             "recent_dates": list(s["by_date"].items())[:7],
         }
-        # Print to terminal
         logger.info("=" * 50)
         logger.info(f"TABLE: exam_ca_articles")
         logger.info(f"Total articles : {s['total']}")
@@ -156,8 +142,6 @@ def db_info():
         raise HTTPException(status_code=500, detail=str(e))
 
 
-# ── Serve frontend HTML pages ─────────────────────────────────────────────────
-# Mount static frontend — html=True serves index.html at /
 if os.path.isdir(FRONTEND_DIR):
     app.mount("/", StaticFiles(directory=FRONTEND_DIR, html=True), name="frontend")
 

@@ -92,7 +92,6 @@ def insert_article(data: Dict[str, Any]) -> bool:
     try:
         pub_date     = data.get('date', str(date.today()))
         published_at = f"{pub_date}T00:00:00+00:00"
-        # Use ALTER TABLE to add missing columns if they don't exist yet
         for col_sql in [
             "ALTER TABLE exam_ca_articles ADD COLUMN IF NOT EXISTS confidence REAL DEFAULT 0.0",
         ]:
@@ -228,7 +227,6 @@ def get_dates_with_articles(days: int = 30) -> List[str]:
 def get_stats() -> Dict:
     conn = get_connection()
     cur  = conn.cursor()
-    # Use relevance_score (the actual column name in the DB)
     cur.execute("SELECT COUNT(*) FROM exam_ca_articles WHERE relevance_score >= 0.8 AND is_visible = TRUE")
     total = cur.fetchone()[0]
     cur.execute(

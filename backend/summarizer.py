@@ -40,7 +40,6 @@ def _get_mpnet():
 
 
 def _split_sentences(text: str) -> List[str]:
-    """Split text into clean sentences."""
     abbrevs = r'(?:Mr|Mrs|Ms|Dr|Prof|Sr|Jr|St|vs|etc|approx|Rs|U\.S|U\.K)'
     t = re.sub(rf'\b({abbrevs})\.', r'\1<DOT>', text.strip())
     sents = re.split(r'(?<=[.!?])\s+', t)
@@ -53,7 +52,6 @@ def _split_sentences(text: str) -> List[str]:
 
 
 def _word_overlap(s1: str, s2: str) -> float:
-    """Jaccard overlap ignoring stopwords."""
     STOP = {'the','a','an','and','or','but','in','on','at','to','for','of','with',
             'by','from','is','are','was','were','be','been','has','have','had',
             'this','that','it','its','as','also','which','who','not','no','so',
@@ -67,7 +65,6 @@ def _word_overlap(s1: str, s2: str) -> float:
 
 
 def _is_duplicate(sent: str, selected: List[str], threshold: float = 0.40) -> bool:
-    """Check if sentence is too similar to any already selected."""
     for s in selected:
         if _word_overlap(sent, s) >= threshold:
             return True
@@ -143,17 +140,10 @@ def _build_bullets(
     headline: str,
     num_bullets: int = 6,
 ) -> Optional[str]:
-    """
-    Build bullet points by combining BART summary sentences + extractive
-    sentences from full_text. Deduplicates aggressively.
-    """
-    # 1. Collect candidate sentences from BART output
     bart_sents = _split_sentences(bart_summary) if bart_summary else []
 
-    # 2. Collect candidate sentences from full text (extractive)
     full_sents = _split_sentences(full_text)
 
-    # 3. Score full_text sentences by importance
     import math
     from collections import Counter
     STOP = {'the','a','an','and','or','but','in','on','at','to','for','of','with',
@@ -186,13 +176,10 @@ def _build_bullets(
     scored_full = sorted(enumerate(full_sents), key=lambda x: score(x[1], x[0]), reverse=True)
     top_full = [s for _, s in scored_full[:num_bullets * 2]]
 
-    # 4. Build final bullet list: prefer BART sentences, fill with extractive
     selected: List[str] = []
 
-    # Add BART sentences first (they're abstractive, good quality)
     for sent in bart_sents:
         sent = sent.strip().rstrip('.')
-        # Skip question-format sentences
         if sent.endswith('?'):
             continue
         if len(sent.split()) < 8:
@@ -205,12 +192,10 @@ def _build_bullets(
         if len(selected) >= num_bullets:
             break
 
-    # Fill remaining slots with extractive sentences
     for sent in top_full:
         if len(selected) >= num_bullets:
             break
         sent = sent.strip().rstrip('.')
-        # Skip question-format sentences
         if sent.endswith('?'):
             continue
         if len(sent.split()) < 8:
@@ -239,22 +224,18 @@ def generate_summary(headline: str, text: str, num_bullets: int = 6) -> Optional
     if not body:
         body = headline
 
-    # LexRank pre-extraction for long articles
     if len(body.split()) > 800:
         input_text = _lexrank_extract(body, max_tokens=950)
     else:
         input_text = body
 
-    # BART abstractive summary
     bart_output = _bart_summarize(input_text)
 
-    # Build bullets combining BART + extractive
     result = _build_bullets(bart_output, body, headline, num_bullets)
 
     if result:
         return result
 
-    # Pure extractive fallback
     return _extractive_fallback(headline, body, num_bullets)
 
 
@@ -319,7 +300,6 @@ def _extractive_fallback(headline: str, text: str, num_bullets: int = 6) -> Opti
             continue
         selected.append(sent)
 
-    # Sort back to original order
     order = {s: i for i, s in enumerate(body_sents)}
     selected.sort(key=lambda s: order.get(s, 999))
 

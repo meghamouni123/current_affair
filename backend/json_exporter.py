@@ -1,8 +1,3 @@
-"""
-json_exporter.py — Export articles from PostgreSQL to static JSON files
-Called by GitHub Actions after pipeline runs
-"""
-
 import os
 import sys
 import json
@@ -32,7 +27,6 @@ def export_articles_json(output_path: str) -> int:
     rows = [dict(zip(cols, r)) for r in cur.fetchall()]
     conn.close()
 
-    # Convert date objects to strings
     for row in rows:
         for k, v in row.items():
             if hasattr(v, 'isoformat'):

@@ -20,8 +20,8 @@ if __name__ == '__main__':
 
     p = argparse.ArgumentParser(description='CA Portal — FastAPI + Uvicorn')
     p.add_argument('--port',   type=int,  default=8000)
-    p.add_argument('--reload', action='store_true', default=True, help='Auto-reload on code change')
-    p.add_argument('--train',  action='store_true', help='Retrain classifier before starting')
+    p.add_argument('--reload', action='store_true', default=True)
+    p.add_argument('--train',  action='store_true')
     args = p.parse_args()
 
     if args.train:
