@@ -1,7 +1,9 @@
 {
   "version": 2,
+  "builds": [
+    { "src": "frontend/**", "use": "@vercel/static" }
+  ],
   "routes": [
-    { "src": "/api/(.*)", "dest": "/api/$1.js" },
     { "src": "/", "dest": "/frontend/index.html" },
     { "src": "/news", "dest": "/frontend/news.html" },
     { "src": "/login", "dest": "/frontend/login.html" },
