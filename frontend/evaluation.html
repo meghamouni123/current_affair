@@ -228,7 +228,7 @@ const ROUGE_DATA = [
   {method:"BART base",   r1:0.44, r2:0.21, rl:0.36},
   {method:"BART+LexRank",r1:0.46, r2:0.23, rl:0.38},
 ];
-const svgW=520,svgH=200,padL=44,padB=36,padT=28,padR=16;
+const svgW=420,svgH=150,padL=38,padB=30,padT=20,padR=12;
 const chartW=svgW-padL-padR, chartH=svgH-padB-padT;
 const maxVal=0.5;
 const groupW=chartW/ROUGE_DATA.length;
@@ -279,7 +279,7 @@ const PR_ALL = [
   {cat:"National", p:0.94, r:0.90},
   {cat:"State",    p:0.91, r:0.90},
 ];
-const prSvgW=520, prSvgH=200, prPadL=44, prPadB=40, prPadT=28, prPadR=10;
+const prSvgW=420, prSvgH=150, prPadL=38, prPadB=32, prPadT=20, prPadR=8;
 const prChartW=prSvgW-prPadL-prPadR, prChartH=prSvgH-prPadB-prPadT;
 const prMin=0.80, prMax=1.00, prRange=prMax-prMin;
 const prGroupW=prChartW/PR_ALL.length;
@@ -288,7 +288,7 @@ const prGap=prGroupW*0.06;
 const prColors=["#3d5a7a","#3fb9a0"]; // dark blue, teal
 let prSvg=`<svg width="100%" viewBox="0 0 ${prSvgW} ${prSvgH}" style="overflow:visible;display:block">`;
 // Y axis grid lines
-[0.80,0.82,0.84,0.86,0.88,0.90,0.92,0.94,0.96,0.98,1.00].forEach(v=>{
+[0.80,0.85,0.90,0.95,1.00].forEach(v=>{
   const y=prPadT+prChartH-((v-prMin)/prRange*prChartH);
   prSvg+=`<line x1="${prPadL}" y1="${y}" x2="${prSvgW-prPadR}" y2="${y}" stroke="rgba(48,54,61,.5)" stroke-width="1"/>`;
   prSvg+=`<text x="${prPadL-5}" y="${y+4}" font-size="9" fill="#7d8590" text-anchor="end">${v.toFixed(2)}</text>`;
