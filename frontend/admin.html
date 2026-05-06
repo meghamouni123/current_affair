@@ -176,16 +176,16 @@ tr:last-child td{border-bottom:none}
       </div>
 
       <div class="grid2">
-        <!-- Daily activity chart -->
-        <div class="card">
+        <!-- Daily activity chart — full width, taller -->
+        <div class="card" style="grid-column:1/-1">
           <div class="sec-title">📈 Daily Article Volume (Last 15 days)</div>
-          <div class="bar-chart" id="dailyChart"></div>
+          <div class="bar-chart" id="dailyChart" style="height:160px"></div>
         </div>
-        <!-- Category donut -->
-        <div class="card">
-          <div class="sec-title">📂 Articles by Category</div>
-          <div id="catBarChart"></div>
-        </div>
+      </div>
+      <!-- Articles by Category below -->
+      <div class="card" style="margin-bottom:20px">
+        <div class="sec-title">📂 Articles by Category</div>
+        <div id="catBarChart"></div>
       </div>
 
       <!-- Recent activity -->
@@ -479,7 +479,7 @@ async function loadDashboard(){
     if(diff>=0&&diff<DAYS15)dayData[DAYS15-1-diff]++;
   });
   const maxD=Math.max(...dayData,1);
-  const svgW=700,svgH=110,svgPad=30;
+  const svgW=700,svgH=140,svgPad=30;
   const pts=dayData.map((v,i)=>{
     const x=svgPad+(i*(svgW-2*svgPad)/(DAYS15-1));
     const y=svgH-svgPad-(v/maxD*(svgH-2*svgPad));
