@@ -145,9 +145,6 @@
           </div>
         </div>
       </div>
-      <div style="margin-top:16px" class="insight-box">
-        <strong>Low Hallucination:</strong> BART + LexRank produces factually accurate summaries 96% of the time, with only 4% showing minor content drift from source articles.
-      </div>
     </div>
   </div>
 
@@ -158,68 +155,67 @@
 
   <!-- ══ CLASSIFIER ══ -->
   <div class="section-title">🧠 Classifier Performance Metrics</div>
-  <div class="grid2">
-    <!-- Precision vs Recall ALL 12 categories -->
-    <div class="card">
-      <div class="card-title">Precision vs Recall</div>
-      <div class="card-sub">Category-level comparison</div>
-      <div id="prBarChart" style="width:100%;overflow:visible"></div>
-    </div>
 
-    <!-- Overall Metrics -->
-    <div class="card">
-      <div class="card-title">Overall Metrics</div>
-      <div class="card-sub">Macro-averaged scores on held-out test set</div>
-      <div class="metrics-grid">
-        <div class="metric-box"><div class="metric-val" style="color:#3fb950">0.94</div><div class="metric-label">Accuracy</div></div>
-        <div class="metric-box">
-          <div class="m-tooltip">
-            <div class="m-tooltip-title">Precision by Category</div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Economy</span><span class="m-tooltip-val">0.94</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Polity</span><span class="m-tooltip-val">0.92</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Int'l Relations</span><span class="m-tooltip-val">0.91</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Sci & Tech</span><span class="m-tooltip-val">0.94</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Schemes</span><span class="m-tooltip-val">0.90</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Reports</span><span class="m-tooltip-val">0.91</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Sports</span><span class="m-tooltip-val">0.95</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Awards</span><span class="m-tooltip-val">0.92</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Imp Days</span><span class="m-tooltip-val">0.90</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Summits</span><span class="m-tooltip-val">0.90</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">National</span><span class="m-tooltip-val">0.94</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">State</span><span class="m-tooltip-val">0.91</span></div>
-          </div>
-          <div class="metric-val" style="color:#58a6ff">0.93</div><div class="metric-label">Precision</div>
+  <!-- Precision vs Recall — full width -->
+  <div class="card" style="margin-bottom:20px">
+    <div class="card-title">Precision vs Recall</div>
+    <div class="card-sub">Category-level comparison</div>
+    <div id="prBarChart" style="width:100%;overflow:visible"></div>
+  </div>
+
+  <!-- Overall Metrics — full width -->
+  <div class="card" style="margin-bottom:24px">
+    <div class="card-title">Overall Metrics</div>
+    <div class="card-sub">Macro-averaged scores on held-out test set</div>
+    <div class="metrics-grid">
+      <div class="metric-box"><div class="metric-val" style="color:#3fb950">0.94</div><div class="metric-label">Accuracy</div></div>
+      <div class="metric-box">
+        <div class="m-tooltip">
+          <div class="m-tooltip-title">Precision by Category</div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Economy</span><span class="m-tooltip-val">0.94</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Polity</span><span class="m-tooltip-val">0.92</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Int'l Relations</span><span class="m-tooltip-val">0.91</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Sci & Tech</span><span class="m-tooltip-val">0.94</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Schemes</span><span class="m-tooltip-val">0.90</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Reports</span><span class="m-tooltip-val">0.91</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Sports</span><span class="m-tooltip-val">0.95</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Awards</span><span class="m-tooltip-val">0.92</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Imp Days</span><span class="m-tooltip-val">0.90</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Summits</span><span class="m-tooltip-val">0.90</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">National</span><span class="m-tooltip-val">0.94</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">State</span><span class="m-tooltip-val">0.91</span></div>
         </div>
-        <div class="metric-box">
-          <div class="m-tooltip">
-            <div class="m-tooltip-title">Recall by Category</div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Economy</span><span class="m-tooltip-val">0.93</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Polity</span><span class="m-tooltip-val">0.91</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Int'l Relations</span><span class="m-tooltip-val">0.90</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Sci & Tech</span><span class="m-tooltip-val">0.92</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Schemes</span><span class="m-tooltip-val">0.89</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Reports</span><span class="m-tooltip-val">0.90</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Sports</span><span class="m-tooltip-val">0.96</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Awards</span><span class="m-tooltip-val">0.91</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Imp Days</span><span class="m-tooltip-val">0.90</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">Summits</span><span class="m-tooltip-val">0.90</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">National</span><span class="m-tooltip-val">0.90</span></div>
-            <div class="m-tooltip-row"><span class="m-tooltip-cat">State</span><span class="m-tooltip-val">0.90</span></div>
-          </div>
-          <div class="metric-val" style="color:#3fb950">0.92</div><div class="metric-label">Recall</div>
+        <div class="metric-val" style="color:#58a6ff">0.93</div><div class="metric-label">Precision</div>
+      </div>
+      <div class="metric-box">
+        <div class="m-tooltip">
+          <div class="m-tooltip-title">Recall by Category</div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Economy</span><span class="m-tooltip-val">0.93</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Polity</span><span class="m-tooltip-val">0.91</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Int'l Relations</span><span class="m-tooltip-val">0.90</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Sci & Tech</span><span class="m-tooltip-val">0.92</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Schemes</span><span class="m-tooltip-val">0.89</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Reports</span><span class="m-tooltip-val">0.90</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Sports</span><span class="m-tooltip-val">0.96</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Awards</span><span class="m-tooltip-val">0.91</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Imp Days</span><span class="m-tooltip-val">0.90</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">Summits</span><span class="m-tooltip-val">0.90</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">National</span><span class="m-tooltip-val">0.90</span></div>
+          <div class="m-tooltip-row"><span class="m-tooltip-cat">State</span><span class="m-tooltip-val">0.90</span></div>
         </div>
-        <div class="metric-box"><div class="metric-val" style="color:#bc8cff">0.93</div><div class="metric-label">F1-Score</div></div>
+        <div class="metric-val" style="color:#3fb950">0.92</div><div class="metric-label">Recall</div>
       </div>
-      <div class="auroc-box">
-        <div class="auroc-left">
-          <div class="auroc-title">AU-ROC Score</div>
-          <div class="auroc-sub">Area under ROC curve</div>
-        </div>
-        <div class="auroc-val">0.98</div>
+      <div class="metric-box"><div class="metric-val" style="color:#bc8cff">0.93</div><div class="metric-label">F1-Score</div></div>
+    </div>
+    <div class="auroc-box">
+      <div class="auroc-left">
+        <div class="auroc-title">AU-ROC Score</div>
+        <div class="auroc-sub">Area under ROC curve</div>
       </div>
-      <div class="insight-box">
-        <strong>Strong Performance:</strong> The classifier achieves 94% accuracy with an excellent AU-ROC of 0.98, indicating highly reliable category predictions.
-      </div>
+      <div class="auroc-val">0.98</div>
+    </div>
+    <div class="insight-box">
+      <strong>Strong Performance:</strong> The classifier achieves 94% accuracy with an excellent AU-ROC of 0.98, indicating highly reliable category predictions.
     </div>
   </div>
 </div>
