@@ -35,6 +35,7 @@
 .ps-item .ps-tooltip{position:absolute;bottom:calc(100% + 8px);left:50%;transform:translateX(-50%);background:#1c2128;border:1px solid rgba(244,185,66,.35);color:var(--text);font-size:.75rem;font-weight:500;padding:7px 12px;border-radius:9px;white-space:nowrap;pointer-events:none;opacity:0;transition:opacity .2s;z-index:100;box-shadow:0 4px 16px rgba(0,0,0,.4)}
 .ps-item .ps-tooltip::after{content:'';position:absolute;top:100%;left:50%;transform:translateX(-50%);border:5px solid transparent;border-top-color:rgba(244,185,66,.35)}
 .ps-item:hover .ps-tooltip{opacity:1}
+.ps-tooltip-wide{white-space:normal!important;width:200px;text-align:center;line-height:1.5}
 .grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:20px}
 .card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:22px}
 .card-title{font-size:.95rem;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px}
@@ -117,6 +118,14 @@
       <div class="ps-item">
         <div class="ps-tooltip">Consecutive days you've been active</div>
         <div class="ps-val" id="psStreak">0</div><div class="ps-label">Day Streak</div>
+      </div>
+      <div class="ps-item">
+        <div class="ps-tooltip ps-tooltip-wide">Correct answers ÷ Questions attempted<br><span id="precisionDetail" style="color:var(--accent);font-weight:700">—</span></div>
+        <div class="ps-val" id="psPrecision">—</div><div class="ps-label">Precision</div>
+      </div>
+      <div class="ps-item">
+        <div class="ps-tooltip ps-tooltip-wide">Correct answers ÷ Total questions (10)<br><span id="recallDetail" style="color:var(--green);font-weight:700">—</span></div>
+        <div class="ps-val" id="psRecall">—</div><div class="ps-label">Recall</div>
       </div>
     </div>
   </div>
@@ -213,6 +222,22 @@ function init(){
   document.getElementById("psBm").textContent=Object.keys(getBookmarks()).length;
   document.getElementById("psStreak").textContent=Math.min(qh.length,7);
   document.getElementById("readCount").textContent=read.length;
+
+  // Precision & Recall from quiz history
+  if(qh.length){
+    const totalCorrect=qh.reduce((s,q)=>s+(q.correct||0),0);
+    const totalQuestions=qh.length*10;
+    // Precision: correct / attempted (assume all 10 attempted per quiz)
+    const precision=Math.round(totalCorrect/totalQuestions*100);
+    // Recall: same as precision when all questions attempted (correct / total possible)
+    const recall=precision;
+    document.getElementById("psPrecision").textContent=precision+"%";
+    document.getElementById("psRecall").textContent=recall+"%";
+    document.getElementById("psPrecision").style.color=precision>=80?"var(--green)":precision>=60?"var(--accent)":"var(--red)";
+    document.getElementById("psRecall").style.color=recall>=80?"var(--green)":recall>=60?"var(--accent)":"var(--red)";
+    document.getElementById("precisionDetail").textContent=`${totalCorrect} correct / ${totalQuestions} attempted`;
+    document.getElementById("recallDetail").textContent=`${totalCorrect} correct / ${totalQuestions} total`;
+  }
 
   // Quiz performance ring + line chart
   if(qh.length){
