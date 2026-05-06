@@ -1,9 +1,9 @@
 // NewsPrep — Config
 
-// Auth helpers — localStorage only
-window.getUser   = () => JSON.parse(localStorage.getItem("ca_user") || "null");
-window.setUser   = (u) => localStorage.setItem("ca_user", JSON.stringify(u));
-window.clearUser = () => localStorage.removeItem("ca_user");
+// Auth helpers — sessionStorage (clears when tab/browser closes)
+window.getUser   = () => JSON.parse(sessionStorage.getItem("ca_user") || "null");
+window.setUser   = (u) => sessionStorage.setItem("ca_user", JSON.stringify(u));
+window.clearUser = () => sessionStorage.removeItem("ca_user");
 window.isAdmin   = () => { const u = getUser(); return !!(u && u.role === "admin"); };
 window.isLogged  = () => !!getUser();
 
