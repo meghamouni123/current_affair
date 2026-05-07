@@ -12,7 +12,7 @@ on:
 
 concurrency:
   group: pipeline-articles-json
-  cancel-in-progress: true        # ✅ CHANGED: kills old run if new one starts
+  cancel-in-progress: true
 
 jobs:
   run-pipeline:
@@ -77,9 +77,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Pull latest before doing anything           ✅ KEY FIX
-          git pull --rebase origin main
+          # Save freshly generated file BEFORE any git operations
+          cp frontend/data/articles.json /tmp/articles_new.json
 
+          # Pull latest remote cleanly with no conflicts
+          git fetch origin main
+          git reset --hard origin/main
+
+          # Restore our generated file on top of clean remote
+          cp /tmp/articles_new.json frontend/data/articles.json
+
+          # Check if anything actually changed
           if git diff --quiet frontend/data/articles.json; then
             echo "No changes to articles.json, skipping push"
             exit 0
@@ -88,6 +96,7 @@ jobs:
           git add frontend/data/articles.json
           git commit -m "chore: update articles.json [skip ci]"
           git push origin main
+          echo "✅ Push successful"
 
       - name: Log pipeline summary
         if: always()
