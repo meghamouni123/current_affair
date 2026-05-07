@@ -3,8 +3,6 @@ name: Daily CA News Pipeline
 on:
   schedule:
     - cron: '0 0 * * *'    # 5:30 AM IST
-    - cron: '30 0 * * *'   # 6:00 AM IST
-    - cron: '0 1 * * *'    # 6:30 AM IST
     - cron: '30 3 * * *'   # 9:00 AM IST
     - cron: '30 6 * * *'   # 12:00 PM IST
     - cron: '30 9 * * *'   # 3:00 PM IST
@@ -23,12 +21,14 @@ jobs:
     env:
       DATABASE_URL: ${{ secrets.DATABASE_URL }}
       NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+      HF_TOKEN: ${{ secrets.HF_TOKEN }}
 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -76,22 +76,52 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
+
+          # Check if there are any changes
           if git diff --quiet frontend/data/articles.json; then
-            echo "No changes to articles.json"
+            echo "No changes to articles.json, skipping push"
             exit 0
           fi
-          
+
+          # Save our generated file safely
           cp frontend/data/articles.json /tmp/articles.json
-          
-          git fetch origin main
-          git reset --hard origin/main
-          
-          cp /tmp/articles.json frontend/data/articles.json
-          
-          git add frontend/data/articles.json
-          git commit -m "chore: update articles.json [skip ci]"
-          git push origin main
+
+          # Retry loop to handle concurrent push conflicts
+          MAX_RETRIES=5
+          for i in $(seq 1 $MAX_RETRIES); do
+            echo "Attempt $i of $MAX_RETRIES..."
+
+            # Always fetch latest remote state
+            git fetch origin main
+
+            # Reset to latest remote main
+            git reset --hard origin/main
+
+            # Restore our generated articles.json
+            cp /tmp/articles.json frontend/data/articles.json
+
+            # Check again if there's actually a diff after reset
+            if git diff --quiet frontend/data/articles.json; then
+              echo "No new changes after fetch, skipping push"
+              exit 0
+            fi
+
+            # Stage and commit
+            git add frontend/data/articles.json
+            git commit -m "chore: update articles.json [skip ci]"
+
+            # Try to push
+            if git push origin main; then
+              echo "Successfully pushed on attempt $i"
+              exit 0
+            else
+              echo "Push failed on attempt $i, retrying in 15s..."
+              sleep 15
+            fi
+          done
+
+          echo "All $MAX_RETRIES attempts failed, giving up"
+          exit 1
 
       - name: Log pipeline summary
         if: always()
