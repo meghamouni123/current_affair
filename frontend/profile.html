@@ -153,13 +153,6 @@
     </div>
 
     <div class="card">
-      <div class="card-title">📖 Reading Performance</div>
-      <div class="cat-perf" id="catPerf">
-        <div style="color:var(--muted);font-size:.85rem">Start reading articles to see your category performance 📖</div>
-      </div>
-    </div>
-
-    <div class="card">
       <div class="card-title">📖 Reading Activity</div>
       <div style="margin-bottom:12px;font-size:.82rem;color:var(--muted)">Articles recently read: <strong id="readCount" style="color:var(--text)">0</strong></div>
       <div class="read-list" id="readList">
@@ -257,27 +250,6 @@ function init(){
     } else {
       document.getElementById("quizLineChart").innerHTML=`<div style="color:var(--muted);font-size:.82rem;padding:10px 0">Take more quizzes to see trend 📈</div>`;
     }
-  }
-
-  // Reading Performance
-  const catEl=document.getElementById("catPerf");
-  const catReads=getCatReads();
-  const catTotals={};
-  Object.values(catReads).forEach(dayObj=>{
-    Object.entries(dayObj).forEach(([cat,cnt])=>{ catTotals[cat]=(catTotals[cat]||0)+cnt; });
-  });
-  if(Object.keys(catTotals).length>0){
-    const maxReads=Math.max(...CATS_PERF_LIST.map(c=>catTotals[c.name]||0),1);
-    catEl.innerHTML=CATS_PERF_LIST.map(c=>{
-      const cnt=catTotals[c.name]||0;
-      const pct=Math.round(cnt/maxReads*100);
-      const lcolor=pct>=70?"var(--green)":pct>=40?"var(--accent)":"var(--red)";
-      return`<div class="cp-item">
-        <div class="cp-name">${c.name}</div>
-        <div class="cp-bar-wrap"><div class="cp-bar" style="width:${pct}%;background:${c.color}"></div></div>
-        <div class="cp-pct" style="color:${lcolor}">${cnt} read</div>
-      </div>`;
-    }).join("");
   }
 
   // Achievements
