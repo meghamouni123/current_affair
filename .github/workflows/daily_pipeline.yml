@@ -12,7 +12,7 @@ on:
 
 concurrency:
   group: pipeline-articles-json
-  cancel-in-progress: false
+  cancel-in-progress: true        # ✅ CHANGED: kills old run if new one starts
 
 jobs:
   run-pipeline:
@@ -77,51 +77,17 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Check if there are any changes
+          # Pull latest before doing anything           ✅ KEY FIX
+          git pull --rebase origin main
+
           if git diff --quiet frontend/data/articles.json; then
             echo "No changes to articles.json, skipping push"
             exit 0
           fi
 
-          # Save our generated file safely
-          cp frontend/data/articles.json /tmp/articles.json
-
-          # Retry loop to handle concurrent push conflicts
-          MAX_RETRIES=5
-          for i in $(seq 1 $MAX_RETRIES); do
-            echo "Attempt $i of $MAX_RETRIES..."
-
-            # Always fetch latest remote state
-            git fetch origin main
-
-            # Reset to latest remote main
-            git reset --hard origin/main
-
-            # Restore our generated articles.json
-            cp /tmp/articles.json frontend/data/articles.json
-
-            # Check again if there's actually a diff after reset
-            if git diff --quiet frontend/data/articles.json; then
-              echo "No new changes after fetch, skipping push"
-              exit 0
-            fi
-
-            # Stage and commit
-            git add frontend/data/articles.json
-            git commit -m "chore: update articles.json [skip ci]"
-
-            # Try to push
-            if git push origin main; then
-              echo "Successfully pushed on attempt $i"
-              exit 0
-            else
-              echo "Push failed on attempt $i, retrying in 15s..."
-              sleep 15
-            fi
-          done
-
-          echo "All $MAX_RETRIES attempts failed, giving up"
-          exit 1
+          git add frontend/data/articles.json
+          git commit -m "chore: update articles.json [skip ci]"
+          git push origin main
 
       - name: Log pipeline summary
         if: always()
