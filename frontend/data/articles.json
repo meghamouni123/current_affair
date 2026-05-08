@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 3721,
+      "title": "DNA decodes Agni-6: The missile that can put entire world within India`s reach",
+      "summary": "• The missile can also carry a nuclear warhead, according to the Indian government.\n• It is believed to have a range of up to 5,000 miles.\n• It has been tested in India and a handful of other countries, including the U.S. and Russia.\n• It can also be fired from a submarine or a warship.",
+      "category": "Science & Technology",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/dna-decodes-agni-6-the-missile-that-can-put-entire-world-within-indias-reach-3045540.html",
+      "relevance_score": 0.9173,
+      "published_date": "2026-05-08"
+    },
+    {
+      "id": 3717,
+      "title": "Skyroot Becomes India's 1st Space-Tech Unicorn, Raises $60 Million",
+      "summary": "• Skyroot is India's first space-tech unicorn, raising $60 million in its first two years.\n• The company is based in Bengaluru, India, but has offices across the world.\n• For confidential support on suicide matters call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/skyroot-becomes-indias-1st-space-tech-unicorn-raises-60-million-11464986#publisher=newsstand",
+      "relevance_score": 0.9011,
+      "published_date": "2026-05-08"
+    },
+    {
       "id": 3689,
       "title": "Governor should act according to the Constitution and invite TVK to form govt.: Arunraaj",
       "summary": "• Governor should actaccording to the constitution and inviteTVK toForm govt.\n• Says Ar unraaj, former chief minister of Tamil Nadu, in a letter to the Prime Minister of India.\n• The letter was signed by the Tamil Nadu Governor and his wife, and was published in the Times of India on Monday.",
@@ -11,22 +31,22 @@
       "published_date": "2026-05-07"
     },
     {
-      "id": 3678,
-      "title": "Why Congress must not repeat its Rajasthan, Madhya Pradesh, Assam mistake in Kerala",
-      "summary": "• Congress should not repeat Rajesthan,Madhya Pradesh and Assam mistakes in Kerala in the state elections.\n• Congress must be more prepared in Kerala and the state of the state.\n• The national election in the year ahead of the general election.",
-      "category": "State News",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/why-congress-must-not-repeat-its-rajasthan-madhya-pradesh-assam-mistake-in-kerala-3045362.html",
-      "relevance_score": 0.94,
-      "published_date": "2026-05-07"
-    },
-    {
       "id": 3692,
       "title": "NCRB 2024: Crime rate in Telangana higher than Maharashtra, Karnataka, Tamil Nadu",
       "summary": "• Crime rates are higher than those of Maharashtra and Karnataka.\n• Crime is also higher than the rate in Tamil Nadu and Maharashtra, the report says.\n• TelangANA has the highest crime rate in the state.",
       "category": "State News",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/telangana/ncrb-2024-crime-rate-in-telangana-higher-than-maharashtra-karnataka-tamil-nadu/article70951528.ece",
+      "relevance_score": 0.94,
+      "published_date": "2026-05-07"
+    },
+    {
+      "id": 3678,
+      "title": "Why Congress must not repeat its Rajasthan, Madhya Pradesh, Assam mistake in Kerala",
+      "summary": "• Congress should not repeat Rajesthan,Madhya Pradesh and Assam mistakes in Kerala in the state elections.\n• Congress must be more prepared in Kerala and the state of the state.\n• The national election in the year ahead of the general election.",
+      "category": "State News",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/why-congress-must-not-repeat-its-rajasthan-madhya-pradesh-assam-mistake-in-kerala-3045362.html",
       "relevance_score": 0.94,
       "published_date": "2026-05-07"
     },
@@ -51,12 +71,12 @@
       "published_date": "2026-05-07"
     },
     {
-      "id": 3683,
-      "title": "Paytm rules out NBFC licence plans after RBI cancels PPBL’s banking licence",
-      "summary": "• Paytm ruled out plans to become an NBFC after PPBL's banking licence was cancelled by the Indian central bank.\n• PPBL was the first bank to be granted a banking licence by the Reserve Bank of India (RBI) in 2008.\n• PayTM was the second bank to get a licence in the country in 2009.",
-      "category": "Economy & Banking",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/markets/paytm-rules-out-nbfc-licence-plans-after-rbi-cancels-ppbls-banking-licence/article70950200.ece",
+      "id": 3696,
+      "title": "IPL to hit Pakistan cricket with several Australian players likely to miss ODI series",
+      "summary": "• IPL is a lucrative IPL for Indian Premier League teams.\n• Pakistan are also the defending champions of the IPL.\n• Pakistan won the 2013 IPL by a margin of 10 points over India in the semi-final.\n• Pakistan also won the 2014 IPL in a landslide victory over Sri Lanka.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/cricket/australian-players-to-miss-pakistan-odi-series-for-ipl-10677800/",
       "relevance_score": 0.91,
       "published_date": "2026-05-07"
     },
@@ -71,22 +91,22 @@
       "published_date": "2026-05-07"
     },
     {
+      "id": 3683,
+      "title": "Paytm rules out NBFC licence plans after RBI cancels PPBL’s banking licence",
+      "summary": "• Paytm ruled out plans to become an NBFC after PPBL's banking licence was cancelled by the Indian central bank.\n• PPBL was the first bank to be granted a banking licence by the Reserve Bank of India (RBI) in 2008.\n• PayTM was the second bank to get a licence in the country in 2009.",
+      "category": "Economy & Banking",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/markets/paytm-rules-out-nbfc-licence-plans-after-rbi-cancels-ppbls-banking-licence/article70950200.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-07"
+    },
+    {
       "id": 3596,
       "title": "IMD warns of wild weather shift in 13 states: Delhi to heat up; UP, Bihar, Kerala, Bengal brace for severe conditions",
       "summary": "• IMD: Weather will turn from dry to wet in a matter of hours.\n• Weather could turn from rainy to dry within a few hours, it adds.\n• The IMD has issued a weather alert for 13 states, including Delhi and Mumbai.",
       "category": "State News",
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/india/imd-warns-of-wild-weather-shift-in-13-states-delhi-to-heat-up-up-bihar-kerala-bengal-brace-for-severe-conditions-11778118359670.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-07"
-    },
-    {
-      "id": 3696,
-      "title": "IPL to hit Pakistan cricket with several Australian players likely to miss ODI series",
-      "summary": "• IPL is a lucrative IPL for Indian Premier League teams.\n• Pakistan are also the defending champions of the IPL.\n• Pakistan won the 2013 IPL by a margin of 10 points over India in the semi-final.\n• Pakistan also won the 2014 IPL in a landslide victory over Sri Lanka.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/australian-players-to-miss-pakistan-odi-series-for-ipl-10677800/",
       "relevance_score": 0.91,
       "published_date": "2026-05-07"
     },
@@ -131,6 +151,16 @@
       "published_date": "2026-05-07"
     },
     {
+      "id": 3722,
+      "title": "WATCH: Shakira announces FIFA World Cup 2026 official song ‘Dai Dai’",
+      "summary": "• Shakira will perform the song at the opening ceremony of the World Cup in Brazil in 2018.\n• She will also perform at the closing ceremony in Rio de Janeiro in 2022.\n• The World Cup will be held in Brazil for the first time on home soil.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/watch-shakira-announces-fifa-world-cup-2026-official-song-dai-dai-video-waka-waka/article70952576.ece",
+      "relevance_score": 0.8969,
+      "published_date": "2026-05-07"
+    },
+    {
       "id": 3671,
       "title": "45% of all MSMEs to benefit from ECLGS 5.0: SBI Research",
       "summary": "• SBI research: 45% of MSME businesses will benefit from the ECL GS 5.\n• The scheme is set to be rolled out across the country by the end of this year.\n• It is expected to benefit MSME companies from across the globe.\n• The cost of the scheme will be based on the size of the business.",
@@ -138,6 +168,16 @@
       "source": "The Hindu - Business",
       "url": "https://www.thehindu.com/business/Industry/45-of-all-msmes-to-benefit-from-eclgs-50-sbi-research/article70948059.ece",
       "relevance_score": 0.8942,
+      "published_date": "2026-05-07"
+    },
+    {
+      "id": 3715,
+      "title": "NASA Sends Mars Helicopter Blades Beyond Mach 1",
+      "summary": "• NASA SendsMars Helicopter blades beyond Mach 1 to explore the Martian surface.\n• The mission will take off from the International Space Station and land on Mars in the 2030s.\n• It will be the first mission to the red planet since it was declared a landing site in 2006.\n• The craft will be armed with a pair of solar panels and a solar array.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/",
+      "relevance_score": 0.8912,
       "published_date": "2026-05-07"
     },
     {
@@ -178,6 +218,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/questioning-religious-practices-will-break-religion-and-civilisation-supreme-court-in-dawoodi-bohras-case/article70950389.ece",
       "relevance_score": 0.8776,
+      "published_date": "2026-05-07"
+    },
+    {
+      "id": 3713,
+      "title": "Title was the only goal: Ayush Shetty on Thomas Cup run",
+      "summary": "• Shetty won the title with a 1-0 win over Kolkata in the final.\n• He also helped his side to victory in the semi-final against Chennai City.\n• The final took place at the Maracana Stadium in New Delhi.\n• The match was won by Chennai City 2-0 in a penalty shoot-out.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/badminton/title-was-the-only-goal-ayush-shetty-on-thomas-cup-run-101778174779303.html",
+      "relevance_score": 0.8756,
       "published_date": "2026-05-07"
     },
     {
@@ -431,16 +481,6 @@
       "published_date": "2026-05-06"
     },
     {
-      "id": 3544,
-      "title": "West Bengal election results: Full list of winners",
-      "summary": "• Click here to see the full list of candidates and winners.\n• CLICK HERE to view the complete list of winning candidates and their names.\n• Click HERE to read the complete election results for West Bengal on Sunday, March 25.\n• CLICK here to read it on Monday, March 26.\n• CLICK Here to see it on Tuesday, March 27.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-2026-full-list-of-winners/article70937132.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-06"
-    },
-    {
       "id": 3525,
       "title": "Assembly election results: Wave of change rolls over three states, sweeps away two CMs, 50 ministers",
       "summary": "• Governor, lieutenant governor and lieutenant governor among those to lose their seats.\n• More than 50 ministers also lost their seats in the state's top three posts.\n• The results will be announced at a press conference later this afternoon.",
@@ -461,6 +501,26 @@
       "published_date": "2026-05-06"
     },
     {
+      "id": 3532,
+      "title": "West Bengal election results decoded: Did SIR drive BJP’s massive win? Data tells the story",
+      "summary": "• Data tells the story, says Amit Mitra, a senior BJP leader in the state.\n• Mitra: SIR was behind BJP's massive win in West Bengal.\n• SIR: I am happy with the results, but I am disappointed with the way the results were announced, says Mitra.\n• He says the results should not be interpreted as proof of SIR's involvement in the election.",
+      "category": "State News",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/west-bengal-election-results-decoded-did-sir-drive-bjp-s-massive-win-data-tells-the-story-3044958.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3544,
+      "title": "West Bengal election results: Full list of winners",
+      "summary": "• Click here to see the full list of candidates and winners.\n• CLICK HERE to view the complete list of winning candidates and their names.\n• Click HERE to read the complete election results for West Bengal on Sunday, March 25.\n• CLICK here to read it on Monday, March 26.\n• CLICK Here to see it on Tuesday, March 27.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-2026-full-list-of-winners/article70937132.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-06"
+    },
+    {
       "id": 3583,
       "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
       "summary": "• Rubio will also attend the Quad Foreign Minister’s meeting in Washington, D.C.\n• Rubio will be accompanied by his wife, Sen.\n• The trip will take place between May 20 and May 22.",
@@ -477,16 +537,6 @@
       "category": "Economy & Banking",
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-sets-rs-20000-crore-threshold-for-significant-indices-sensex-nifty-among-benchmarks-covered/articleshow/130852653.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3532,
-      "title": "West Bengal election results decoded: Did SIR drive BJP’s massive win? Data tells the story",
-      "summary": "• Data tells the story, says Amit Mitra, a senior BJP leader in the state.\n• Mitra: SIR was behind BJP's massive win in West Bengal.\n• SIR: I am happy with the results, but I am disappointed with the way the results were announced, says Mitra.\n• He says the results should not be interpreted as proof of SIR's involvement in the election.",
-      "category": "State News",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/west-bengal-election-results-decoded-did-sir-drive-bjp-s-massive-win-data-tells-the-story-3044958.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-06"
     },
@@ -831,16 +881,6 @@
       "published_date": "2026-05-05"
     },
     {
-      "id": 3414,
-      "title": "Assembly Elections 2026: BJP leads West Bengal, TVK storms Tamil Nadu, UDF returns in Kerala",
-      "summary": "• Assembly elections in Kerala to be held in 2026, says Kerala United Democratic Party (Kerala UDF) chief.\n• Kerala UDF has been in power for more than 30 years, but has never won an assembly seat.\n• Kerala has been ruled by the UDF since the late 1980s.",
-      "category": "State News",
-      "source": "Frontline Magazine",
-      "url": "https://frontline.thehindu.com/the-nation/assembly-results-bjp-vijay-udf-surge/article70937836.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-05"
-    },
-    {
       "id": 3661,
       "title": "IMF World Economic Outlook Projects India GDP at 6.8 Percent",
       "summary": "• The IMF's World Economic Outlook projected India's GDP growth at 6.8% for 2026-27.\n• India remains the fastest-growing major economy globally according to the report.\n• Strong domestic consumption and infrastructure investment were cited as key drivers.\n• Global growth was projected at 3.2% amid geopolitical uncertainties.\n• The report flagged inflation and debt levels as risks for emerging markets.\n• India's current account deficit is expected to remain manageable at 1.4% of GDP.",
@@ -851,22 +891,32 @@
       "published_date": "2026-05-05"
     },
     {
-      "id": 3516,
-      "title": "Salman Khurshid backs Mamata Banerjee, raises questions over Bengal, Assam election results - 'we felt that too'",
-      "summary": "• He says 'we felt that too' and that the results were 'unfavourable' for the ruling Trinamool Congress party.\n• He adds: 'We felt it was not fair to the people of Bengal and Assam.\n• It was a setback for the party and for the state'.",
-      "category": "State News",
-      "source": "LiveMint - Politics",
-      "url": "https://www.livemint.com/politics/news/salman-khurshid-backs-mamata-banerjee-raises-questions-over-bengal-assam-election-results-we-felt-that-too-cm-tmc-11777993435990.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-05"
-    },
-    {
       "id": 3503,
       "title": "West Bengal Election Results: Mamata Banerjee among 22 ministers who lost in TMC debacle. Full list here",
       "summary": "• West Bengal Election results: West Bengal election Results: All 22 ministers lost their seats in the TMC's debacle.\n• Mamata was one of the 22 ministers to lose their seats.\n• She was replaced by Kunal Ghosh, who lost his seat in the state assembly elections.",
       "category": "State News",
       "source": "LiveMint - Politics",
       "url": "https://www.livemint.com/politics/news/west-bengal-election-results-mamata-banerjee-among-22-ministers-who-lost-in-tmc-debacle-11777969507892.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3414,
+      "title": "Assembly Elections 2026: BJP leads West Bengal, TVK storms Tamil Nadu, UDF returns in Kerala",
+      "summary": "• Assembly elections in Kerala to be held in 2026, says Kerala United Democratic Party (Kerala UDF) chief.\n• Kerala UDF has been in power for more than 30 years, but has never won an assembly seat.\n• Kerala has been ruled by the UDF since the late 1980s.",
+      "category": "State News",
+      "source": "Frontline Magazine",
+      "url": "https://frontline.thehindu.com/the-nation/assembly-results-bjp-vijay-udf-surge/article70937836.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3516,
+      "title": "Salman Khurshid backs Mamata Banerjee, raises questions over Bengal, Assam election results - 'we felt that too'",
+      "summary": "• He says 'we felt that too' and that the results were 'unfavourable' for the ruling Trinamool Congress party.\n• He adds: 'We felt it was not fair to the people of Bengal and Assam.\n• It was a setback for the party and for the state'.",
+      "category": "State News",
+      "source": "LiveMint - Politics",
+      "url": "https://www.livemint.com/politics/news/salman-khurshid-backs-mamata-banerjee-raises-questions-over-bengal-assam-election-results-we-felt-that-too-cm-tmc-11777993435990.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-05"
     },
@@ -901,22 +951,22 @@
       "published_date": "2026-05-05"
     },
     {
-      "id": 3486,
-      "title": "Skeet shooters miss out on final spots in ISSF World Cup Shotgun",
-      "summary": "• Shooters fail to qualify for final four spots in the ISSF Shotgun World Cup.\n• The final four places will be decided at a later stage of the competition.\n• Click here for more information on the ISSF World Cup in Shotgun event in South Africa in May and June.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/others/skeet-shooters-miss-out-on-final-spots-in-issf-world-cup-shotgun-101777981156384.html",
-      "relevance_score": 0.8909,
-      "published_date": "2026-05-05"
-    },
-    {
       "id": 3521,
       "title": "Skeet shooters miss out on final spots in ISSF World Cup Shotgun",
       "summary": "• Shooters fail to qualify for final four spots in the ISSF Shotgun World Cup.\n• The final four places will be decided at a later stage of the competition.\n• Click here for more information on the ISSF World Cup in Shotgun event in South Africa in May and June.",
       "category": "Sports",
       "source": "The Hindu - Sport",
       "url": "https://www.thehindu.com/sport/other-sports/skeet-shooters-miss-out-on-final-spots-in-issf-world-cup-shotgun/article70944756.ece",
+      "relevance_score": 0.8909,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3486,
+      "title": "Skeet shooters miss out on final spots in ISSF World Cup Shotgun",
+      "summary": "• Shooters fail to qualify for final four spots in the ISSF Shotgun World Cup.\n• The final four places will be decided at a later stage of the competition.\n• Click here for more information on the ISSF World Cup in Shotgun event in South Africa in May and June.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/skeet-shooters-miss-out-on-final-spots-in-issf-world-cup-shotgun-101777981156384.html",
       "relevance_score": 0.8909,
       "published_date": "2026-05-05"
     },
@@ -1121,16 +1171,6 @@
       "published_date": "2026-05-04"
     },
     {
-      "id": 3469,
-      "title": "West Bengal Assembly Election Results 2026 Winners: BJP wins 207 seats, TMC 80 – Check Constituency-Wise, Party-Wise Full List",
-      "summary": "• West Bengal Assembly election results 2026: BJP won 207 seats.\n• TMC won 80 seats, BJP won 78 seats.\n• Click here to see the full list of seats.",
-      "category": "State News",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/west-bengal-assembly-election-results-2026-winners-constituency-wise-seat-wise-full-list-10665665/",
-      "relevance_score": 0.95,
-      "published_date": "2026-05-04"
-    },
-    {
       "id": 3470,
       "title": "Election Commission of India Assembly Election Results 2026: How to check Assam, Kerala, Tamil Nadu, Bengal results on eci.gov.in",
       "summary": "• Eci.Gov.in is the official website of the Election Commission of the India.\n• The results will be available on the website for 24 hours after the results are announced.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
@@ -1147,6 +1187,16 @@
       "category": "State News",
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-winners-list-constituency-wise-seat-wise-10664508/",
+      "relevance_score": 0.95,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3469,
+      "title": "West Bengal Assembly Election Results 2026 Winners: BJP wins 207 seats, TMC 80 – Check Constituency-Wise, Party-Wise Full List",
+      "summary": "• West Bengal Assembly election results 2026: BJP won 207 seats.\n• TMC won 80 seats, BJP won 78 seats.\n• Click here to see the full list of seats.",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/west-bengal-assembly-election-results-2026-winners-constituency-wise-seat-wise-full-list-10665665/",
       "relevance_score": 0.95,
       "published_date": "2026-05-04"
     },
@@ -1171,22 +1221,22 @@
       "published_date": "2026-05-04"
     },
     {
-      "id": 3465,
-      "title": "Tamil Nadu election results: Vijay’s TVK takes early lead in over 100 seats",
-      "summary": "• Vijay's TVK has a lead of more than 100 seats in the Tamil Nadu assembly.\n• Vijayan's party has a majority of over 100 out of the state's total assembly seats.\n• The results will be announced at 8.30pm on Thursday.\n• The election will be held on February 14 and 15.",
-      "category": "State News",
-      "source": "The Hindu - Tamil Nadu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijays-tvk-disrupts-dravidian-bipolar-politics-takes-early-lead-in-over-100-seats/article70937564.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-04"
-    },
-    {
       "id": 3416,
       "title": "Nepal Cabinet resends constitutional council ordinance to President",
       "summary": "• Nepalese Cabinet res sends constitutional council Ordinance to President for approval.\n• President will sign the ordinance into law on Monday.\n• The ordinance will govern the country's constitution and power of the president.\n• The Cabinet will also decide on the constitution of the new parliament.",
       "category": "Polity & Governance",
       "source": "Indian Express - World",
       "url": "https://indianexpress.com/article/world/nepal-cabinet-resends-constitutional-council-ordinance-to-president-10673053/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3465,
+      "title": "Tamil Nadu election results: Vijay’s TVK takes early lead in over 100 seats",
+      "summary": "• Vijay's TVK has a lead of more than 100 seats in the Tamil Nadu assembly.\n• Vijayan's party has a majority of over 100 out of the state's total assembly seats.\n• The results will be announced at 8.30pm on Thursday.\n• The election will be held on February 14 and 15.",
+      "category": "State News",
+      "source": "The Hindu - Tamil Nadu",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijays-tvk-disrupts-dravidian-bipolar-politics-takes-early-lead-in-over-100-seats/article70937564.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-04"
     },
@@ -1331,16 +1381,6 @@
       "published_date": "2026-05-03"
     },
     {
-      "id": 3472,
-      "title": "ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win",
-      "summary": "• Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win.\n• ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks Modi, Gandhi for their greetings.\n• EICL declares TVK as winners of Tamil Nadu Assembly Election 2026.\n• Tamil Nadu to go to the polls in 2026 for first time in 50 years.\n• Election to be held on November 7, 25, 28, 28 and 29.",
-      "category": "Polity & Governance",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-tvk-10665171/",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-03"
-    },
-    {
       "id": 3476,
       "title": "TN Assembly Election Results 2026: Vijay’s TVK record historic win, gains over 100 seats",
       "summary": "• Vijay's TVK wins record-breaking 100 seats in the state's first ever general election.\n• Tamil Nadu will hold its first general election in 2026.\n• The results will be announced on November 25.\n• The result will be declared on November 26.\n• The election will be held on the same day as the general elections.",
@@ -1367,6 +1407,16 @@
       "category": "State News",
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/kerala-assembly-election-results-2026-live-updates-ldf-vs-udf-pinarayi-vijayan-vd-satheesan-2-10667096/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 3472,
+      "title": "ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win",
+      "summary": "• Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win.\n• ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks Modi, Gandhi for their greetings.\n• EICL declares TVK as winners of Tamil Nadu Assembly Election 2026.\n• Tamil Nadu to go to the polls in 2026 for first time in 50 years.\n• Election to be held on November 7, 25, 28, 28 and 29.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-tvk-10665171/",
       "relevance_score": 0.91,
       "published_date": "2026-05-03"
     },
@@ -1771,22 +1821,22 @@
       "published_date": "2026-04-30"
     },
     {
-      "id": 1425,
-      "title": "Why May 1 Is Celebrated As Maharashtra Day And Gujarat Day? History, Significance, And Wishes to Share",
-      "summary": "• Maharashtra Day and Gujarat Day are celebrated every year on May 1 to mark the formation of the two states.\n• The date also coincides with International Labour Day.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/lifestyle/events/why-may-1-is-celebrated-as-maharashtra-day-and-gujarat-day-history-significance-and-wishes-to-share-ws-kl-9314594.html",
-      "relevance_score": 0.9169,
-      "published_date": "2026-04-30"
-    },
-    {
       "id": 1429,
       "title": "Why May 1 Is Celebrated As Maharashtra Day And Gujarat Day? History, Significance, And Wishes to Share",
       "summary": "• Maharashtra Day and Gujarat Day are celebrated every year on May 1 to mark the formation of the two states.\n• The date also coincides with International Labour Day.",
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/lifestyle/why-may-1-is-celebrated-as-maharashtra-day-and-gujarat-day-history-significance-and-wishes-to-share-9314594.html",
+      "relevance_score": 0.9169,
+      "published_date": "2026-04-30"
+    },
+    {
+      "id": 1425,
+      "title": "Why May 1 Is Celebrated As Maharashtra Day And Gujarat Day? History, Significance, And Wishes to Share",
+      "summary": "• Maharashtra Day and Gujarat Day are celebrated every year on May 1 to mark the formation of the two states.\n• The date also coincides with International Labour Day.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/lifestyle/events/why-may-1-is-celebrated-as-maharashtra-day-and-gujarat-day-history-significance-and-wishes-to-share-ws-kl-9314594.html",
       "relevance_score": 0.9169,
       "published_date": "2026-04-30"
     },
@@ -2021,22 +2071,22 @@
       "published_date": "2026-04-29"
     },
     {
-      "id": 1477,
-      "title": "FIFA makes rarest exception to let Afghan women’s refugee team play as official national side without Taliban approval",
-      "summary": "• FIFA has approved a landmark rule change allowing the Afghan women’s team, now competing as Afghan Women United, to return to international football despite being in exile since the Taliban takeover in 2021.\n• The decision removes the need for approval from Afghanistan’s ruling federation, restoring their pathway to competition and marking a major step for displaced athletes in global sport.",
-      "category": "Sports",
-      "source": "Times of India - World",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/fifa-makes-rarest-exception-to-let-afghan-womens-refugee-team-play-as-official-national-side-without-taliban-approval/articleshow/130603956.cms",
-      "relevance_score": 0.8687,
-      "published_date": "2026-04-29"
-    },
-    {
       "id": 1485,
       "title": "National medical commission removes cap on MBBS seats, eases population norm",
       "summary": "• These policy shifts aim to increase medical education capacity to meet rising demand.\n• Additionally, the distance norm for teaching hospitals has been revised to 10 km, with a relaxed limit for specific regions.",
       "category": "Science & Technology",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/nmc-removes-cap-on-mbbs-seats-eases-population-norm/articleshow/130596033.cms",
+      "relevance_score": 0.8687,
+      "published_date": "2026-04-29"
+    },
+    {
+      "id": 1477,
+      "title": "FIFA makes rarest exception to let Afghan women’s refugee team play as official national side without Taliban approval",
+      "summary": "• FIFA has approved a landmark rule change allowing the Afghan women’s team, now competing as Afghan Women United, to return to international football despite being in exile since the Taliban takeover in 2021.\n• The decision removes the need for approval from Afghanistan’s ruling federation, restoring their pathway to competition and marking a major step for displaced athletes in global sport.",
+      "category": "Sports",
+      "source": "Times of India - World",
+      "url": "https://timesofindia.indiatimes.com/sports/international-sports/fifa-makes-rarest-exception-to-let-afghan-womens-refugee-team-play-as-official-national-side-without-taliban-approval/articleshow/130603956.cms",
       "relevance_score": 0.8687,
       "published_date": "2026-04-29"
     },
@@ -3861,22 +3911,22 @@
       "published_date": "2026-04-18"
     },
     {
-      "id": 1272,
-      "title": "PM Modi`s address at 8:30 pm: Will he announce a new plan for Women`s quota bill? Know more",
-      "summary": "• Prime Minister Narendra Modi is set to address the nation at 8:30 pm tonight.\n• It is expected that the Prime Minister will speak on the issue of the Women's Reservation Bill, which failed to pass in Parliament after the opposition blocked it.",
-      "category": "Polity & Governance",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/pm-modis-address-at-830-pm-will-he-announce-a-new-plan-for-womens-quota-bill-know-more-3038731.html",
-      "relevance_score": 0.9998,
-      "published_date": "2026-04-18"
-    },
-    {
       "id": 1283,
       "title": "Why Motilal Oswal’s BFSI fund is betting big on capital market ecosystem: Prateek Agarwal of Motilal Oswal AMC",
       "summary": "• Prateek Agarwal of Motilal Oswal AMC highlights a shift in financial sector growth from traditional banking to capital markets like AMCs, brokers, and exchanges.\n• He discusses how recent trade deals with the US and EU boost India's manufacturing and investment appeal, potentially reversing FII outflows and strengthening the rupee.",
       "category": "Economy & Banking",
       "source": "Economic Times - Top",
       "url": "https://economictimes.indiatimes.com/markets/expert-view/why-motilal-oswals-bfsi-fund-is-betting-big-on-capital-market-ecosystem-prateek-agarwal-of-motilal-oswal-amc/articleshow/130347563.cms",
+      "relevance_score": 0.9998,
+      "published_date": "2026-04-18"
+    },
+    {
+      "id": 1272,
+      "title": "PM Modi`s address at 8:30 pm: Will he announce a new plan for Women`s quota bill? Know more",
+      "summary": "• Prime Minister Narendra Modi is set to address the nation at 8:30 pm tonight.\n• It is expected that the Prime Minister will speak on the issue of the Women's Reservation Bill, which failed to pass in Parliament after the opposition blocked it.",
+      "category": "Polity & Governance",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/pm-modis-address-at-830-pm-will-he-announce-a-new-plan-for-womens-quota-bill-know-more-3038731.html",
       "relevance_score": 0.9998,
       "published_date": "2026-04-18"
     },
@@ -4121,22 +4171,22 @@
       "published_date": "2026-04-17"
     },
     {
-      "id": 1300,
-      "title": "NASA Artemis II Human Research Data Methodology Challenge",
-      "summary": "• NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space.\n• In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to….",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
-      "relevance_score": 0.9985,
-      "published_date": "2026-04-17"
-    },
-    {
       "id": 1330,
       "title": "\"Will defeat Delimitation Bill in Lok Sabha\": Congress President Mallikarjun Kharge",
       "summary": "• Opposition parties fear the delimitation process, based on the 2011 census, will reduce southern states' representation and \"demolish\" opposition parties.\n• They question the bundling of these bills with women's reservation.",
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/will-defeat-delimitation-bill-in-lok-sabha-congress-president-mallikarjun-kharge/articleshow/130328189.cms",
+      "relevance_score": 0.9985,
+      "published_date": "2026-04-17"
+    },
+    {
+      "id": 1300,
+      "title": "NASA Artemis II Human Research Data Methodology Challenge",
+      "summary": "• NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space.\n• In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to….",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
       "relevance_score": 0.9985,
       "published_date": "2026-04-17"
     },
@@ -8541,21 +8591,21 @@
       "published_date": "2026-03-24"
     },
     {
-      "id": 2287,
-      "title": "India GDP growth rate projected at 6.8% for FY 2026-27 by IMF",
-      "summary": "• India remains the world fastest growing major economy for third consecutive year.\n• Services sector contributes 55% to GDP while manufacturing stands at 28%.\n• Private consumption growth is at 7.2% and government capex at Rs 11.21 lakh crore.\n• Global growth is projected at 3.3% by IMF in World Economic Outlook 2026.\n• India is ranked fastest growing among all G20 nations by IMF.",
-      "category": "Economy & Banking",
-      "source": "IMF World Economic Outlook",
-      "url": null,
-      "relevance_score": 0.97,
-      "published_date": "2026-03-24"
-    },
-    {
       "id": 2283,
       "title": "DRDO successfully tests Agni-VI ICBM with range over 10,000 km",
       "summary": "• MIRV technology enabled meaning Multiple Independently Targetable Re-entry Vehicles can be carried.\n• Test conducted from Dr APJ Abdul Kalam Island also known as Wheeler Island in Odisha.\n• India joins elite ICBM nations: USA, Russia, China, UK, and France.\n• Range exceeds 10,000 km making any global target reachable.\n• Defence Minister and PM congratulated DRDO scientists on the historic achievement.",
       "category": "Science & Technology",
       "source": "DRDO / Ministry of Defence",
+      "url": null,
+      "relevance_score": 0.97,
+      "published_date": "2026-03-24"
+    },
+    {
+      "id": 2287,
+      "title": "India GDP growth rate projected at 6.8% for FY 2026-27 by IMF",
+      "summary": "• India remains the world fastest growing major economy for third consecutive year.\n• Services sector contributes 55% to GDP while manufacturing stands at 28%.\n• Private consumption growth is at 7.2% and government capex at Rs 11.21 lakh crore.\n• Global growth is projected at 3.3% by IMF in World Economic Outlook 2026.\n• India is ranked fastest growing among all G20 nations by IMF.",
+      "category": "Economy & Banking",
+      "source": "IMF World Economic Outlook",
       "url": null,
       "relevance_score": 0.97,
       "published_date": "2026-03-24"
@@ -9061,6 +9111,6 @@
       "published_date": "2008-10-01"
     }
   ],
-  "count": 906,
-  "updated_at": "2026-05-07T17:46:36.157140Z"
+  "count": 911,
+  "updated_at": "2026-05-08T03:22:00.419248Z"
 }
