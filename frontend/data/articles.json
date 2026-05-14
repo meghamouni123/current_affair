@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": 3972,
+      "title": "Pharma, NBFCs see fresh mutual fund buying in April",
+      "summary": "• In April, mutual fund investors bought $1.2 billion in mutual funds.\n• In February, they were buying $1 billion in $2 billion mutual funds in $3 billion chunks.\n• In May, they will buy $1billion in $4 billion chunks of $5 billion and $6 billion.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/pharma-nbfcs-see-fresh-mutual-fund-buying-in-april/articleshow/131079880.cms",
+      "relevance_score": 0.8906,
+      "published_date": "2026-05-14"
+    },
+    {
+      "id": 3970,
+      "title": "S Jaishankar, Russia's Lavrov Hold Talks Ahead Of BRICS Meet",
+      "summary": "• Jaishankaar, Lavrov hold talks ahead of BRICS meet in Brazil.\n• Jaishesankar and Lavrov will also meet in New York on Thursday.\n• Jaisankar: BRICS meeting will be \"constructive\" and will focus on economic, security, environment, energy, climate change, among others.",
+      "category": "International Relations",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/s-jaishankar-russias-sergey-lavrov-hold-talks-ahead-of-brics-meet-11492164#publisher=newsstand",
+      "relevance_score": 0.8317,
+      "published_date": "2026-05-14"
+    },
+    {
+      "id": 3963,
+      "title": "Russia to fulfil all agreements on energy supply to India: FM Lavrov",
+      "summary": "• Russia has been supplying energy to India since the 1980s and 1990s.\n• The two countries have signed a number of energy deals over the years.\n• Russia says it will continue to do so in the future as long as it is in the right interests of the country and its people.\n• Click here to read the full interview with Lavrov.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/international/russia-to-fulfil-all-agreements-on-energy-supply-to-india-fm-lavrov/article70976782.ece",
+      "relevance_score": 0.8295,
+      "published_date": "2026-05-14"
+    },
+    {
+      "id": 3964,
+      "title": "How Supreme Court endorsed the right to be taught in one’s mother tongue",
+      "summary": "• How Supreme Court ended the debate over whether it was OK to teach children in their mother tongue in the U.S. or in their native tongues.\n• How the court said it was okay to teach in the mother tongue of a child.\n• How it said it would be OK for a child to learn in his or her mother's language.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - Explained",
+      "url": "https://indianexpress.com/article/explained/explained-law/supreme-court-rajasthani-language-education-policy-mother-tongue-10687921/",
+      "relevance_score": 0.819,
+      "published_date": "2026-05-14"
+    },
+    {
+      "id": 3966,
+      "title": "Lavrov meets EAM ahead of Brics meet, discusses India-Russia ties",
+      "summary": "• EAM: We are ready to work with Russia on a range of issues.\n• India: We have a long-standing friendship with Russia.\n• Russia: We will work with India on a number of issues, including energy and climate change, among others.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/lavrov-meets-eam-ahead-of-brics-meet-discusses-india-russia-ties/articleshow/131079850.cms",
+      "relevance_score": 0.8179,
+      "published_date": "2026-05-14"
+    },
+    {
+      "id": 3965,
+      "title": "10 days after assembly election results, Congress may reveal Kerala chief minister pick today",
+      "summary": "• Congress may choose its candidate to be the next chief minister of the state.\n• Kerala assembly elections were held 10 days ago.\n• The results were announced 10 days after the general election results were declared on May 25.\n• The Congress won a majority of seats in the state's assembly elections.\n• The next election will be held on May 26.",
+      "category": "State News",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/ten-days-after-results-congress-may-finally-name-cm-for-kerala-101778700999740.html",
+      "relevance_score": 0.95,
+      "published_date": "2026-05-13"
+    },
+    {
       "id": 3926,
       "title": "Silicon Road Ventures, Ajay Mahajan launch Rs 150-crore AI-focused startup fund",
       "summary": "• The fund will invest in Indian startups with a focus on AI and machine learning.\n• Silicon Road Ventures will also invest in start-ups from India and abroad.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
@@ -18,6 +78,16 @@
       "source": "Indian Express - Technology",
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/what-is-gemini-intelligence-ai-agents-android-10687347/",
       "relevance_score": 0.9177,
+      "published_date": "2026-05-13"
+    },
+    {
+      "id": 3967,
+      "title": "Russia and the China-US Summit",
+      "summary": "• Putin and Obama meet for the first time since the 9/11 terrorist attacks in the United States.\n• The summit will take place in Beijing, China on Friday and Saturday.\n• Russia is expected to play a key role in the talks.\n• Security Council is also expected to take part.",
+      "category": "International Relations",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/05/russia-and-the-china-us-summit/",
+      "relevance_score": 0.9106,
       "published_date": "2026-05-13"
     },
     {
@@ -231,16 +301,6 @@
       "published_date": "2026-05-13"
     },
     {
-      "id": 3933,
-      "title": "Preliminary squad of Brazil for FIFA World Cup 2026 — Why was Neymar selected? Ancelotti reveals",
-      "summary": "• Ancelotti reveals why he picked the Barcelona star.\n• Brazil will host the World Cup for the first time in 2026.\n• The tournament will be held in Rio de Janeiro, Sao Paulo, Salvador, Fortaleza and Manaus.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/brazil-preliminary-squad-fifa-world-cup-2026-why-neymar-selected-coach-carlo-ancelotti-interview/article70972490.ece",
-      "relevance_score": 0.8165,
-      "published_date": "2026-05-13"
-    },
-    {
       "id": 3931,
       "title": "Asia’s age of barriers",
       "summary": "• Asia’s age of barriers is coming to an end, according to a new report.\n• The report was compiled by the World Economic Forum and the Asian Development Bank.\n• It was based on a survey of more than 1,000 people in the region.\n• It also looked at the role of technology and business in the Asian region.\n• The study was published in the journal of the Asian Economic Forum (ADF).",
@@ -251,13 +311,13 @@
       "published_date": "2026-05-13"
     },
     {
-      "id": 3943,
-      "title": "India should have stepped into vacuum left by U.S. as guarantor of security in West Asia: Talmiz Ahmad",
-      "summary": "• Ahmad: India should have taken over role of U.N.\n• Security Council member in charge of Middle East peacekeeping operations.\n• He says India should also have taken charge of the UN Security Council mission in Iraq, which is currently being led by the United Arab Emirates.",
-      "category": "International Relations",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/chennai/india-should-have-stepped-into-vacuum-left-by-us-as-guarantor-of-security-in-west-asia-talmiz-ahmad/article70973440.ece",
-      "relevance_score": 0.81,
+      "id": 3933,
+      "title": "Preliminary squad of Brazil for FIFA World Cup 2026 — Why was Neymar selected? Ancelotti reveals",
+      "summary": "• Ancelotti reveals why he picked the Barcelona star.\n• Brazil will host the World Cup for the first time in 2026.\n• The tournament will be held in Rio de Janeiro, Sao Paulo, Salvador, Fortaleza and Manaus.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/brazil-preliminary-squad-fifa-world-cup-2026-why-neymar-selected-coach-carlo-ancelotti-interview/article70972490.ece",
+      "relevance_score": 0.8165,
       "published_date": "2026-05-13"
     },
     {
@@ -267,6 +327,16 @@
       "category": "Science & Technology",
       "source": "Zee News - India",
       "url": "https://zeenews.india.com/india/india-innovation-day-leading-innovators-investors-set-to-participate-in-tie-delhix-ncr-3047179.html",
+      "relevance_score": 0.81,
+      "published_date": "2026-05-13"
+    },
+    {
+      "id": 3943,
+      "title": "India should have stepped into vacuum left by U.S. as guarantor of security in West Asia: Talmiz Ahmad",
+      "summary": "• Ahmad: India should have taken over role of U.N.\n• Security Council member in charge of Middle East peacekeeping operations.\n• He says India should also have taken charge of the UN Security Council mission in Iraq, which is currently being led by the United Arab Emirates.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/chennai/india-should-have-stepped-into-vacuum-left-by-us-as-guarantor-of-security-in-west-asia-talmiz-ahmad/article70973440.ece",
       "relevance_score": 0.81,
       "published_date": "2026-05-13"
     },
@@ -661,22 +731,22 @@
       "published_date": "2026-05-11"
     },
     {
-      "id": 3861,
-      "title": "Advanced nuclear systems vital for India’s sustainable energy future, says expert",
-      "summary": "• India has been developing advanced nuclear systems since the 1950s.\n• The country has a nuclear arsenal of more than 1,000 nuclear reactors.\n• It is also developing a range of other types of nuclear power plants, including an advanced reprocessing facility and a new nuclear power plant in the state of Jodhpur in Rajasthan.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/advanced-nuclear-systems-vital-for-indias-sustainable-energy-future-says-expert/article70966872.ece",
-      "relevance_score": 0.879,
-      "published_date": "2026-05-11"
-    },
-    {
       "id": 3857,
       "title": "US diplomat discusses ‘regional situation’ with Pak dy PM",
       "summary": "• U.S. ambassador to Pakistan: ‘It’s not a good time for us to be in Pakistan.’ U.N.\n• Secretary-General Ban Ki-moon visited Pakistan last week and met with Prime Minister Nawaz Sharif.\n• Pakistan has been at odds with the United States over its nuclear weapons program.",
       "category": "International Relations",
       "source": "Hindustan Times - World",
       "url": "https://www.hindustantimes.com/world-news/us-news/us-diplomat-discusses-regional-situation-with-pak-dy-pm-101778501457859.html",
+      "relevance_score": 0.879,
+      "published_date": "2026-05-11"
+    },
+    {
+      "id": 3861,
+      "title": "Advanced nuclear systems vital for India’s sustainable energy future, says expert",
+      "summary": "• India has been developing advanced nuclear systems since the 1950s.\n• The country has a nuclear arsenal of more than 1,000 nuclear reactors.\n• It is also developing a range of other types of nuclear power plants, including an advanced reprocessing facility and a new nuclear power plant in the state of Jodhpur in Rajasthan.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/advanced-nuclear-systems-vital-for-indias-sustainable-energy-future-says-expert/article70966872.ece",
       "relevance_score": 0.879,
       "published_date": "2026-05-11"
     },
@@ -1221,12 +1291,12 @@
       "published_date": "2026-05-08"
     },
     {
-      "id": 3758,
-      "title": "SC/ST representation beyond reserved seats still remains limited, show T.N. Assembly election results",
-      "summary": "• SC/ST represented more than 50% of the seats in the Assembly in the last election.\n• The majority of seats were reserved for SC/ STs, with the rest held by other political parties.\n• The seats were elected by a majority of more than half of the votes cast in the previous election.",
-      "category": "Polity & Governance",
+      "id": 3757,
+      "title": "Punjab worse than West Bengal under AAP rule, says Haryana CM Saini",
+      "summary": "• Punjab is worst state in India under Kejriwal's rule, he says.\n• Punjab worse than Bengal under Kejriwal, says Punjab chief minister.\n• Punjab has been ruled by AAP since January 1, 2014.",
+      "category": "State News",
       "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/scst-representation-beyond-reserved-seats-still-remains-limited-show-tn-assembly-election-results/article70956416.ece",
+      "url": "https://www.thehindu.com/news/national/haryana/aap-has-made-situation-in-punjab-worse-than-what-it-was-in-west-bengal-says-haryana-cm-nayab-singh-saini/article70954822.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-08"
     },
@@ -1237,16 +1307,6 @@
       "category": "Polity & Governance",
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/tamil-nadu-government-formation-live-updates-c-joseph-vijay-tvk-majority-mark-congress-governor-arlekar-election-results-101778201092486.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-08"
-    },
-    {
-      "id": 3757,
-      "title": "Punjab worse than West Bengal under AAP rule, says Haryana CM Saini",
-      "summary": "• Punjab is worst state in India under Kejriwal's rule, he says.\n• Punjab worse than Bengal under Kejriwal, says Punjab chief minister.\n• Punjab has been ruled by AAP since January 1, 2014.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/haryana/aap-has-made-situation-in-punjab-worse-than-what-it-was-in-west-bengal-says-haryana-cm-nayab-singh-saini/article70954822.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-08"
     },
@@ -1267,6 +1327,16 @@
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-tickets-for-wc-final-triples-to-31-lakh-rupees-ticket-details-in-usd-inr/article70953801.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-08"
+    },
+    {
+      "id": 3758,
+      "title": "SC/ST representation beyond reserved seats still remains limited, show T.N. Assembly election results",
+      "summary": "• SC/ST represented more than 50% of the seats in the Assembly in the last election.\n• The majority of seats were reserved for SC/ STs, with the rest held by other political parties.\n• The seats were elected by a majority of more than half of the votes cast in the previous election.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/scst-representation-beyond-reserved-seats-still-remains-limited-show-tn-assembly-election-results/article70956416.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-08"
     },
@@ -1511,16 +1581,6 @@
       "published_date": "2026-05-07"
     },
     {
-      "id": 3703,
-      "title": "Floor Test Or Governor’s Call? How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse",
-      "summary": "• How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse.\n• Tamil Nadu impasse is a result of a Supreme Court ruling on the validity of the state's floor test.\n• The court ruled that the floor test should be used to determine the legitimacy of Tamil Nadu's political system.\n• The verdict was upheld by the Supreme Court on Tuesday.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/floor-test-or-governors-call-how-past-cases-from-goa-to-karnataka-frame-tamil-nadu-impasse-10079397.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-07"
-    },
-    {
       "id": 3596,
       "title": "IMD warns of wild weather shift in 13 states: Delhi to heat up; UP, Bihar, Kerala, Bengal brace for severe conditions",
       "summary": "• IMD: Weather will turn from dry to wet in a matter of hours.\n• Weather could turn from rainy to dry within a few hours, it adds.\n• The IMD has issued a weather alert for 13 states, including Delhi and Mumbai.",
@@ -1537,6 +1597,16 @@
       "category": "Sports",
       "source": "Indian Express - Sports",
       "url": "https://indianexpress.com/article/sports/cricket/australian-players-to-miss-pakistan-odi-series-for-ipl-10677800/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-07"
+    },
+    {
+      "id": 3703,
+      "title": "Floor Test Or Governor’s Call? How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse",
+      "summary": "• How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse.\n• Tamil Nadu impasse is a result of a Supreme Court ruling on the validity of the state's floor test.\n• The court ruled that the floor test should be used to determine the legitimacy of Tamil Nadu's political system.\n• The verdict was upheld by the Supreme Court on Tuesday.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/floor-test-or-governors-call-how-past-cases-from-goa-to-karnataka-frame-tamil-nadu-impasse-10079397.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-07"
     },
@@ -1931,12 +2001,32 @@
       "published_date": "2026-05-06"
     },
     {
+      "id": 3544,
+      "title": "West Bengal election results: Full list of winners",
+      "summary": "• Click here to see the full list of candidates and winners.\n• CLICK HERE to view the complete list of winning candidates and their names.\n• Click HERE to read the complete election results for West Bengal on Sunday, March 25.\n• CLICK here to read it on Monday, March 26.\n• CLICK Here to see it on Tuesday, March 27.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-2026-full-list-of-winners/article70937132.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-06"
+    },
+    {
       "id": 3525,
       "title": "Assembly election results: Wave of change rolls over three states, sweeps away two CMs, 50 ministers",
       "summary": "• Governor, lieutenant governor and lieutenant governor among those to lose their seats.\n• More than 50 ministers also lost their seats in the state's top three posts.\n• The results will be announced at a press conference later this afternoon.",
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/wave-of-change-rolls-over-three-states-sweeps-away-two-cms-50-ministers/articleshow/130841651.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3560,
+      "title": "Sebi sets Rs 20,000 crore threshold for ‘significant indices’; Sensex, Nifty among benchmarks covered",
+      "summary": "• Sensex and Nifty were among the key benchmarks covered by Sebi on Monday.\n• Sebi has set a threshold for 'significant indices' to be included in benchmark indices.\n• The threshold has been set at Rs20,000 for the first time.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-sets-rs-20000-crore-threshold-for-significant-indices-sensex-nifty-among-benchmarks-covered/articleshow/130852653.cms",
       "relevance_score": 0.91,
       "published_date": "2026-05-06"
     },
@@ -1957,26 +2047,6 @@
       "category": "State News",
       "source": "Zee News - India",
       "url": "https://zeenews.india.com/india/west-bengal-election-results-decoded-did-sir-drive-bjp-s-massive-win-data-tells-the-story-3044958.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3560,
-      "title": "Sebi sets Rs 20,000 crore threshold for ‘significant indices’; Sensex, Nifty among benchmarks covered",
-      "summary": "• Sensex and Nifty were among the key benchmarks covered by Sebi on Monday.\n• Sebi has set a threshold for 'significant indices' to be included in benchmark indices.\n• The threshold has been set at Rs20,000 for the first time.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-sets-rs-20000-crore-threshold-for-significant-indices-sensex-nifty-among-benchmarks-covered/articleshow/130852653.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3544,
-      "title": "West Bengal election results: Full list of winners",
-      "summary": "• Click here to see the full list of candidates and winners.\n• CLICK HERE to view the complete list of winning candidates and their names.\n• Click HERE to read the complete election results for West Bengal on Sunday, March 25.\n• CLICK here to read it on Monday, March 26.\n• CLICK Here to see it on Tuesday, March 27.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-2026-full-list-of-winners/article70937132.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-06"
     },
@@ -2321,22 +2391,22 @@
       "published_date": "2026-05-05"
     },
     {
-      "id": 3414,
-      "title": "Assembly Elections 2026: BJP leads West Bengal, TVK storms Tamil Nadu, UDF returns in Kerala",
-      "summary": "• Assembly elections in Kerala to be held in 2026, says Kerala United Democratic Party (Kerala UDF) chief.\n• Kerala UDF has been in power for more than 30 years, but has never won an assembly seat.\n• Kerala has been ruled by the UDF since the late 1980s.",
-      "category": "State News",
-      "source": "Frontline Magazine",
-      "url": "https://frontline.thehindu.com/the-nation/assembly-results-bjp-vijay-udf-surge/article70937836.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-05"
-    },
-    {
       "id": 3503,
       "title": "West Bengal Election Results: Mamata Banerjee among 22 ministers who lost in TMC debacle. Full list here",
       "summary": "• West Bengal Election results: West Bengal election Results: All 22 ministers lost their seats in the TMC's debacle.\n• Mamata was one of the 22 ministers to lose their seats.\n• She was replaced by Kunal Ghosh, who lost his seat in the state assembly elections.",
       "category": "State News",
       "source": "LiveMint - Politics",
       "url": "https://www.livemint.com/politics/news/west-bengal-election-results-mamata-banerjee-among-22-ministers-who-lost-in-tmc-debacle-11777969507892.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3414,
+      "title": "Assembly Elections 2026: BJP leads West Bengal, TVK storms Tamil Nadu, UDF returns in Kerala",
+      "summary": "• Assembly elections in Kerala to be held in 2026, says Kerala United Democratic Party (Kerala UDF) chief.\n• Kerala UDF has been in power for more than 30 years, but has never won an assembly seat.\n• Kerala has been ruled by the UDF since the late 1980s.",
+      "category": "State News",
+      "source": "Frontline Magazine",
+      "url": "https://frontline.thehindu.com/the-nation/assembly-results-bjp-vijay-udf-surge/article70937836.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-05"
     },
@@ -2391,22 +2461,22 @@
       "published_date": "2026-05-05"
     },
     {
-      "id": 3521,
-      "title": "Skeet shooters miss out on final spots in ISSF World Cup Shotgun",
-      "summary": "• Shooters fail to qualify for final four spots in the ISSF Shotgun World Cup.\n• The final four places will be decided at a later stage of the competition.\n• Click here for more information on the ISSF World Cup in Shotgun event in South Africa in May and June.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/other-sports/skeet-shooters-miss-out-on-final-spots-in-issf-world-cup-shotgun/article70944756.ece",
-      "relevance_score": 0.8909,
-      "published_date": "2026-05-05"
-    },
-    {
       "id": 3486,
       "title": "Skeet shooters miss out on final spots in ISSF World Cup Shotgun",
       "summary": "• Shooters fail to qualify for final four spots in the ISSF Shotgun World Cup.\n• The final four places will be decided at a later stage of the competition.\n• Click here for more information on the ISSF World Cup in Shotgun event in South Africa in May and June.",
       "category": "Sports",
       "source": "Hindustan Times - Sports",
       "url": "https://www.hindustantimes.com/sports/others/skeet-shooters-miss-out-on-final-spots-in-issf-world-cup-shotgun-101777981156384.html",
+      "relevance_score": 0.8909,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3521,
+      "title": "Skeet shooters miss out on final spots in ISSF World Cup Shotgun",
+      "summary": "• Shooters fail to qualify for final four spots in the ISSF Shotgun World Cup.\n• The final four places will be decided at a later stage of the competition.\n• Click here for more information on the ISSF World Cup in Shotgun event in South Africa in May and June.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/other-sports/skeet-shooters-miss-out-on-final-spots-in-issf-world-cup-shotgun/article70944756.ece",
       "relevance_score": 0.8909,
       "published_date": "2026-05-05"
     },
@@ -2621,22 +2691,22 @@
       "published_date": "2026-05-04"
     },
     {
-      "id": 3470,
-      "title": "Election Commission of India Assembly Election Results 2026: How to check Assam, Kerala, Tamil Nadu, Bengal results on eci.gov.in",
-      "summary": "• Eci.Gov.in is the official website of the Election Commission of the India.\n• The results will be available on the website for 24 hours after the results are announced.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "State News",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/election-commission-of-india-eci-assembly-election-results-2026-assam-kerala-tamil-nadu-west-bengal-puducherry-on-eci-gov-in-10666603/",
-      "relevance_score": 0.95,
-      "published_date": "2026-05-04"
-    },
-    {
       "id": 3469,
       "title": "West Bengal Assembly Election Results 2026 Winners: BJP wins 207 seats, TMC 80 – Check Constituency-Wise, Party-Wise Full List",
       "summary": "• West Bengal Assembly election results 2026: BJP won 207 seats.\n• TMC won 80 seats, BJP won 78 seats.\n• Click here to see the full list of seats.",
       "category": "State News",
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/west-bengal-assembly-election-results-2026-winners-constituency-wise-seat-wise-full-list-10665665/",
+      "relevance_score": 0.95,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3470,
+      "title": "Election Commission of India Assembly Election Results 2026: How to check Assam, Kerala, Tamil Nadu, Bengal results on eci.gov.in",
+      "summary": "• Eci.Gov.in is the official website of the Election Commission of the India.\n• The results will be available on the website for 24 hours after the results are announced.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/election-commission-of-india-eci-assembly-election-results-2026-assam-kerala-tamil-nadu-west-bengal-puducherry-on-eci-gov-in-10666603/",
       "relevance_score": 0.95,
       "published_date": "2026-05-04"
     },
@@ -2821,26 +2891,6 @@
       "published_date": "2026-05-03"
     },
     {
-      "id": 3473,
-      "title": "Kerala Election Results 2026 LIVE Counting Updates: Voters hand UDF clear edge in Kerala polls, Left falls behind",
-      "summary": "• UDF leads with a clear majority of more than 50 per cent of the vote.\n• Kerala voters to go to the polls in 2026 for the first time in a state election in 50 years.\n• Kerala to hold general elections for first time since 1970s, with UDF leading with more than 40 per cent.",
-      "category": "State News",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/kerala-assembly-election-results-2026-live-updates-ldf-vs-udf-pinarayi-vijayan-vd-satheesan-2-10667096/",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-03"
-    },
-    {
-      "id": 3472,
-      "title": "ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win",
-      "summary": "• Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win.\n• ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks Modi, Gandhi for their greetings.\n• EICL declares TVK as winners of Tamil Nadu Assembly Election 2026.\n• Tamil Nadu to go to the polls in 2026 for first time in 50 years.\n• Election to be held on November 7, 25, 28, 28 and 29.",
-      "category": "Polity & Governance",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-tvk-10665171/",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-03"
-    },
-    {
       "id": 3476,
       "title": "TN Assembly Election Results 2026: Vijay’s TVK record historic win, gains over 100 seats",
       "summary": "• Vijay's TVK wins record-breaking 100 seats in the state's first ever general election.\n• Tamil Nadu will hold its first general election in 2026.\n• The results will be announced on November 25.\n• The result will be declared on November 26.\n• The election will be held on the same day as the general elections.",
@@ -2857,6 +2907,26 @@
       "category": "Polity & Governance",
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/live-updates-kerala-assembly-election-results-2026-live-eci-election-commission-of-india-ldf-vs-udf-seat-tally-10666033/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 3472,
+      "title": "ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win",
+      "summary": "• Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win.\n• ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks Modi, Gandhi for their greetings.\n• EICL declares TVK as winners of Tamil Nadu Assembly Election 2026.\n• Tamil Nadu to go to the polls in 2026 for first time in 50 years.\n• Election to be held on November 7, 25, 28, 28 and 29.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-tvk-10665171/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 3473,
+      "title": "Kerala Election Results 2026 LIVE Counting Updates: Voters hand UDF clear edge in Kerala polls, Left falls behind",
+      "summary": "• UDF leads with a clear majority of more than 50 per cent of the vote.\n• Kerala voters to go to the polls in 2026 for the first time in a state election in 50 years.\n• Kerala to hold general elections for first time since 1970s, with UDF leading with more than 40 per cent.",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/kerala-assembly-election-results-2026-live-updates-ldf-vs-udf-pinarayi-vijayan-vd-satheesan-2-10667096/",
       "relevance_score": 0.91,
       "published_date": "2026-05-03"
     },
@@ -5351,22 +5421,22 @@
       "published_date": "2026-04-18"
     },
     {
-      "id": 1283,
-      "title": "Why Motilal Oswal’s BFSI fund is betting big on capital market ecosystem: Prateek Agarwal of Motilal Oswal AMC",
-      "summary": "• Prateek Agarwal of Motilal Oswal AMC highlights a shift in financial sector growth from traditional banking to capital markets like AMCs, brokers, and exchanges.\n• He discusses how recent trade deals with the US and EU boost India's manufacturing and investment appeal, potentially reversing FII outflows and strengthening the rupee.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/why-motilal-oswals-bfsi-fund-is-betting-big-on-capital-market-ecosystem-prateek-agarwal-of-motilal-oswal-amc/articleshow/130347563.cms",
-      "relevance_score": 0.9998,
-      "published_date": "2026-04-18"
-    },
-    {
       "id": 1272,
       "title": "PM Modi`s address at 8:30 pm: Will he announce a new plan for Women`s quota bill? Know more",
       "summary": "• Prime Minister Narendra Modi is set to address the nation at 8:30 pm tonight.\n• It is expected that the Prime Minister will speak on the issue of the Women's Reservation Bill, which failed to pass in Parliament after the opposition blocked it.",
       "category": "Polity & Governance",
       "source": "Zee News - India",
       "url": "https://zeenews.india.com/india/pm-modis-address-at-830-pm-will-he-announce-a-new-plan-for-womens-quota-bill-know-more-3038731.html",
+      "relevance_score": 0.9998,
+      "published_date": "2026-04-18"
+    },
+    {
+      "id": 1283,
+      "title": "Why Motilal Oswal’s BFSI fund is betting big on capital market ecosystem: Prateek Agarwal of Motilal Oswal AMC",
+      "summary": "• Prateek Agarwal of Motilal Oswal AMC highlights a shift in financial sector growth from traditional banking to capital markets like AMCs, brokers, and exchanges.\n• He discusses how recent trade deals with the US and EU boost India's manufacturing and investment appeal, potentially reversing FII outflows and strengthening the rupee.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/why-motilal-oswals-bfsi-fund-is-betting-big-on-capital-market-ecosystem-prateek-agarwal-of-motilal-oswal-amc/articleshow/130347563.cms",
       "relevance_score": 0.9998,
       "published_date": "2026-04-18"
     },
@@ -8631,22 +8701,22 @@
       "published_date": "2026-04-06"
     },
     {
-      "id": 1943,
-      "title": "Beef row: Chief minister vows action against AJP nominee's kin",
-      "summary": "• Assam CM Himanta Biswa Sarma has brought beef consumption into his election campaign, targeting Congress ally AJP's candidate Kunki Chowdhury.\n• He accused her parents of eating beef and vowed action under the Cattle Prevention Act post-election.\n• Sarma challenged Chowdhury to disown her parents' actions, emphasizing the religious sentiments of 'Sanatani' people and the sanctity of religious sites.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": null,
-      "relevance_score": 0.9713,
-      "published_date": "2026-04-06"
-    },
-    {
       "id": 1918,
       "title": "RBL Bank shares jump 4% after exceptional Q4 update, RBI’s approval for Emirates NBD’s 74% stake acquisition",
       "summary": "• Robust deposits and loan growth boosted sentiment, with the lender crossing Rs 2.5 lakh crore in total business.\n• Analysts remain positive amid exceptional momentum.",
       "category": "Economy & Banking",
       "source": "Economic Times - Top",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-shares-jump-4-after-exceptional-q4-results-rbis-approval-for-emirates-nbds-74-stake-acquisition/articleshow/130052674.cms",
+      "relevance_score": 0.9713,
+      "published_date": "2026-04-06"
+    },
+    {
+      "id": 1943,
+      "title": "Beef row: Chief minister vows action against AJP nominee's kin",
+      "summary": "• Assam CM Himanta Biswa Sarma has brought beef consumption into his election campaign, targeting Congress ally AJP's candidate Kunki Chowdhury.\n• He accused her parents of eating beef and vowed action under the Cattle Prevention Act post-election.\n• Sarma challenged Chowdhury to disown her parents' actions, emphasizing the religious sentiments of 'Sanatani' people and the sanctity of religious sites.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": null,
       "relevance_score": 0.9713,
       "published_date": "2026-04-06"
     },
@@ -10031,21 +10101,21 @@
       "published_date": "2026-03-24"
     },
     {
-      "id": 2283,
-      "title": "DRDO successfully tests Agni-VI ICBM with range over 10,000 km",
-      "summary": "• MIRV technology enabled meaning Multiple Independently Targetable Re-entry Vehicles can be carried.\n• Test conducted from Dr APJ Abdul Kalam Island also known as Wheeler Island in Odisha.\n• India joins elite ICBM nations: USA, Russia, China, UK, and France.\n• Range exceeds 10,000 km making any global target reachable.\n• Defence Minister and PM congratulated DRDO scientists on the historic achievement.",
-      "category": "Science & Technology",
-      "source": "DRDO / Ministry of Defence",
-      "url": null,
-      "relevance_score": 0.97,
-      "published_date": "2026-03-24"
-    },
-    {
       "id": 2287,
       "title": "India GDP growth rate projected at 6.8% for FY 2026-27 by IMF",
       "summary": "• India remains the world fastest growing major economy for third consecutive year.\n• Services sector contributes 55% to GDP while manufacturing stands at 28%.\n• Private consumption growth is at 7.2% and government capex at Rs 11.21 lakh crore.\n• Global growth is projected at 3.3% by IMF in World Economic Outlook 2026.\n• India is ranked fastest growing among all G20 nations by IMF.",
       "category": "Economy & Banking",
       "source": "IMF World Economic Outlook",
+      "url": null,
+      "relevance_score": 0.97,
+      "published_date": "2026-03-24"
+    },
+    {
+      "id": 2283,
+      "title": "DRDO successfully tests Agni-VI ICBM with range over 10,000 km",
+      "summary": "• MIRV technology enabled meaning Multiple Independently Targetable Re-entry Vehicles can be carried.\n• Test conducted from Dr APJ Abdul Kalam Island also known as Wheeler Island in Odisha.\n• India joins elite ICBM nations: USA, Russia, China, UK, and France.\n• Range exceeds 10,000 km making any global target reachable.\n• Defence Minister and PM congratulated DRDO scientists on the historic achievement.",
+      "category": "Science & Technology",
+      "source": "DRDO / Ministry of Defence",
       "url": null,
       "relevance_score": 0.97,
       "published_date": "2026-03-24"
@@ -10551,6 +10621,6 @@
       "published_date": "2008-10-01"
     }
   ],
-  "count": 1055,
-  "updated_at": "2026-05-13T18:01:40.408358Z"
+  "count": 1062,
+  "updated_at": "2026-05-14T03:49:35.958709Z"
 }
