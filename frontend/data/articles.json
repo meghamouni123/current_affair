@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 4097,
+      "title": "Inside MAHE Bengaluru’s Push To Build A Net Zero Green Campus",
+      "summary": "• MAHE aims to build a net zero green campus by the end of the year.\n• The campus will be powered by solar panels and other renewable energy sources.\n• It will also have a zero carbon footprint by 2020, according to MAHE's plans.\n• The project is part of a larger plan to make Bengaluru a zero-carbon city.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/inside-mahe-bengalurus-push-to-build-a-net-zero-green-campus-ws-l-10095090.html",
+      "relevance_score": 0.9522,
+      "published_date": "2026-05-16"
+    },
+    {
       "id": 4091,
       "title": "PM Modi recalls 2014 Lok Sabha Election results during his Netherlands address, says 'May 16 is very special'",
       "summary": "• He says 'May 16 is very special' for him and his family.\n• PM Modi was in the Netherlands to attend the G20 Summit.\n• He was also expected to address the Indian diaspora in the country.\n• But he did not make it to either of the two events as he was due to be in New Delhi.",
@@ -31,6 +41,16 @@
       "published_date": "2026-05-16"
     },
     {
+      "id": 4093,
+      "title": "​Energy conservation top on agenda, says Minister Gottipati Ravi Kumar",
+      "summary": "• Kumar: Energy conservation top of agenda, say Minister of Energy and Mineral Resources, Gokulnath Gautam.\n• Kumar says energy conservation is key to India's future prosperity and security.\n• We need to make sure that we don't rely on fossil fuels\".",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/energy-conservation-top-on-agenda-says-minister-gottipati-ravi-kumar/article70987117.ece",
+      "relevance_score": 0.8986,
+      "published_date": "2026-05-16"
+    },
+    {
       "id": 4087,
       "title": "'If it continues to harbour terrorists ...': Army chief Upendra Dwivedi's stern warning to Pakistan",
       "summary": "• Army chief: Pakistan must stop harbouring terrorists if it wants to be accepted as part of India.\n• Pakistan has been accused of harbouring terror groups in the past.\n• The country has also been linked to the Mumbai terror attacks of September 11, 2001.\n• The terror attacks claimed the lives of more than 160 people in Pakistan.",
@@ -38,6 +58,16 @@
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/if-it-continues-to-harbour-terrorists-army-chiefs-stern-warning-to-pakistan/articleshow/131133357.cms",
       "relevance_score": 0.8545,
+      "published_date": "2026-05-16"
+    },
+    {
+      "id": 4096,
+      "title": "Keeping up with UP: After Bengal, Bihar euphoria, BJP out to keep the momentum going in seven states",
+      "summary": "• The BJP is hoping to win at least five more seats in Uttar Pradesh.\n• The party is also hoping to make gains in Bihar, West Bengal and Jharkhand.\n• It is also trying to retain power in Uttarakhand, Manipur and Mizoram.\n• The next election is scheduled to be held in May.",
+      "category": "State News",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/keeping-up-with-up-after-bengal-bihar-euphoria-bjp-out-to-keep-the-momentum-going-in-seven-states-101778938047993.html",
+      "relevance_score": 0.8478,
       "published_date": "2026-05-16"
     },
     {
@@ -301,22 +331,22 @@
       "published_date": "2026-05-15"
     },
     {
-      "id": 4052,
-      "title": "'India stands shoulder-to-shoulder with UAE': PM Modi in Abu Dhabi, condemns attacks, signs strategic defence pact",
-      "summary": "• 'India stands shoulder-to-shoulder with UAE': PM Modi in Abu Dhabi.\n• PM Modi condemns attacks, signs strategic defence pact with the UAE.\n• India and the UAE have been at odds for years over the Kashmir issue.\n• The two countries have signed a defence pact in response to a series of attacks in the past year.\n• The UAE and India have also signed a strategic defence agreement.",
-      "category": "International Relations",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/india-stands-shoulder-to-shoulder-with-uae-pm-modi-in-abu-dhabi-condemns-attacks-signs-strategic-defence-pact/articleshow/131114128.cms",
-      "relevance_score": 0.8394,
-      "published_date": "2026-05-15"
-    },
-    {
       "id": 4032,
       "title": "Xi, Trump reach series of new common understandings: China's foreign ministry",
       "summary": "• Xi, Trump have a long history of working closely together, including on trade and North Korea.\n• China is the world's second largest economy, after the U.S. and second largest in the world.\n• China has a population of more than 1.2 billion people, with more than 300 million people living in the country.",
       "category": "International Relations",
       "source": "The Hindu - International",
       "url": "https://www.thehindu.com/news/international/xi-trump-reach-series-of-new-common-understandings-chinas-foreign-ministry/article70981556.ece",
+      "relevance_score": 0.8394,
+      "published_date": "2026-05-15"
+    },
+    {
+      "id": 4052,
+      "title": "'India stands shoulder-to-shoulder with UAE': PM Modi in Abu Dhabi, condemns attacks, signs strategic defence pact",
+      "summary": "• 'India stands shoulder-to-shoulder with UAE': PM Modi in Abu Dhabi.\n• PM Modi condemns attacks, signs strategic defence pact with the UAE.\n• India and the UAE have been at odds for years over the Kashmir issue.\n• The two countries have signed a defence pact in response to a series of attacks in the past year.\n• The UAE and India have also signed a strategic defence agreement.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/india-stands-shoulder-to-shoulder-with-uae-pm-modi-in-abu-dhabi-condemns-attacks-signs-strategic-defence-pact/articleshow/131114128.cms",
       "relevance_score": 0.8394,
       "published_date": "2026-05-15"
     },
@@ -1121,16 +1151,6 @@
       "published_date": "2026-05-13"
     },
     {
-      "id": 3931,
-      "title": "Asia’s age of barriers",
-      "summary": "• Asia’s age of barriers is coming to an end, according to a new report.\n• The report was compiled by the World Economic Forum and the Asian Development Bank.\n• It was based on a survey of more than 1,000 people in the region.\n• It also looked at the role of technology and business in the Asian region.\n• The study was published in the journal of the Asian Economic Forum (ADF).",
-      "category": "International Relations",
-      "source": "Frontline Magazine",
-      "url": "https://frontline.thehindu.com/books/kalyani-ramnath-boats-in-a-storm-asia-migration-citizenship-review/article70938270.ece",
-      "relevance_score": 0.8165,
-      "published_date": "2026-05-13"
-    },
-    {
       "id": 3933,
       "title": "Preliminary squad of Brazil for FIFA World Cup 2026 — Why was Neymar selected? Ancelotti reveals",
       "summary": "• Ancelotti reveals why he picked the Barcelona star.\n• Brazil will host the World Cup for the first time in 2026.\n• The tournament will be held in Rio de Janeiro, Sao Paulo, Salvador, Fortaleza and Manaus.",
@@ -1141,13 +1161,13 @@
       "published_date": "2026-05-13"
     },
     {
-      "id": 3943,
-      "title": "India should have stepped into vacuum left by U.S. as guarantor of security in West Asia: Talmiz Ahmad",
-      "summary": "• Ahmad: India should have taken over role of U.N.\n• Security Council member in charge of Middle East peacekeeping operations.\n• He says India should also have taken charge of the UN Security Council mission in Iraq, which is currently being led by the United Arab Emirates.",
+      "id": 3931,
+      "title": "Asia’s age of barriers",
+      "summary": "• Asia’s age of barriers is coming to an end, according to a new report.\n• The report was compiled by the World Economic Forum and the Asian Development Bank.\n• It was based on a survey of more than 1,000 people in the region.\n• It also looked at the role of technology and business in the Asian region.\n• The study was published in the journal of the Asian Economic Forum (ADF).",
       "category": "International Relations",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/chennai/india-should-have-stepped-into-vacuum-left-by-us-as-guarantor-of-security-in-west-asia-talmiz-ahmad/article70973440.ece",
-      "relevance_score": 0.81,
+      "source": "Frontline Magazine",
+      "url": "https://frontline.thehindu.com/books/kalyani-ramnath-boats-in-a-storm-asia-migration-citizenship-review/article70938270.ece",
+      "relevance_score": 0.8165,
       "published_date": "2026-05-13"
     },
     {
@@ -1157,6 +1177,16 @@
       "category": "Science & Technology",
       "source": "Zee News - India",
       "url": "https://zeenews.india.com/india/india-innovation-day-leading-innovators-investors-set-to-participate-in-tie-delhix-ncr-3047179.html",
+      "relevance_score": 0.81,
+      "published_date": "2026-05-13"
+    },
+    {
+      "id": 3943,
+      "title": "India should have stepped into vacuum left by U.S. as guarantor of security in West Asia: Talmiz Ahmad",
+      "summary": "• Ahmad: India should have taken over role of U.N.\n• Security Council member in charge of Middle East peacekeeping operations.\n• He says India should also have taken charge of the UN Security Council mission in Iraq, which is currently being led by the United Arab Emirates.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/chennai/india-should-have-stepped-into-vacuum-left-by-us-as-guarantor-of-security-in-west-asia-talmiz-ahmad/article70973440.ece",
       "relevance_score": 0.81,
       "published_date": "2026-05-13"
     },
@@ -1551,22 +1581,22 @@
       "published_date": "2026-05-11"
     },
     {
-      "id": 3861,
-      "title": "Advanced nuclear systems vital for India’s sustainable energy future, says expert",
-      "summary": "• India has been developing advanced nuclear systems since the 1950s.\n• The country has a nuclear arsenal of more than 1,000 nuclear reactors.\n• It is also developing a range of other types of nuclear power plants, including an advanced reprocessing facility and a new nuclear power plant in the state of Jodhpur in Rajasthan.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/advanced-nuclear-systems-vital-for-indias-sustainable-energy-future-says-expert/article70966872.ece",
-      "relevance_score": 0.879,
-      "published_date": "2026-05-11"
-    },
-    {
       "id": 3857,
       "title": "US diplomat discusses ‘regional situation’ with Pak dy PM",
       "summary": "• U.S. ambassador to Pakistan: ‘It’s not a good time for us to be in Pakistan.’ U.N.\n• Secretary-General Ban Ki-moon visited Pakistan last week and met with Prime Minister Nawaz Sharif.\n• Pakistan has been at odds with the United States over its nuclear weapons program.",
       "category": "International Relations",
       "source": "Hindustan Times - World",
       "url": "https://www.hindustantimes.com/world-news/us-news/us-diplomat-discusses-regional-situation-with-pak-dy-pm-101778501457859.html",
+      "relevance_score": 0.879,
+      "published_date": "2026-05-11"
+    },
+    {
+      "id": 3861,
+      "title": "Advanced nuclear systems vital for India’s sustainable energy future, says expert",
+      "summary": "• India has been developing advanced nuclear systems since the 1950s.\n• The country has a nuclear arsenal of more than 1,000 nuclear reactors.\n• It is also developing a range of other types of nuclear power plants, including an advanced reprocessing facility and a new nuclear power plant in the state of Jodhpur in Rajasthan.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/advanced-nuclear-systems-vital-for-indias-sustainable-energy-future-says-expert/article70966872.ece",
       "relevance_score": 0.879,
       "published_date": "2026-05-11"
     },
@@ -1751,22 +1781,22 @@
       "published_date": "2026-05-10"
     },
     {
-      "id": 3799,
-      "title": "Uttar Pradesh integrates solar energy system with rural water supply under Jal Jeevan Mission",
-      "summary": "• U.S. State Department has been working with Uttar Pradesh to integrate solar energy with water supply in the state.\n• The project is part of a larger mission to connect rural areas with clean energy and water.\n• The state government has also been working on a project to connect solar energy to rural water supplies.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-integrates-solar-energy-system-with-rural-water-supply-under-jal-jeevan-mission/article70959790.ece",
-      "relevance_score": 0.8712,
-      "published_date": "2026-05-10"
-    },
-    {
       "id": 3817,
       "title": "Congress yet to decide Kerala CM: How long can it take under the Constitution",
       "summary": "• Kerala has been without a chief minister for more than a decade.\n• The state has been ruled by the Communist Party of India (Marxist) and the Communist Socialist Party (CSPI) for the past three decades.\n• Kerala has a history of electing its own chief ministers.\n• The current chief minister has been in office since May 2013.",
       "category": "Polity & Governance",
       "source": "Indian Express - Explained",
       "url": "https://indianexpress.com/article/explained/explained-politics/congress-kerala-cm-how-long-to-decide-under-constitution-10682736/",
+      "relevance_score": 0.8712,
+      "published_date": "2026-05-10"
+    },
+    {
+      "id": 3799,
+      "title": "Uttar Pradesh integrates solar energy system with rural water supply under Jal Jeevan Mission",
+      "summary": "• U.S. State Department has been working with Uttar Pradesh to integrate solar energy with water supply in the state.\n• The project is part of a larger mission to connect rural areas with clean energy and water.\n• The state government has also been working on a project to connect solar energy to rural water supplies.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-integrates-solar-energy-system-with-rural-water-supply-under-jal-jeevan-mission/article70959790.ece",
       "relevance_score": 0.8712,
       "published_date": "2026-05-10"
     },
@@ -2111,22 +2141,12 @@
       "published_date": "2026-05-08"
     },
     {
-      "id": 3733,
-      "title": "Tamil Nadu govt formation news LIVE: Smaller parties to decide on backing Vijay today; protests erupt against governor",
-      "summary": "• Protests erupt against governor Vijay, who has been in power since May.\n• Tamil Nadu governor to be sworn-in as Tamil Nadu chief minister on Thursday.\n• Vijay's party is expected to win majority in the state's assembly elections on May 25.\n• The state assembly will elect a new governor on May 26.",
-      "category": "Polity & Governance",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/tamil-nadu-government-formation-live-updates-c-joseph-vijay-tvk-majority-mark-congress-governor-arlekar-election-results-101778201092486.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-08"
-    },
-    {
-      "id": 3758,
-      "title": "SC/ST representation beyond reserved seats still remains limited, show T.N. Assembly election results",
-      "summary": "• SC/ST represented more than 50% of the seats in the Assembly in the last election.\n• The majority of seats were reserved for SC/ STs, with the rest held by other political parties.\n• The seats were elected by a majority of more than half of the votes cast in the previous election.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/scst-representation-beyond-reserved-seats-still-remains-limited-show-tn-assembly-election-results/article70956416.ece",
+      "id": 3729,
+      "title": "FIFA triples price to $32,970 for its best available tickets to the World Cup final",
+      "summary": "• Tickets are available for Brazil vs. Germany in the final on Sunday, July 14.\n• FIFA is selling tickets for the final at a rate of about $1,000 per ticket.\n• The World Cup is the most lucrative sporting event in the world, taking place in Brazil every four years.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-tickets-for-wc-final-triples-to-31-lakh-rupees-ticket-details-in-usd-inr/article70953801.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-08"
     },
@@ -2141,22 +2161,32 @@
       "published_date": "2026-05-08"
     },
     {
+      "id": 3758,
+      "title": "SC/ST representation beyond reserved seats still remains limited, show T.N. Assembly election results",
+      "summary": "• SC/ST represented more than 50% of the seats in the Assembly in the last election.\n• The majority of seats were reserved for SC/ STs, with the rest held by other political parties.\n• The seats were elected by a majority of more than half of the votes cast in the previous election.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/scst-representation-beyond-reserved-seats-still-remains-limited-show-tn-assembly-election-results/article70956416.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-08"
+    },
+    {
+      "id": 3733,
+      "title": "Tamil Nadu govt formation news LIVE: Smaller parties to decide on backing Vijay today; protests erupt against governor",
+      "summary": "• Protests erupt against governor Vijay, who has been in power since May.\n• Tamil Nadu governor to be sworn-in as Tamil Nadu chief minister on Thursday.\n• Vijay's party is expected to win majority in the state's assembly elections on May 25.\n• The state assembly will elect a new governor on May 26.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/tamil-nadu-government-formation-live-updates-c-joseph-vijay-tvk-majority-mark-congress-governor-arlekar-election-results-101778201092486.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-08"
+    },
+    {
       "id": 3787,
       "title": "Tamil Nadu Government Formation LIVE Updates: Vijay to take oath as chief minister tomorrow as TVK secures majority support",
       "summary": "• Vijay will be sworn in as Tamil Nadu's chief minister at 11:30am tomorrow.\n• Tamil Nadu to hold general elections on May 25, followed by state assembly elections on June 18.\n• Tamil state to hold state elections on July 25, August 25, and September 25.",
       "category": "State News",
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/tamil-nadu-government-formation-live-updates-tvk-vijay-party-alliance-stalin-dmk-aiadmk-10678643/",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-08"
-    },
-    {
-      "id": 3729,
-      "title": "FIFA triples price to $32,970 for its best available tickets to the World Cup final",
-      "summary": "• Tickets are available for Brazil vs. Germany in the final on Sunday, July 14.\n• FIFA is selling tickets for the final at a rate of about $1,000 per ticket.\n• The World Cup is the most lucrative sporting event in the world, taking place in Brazil every four years.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-tickets-for-wc-final-triples-to-31-lakh-rupees-ticket-details-in-usd-inr/article70953801.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-08"
     },
@@ -2391,22 +2421,12 @@
       "published_date": "2026-05-07"
     },
     {
-      "id": 3703,
-      "title": "Floor Test Or Governor’s Call? How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse",
-      "summary": "• How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse.\n• Tamil Nadu impasse is a result of a Supreme Court ruling on the validity of the state's floor test.\n• The court ruled that the floor test should be used to determine the legitimacy of Tamil Nadu's political system.\n• The verdict was upheld by the Supreme Court on Tuesday.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/floor-test-or-governors-call-how-past-cases-from-goa-to-karnataka-frame-tamil-nadu-impasse-10079397.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-07"
-    },
-    {
-      "id": 3596,
-      "title": "IMD warns of wild weather shift in 13 states: Delhi to heat up; UP, Bihar, Kerala, Bengal brace for severe conditions",
-      "summary": "• IMD: Weather will turn from dry to wet in a matter of hours.\n• Weather could turn from rainy to dry within a few hours, it adds.\n• The IMD has issued a weather alert for 13 states, including Delhi and Mumbai.",
-      "category": "State News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/imd-warns-of-wild-weather-shift-in-13-states-delhi-to-heat-up-up-bihar-kerala-bengal-brace-for-severe-conditions-11778118359670.html",
+      "id": 3696,
+      "title": "IPL to hit Pakistan cricket with several Australian players likely to miss ODI series",
+      "summary": "• IPL is a lucrative IPL for Indian Premier League teams.\n• Pakistan are also the defending champions of the IPL.\n• Pakistan won the 2013 IPL by a margin of 10 points over India in the semi-final.\n• Pakistan also won the 2014 IPL in a landslide victory over Sri Lanka.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/cricket/australian-players-to-miss-pakistan-odi-series-for-ipl-10677800/",
       "relevance_score": 0.91,
       "published_date": "2026-05-07"
     },
@@ -2421,12 +2441,22 @@
       "published_date": "2026-05-07"
     },
     {
-      "id": 3696,
-      "title": "IPL to hit Pakistan cricket with several Australian players likely to miss ODI series",
-      "summary": "• IPL is a lucrative IPL for Indian Premier League teams.\n• Pakistan are also the defending champions of the IPL.\n• Pakistan won the 2013 IPL by a margin of 10 points over India in the semi-final.\n• Pakistan also won the 2014 IPL in a landslide victory over Sri Lanka.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/australian-players-to-miss-pakistan-odi-series-for-ipl-10677800/",
+      "id": 3596,
+      "title": "IMD warns of wild weather shift in 13 states: Delhi to heat up; UP, Bihar, Kerala, Bengal brace for severe conditions",
+      "summary": "• IMD: Weather will turn from dry to wet in a matter of hours.\n• Weather could turn from rainy to dry within a few hours, it adds.\n• The IMD has issued a weather alert for 13 states, including Delhi and Mumbai.",
+      "category": "State News",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/imd-warns-of-wild-weather-shift-in-13-states-delhi-to-heat-up-up-bihar-kerala-bengal-brace-for-severe-conditions-11778118359670.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-07"
+    },
+    {
+      "id": 3703,
+      "title": "Floor Test Or Governor’s Call? How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse",
+      "summary": "• How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse.\n• Tamil Nadu impasse is a result of a Supreme Court ruling on the validity of the state's floor test.\n• The court ruled that the floor test should be used to determine the legitimacy of Tamil Nadu's political system.\n• The verdict was upheld by the Supreme Court on Tuesday.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/floor-test-or-governors-call-how-past-cases-from-goa-to-karnataka-frame-tamil-nadu-impasse-10079397.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-07"
     },
@@ -2811,6 +2841,16 @@
       "published_date": "2026-05-06"
     },
     {
+      "id": 3560,
+      "title": "Sebi sets Rs 20,000 crore threshold for ‘significant indices’; Sensex, Nifty among benchmarks covered",
+      "summary": "• Sensex and Nifty were among the key benchmarks covered by Sebi on Monday.\n• Sebi has set a threshold for 'significant indices' to be included in benchmark indices.\n• The threshold has been set at Rs20,000 for the first time.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-sets-rs-20000-crore-threshold-for-significant-indices-sensex-nifty-among-benchmarks-covered/articleshow/130852653.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-06"
+    },
+    {
       "id": 3532,
       "title": "West Bengal election results decoded: Did SIR drive BJP’s massive win? Data tells the story",
       "summary": "• Data tells the story, says Amit Mitra, a senior BJP leader in the state.\n• Mitra: SIR was behind BJP's massive win in West Bengal.\n• SIR: I am happy with the results, but I am disappointed with the way the results were announced, says Mitra.\n• He says the results should not be interpreted as proof of SIR's involvement in the election.",
@@ -2827,16 +2867,6 @@
       "category": "State News",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-2026-full-list-of-winners/article70937132.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3560,
-      "title": "Sebi sets Rs 20,000 crore threshold for ‘significant indices’; Sensex, Nifty among benchmarks covered",
-      "summary": "• Sensex and Nifty were among the key benchmarks covered by Sebi on Monday.\n• Sebi has set a threshold for 'significant indices' to be included in benchmark indices.\n• The threshold has been set at Rs20,000 for the first time.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-sets-rs-20000-crore-threshold-for-significant-indices-sensex-nifty-among-benchmarks-covered/articleshow/130852653.cms",
       "relevance_score": 0.91,
       "published_date": "2026-05-06"
     },
@@ -3011,22 +3041,22 @@
       "published_date": "2026-05-06"
     },
     {
-      "id": 3557,
-      "title": "Why industrial heat pumps are a ‘clean heat’ opportunity for India",
-      "summary": "• India is one of the fastest growing economies in the world, with a population of more than 1.2 billion people.\n• The country is also the fastest-growing economy in the Asia-Pacific region, according to the World Bank.\n• India has the highest percentage of people living in urban areas, and the highest proportion of people in rural areas.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-industrial-heat-pumps-are-a-clean-heat-opportunity-for-india/article70946433.ece",
-      "relevance_score": 0.8428,
-      "published_date": "2026-05-06"
-    },
-    {
       "id": 3542,
       "title": "India set for hypersonic missiles soon: Double the speed of BrahMos, no defence system can stop them",
       "summary": "• BrahMos will be able to reach speeds of more than 100 miles per hour.\n• India is also working on a missile system that will be capable of reaching speeds of up to 100 miles an hour.\n• It will be called BrahMos-2 and will be part of India's missile fleet.",
       "category": "Science & Technology",
       "source": "Zee News - India",
       "url": "https://zeenews.india.com/india/india-set-for-hypersonic-missiles-soon-double-the-speed-of-brahmos-no-defence-system-can-stop-them-3044994.html",
+      "relevance_score": 0.8428,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3557,
+      "title": "Why industrial heat pumps are a ‘clean heat’ opportunity for India",
+      "summary": "• India is one of the fastest growing economies in the world, with a population of more than 1.2 billion people.\n• The country is also the fastest-growing economy in the Asia-Pacific region, according to the World Bank.\n• India has the highest percentage of people living in urban areas, and the highest proportion of people in rural areas.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-industrial-heat-pumps-are-a-clean-heat-opportunity-for-india/article70946433.ece",
       "relevance_score": 0.8428,
       "published_date": "2026-05-06"
     },
@@ -3211,26 +3241,6 @@
       "published_date": "2026-05-05"
     },
     {
-      "id": 3414,
-      "title": "Assembly Elections 2026: BJP leads West Bengal, TVK storms Tamil Nadu, UDF returns in Kerala",
-      "summary": "• Assembly elections in Kerala to be held in 2026, says Kerala United Democratic Party (Kerala UDF) chief.\n• Kerala UDF has been in power for more than 30 years, but has never won an assembly seat.\n• Kerala has been ruled by the UDF since the late 1980s.",
-      "category": "State News",
-      "source": "Frontline Magazine",
-      "url": "https://frontline.thehindu.com/the-nation/assembly-results-bjp-vijay-udf-surge/article70937836.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-05"
-    },
-    {
-      "id": 3503,
-      "title": "West Bengal Election Results: Mamata Banerjee among 22 ministers who lost in TMC debacle. Full list here",
-      "summary": "• West Bengal Election results: West Bengal election Results: All 22 ministers lost their seats in the TMC's debacle.\n• Mamata was one of the 22 ministers to lose their seats.\n• She was replaced by Kunal Ghosh, who lost his seat in the state assembly elections.",
-      "category": "State News",
-      "source": "LiveMint - Politics",
-      "url": "https://www.livemint.com/politics/news/west-bengal-election-results-mamata-banerjee-among-22-ministers-who-lost-in-tmc-debacle-11777969507892.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-05"
-    },
-    {
       "id": 3661,
       "title": "IMF World Economic Outlook Projects India GDP at 6.8 Percent",
       "summary": "• The IMF's World Economic Outlook projected India's GDP growth at 6.8% for 2026-27.\n• India remains the fastest-growing major economy globally according to the report.\n• Strong domestic consumption and infrastructure investment were cited as key drivers.\n• Global growth was projected at 3.2% amid geopolitical uncertainties.\n• The report flagged inflation and debt levels as risks for emerging markets.\n• India's current account deficit is expected to remain manageable at 1.4% of GDP.",
@@ -3241,12 +3251,32 @@
       "published_date": "2026-05-05"
     },
     {
+      "id": 3414,
+      "title": "Assembly Elections 2026: BJP leads West Bengal, TVK storms Tamil Nadu, UDF returns in Kerala",
+      "summary": "• Assembly elections in Kerala to be held in 2026, says Kerala United Democratic Party (Kerala UDF) chief.\n• Kerala UDF has been in power for more than 30 years, but has never won an assembly seat.\n• Kerala has been ruled by the UDF since the late 1980s.",
+      "category": "State News",
+      "source": "Frontline Magazine",
+      "url": "https://frontline.thehindu.com/the-nation/assembly-results-bjp-vijay-udf-surge/article70937836.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-05"
+    },
+    {
       "id": 3516,
       "title": "Salman Khurshid backs Mamata Banerjee, raises questions over Bengal, Assam election results - 'we felt that too'",
       "summary": "• He says 'we felt that too' and that the results were 'unfavourable' for the ruling Trinamool Congress party.\n• He adds: 'We felt it was not fair to the people of Bengal and Assam.\n• It was a setback for the party and for the state'.",
       "category": "State News",
       "source": "LiveMint - Politics",
       "url": "https://www.livemint.com/politics/news/salman-khurshid-backs-mamata-banerjee-raises-questions-over-bengal-assam-election-results-we-felt-that-too-cm-tmc-11777993435990.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3503,
+      "title": "West Bengal Election Results: Mamata Banerjee among 22 ministers who lost in TMC debacle. Full list here",
+      "summary": "• West Bengal Election results: West Bengal election Results: All 22 ministers lost their seats in the TMC's debacle.\n• Mamata was one of the 22 ministers to lose their seats.\n• She was replaced by Kunal Ghosh, who lost his seat in the state assembly elections.",
+      "category": "State News",
+      "source": "LiveMint - Politics",
+      "url": "https://www.livemint.com/politics/news/west-bengal-election-results-mamata-banerjee-among-22-ministers-who-lost-in-tmc-debacle-11777969507892.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-05"
     },
@@ -3711,16 +3741,6 @@
       "published_date": "2026-05-03"
     },
     {
-      "id": 3474,
-      "title": "Kerala Election Results 2026: BJP wins 3 Assembly seats in Kerala for the first time",
-      "summary": "• BJP wins three Assembly seats for first time in Kerala in 2026 elections.\n• BJP win 3 seats in the state's Assembly for the very first time, winning three seats each in two states.\n• BJP will win three seats in all three states in the 2026 election.",
-      "category": "Polity & Governance",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/live-updates-kerala-assembly-election-results-2026-live-eci-election-commission-of-india-ldf-vs-udf-seat-tally-10666033/",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-03"
-    },
-    {
       "id": 3472,
       "title": "ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win",
       "summary": "• Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win.\n• ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks Modi, Gandhi for their greetings.\n• EICL declares TVK as winners of Tamil Nadu Assembly Election 2026.\n• Tamil Nadu to go to the polls in 2026 for first time in 50 years.\n• Election to be held on November 7, 25, 28, 28 and 29.",
@@ -3737,6 +3757,16 @@
       "category": "Polity & Governance",
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-10665989/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 3474,
+      "title": "Kerala Election Results 2026: BJP wins 3 Assembly seats in Kerala for the first time",
+      "summary": "• BJP wins three Assembly seats for first time in Kerala in 2026 elections.\n• BJP win 3 seats in the state's Assembly for the very first time, winning three seats each in two states.\n• BJP will win three seats in all three states in the 2026 election.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/live-updates-kerala-assembly-election-results-2026-live-eci-election-commission-of-india-ldf-vs-udf-seat-tally-10666033/",
       "relevance_score": 0.91,
       "published_date": "2026-05-03"
     },
@@ -4151,22 +4181,22 @@
       "published_date": "2026-04-30"
     },
     {
-      "id": 1429,
-      "title": "Why May 1 Is Celebrated As Maharashtra Day And Gujarat Day? History, Significance, And Wishes to Share",
-      "summary": "• Maharashtra Day and Gujarat Day are celebrated every year on May 1 to mark the formation of the two states.\n• The date also coincides with International Labour Day.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/lifestyle/why-may-1-is-celebrated-as-maharashtra-day-and-gujarat-day-history-significance-and-wishes-to-share-9314594.html",
-      "relevance_score": 0.9169,
-      "published_date": "2026-04-30"
-    },
-    {
       "id": 1425,
       "title": "Why May 1 Is Celebrated As Maharashtra Day And Gujarat Day? History, Significance, And Wishes to Share",
       "summary": "• Maharashtra Day and Gujarat Day are celebrated every year on May 1 to mark the formation of the two states.\n• The date also coincides with International Labour Day.",
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/lifestyle/events/why-may-1-is-celebrated-as-maharashtra-day-and-gujarat-day-history-significance-and-wishes-to-share-ws-kl-9314594.html",
+      "relevance_score": 0.9169,
+      "published_date": "2026-04-30"
+    },
+    {
+      "id": 1429,
+      "title": "Why May 1 Is Celebrated As Maharashtra Day And Gujarat Day? History, Significance, And Wishes to Share",
+      "summary": "• Maharashtra Day and Gujarat Day are celebrated every year on May 1 to mark the formation of the two states.\n• The date also coincides with International Labour Day.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/lifestyle/why-may-1-is-celebrated-as-maharashtra-day-and-gujarat-day-history-significance-and-wishes-to-share-9314594.html",
       "relevance_score": 0.9169,
       "published_date": "2026-04-30"
     },
@@ -5611,22 +5641,22 @@
       "published_date": "2026-04-22"
     },
     {
-      "id": 1752,
-      "title": "Artemis II Mission Milestones: An Image and Video Recap",
-      "summary": "• On April 1, 2026,&#160;Artemis II&#160;launched on a&#160;nearly&#160;10-day&#160;voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft.\n• NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.&#160;….",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/",
-      "relevance_score": 0.9825,
-      "published_date": "2026-04-22"
-    },
-    {
       "id": 1744,
       "title": "Artemis II Mission Milestones: An Image and Video Recap",
       "summary": "• On April 1, 2026,&#160;Artemis II&#160;launched on a&#160;nearly&#160;10-day&#160;voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft.\n• NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.&#160;….",
       "category": "Science & Technology",
       "source": "NASA",
       "url": "https://www.nasa.gov/centers-and-facilities/johnson/artemis-ii-mission-milestones-an-image-and-video-recap/",
+      "relevance_score": 0.9825,
+      "published_date": "2026-04-22"
+    },
+    {
+      "id": 1752,
+      "title": "Artemis II Mission Milestones: An Image and Video Recap",
+      "summary": "• On April 1, 2026,&#160;Artemis II&#160;launched on a&#160;nearly&#160;10-day&#160;voyage around the Moon, marking the first crewed flight of NASA’s Orion spacecraft.\n• NASA astronauts Reid Wiseman, Victor Glover, and Christina Koch, along with CSA (Canadian Space Agency) astronaut Jeremy Hansen, splashed down on April 10 in the Pacific Ocean off the coast of San Diego.&#160;….",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/general/artemis-ii-mission-milestones-an-image-and-video-recap/",
       "relevance_score": 0.9825,
       "published_date": "2026-04-22"
     },
@@ -6261,22 +6291,22 @@
       "published_date": "2026-04-18"
     },
     {
-      "id": 1276,
-      "title": "Women reservation bill fails in Lok Sabha: Strategic move or poor planning?",
-      "summary": "• For the first time since 2014, the Modi government failed to pass a bill in Parliament, a move analysts suggest was strategic.\n• By forcing a vote on the women's reservation bill, linked to delimitation, the BJP aimed to record every MP's stance, creating a potent campaign tool.\n• The government positioned itself as pro-women reformists, while blaming opposition parties for obstructing progress.\n• This tactic seeks to shape the political narrative ahead of crucial elections, highlighting intent versus obstruction.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/women-reservation-bill-fails-in-lok-sabha-strategic-move-or-poor-planning/articleshow/130351599.cms",
-      "relevance_score": 0.9997,
-      "published_date": "2026-04-18"
-    },
-    {
       "id": 1270,
       "title": "'They made a big mistake': PM Modi directs ministers to expose opposition's 'anti-women' stand",
       "summary": "• Prime Minister Modi asserted that opposition parties will face repercussions for not backing the women's reservation bill, urging ministers to highlight their \"anti-women\" stance.\n• He reiterated the government's commitment to implement the reservation by 2029, accusing the opposition of a \"big mistake\" and attempting to cover up their actions after the bill's defeat in Lok Sabha.",
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/they-made-a-big-mistake-pm-modi-directs-ministers-to-expose-oppositions-anti-women-stand/articleshow/130354958.cms",
+      "relevance_score": 0.9997,
+      "published_date": "2026-04-18"
+    },
+    {
+      "id": 1276,
+      "title": "Women reservation bill fails in Lok Sabha: Strategic move or poor planning?",
+      "summary": "• For the first time since 2014, the Modi government failed to pass a bill in Parliament, a move analysts suggest was strategic.\n• By forcing a vote on the women's reservation bill, linked to delimitation, the BJP aimed to record every MP's stance, creating a potent campaign tool.\n• The government positioned itself as pro-women reformists, while blaming opposition parties for obstructing progress.\n• This tactic seeks to shape the political narrative ahead of crucial elections, highlighting intent versus obstruction.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/women-reservation-bill-fails-in-lok-sabha-strategic-move-or-poor-planning/articleshow/130351599.cms",
       "relevance_score": 0.9997,
       "published_date": "2026-04-18"
     },
@@ -6501,22 +6531,22 @@
       "published_date": "2026-04-17"
     },
     {
-      "id": 1300,
-      "title": "NASA Artemis II Human Research Data Methodology Challenge",
-      "summary": "• NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space.\n• In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to….",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
-      "relevance_score": 0.9985,
-      "published_date": "2026-04-17"
-    },
-    {
       "id": 1330,
       "title": "\"Will defeat Delimitation Bill in Lok Sabha\": Congress President Mallikarjun Kharge",
       "summary": "• Opposition parties fear the delimitation process, based on the 2011 census, will reduce southern states' representation and \"demolish\" opposition parties.\n• They question the bundling of these bills with women's reservation.",
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/will-defeat-delimitation-bill-in-lok-sabha-congress-president-mallikarjun-kharge/articleshow/130328189.cms",
+      "relevance_score": 0.9985,
+      "published_date": "2026-04-17"
+    },
+    {
+      "id": 1300,
+      "title": "NASA Artemis II Human Research Data Methodology Challenge",
+      "summary": "• NASA’s Human Research Program (HRP) uses research to develop methods to protect the health and performance of astronauts in space.\n• In support of NASA’s goals for long-term missions on the surface of the Moon and human exploration of Mars, HRP is using ground research facilities, the International Space Station, and analog environments to….",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-artemis-ii-human-research-data-methodology-challenge/",
       "relevance_score": 0.9985,
       "published_date": "2026-04-17"
     },
@@ -6651,22 +6681,22 @@
       "published_date": "2026-04-17"
     },
     {
-      "id": 1343,
-      "title": "Parliament Special Session LIVE: INDIA bloc MPs to hold meeting to chalk out floor strategy over Delimitation Bill",
-      "summary": "• Parliament Special Session LIVE: Congress MP Priyanka Gandhi Vadra urged the Centre to implement the Nari Shakti Vandan Adhiniyam, reserving one-third seats for women in the Lok Sabha, on the basis of the….\n• Get latest udpates here on Mint!.",
-      "category": "Polity & Governance",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/parliament-special-session-live-india-bloc-delimitation-bill-women-reservation-lok-sabha-seats-amit-shah-pm-modi-bjp-11776399656057.html",
-      "relevance_score": 0.9654,
-      "published_date": "2026-04-17"
-    },
-    {
       "id": 1314,
       "title": "Poll inducement seizures cross Rs 865 crore in West Bengal, Tamil Nadu ahead of elections",
       "summary": "• West Bengal leads in liquor seizures, while Tamil Nadu reports the highest value of illegal cash confiscations.\n• Both states are under strict directives from the Election Commission to ensure free and fair elections.",
       "category": "State News",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/poll-inducement-seizures-cross-rs-865-crore-in-west-bengal-tamil-nadu-ahead-of-elections/articleshow/130338328.cms",
+      "relevance_score": 0.9654,
+      "published_date": "2026-04-17"
+    },
+    {
+      "id": 1343,
+      "title": "Parliament Special Session LIVE: INDIA bloc MPs to hold meeting to chalk out floor strategy over Delimitation Bill",
+      "summary": "• Parliament Special Session LIVE: Congress MP Priyanka Gandhi Vadra urged the Centre to implement the Nari Shakti Vandan Adhiniyam, reserving one-third seats for women in the Lok Sabha, on the basis of the….\n• Get latest udpates here on Mint!.",
+      "category": "Polity & Governance",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/parliament-special-session-live-india-bloc-delimitation-bill-women-reservation-lok-sabha-seats-amit-shah-pm-modi-bjp-11776399656057.html",
       "relevance_score": 0.9654,
       "published_date": "2026-04-17"
     },
@@ -10921,21 +10951,21 @@
       "published_date": "2026-03-24"
     },
     {
-      "id": 2287,
-      "title": "India GDP growth rate projected at 6.8% for FY 2026-27 by IMF",
-      "summary": "• India remains the world fastest growing major economy for third consecutive year.\n• Services sector contributes 55% to GDP while manufacturing stands at 28%.\n• Private consumption growth is at 7.2% and government capex at Rs 11.21 lakh crore.\n• Global growth is projected at 3.3% by IMF in World Economic Outlook 2026.\n• India is ranked fastest growing among all G20 nations by IMF.",
-      "category": "Economy & Banking",
-      "source": "IMF World Economic Outlook",
-      "url": null,
-      "relevance_score": 0.97,
-      "published_date": "2026-03-24"
-    },
-    {
       "id": 2283,
       "title": "DRDO successfully tests Agni-VI ICBM with range over 10,000 km",
       "summary": "• MIRV technology enabled meaning Multiple Independently Targetable Re-entry Vehicles can be carried.\n• Test conducted from Dr APJ Abdul Kalam Island also known as Wheeler Island in Odisha.\n• India joins elite ICBM nations: USA, Russia, China, UK, and France.\n• Range exceeds 10,000 km making any global target reachable.\n• Defence Minister and PM congratulated DRDO scientists on the historic achievement.",
       "category": "Science & Technology",
       "source": "DRDO / Ministry of Defence",
+      "url": null,
+      "relevance_score": 0.97,
+      "published_date": "2026-03-24"
+    },
+    {
+      "id": 2287,
+      "title": "India GDP growth rate projected at 6.8% for FY 2026-27 by IMF",
+      "summary": "• India remains the world fastest growing major economy for third consecutive year.\n• Services sector contributes 55% to GDP while manufacturing stands at 28%.\n• Private consumption growth is at 7.2% and government capex at Rs 11.21 lakh crore.\n• Global growth is projected at 3.3% by IMF in World Economic Outlook 2026.\n• India is ranked fastest growing among all G20 nations by IMF.",
+      "category": "Economy & Banking",
+      "source": "IMF World Economic Outlook",
       "url": null,
       "relevance_score": 0.97,
       "published_date": "2026-03-24"
@@ -11441,6 +11471,6 @@
       "published_date": "2008-10-01"
     }
   ],
-  "count": 1144,
-  "updated_at": "2026-05-16T11:03:30.137107Z"
+  "count": 1147,
+  "updated_at": "2026-05-16T14:38:30.283572Z"
 }
