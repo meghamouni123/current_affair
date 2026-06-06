@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 5208,
+      "title": "Metro man Sreedharan’s solar rail plan gets going in Kerala",
+      "summary": "• He has been working on the project for more than a decade.\n• The project is part of a larger plan to build a solar-powered rail network in the state.\n• For more information, visit the project's website: http://www.sreedharAN.com/solar-rail-plan.",
+      "category": "Science & Technology",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/kerala-high-speed-rail-corridor-e-sreedharan-dmrc-thiruvananthapuram-kannur-10727131/",
+      "relevance_score": 0.9258,
+      "published_date": "2026-06-06"
+    },
+    {
       "id": 5191,
       "title": "RBI keeps rates steady, takes steps to attract foreign capital",
       "summary": "• India's central bank is trying to attract more foreign capital to the country.\n• It is also taking steps to boost the country's economy by attracting investment.\n• The central bank has been keeping rates steady for the past two months.",
@@ -21,6 +31,46 @@
       "published_date": "2026-06-06"
     },
     {
+      "id": 5210,
+      "title": "NASA places ISS astronauts on alert during Russian module leak investigation",
+      "summary": "• Russian module leaks are believed to have come from a Russian module on the ISS.\n• NASA says ISS astronauts are on alert as Russian module is being investigated for leak.\n• The ISS is currently being used as a laboratory by NASA and the Russian space agency Roscosmos.",
+      "category": "Science & Technology",
+      "source": "Indian Express - Technology",
+      "url": "https://indianexpress.com/article/technology/science/nasa-places-iss-astronauts-alert-during-russian-module-leak-investigation-10727150/",
+      "relevance_score": 0.8903,
+      "published_date": "2026-06-06"
+    },
+    {
+      "id": 5214,
+      "title": "The comeback nobody could ignore: Why Shreyas Iyer is India’s new T20I captain",
+      "summary": "• Iyer was named captain of India's ODI side against Sri Lanka.\n• He has also captained the ODI and T20 World Cup winning sides.\n• He is also India's T20 vice-captain and vice-skipper.\n• He was also the captain of the Indian ODI team that won the World Cup in 2010.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/shreyas-iyer-india-t20i-captain-comeback-ipl-success-kkr-punjab-kings-suryakumar-replacement/article71069307.ece",
+      "relevance_score": 0.8886,
+      "published_date": "2026-06-06"
+    },
+    {
+      "id": 5211,
+      "title": "Adani Plants 1.6 Million Trees To Turn Chhattisgarh Coal Mine Green",
+      "summary": "• Adani plants 1.5 million trees to turn the mine into a green space.\n• The mine is located in the state of Chhatti, which is home to the state's largest coal reserves.\n• The coal mine is expected to be operational by 2018 at a cost of $2.5 billion.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/adani-enterprises-ltd-plants-1-6-million-trees-to-turn-chhattisgarh-coal-mine-green-11599618#publisher=newsstand",
+      "relevance_score": 0.8838,
+      "published_date": "2026-06-06"
+    },
+    {
+      "id": 5212,
+      "title": "To empty the Cancer Train, India has a plan to first vaccinate its soil",
+      "summary": "• India has plans to vaccinate all its soil to help fight cancer.\n• The country has been hit by a wave of cancer deaths in recent years.\n• India is one of the fastest-growing countries in the world in terms of cancer cases.\n• It has the highest number of cancer patients in India and the highest rate of deaths from the disease.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/science/story/india-cancer-train-biofertiliser-vaccinate-soil-chemical-fertiliser-microbes-farming-biopesticide-science-news-2922787-2026-06-06?utm_source=rss",
+      "relevance_score": 0.8569,
+      "published_date": "2026-06-06"
+    },
+    {
       "id": 5207,
       "title": "AI is designing OpenAI's next model, says SoftBank CEO amid Anthropic's call for AI slowdown",
       "summary": "• Anthropic's call for AI slowdown comes amid SoftBank's AI push.\n• SoftBank says it's working with Anthropic to develop a new AI system.\n• It's not clear when the new system will be ready.\n• The company is also working with Google to develop an AI-powered car.\n• The two companies are working together on an autonomous driving system.",
@@ -38,6 +88,16 @@
       "source": "Indian Express - Technology",
       "url": "https://indianexpress.com/article/technology/science/nasa-study-earth-life-ingredients-phosphorus-nitrogen-jupiter-origin-10726588/",
       "relevance_score": 0.8483,
+      "published_date": "2026-06-06"
+    },
+    {
+      "id": 5213,
+      "title": "Big Blow To Pakistan & China: US Blocks Bid To List Balochistan Liberation Army Under UN Terror Regime",
+      "summary": "• US blocks bid to list Balochistani Liberation Army under UN terror regime.\n• U.S. says Balochstan is part of Pakistan, but not part of its territory.\n• Pakistan says it is a part of the UN, but U.N.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/world/big-blow-to-pakistan-and-china-us-blocks-bid-to-list-balochistan-liberation-army-under-un-terror-regime-ws-l-10133910.html",
+      "relevance_score": 0.8375,
       "published_date": "2026-06-06"
     },
     {
@@ -121,22 +181,22 @@
       "published_date": "2026-06-05"
     },
     {
-      "id": 5157,
-      "title": "Sensex, Nifty end lower as RBI holds rates; rupee logs biggest gain since April",
-      "summary": "• India's central bank held interest rates at a record low of 6.5 per cent on Thursday.\n• The rupee logged its biggest gain in more than a year on the dollar.\n• The Sensex and Nifty ended lower as the RBI held rates at 6.50 per cent.\n• The Nifty closed down 0.01 per cent at 9,856.",
-      "category": "Economy & Banking",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-flat-after-rbi-holds-rates-rupee-biggest-gain-since-april-2922423-2026-06-05?utm_source=rss",
-      "relevance_score": 0.94,
-      "published_date": "2026-06-05"
-    },
-    {
       "id": 5135,
       "title": "RBI holds repo rate at 5.25% despite inflation risks, cuts GDP forecast",
       "summary": "• RBI also cuts its inflation forecast for the year to 5.3%.\n• The central bank is expected to announce a cut in the repo rate in the coming days.\n• The cut will be followed by a reduction in the reverse repo rate to 5% in the next few weeks.\n• The repo rate has been held at 5% since December 2008.",
       "category": "Economy & Banking",
       "source": "LiveMint - Economy",
       "url": "https://www.livemint.com/economy/rbi-policy-key-policy-rate-mpc-inflation-repo-rate-west-asia-wat-11780580095515.html",
+      "relevance_score": 0.94,
+      "published_date": "2026-06-05"
+    },
+    {
+      "id": 5157,
+      "title": "Sensex, Nifty end lower as RBI holds rates; rupee logs biggest gain since April",
+      "summary": "• India's central bank held interest rates at a record low of 6.5 per cent on Thursday.\n• The rupee logged its biggest gain in more than a year on the dollar.\n• The Sensex and Nifty ended lower as the RBI held rates at 6.50 per cent.\n• The Nifty closed down 0.01 per cent at 9,856.",
+      "category": "Economy & Banking",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-flat-after-rbi-holds-rates-rupee-biggest-gain-since-april-2922423-2026-06-05?utm_source=rss",
       "relevance_score": 0.94,
       "published_date": "2026-06-05"
     },
@@ -181,36 +241,6 @@
       "published_date": "2026-06-05"
     },
     {
-      "id": 5133,
-      "title": "Sensex rises over 200 points, Nifty above 23,400 as investors eye RBI MPC meet outcome",
-      "summary": "• Sensex rises over 200 points, Nifty above 23,400.\n• Investors eye RBI MPC meet outcome as investors eye RBI's monetary policy decision.\n• Sensex was up by more than 200 points at one point.\n• Nifty was up more than 100 points at its highest level since November 26, 2013.\n• The Nifty closed at a record high of 23,500 on Monday.\n• The Sensex closed at an all-time high of 24,715.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-200-points-nifty-above-23400-as-investors-eye-rbi-mpc-meet-outcome/articleshow/131082553.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-05"
-    },
-    {
-      "id": 5115,
-      "title": "Weather today: Rainfall alerts issued for Bengaluru, Kerala, Tamil Nadu as monsoon advances; Delhi forecast here",
-      "summary": "• Delhi forecast: Rain, thundery showers, high winds and heavy rain.\n• Delhi weather forecast: Cloudy, rain-free, high temperatures, low humidity, low temperatures.\n• Bengaluru forecast: Sunny, low 30s, high 40s, medium 50s.",
-      "category": "State News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/weather-today-rainfall-alerts-issued-for-bengaluru-kerala-tamil-nadu-as-monsoon-gains-momentum-delhi-forecast-here-11780623000570.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-05"
-    },
-    {
-      "id": 5117,
-      "title": "Sensex opens 200 points higher, Nifty above 23,400 as investors await RBI MPC decision",
-      "summary": "• Sensex opens 200 points higher, Nifty above 23,400.\n• Investors await RBI MPC decision as investors await RBI's decision on interest rate.\n• Nifty closes at 23,300; Sensex opens at 26,000; Nifty at 23.400.\n• Nominations for the Nifty closed at 22,945; NSE closed at 19,845.\n• NSE: Nifty 50, NSE 100, N BSE: 20,500; N CAC 40, N Dixi: 10,000.",
-      "category": "Economy & Banking",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-200-points-higher-nifty-above-23400-investors-await-rbi-mpc-decision-2922214-2026-06-05?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-05"
-    },
-    {
       "id": 5185,
       "title": "Rupee jumps 56 paise to 95.18 vs US dollar after RBI announces forex-support measures",
       "summary": "• Rupee was trading at 95.05 to the US dollar earlier in the day, up 56 paisas from Monday's close of 95.02.\n• The rupee has been hit hard by a strong US dollar since the beginning of the global financial crisis in 2008.\n• It hit a record low of 96.02 to the U.S. dollar last week.",
@@ -231,12 +261,12 @@
       "published_date": "2026-06-05"
     },
     {
-      "id": 5125,
-      "title": "RBI cuts FY27 GDP growth forecast to 6.6%, sees inflation higher at 5.1%",
-      "summary": "• Inflation forecast for FY28 is 5.7%, down from 5.8% in FY25.\n• GDP growth expected to be 6.8%, inflation forecast to be 5.9%.\n• Inflation expected to rise to 5.6% in fiscal year 27, down from 6.1%.",
+      "id": 5117,
+      "title": "Sensex opens 200 points higher, Nifty above 23,400 as investors await RBI MPC decision",
+      "summary": "• Sensex opens 200 points higher, Nifty above 23,400.\n• Investors await RBI MPC decision as investors await RBI's decision on interest rate.\n• Nifty closes at 23,300; Sensex opens at 26,000; Nifty at 23.400.\n• Nominations for the Nifty closed at 22,945; NSE closed at 19,845.\n• NSE: Nifty 50, NSE 100, N BSE: 20,500; N CAC 40, N Dixi: 10,000.",
       "category": "Economy & Banking",
-      "source": "Indian Express - Business",
-      "url": "https://indianexpress.com/article/business/rbi-repo-rate-10724915/",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-opens-200-points-higher-nifty-above-23400-investors-await-rbi-mpc-decision-2922214-2026-06-05?utm_source=rss",
       "relevance_score": 0.91,
       "published_date": "2026-06-05"
     },
@@ -247,6 +277,36 @@
       "category": "Economy & Banking",
       "source": "Indian Express - Business",
       "url": "https://indianexpress.com/article/business/market/nifty-tops-23450-sensex-gains-150-points-ahead-of-rbi-policy-decision-10724891/",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-05"
+    },
+    {
+      "id": 5115,
+      "title": "Weather today: Rainfall alerts issued for Bengaluru, Kerala, Tamil Nadu as monsoon advances; Delhi forecast here",
+      "summary": "• Delhi forecast: Rain, thundery showers, high winds and heavy rain.\n• Delhi weather forecast: Cloudy, rain-free, high temperatures, low humidity, low temperatures.\n• Bengaluru forecast: Sunny, low 30s, high 40s, medium 50s.",
+      "category": "State News",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/weather-today-rainfall-alerts-issued-for-bengaluru-kerala-tamil-nadu-as-monsoon-gains-momentum-delhi-forecast-here-11780623000570.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-05"
+    },
+    {
+      "id": 5125,
+      "title": "RBI cuts FY27 GDP growth forecast to 6.6%, sees inflation higher at 5.1%",
+      "summary": "• Inflation forecast for FY28 is 5.7%, down from 5.8% in FY25.\n• GDP growth expected to be 6.8%, inflation forecast to be 5.9%.\n• Inflation expected to rise to 5.6% in fiscal year 27, down from 6.1%.",
+      "category": "Economy & Banking",
+      "source": "Indian Express - Business",
+      "url": "https://indianexpress.com/article/business/rbi-repo-rate-10724915/",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-05"
+    },
+    {
+      "id": 5133,
+      "title": "Sensex rises over 200 points, Nifty above 23,400 as investors eye RBI MPC meet outcome",
+      "summary": "• Sensex rises over 200 points, Nifty above 23,400.\n• Investors eye RBI MPC meet outcome as investors eye RBI's monetary policy decision.\n• Sensex was up by more than 200 points at one point.\n• Nifty was up more than 100 points at its highest level since November 26, 2013.\n• The Nifty closed at a record high of 23,500 on Monday.\n• The Sensex closed at an all-time high of 24,715.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-200-points-nifty-above-23400-as-investors-eye-rbi-mpc-meet-outcome/articleshow/131082553.cms",
       "relevance_score": 0.91,
       "published_date": "2026-06-05"
     },
@@ -631,12 +691,12 @@
       "published_date": "2026-06-04"
     },
     {
-      "id": 5087,
-      "title": "Winter Olympics producer to handle trio of FIFA World Cup opening ceremonies",
-      "summary": "• World Cup kicks off in Brazil on June 14 and will run through July 15.\n• Brazil is hosting the tournament for the first time in its history.\n• The tournament will be the first in South Africa since 1966.\n• It will also be held in Brazil for the second time in 2002 and 2010.",
+      "id": 5095,
+      "title": "Lalit Modi's big claim, says Dawood Ibrahim's control on IPL forced him to quit cricket management",
+      "summary": "• Lalit Modi claims that he was forced to quit because of Dawood's influence on the IPL.\n• He also claims that Dawood was involved in the sale of IPL rights to Indian Premier League.\n• He claims that the deal was worth more than $1.5 billion.",
       "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup-2026-opening-ceremonies-details-producer-winter-olympics-all-you-need-to-know/article71060847.ece",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/lalit-modis-big-claim-says-dawood-ibrahims-control-on-ipl-forced-him-to-quit-cricket-management-101780582264541.html",
       "relevance_score": 0.91,
       "published_date": "2026-06-04"
     },
@@ -651,12 +711,12 @@
       "published_date": "2026-06-04"
     },
     {
-      "id": 5095,
-      "title": "Lalit Modi's big claim, says Dawood Ibrahim's control on IPL forced him to quit cricket management",
-      "summary": "• Lalit Modi claims that he was forced to quit because of Dawood's influence on the IPL.\n• He also claims that Dawood was involved in the sale of IPL rights to Indian Premier League.\n• He claims that the deal was worth more than $1.5 billion.",
+      "id": 5087,
+      "title": "Winter Olympics producer to handle trio of FIFA World Cup opening ceremonies",
+      "summary": "• World Cup kicks off in Brazil on June 14 and will run through July 15.\n• Brazil is hosting the tournament for the first time in its history.\n• The tournament will be the first in South Africa since 1966.\n• It will also be held in Brazil for the second time in 2002 and 2010.",
       "category": "Sports",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/lalit-modis-big-claim-says-dawood-ibrahims-control-on-ipl-forced-him-to-quit-cricket-management-101780582264541.html",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup-2026-opening-ceremonies-details-producer-winter-olympics-all-you-need-to-know/article71060847.ece",
       "relevance_score": 0.91,
       "published_date": "2026-06-04"
     },
@@ -991,22 +1051,22 @@
       "published_date": "2026-06-03"
     },
     {
-      "id": 5049,
-      "title": "Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count",
-      "summary": "• Ex-Biden cabinet secretary led California governorPrimary vote count for Gov.\n• Brown is running for governor of California for the first time in his second term.\n• He is the son of former Vice President Joe Biden, who served in the White House under President George H.W.",
-      "category": "Polity & Governance",
-      "source": "BBC World",
-      "url": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-03"
-    },
-    {
       "id": 5051,
       "title": "Pawan Kalyan Clashes With Congress Over Jana Sena’s Telangana Expansion | #therightstand",
       "summary": "• Kalyan has hit back at critics questioning Jana Sena’s political push in Telangana.\n• He has accused them of hypocrisy and asserting his long-standing emotional and political connection with the state.\n• He also maintained that he had supportedTelangana statehood, while opposing the manner in which Andhra Pradesh was bifurcated.\n• The war of words comes as JanaSena looks to strengthen its presence in TelANGana ahead of the 2028 elections.\n• Political tensions are rising in Telangana as Jana Sena chief and Andhra Pradesh Deputy Chief Minister Pawan Kalyan clashes with Congress leaders over his party’s expansion plans in the state.Kalyan has hit back at critics questioning Jana Sena’s political push in Telangana, accusing them of….\n• He also maintained that he had supported Telangana statehood, while opposing the manner in which Andhra Pradesh was bifurcated.The war of words comes as Jana Sena looks to strengthen its presence in Telangana ahead of the 2028 elections, raising questions over whether Pawan Kalyan could emerge as a….",
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/pawan-kalyan-clashes-with-congress-over-jana-sena-s-telangana-expansion-therightstand-10129101.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-03"
+    },
+    {
+      "id": 5049,
+      "title": "Ex-UK political aide and Biden cabinet secretary lead California governor primary vote count",
+      "summary": "• Ex-Biden cabinet secretary led California governorPrimary vote count for Gov.\n• Brown is running for governor of California for the first time in his second term.\n• He is the son of former Vice President Joe Biden, who served in the White House under President George H.W.",
+      "category": "Polity & Governance",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cn8p0yz512no?at_medium=RSS&at_campaign=rss",
       "relevance_score": 0.91,
       "published_date": "2026-06-03"
     },
@@ -1741,22 +1801,22 @@
       "published_date": "2026-06-01"
     },
     {
-      "id": 4955,
-      "title": "Chief Minister Vijay promises inclusive and corruption-free government",
-      "summary": "• Vijay: I will make sure there is no corruption in the government.\n• I will also make sure that the state is run in a transparent and fair way.\n• I promise to make the state a corruption free and inclusive state.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-promises-an-inclusive-and-corruption-free-government/article71049289.ece",
-      "relevance_score": 0.8442,
-      "published_date": "2026-06-01"
-    },
-    {
       "id": 4948,
       "title": "Chief Minister Vijay promises inclusive and corruption-free government",
       "summary": "• Vijay: I will make sure there is no corruption in the government.\n• I will also make sure that the state is run in a transparent and fair way.\n• I promise to make the state a corruption free and inclusive state.",
       "category": "Polity & Governance",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/cities/Tiruchirapalli/chief-minister-vijay-promises-an-inclusive-and-corruption-free-government/article71049289.ece",
+      "relevance_score": 0.8442,
+      "published_date": "2026-06-01"
+    },
+    {
+      "id": 4955,
+      "title": "Chief Minister Vijay promises inclusive and corruption-free government",
+      "summary": "• Vijay: I will make sure there is no corruption in the government.\n• I will also make sure that the state is run in a transparent and fair way.\n• I promise to make the state a corruption free and inclusive state.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-promises-an-inclusive-and-corruption-free-government/article71049289.ece",
       "relevance_score": 0.8442,
       "published_date": "2026-06-01"
     },
@@ -2191,22 +2251,22 @@
       "published_date": "2026-05-30"
     },
     {
-      "id": 4853,
-      "title": "Shubman Gill and Sai Sudharsan showed you can succeed in T20 playing traditional cricket | IPL Show",
-      "summary": "• IPL Show is a weekly cricket show hosted by CNN iReport.\n• Visit CNN.com/Cricket every Thursday for a new episode of the IPL show.\n• Click here for the latest IPL 2014 news and live updates from the show.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/videos/shubman-gill-and-sai-sudharsan-showed-you-can-succeed-in-t20-playing-traditional-cricket-ipl-show/article71040999.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-30"
-    },
-    {
       "id": 4830,
       "title": "Punjab election results: Green flag for AAP in civic body polls held using ballot paper, Congress distant second",
       "summary": "• Congress distant second in the vote count with Congress in third place.\n• Polls were held on a single-ballot basis with no use of electronic voting machines.\n• The results were announced on the last day of the municipal elections in Punjab.\n• The vote count was held on the second day of polling.",
       "category": "State News",
       "source": "LiveMint - Politics",
       "url": "https://www.livemint.com/politics/news/punjab-civic-body-election-results-aap-wins-congress-sad-bjp-voting-using-ballot-paper-11780103942442.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-30"
+    },
+    {
+      "id": 4853,
+      "title": "Shubman Gill and Sai Sudharsan showed you can succeed in T20 playing traditional cricket | IPL Show",
+      "summary": "• IPL Show is a weekly cricket show hosted by CNN iReport.\n• Visit CNN.com/Cricket every Thursday for a new episode of the IPL show.\n• Click here for the latest IPL 2014 news and live updates from the show.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/videos/shubman-gill-and-sai-sudharsan-showed-you-can-succeed-in-t20-playing-traditional-cricket-ipl-show/article71040999.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-30"
     },
@@ -2281,22 +2341,22 @@
       "published_date": "2026-05-30"
     },
     {
-      "id": 4876,
-      "title": "Harmanpreet Kaur after England vs India 2nd T20I: Too many dot balls cost us the game",
-      "summary": "• Kaur: 'Too many dot deliveries cost us in the game' 'We need to improve our bowling' says Kaur.\n• We need to get better as a team' says India skipper Virat Kohli.\n• 'I am disappointed with the way we lost the match'.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/womens-cricket/harmanpreet-kaur-says-too-many-dot-balls-cost-india-game-england-women-2nd-t20i/article71042580.ece",
-      "relevance_score": 0.8955,
-      "published_date": "2026-05-30"
-    },
-    {
       "id": 4833,
       "title": "Alphonso Davies in Canada’s World Cup squad despite hamstring injury",
       "summary": "• Davies was named in the squad despite suffering from the injury in training.\n• Davies is expected to make his World Cup debut against Costa Rica on June 14.\n• He has been named in Canada's squad for the tournament in South Africa, Brazil and Argentina.",
       "category": "Sports",
       "source": "The Hindu - Sport",
       "url": "https://www.thehindu.com/sport/football/alphonso-davies-in-canadas-world-cup-squad-despite-hamstring-injury/article71040358.ece",
+      "relevance_score": 0.8955,
+      "published_date": "2026-05-30"
+    },
+    {
+      "id": 4876,
+      "title": "Harmanpreet Kaur after England vs India 2nd T20I: Too many dot balls cost us the game",
+      "summary": "• Kaur: 'Too many dot deliveries cost us in the game' 'We need to improve our bowling' says Kaur.\n• We need to get better as a team' says India skipper Virat Kohli.\n• 'I am disappointed with the way we lost the match'.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/womens-cricket/harmanpreet-kaur-says-too-many-dot-balls-cost-india-game-england-women-2nd-t20i/article71042580.ece",
       "relevance_score": 0.8955,
       "published_date": "2026-05-30"
     },
@@ -2401,22 +2461,22 @@
       "published_date": "2026-05-30"
     },
     {
-      "id": 4834,
-      "title": "Meta eyes AI pendant as part of its ambitious new hardware strategy",
-      "summary": "• The company is working on a range of new products, including an AI-powered phone and a wearable device.\n• It is also working on its first self-driving car, which could be unveiled later this year.\n• The device will be powered by an artificial intelligence system, the company says.",
-      "category": "Science & Technology",
-      "source": "Indian Express - Technology",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-eyes-ai-pendant-as-part-of-its-ambitious-new-hardware-strategy-10715123/",
-      "relevance_score": 0.8558,
-      "published_date": "2026-05-30"
-    },
-    {
       "id": 4880,
       "title": "Meta eyes AI pendant as part of its ambitious new hardware strategy",
       "summary": "• The company is working on a range of new products, including an AI-powered phone and a wearable device.\n• It is also working on its first self-driving car, which could be unveiled later this year.\n• The device will be powered by an artificial intelligence system, the company says.",
       "category": "Science & Technology",
       "source": "Indian Express - Technology",
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-eyes-ai-pendant-as-part-of-its-ambitious-new-hardware-strategy-10715123/",
+      "relevance_score": 0.8558,
+      "published_date": "2026-05-30"
+    },
+    {
+      "id": 4834,
+      "title": "Meta eyes AI pendant as part of its ambitious new hardware strategy",
+      "summary": "• The company is working on a range of new products, including an AI-powered phone and a wearable device.\n• It is also working on its first self-driving car, which could be unveiled later this year.\n• The device will be powered by an artificial intelligence system, the company says.",
+      "category": "Science & Technology",
+      "source": "Indian Express - Technology",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-eyes-ai-pendant-as-part-of-its-ambitious-new-hardware-strategy-10715123/",
       "relevance_score": 0.8558,
       "published_date": "2026-05-30"
     },
@@ -2641,22 +2701,22 @@
       "published_date": "2026-05-29"
     },
     {
-      "id": 4776,
-      "title": "Sensex, Nifty crash over inflation concern on poor rain forecast",
-      "summary": "• Poor rain forecast is expected to hit India's monsoon rains in the next few days.\n• Sensex and Nifty down more than 1 per cent on the day.\n• Nifty falls more than 2 per cent, S&P 500 down 1.5 per cent to close at 2,715.50.\n• NSE down 1 percent, CAC down 1 percent, Dax down 1per cent.",
-      "category": "Economy & Banking",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/business/market/story/market-closing-bell-sensex-nifty-crash-over-inflation-concern-on-poor-rain-forecast-2919079-2026-05-29?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-29"
-    },
-    {
       "id": 4766,
       "title": "Supreme Court invokes Article 142, issues directions to high courts to prevent delays in judgments",
       "summary": "• Supreme Court invoked Article 142 to prevent delay in judgments by high courts.\n• High courts to be able to issue orders without delay, according to Article 142 of the Supreme Court of India Act, 2013.\n• The Supreme Court will issue orders by the end of the year, the court said in a statement.",
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/supreme-court-invokes-article-142-issues-directions-to-high-courts-to-prevent-delays-in-judgments/articleshow/131383014.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-29"
+    },
+    {
+      "id": 4776,
+      "title": "Sensex, Nifty crash over inflation concern on poor rain forecast",
+      "summary": "• Poor rain forecast is expected to hit India's monsoon rains in the next few days.\n• Sensex and Nifty down more than 1 per cent on the day.\n• Nifty falls more than 2 per cent, S&P 500 down 1.5 per cent to close at 2,715.50.\n• NSE down 1 percent, CAC down 1 percent, Dax down 1per cent.",
+      "category": "Economy & Banking",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/business/market/story/market-closing-bell-sensex-nifty-crash-over-inflation-concern-on-poor-rain-forecast-2919079-2026-05-29?utm_source=rss",
       "relevance_score": 0.91,
       "published_date": "2026-05-29"
     },
@@ -2761,22 +2821,22 @@
       "published_date": "2026-05-29"
     },
     {
-      "id": 4786,
-      "title": "Singapore Open badminton: Sindhu falls to An Se Young; Satwik-Chirag in semifinals",
-      "summary": "• Satwik and Chirag will play each other in the final on Sunday.\n• Click here for more from the Singapore Openbadminton.com.\n• CLICK HERE for all the latest Singapore Open news.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/other-sports/singapore-open-badminton-sindhu-falls-to-an-se-young-satwik-chirag-in-semifinals/article71036901.ece",
-      "relevance_score": 0.8492,
-      "published_date": "2026-05-29"
-    },
-    {
       "id": 4826,
       "title": "US Sees India As A 'New Centre Of Power', Says Envoy Sergio Gor",
       "summary": "• Gor: India is a 'new centre of power' in the world.\n• India has a population of more than 100 million people, according to the U.S. Embassy in New Delhi.\n• India is the second largest economy in the country.",
       "category": "International Relations",
       "source": "NDTV - World",
       "url": "https://www.ndtv.com/world-news/us-sees-india-as-a-new-centre-of-power-says-us-envoy-sergio-gor-11566387#publisher=newsstand",
+      "relevance_score": 0.8492,
+      "published_date": "2026-05-29"
+    },
+    {
+      "id": 4786,
+      "title": "Singapore Open badminton: Sindhu falls to An Se Young; Satwik-Chirag in semifinals",
+      "summary": "• Satwik and Chirag will play each other in the final on Sunday.\n• Click here for more from the Singapore Openbadminton.com.\n• CLICK HERE for all the latest Singapore Open news.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/other-sports/singapore-open-badminton-sindhu-falls-to-an-se-young-satwik-chirag-in-semifinals/article71036901.ece",
       "relevance_score": 0.8492,
       "published_date": "2026-05-29"
     },
@@ -3331,6 +3391,16 @@
       "published_date": "2026-05-27"
     },
     {
+      "id": 4643,
+      "title": "Texas election results: Who won the Senate, governor and attorney general primaries? Ken Paxton vs John Cornyn winner",
+      "summary": "• Ken Paxton vs John Cornyn winner for Senate.\n• Ted Cruz won the governor's race for the Republican Party.\n• Rick Perry won the Democratic Party's nomination for the Senate.\n• Rick Santorum won the Republican nomination for senator from Texas.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/us-news/texas-election-results-who-won-the-senate-governor-and-attorney-general-primaries-ken-paxton-vs-john-cornyn-winner-101779843025226.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-27"
+    },
+    {
       "id": 4655,
       "title": "Tamil Nadu Chief Minister Delhi Visit Live Updates: Vijay To Meet PM Modi, Congress Leaders In First Delhi Visit",
       "summary": "• Vijay to meet PM Modi and Congress leaders in first Delhi visit.\n• Tamil Nadu chief minister to meet Prime Minister Narendra Modi, other leaders in Delhi.\n• Vijayan to meet Congress leaders, other politicians in Delhi on Tuesday.\n• Tamil Tamil Nadu Chief minister to visit Delhi on Wednesday.",
@@ -3347,16 +3417,6 @@
       "category": "International Relations",
       "source": "News18 - World",
       "url": "https://www.news18.com/world/trump-aides-to-visit-india-monday-for-talks-on-india-us-bilateral-trade-agreement-ws-kl-10115882.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-27"
-    },
-    {
-      "id": 4643,
-      "title": "Texas election results: Who won the Senate, governor and attorney general primaries? Ken Paxton vs John Cornyn winner",
-      "summary": "• Ken Paxton vs John Cornyn winner for Senate.\n• Ted Cruz won the governor's race for the Republican Party.\n• Rick Perry won the Democratic Party's nomination for the Senate.\n• Rick Santorum won the Republican nomination for senator from Texas.",
-      "category": "Polity & Governance",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/us-news/texas-election-results-who-won-the-senate-governor-and-attorney-general-primaries-ken-paxton-vs-john-cornyn-winner-101779843025226.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-27"
     },
@@ -3481,22 +3541,22 @@
       "published_date": "2026-05-27"
     },
     {
-      "id": 4688,
-      "title": "Supreme Court upholds 28% GST, retrospective levy on online gaming firms",
-      "summary": "• Supreme Court upheld the 28% tax on online gambling firms in its ruling on Thursday.\n• The court also upheld a retrospective levy of up to $1.5 billion on the online gaming industry.\n• The case was heard in the Supreme Court's Appellate Division, which is made up of seven judges.\n• The verdict was delivered by Justice Ravi Agrawal, who was the chief justice.",
-      "category": "Economy & Banking",
-      "source": "LiveMint - Economy",
-      "url": "https://www.livemint.com/economy/setback-gaming-firms-supreme-court-28-gst-retrospective-tax-11779872657446.html",
-      "relevance_score": 0.8366,
-      "published_date": "2026-05-27"
-    },
-    {
       "id": 4681,
       "title": "NASA-European Sea Level Mission Homes in on El Niño",
       "summary": "• Mission is part of a larger effort to improve sea levels in the Pacific Ocean.\n• Mission will focus on sea level rise in the event of an El Niño in the eastern Pacific.\n• For more information on the mission, visit: http://www.nasa.gov/eslm.",
       "category": "Science & Technology",
       "source": "NASA",
       "url": "https://www.nasa.gov/missions/jason-cs-sentinel-6/sentinel-6-michael-freilich/nasa-european-sea-level-mission-homes-in-on-el-nino/",
+      "relevance_score": 0.8366,
+      "published_date": "2026-05-27"
+    },
+    {
+      "id": 4688,
+      "title": "Supreme Court upholds 28% GST, retrospective levy on online gaming firms",
+      "summary": "• Supreme Court upheld the 28% tax on online gambling firms in its ruling on Thursday.\n• The court also upheld a retrospective levy of up to $1.5 billion on the online gaming industry.\n• The case was heard in the Supreme Court's Appellate Division, which is made up of seven judges.\n• The verdict was delivered by Justice Ravi Agrawal, who was the chief justice.",
+      "category": "Economy & Banking",
+      "source": "LiveMint - Economy",
+      "url": "https://www.livemint.com/economy/setback-gaming-firms-supreme-court-28-gst-retrospective-tax-11779872657446.html",
       "relevance_score": 0.8366,
       "published_date": "2026-05-27"
     },
@@ -4621,22 +4681,22 @@
       "published_date": "2026-05-23"
     },
     {
-      "id": 4508,
-      "title": "Vande Mataram Row Explodes in Tamil Nadu as DMK and TVK Govt Clash Over Protocol | CM Vijay | News18",
-      "summary": "• The dispute reportedly centers around swearing-in protocol and the handling of the national song.\n• The DMK has strongly criticized the government’s approach, while leaders from the ruling side have hit back with sharp accusations and counterclaims.\n• The controversy has quickly evolved into a broader political battle involving questions of Tamil identity, nationalism, and governance.\n• Both parties accuse each other of politicizing cultural and constitutional issues.\n• A major political controversy has erupted in Tamil Nadu as the Vande Mataram row intensifies, triggering a sharp clash between the DMK and the ruling TVK government led by Chief Minister Vijay.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/vande-mataram-row-explodes-in-tamil-nadu-as-dmk-and-tvk-govt-clash-over-protocol-cm-vijay-news18-10108788.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-23"
-    },
-    {
       "id": 4478,
       "title": "Encounter breaks out between security forces, terrorists in J&amp;K's Rajouri, Op Sheruwali underway",
       "summary": "• Security forces and terrorists clash in Rajouri and Op SherUwali areas of J&K's Jammu and Kashmir.\n• No injuries have been reported in the incident so far, officials say.\n• The incident is being investigated by the J&P National Security Agency (JNSA).",
       "category": "National News",
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/india/jammu-kashmir-op-sheruwali-encounter-breaks-out-between-security-forces-terrorists-j-k-rajouri-latest-news-11779529657651.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-23"
+    },
+    {
+      "id": 4508,
+      "title": "Vande Mataram Row Explodes in Tamil Nadu as DMK and TVK Govt Clash Over Protocol | CM Vijay | News18",
+      "summary": "• The dispute reportedly centers around swearing-in protocol and the handling of the national song.\n• The DMK has strongly criticized the government’s approach, while leaders from the ruling side have hit back with sharp accusations and counterclaims.\n• The controversy has quickly evolved into a broader political battle involving questions of Tamil identity, nationalism, and governance.\n• Both parties accuse each other of politicizing cultural and constitutional issues.\n• A major political controversy has erupted in Tamil Nadu as the Vande Mataram row intensifies, triggering a sharp clash between the DMK and the ruling TVK government led by Chief Minister Vijay.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/vande-mataram-row-explodes-in-tamil-nadu-as-dmk-and-tvk-govt-clash-over-protocol-cm-vijay-news18-10108788.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-23"
     },
@@ -5331,22 +5391,22 @@
       "published_date": "2026-05-21"
     },
     {
-      "id": 4332,
-      "title": "Investors moving away from stocks, going for MFs: Sebi",
-      "summary": "• Sebi: Investors are moving towards MFs and away from stock markets.\n• Investors are also moving towards non-banking financial companies (NBFs) and short-term investment trusts (SIFs), Sebi says.\n• SIFs are seen as a safer alternative to stock markets, Sebi adds.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/investors-moving-away-from-stocks-going-for-mfs-sebi/articleshow/131237781.cms",
-      "relevance_score": 0.8973,
-      "published_date": "2026-05-21"
-    },
-    {
       "id": 4339,
       "title": "Andhra Pradesh races to finish 228 PM-KUSUM solar plants by December, says CS K. Vijayanand",
       "summary": "• Andhra Pradesh to build solar plants at a cost of more than $1.5 billion, he says.\n• The plants will be built at a total cost of over $1 billion, says the state's chief minister.\n• He says they will be completed by the end of the year.",
       "category": "Science & Technology",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-races-to-finish-228-pm-kusum-solar-plants-by-december-says-cs-k-vijayanand/article71001830.ece",
+      "relevance_score": 0.8973,
+      "published_date": "2026-05-21"
+    },
+    {
+      "id": 4332,
+      "title": "Investors moving away from stocks, going for MFs: Sebi",
+      "summary": "• Sebi: Investors are moving towards MFs and away from stock markets.\n• Investors are also moving towards non-banking financial companies (NBFs) and short-term investment trusts (SIFs), Sebi says.\n• SIFs are seen as a safer alternative to stock markets, Sebi adds.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/investors-moving-away-from-stocks-going-for-mfs-sebi/articleshow/131237781.cms",
       "relevance_score": 0.8973,
       "published_date": "2026-05-21"
     },
@@ -5681,16 +5741,6 @@
       "published_date": "2026-05-20"
     },
     {
-      "id": 4321,
-      "title": "The Double-Edged Shield: RBI Set To Unleash $5 Billion FX Swap To Defend Rupee, Boost Banking Liquidity",
-      "summary": "• The $5 billion FX Swap will be used to bolster the rupee's value against the US dollar.\n• The swap is expected to be completed by the end of the month.\n• It will be the first of its kind in the world, according to the Reserve Bank of India.",
-      "category": "Economy & Banking",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/business/banking-finance/the-double-edged-shield-rbi-set-to-unleash-5-billion-fx-swap-to-defend-rupee-boost-banking-liquidity-10102667.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-20"
-    },
-    {
       "id": 4308,
       "title": "Baldev Singh, architect of Shahabad hockey nursery, to be conferred Padma Shri",
       "summary": "• Singh is also the founder of the Shahabad Hockey Club.\n• He will be awarded the award for his contribution to the sport.\n• Singh will be given the award at a ceremony in Delhi on Friday.\n• He is also a member of the Indian Hockey Hall of Fame and the Indian National Hockey Association.",
@@ -5701,12 +5751,22 @@
       "published_date": "2026-05-20"
     },
     {
-      "id": 4293,
-      "title": "Delhi, UP, Rajasthan, Punjab &amp; more states sizzle in heatwave: What's fuelling temperature spike",
-      "summary": "• Delhi, UP, Rajasthan, Punjab &amp; more states sizzle in heatwave.\n• Here's what you need to know about the heatwave in India.\n• The heatwave is expected to last for the rest of the week, according to the Indian Bureau of Meteorology.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "State News",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/delhi-up-rajasthan-punjab-more-states-sizzle-in-heatwave-whats-fuelling-temperature-spike/articleshow/131220647.cms",
+      "id": 4277,
+      "title": "Rupee hits record low, Sensex falls 517 points and Nifty slips below 23,500 in early trade",
+      "summary": "• Sensex down 517, Nifty falls below 22,500; Niftydaq falls below 21,500.\n• Rupee hits a record low against US dollar; Sensex hits record high against dollar.\n• Nifty hits 22,000; NSE falls below 20,000, S&P falls below 2,400.",
+      "category": "Economy & Banking",
+      "source": "Indian Express - Business",
+      "url": "https://indianexpress.com/article/business/market/rupee-market-stocks-gift-nifty-cautious-open-10698749/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-20"
+    },
+    {
+      "id": 4321,
+      "title": "The Double-Edged Shield: RBI Set To Unleash $5 Billion FX Swap To Defend Rupee, Boost Banking Liquidity",
+      "summary": "• The $5 billion FX Swap will be used to bolster the rupee's value against the US dollar.\n• The swap is expected to be completed by the end of the month.\n• It will be the first of its kind in the world, according to the Reserve Bank of India.",
+      "category": "Economy & Banking",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/business/banking-finance/the-double-edged-shield-rbi-set-to-unleash-5-billion-fx-swap-to-defend-rupee-boost-banking-liquidity-10102667.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-20"
     },
@@ -5721,12 +5781,12 @@
       "published_date": "2026-05-20"
     },
     {
-      "id": 4277,
-      "title": "Rupee hits record low, Sensex falls 517 points and Nifty slips below 23,500 in early trade",
-      "summary": "• Sensex down 517, Nifty falls below 22,500; Niftydaq falls below 21,500.\n• Rupee hits a record low against US dollar; Sensex hits record high against dollar.\n• Nifty hits 22,000; NSE falls below 20,000, S&P falls below 2,400.",
-      "category": "Economy & Banking",
-      "source": "Indian Express - Business",
-      "url": "https://indianexpress.com/article/business/market/rupee-market-stocks-gift-nifty-cautious-open-10698749/",
+      "id": 4293,
+      "title": "Delhi, UP, Rajasthan, Punjab &amp; more states sizzle in heatwave: What's fuelling temperature spike",
+      "summary": "• Delhi, UP, Rajasthan, Punjab &amp; more states sizzle in heatwave.\n• Here's what you need to know about the heatwave in India.\n• The heatwave is expected to last for the rest of the week, according to the Indian Bureau of Meteorology.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/delhi-up-rajasthan-punjab-more-states-sizzle-in-heatwave-whats-fuelling-temperature-spike/articleshow/131220647.cms",
       "relevance_score": 0.91,
       "published_date": "2026-05-20"
     },
@@ -5901,22 +5961,22 @@
       "published_date": "2026-05-20"
     },
     {
-      "id": 4283,
-      "title": "DRDO completes final trials of ULPGM-V3 precision missile near Kurnool",
-      "summary": "• DRDO: ULPGm-V 3 precision missile will be used as part of India's missile force.\n• The missile will have a range of 2,000 km and will be armed with a high-tech warhead.\n• For more information, visit the DRDO's website at: http://www.drdo.gov.in.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/drdo-completes-final-trials-of-ulpgm-v3-precision-missile-near-kurnool/article71000664.ece",
-      "relevance_score": 0.858,
-      "published_date": "2026-05-20"
-    },
-    {
       "id": 4275,
       "title": "DRDO completes final trials of ULPGM-V3 precision missile near Kurnool",
       "summary": "• DRDO: ULPGm-V 3 precision missile will be used as part of India's missile force.\n• The missile will have a range of 2,000 km and will be armed with a high-tech warhead.\n• For more information, visit the DRDO's website at: http://www.drdo.gov.in.",
       "category": "Polity & Governance",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/elections/andhra-pradesh-assembly/drdo-completes-final-trials-of-ulpgm-v3-precision-missile-near-kurnool/article71000664.ece",
+      "relevance_score": 0.858,
+      "published_date": "2026-05-20"
+    },
+    {
+      "id": 4283,
+      "title": "DRDO completes final trials of ULPGM-V3 precision missile near Kurnool",
+      "summary": "• DRDO: ULPGm-V 3 precision missile will be used as part of India's missile force.\n• The missile will have a range of 2,000 km and will be armed with a high-tech warhead.\n• For more information, visit the DRDO's website at: http://www.drdo.gov.in.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/drdo-completes-final-trials-of-ulpgm-v3-precision-missile-near-kurnool/article71000664.ece",
       "relevance_score": 0.858,
       "published_date": "2026-05-20"
     },
@@ -6031,22 +6091,22 @@
       "published_date": "2026-05-20"
     },
     {
-      "id": 4285,
-      "title": "Xi calls for immediate end to all hostilities in West Asia",
-      "summary": "• Xi calls for an end to \"all hostilities\" in the Middle East.\n• China has been at war with Iran, North Korea, and other nations in the region since the start of the Syrian civil war in 2003.\n• China is also at odds with the United States, which has been involved in the war in Iraq and Syria.",
-      "category": "International Relations",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/us-news/xi-calls-for-immediate-end-to-all-hostilities-in-west-asia-101779259783989.html",
-      "relevance_score": 0.8178,
-      "published_date": "2026-05-20"
-    },
-    {
       "id": 4301,
       "title": "Xi calls for immediate end to all hostilities in West Asia",
       "summary": "• Xi calls for an end to \"all hostilities\" in the Middle East.\n• China has been at war with Iran, North Korea, and other nations in the region since the start of the Syrian civil war in 2003.\n• China is also at odds with the United States, which has been involved in the war in Iraq and Syria.",
       "category": "International Relations",
       "source": "The Hindu - International",
       "url": "https://www.thehindu.com/news/international/xi-calls-for-immediate-end-to-all-hostilities-in-west-asia/article71002287.ece",
+      "relevance_score": 0.8178,
+      "published_date": "2026-05-20"
+    },
+    {
+      "id": 4285,
+      "title": "Xi calls for immediate end to all hostilities in West Asia",
+      "summary": "• Xi calls for an end to \"all hostilities\" in the Middle East.\n• China has been at war with Iran, North Korea, and other nations in the region since the start of the Syrian civil war in 2003.\n• China is also at odds with the United States, which has been involved in the war in Iraq and Syria.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/us-news/xi-calls-for-immediate-end-to-all-hostilities-in-west-asia-101779259783989.html",
       "relevance_score": 0.8178,
       "published_date": "2026-05-20"
     },
@@ -7051,22 +7111,22 @@
       "published_date": "2026-05-17"
     },
     {
-      "id": 4121,
-      "title": "Assam school students learn hands-on water quality testing",
-      "summary": "• WQT tests water quality in the state's rivers, streams and creeks.\n• The school also conducts water quality tests in the nearby state of Arunachal Pradesh.\n• The students also conduct water quality checks in the neighbouring state of Tripura.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/assam/assam-school-students-learn-hands-on-water-quality-testing/article70990189.ece",
-      "relevance_score": 0.8077,
-      "published_date": "2026-05-17"
-    },
-    {
       "id": 4141,
       "title": "Aaron Rai prize money: PGA Championship winner to bag huge sum after shocker. Purse details out",
       "summary": "• Purse details out for Rai, who will receive a total of $1.2 million.\n• Rai will receive his prize money after winning the tournament on Sunday.\n• The winner will be announced at a press conference later in the day.\n• For more information on the prize money, visit golfgolf.com.",
       "category": "Sports",
       "source": "Hindustan Times - Sports",
       "url": "https://www.hindustantimes.com/sports/us-sports/aaron-rai-prize-money-career-earnings-pga-championship-winner-to-bag-huge-sum-after-shocker-purse-details-out-101779058722745.html",
+      "relevance_score": 0.8077,
+      "published_date": "2026-05-17"
+    },
+    {
+      "id": 4121,
+      "title": "Assam school students learn hands-on water quality testing",
+      "summary": "• WQT tests water quality in the state's rivers, streams and creeks.\n• The school also conducts water quality tests in the nearby state of Arunachal Pradesh.\n• The students also conduct water quality checks in the neighbouring state of Tripura.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/assam/assam-school-students-learn-hands-on-water-quality-testing/article70990189.ece",
       "relevance_score": 0.8077,
       "published_date": "2026-05-17"
     },
@@ -7481,22 +7541,22 @@
       "published_date": "2026-05-15"
     },
     {
-      "id": 4052,
-      "title": "'India stands shoulder-to-shoulder with UAE': PM Modi in Abu Dhabi, condemns attacks, signs strategic defence pact",
-      "summary": "• 'India stands shoulder-to-shoulder with UAE': PM Modi in Abu Dhabi.\n• PM Modi condemns attacks, signs strategic defence pact with the UAE.\n• India and the UAE have been at odds for years over the Kashmir issue.\n• The two countries have signed a defence pact in response to a series of attacks in the past year.\n• The UAE and India have also signed a strategic defence agreement.",
-      "category": "International Relations",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/india-stands-shoulder-to-shoulder-with-uae-pm-modi-in-abu-dhabi-condemns-attacks-signs-strategic-defence-pact/articleshow/131114128.cms",
-      "relevance_score": 0.8394,
-      "published_date": "2026-05-15"
-    },
-    {
       "id": 4032,
       "title": "Xi, Trump reach series of new common understandings: China's foreign ministry",
       "summary": "• Xi, Trump have a long history of working closely together, including on trade and North Korea.\n• China is the world's second largest economy, after the U.S. and second largest in the world.\n• China has a population of more than 1.2 billion people, with more than 300 million people living in the country.",
       "category": "International Relations",
       "source": "The Hindu - International",
       "url": "https://www.thehindu.com/news/international/xi-trump-reach-series-of-new-common-understandings-chinas-foreign-ministry/article70981556.ece",
+      "relevance_score": 0.8394,
+      "published_date": "2026-05-15"
+    },
+    {
+      "id": 4052,
+      "title": "'India stands shoulder-to-shoulder with UAE': PM Modi in Abu Dhabi, condemns attacks, signs strategic defence pact",
+      "summary": "• 'India stands shoulder-to-shoulder with UAE': PM Modi in Abu Dhabi.\n• PM Modi condemns attacks, signs strategic defence pact with the UAE.\n• India and the UAE have been at odds for years over the Kashmir issue.\n• The two countries have signed a defence pact in response to a series of attacks in the past year.\n• The UAE and India have also signed a strategic defence agreement.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/india-stands-shoulder-to-shoulder-with-uae-pm-modi-in-abu-dhabi-condemns-attacks-signs-strategic-defence-pact/articleshow/131114128.cms",
       "relevance_score": 0.8394,
       "published_date": "2026-05-15"
     },
@@ -8321,22 +8381,22 @@
       "published_date": "2026-05-13"
     },
     {
-      "id": 3960,
-      "title": "India Innovation Day: Leading innovators & investors set to participate in TiE Delhi-NCR",
-      "summary": "• TiE is a leading innovation and investment platform in India.\n• It is based in New Delhi and has offices in Mumbai, Bangalore, Hyderabad and Pune.\n• It aims to bring together innovators and investors from across the country.",
-      "category": "Science & Technology",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/india-innovation-day-leading-innovators-investors-set-to-participate-in-tie-delhix-ncr-3047179.html",
-      "relevance_score": 0.81,
-      "published_date": "2026-05-13"
-    },
-    {
       "id": 3943,
       "title": "India should have stepped into vacuum left by U.S. as guarantor of security in West Asia: Talmiz Ahmad",
       "summary": "• Ahmad: India should have taken over role of U.N.\n• Security Council member in charge of Middle East peacekeeping operations.\n• He says India should also have taken charge of the UN Security Council mission in Iraq, which is currently being led by the United Arab Emirates.",
       "category": "International Relations",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/cities/chennai/india-should-have-stepped-into-vacuum-left-by-us-as-guarantor-of-security-in-west-asia-talmiz-ahmad/article70973440.ece",
+      "relevance_score": 0.81,
+      "published_date": "2026-05-13"
+    },
+    {
+      "id": 3960,
+      "title": "India Innovation Day: Leading innovators & investors set to participate in TiE Delhi-NCR",
+      "summary": "• TiE is a leading innovation and investment platform in India.\n• It is based in New Delhi and has offices in Mumbai, Bangalore, Hyderabad and Pune.\n• It aims to bring together innovators and investors from across the country.",
+      "category": "Science & Technology",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/india-innovation-day-leading-innovators-investors-set-to-participate-in-tie-delhix-ncr-3047179.html",
       "relevance_score": 0.81,
       "published_date": "2026-05-13"
     },
@@ -8371,22 +8431,22 @@
       "published_date": "2026-05-12"
     },
     {
-      "id": 3879,
-      "title": "Weather update: Rain & dust storms in Delhi-NCR and Haryana, heatwave alert for Rajasthan",
-      "summary": "• Heatwave alert is in effect for parts of Rajasththan and Jammu and Kashmir.\n• Rain and dust storms are also expected in Delhi and NCR.\n• Heat wave alert is also in place for Jammu & Kashmir and J&K.",
-      "category": "State News",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/delhi-ncr-dust-storm-rain-alert-rajasthan-heatwave-imd-forecast-3046637.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-12"
-    },
-    {
       "id": 3897,
       "title": "AICC begins consultations with Kerala leaders in New Delhi to decide on Congress’ Chief Minister candidate",
       "summary": "• AICC will hold talks with state leaders before deciding on a candidate for the post of Chief Minister of Kerala.\n• The meeting is expected to take place in the next few days.\n• The candidate will be chosen by a panel of senior party leaders and state leaders.\n• The final decision will be made in the coming days.",
       "category": "State News",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/kerala/aicc-begins-consultations-with-kerala-leaders-in-new-delhi-to-decide-on-congress-chief-minister-candidate/article70968619.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-12"
+    },
+    {
+      "id": 3879,
+      "title": "Weather update: Rain & dust storms in Delhi-NCR and Haryana, heatwave alert for Rajasthan",
+      "summary": "• Heatwave alert is in effect for parts of Rajasththan and Jammu and Kashmir.\n• Rain and dust storms are also expected in Delhi and NCR.\n• Heat wave alert is also in place for Jammu & Kashmir and J&K.",
+      "category": "State News",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/delhi-ncr-dust-storm-rain-alert-rajasthan-heatwave-imd-forecast-3046637.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-12"
     },
@@ -8931,22 +8991,22 @@
       "published_date": "2026-05-10"
     },
     {
-      "id": 3799,
-      "title": "Uttar Pradesh integrates solar energy system with rural water supply under Jal Jeevan Mission",
-      "summary": "• U.S. State Department has been working with Uttar Pradesh to integrate solar energy with water supply in the state.\n• The project is part of a larger mission to connect rural areas with clean energy and water.\n• The state government has also been working on a project to connect solar energy to rural water supplies.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-integrates-solar-energy-system-with-rural-water-supply-under-jal-jeevan-mission/article70959790.ece",
-      "relevance_score": 0.8712,
-      "published_date": "2026-05-10"
-    },
-    {
       "id": 3817,
       "title": "Congress yet to decide Kerala CM: How long can it take under the Constitution",
       "summary": "• Kerala has been without a chief minister for more than a decade.\n• The state has been ruled by the Communist Party of India (Marxist) and the Communist Socialist Party (CSPI) for the past three decades.\n• Kerala has a history of electing its own chief ministers.\n• The current chief minister has been in office since May 2013.",
       "category": "Polity & Governance",
       "source": "Indian Express - Explained",
       "url": "https://indianexpress.com/article/explained/explained-politics/congress-kerala-cm-how-long-to-decide-under-constitution-10682736/",
+      "relevance_score": 0.8712,
+      "published_date": "2026-05-10"
+    },
+    {
+      "id": 3799,
+      "title": "Uttar Pradesh integrates solar energy system with rural water supply under Jal Jeevan Mission",
+      "summary": "• U.S. State Department has been working with Uttar Pradesh to integrate solar energy with water supply in the state.\n• The project is part of a larger mission to connect rural areas with clean energy and water.\n• The state government has also been working on a project to connect solar energy to rural water supplies.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-integrates-solar-energy-system-with-rural-water-supply-under-jal-jeevan-mission/article70959790.ece",
       "relevance_score": 0.8712,
       "published_date": "2026-05-10"
     },
@@ -9291,26 +9351,6 @@
       "published_date": "2026-05-08"
     },
     {
-      "id": 3733,
-      "title": "Tamil Nadu govt formation news LIVE: Smaller parties to decide on backing Vijay today; protests erupt against governor",
-      "summary": "• Protests erupt against governor Vijay, who has been in power since May.\n• Tamil Nadu governor to be sworn-in as Tamil Nadu chief minister on Thursday.\n• Vijay's party is expected to win majority in the state's assembly elections on May 25.\n• The state assembly will elect a new governor on May 26.",
-      "category": "Polity & Governance",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/tamil-nadu-government-formation-live-updates-c-joseph-vijay-tvk-majority-mark-congress-governor-arlekar-election-results-101778201092486.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-08"
-    },
-    {
-      "id": 3787,
-      "title": "Tamil Nadu Government Formation LIVE Updates: Vijay to take oath as chief minister tomorrow as TVK secures majority support",
-      "summary": "• Vijay will be sworn in as Tamil Nadu's chief minister at 11:30am tomorrow.\n• Tamil Nadu to hold general elections on May 25, followed by state assembly elections on June 18.\n• Tamil state to hold state elections on July 25, August 25, and September 25.",
-      "category": "State News",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/tamil-nadu-government-formation-live-updates-tvk-vijay-party-alliance-stalin-dmk-aiadmk-10678643/",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-08"
-    },
-    {
       "id": 3729,
       "title": "FIFA triples price to $32,970 for its best available tickets to the World Cup final",
       "summary": "• Tickets are available for Brazil vs. Germany in the final on Sunday, July 14.\n• FIFA is selling tickets for the final at a rate of about $1,000 per ticket.\n• The World Cup is the most lucrative sporting event in the world, taking place in Brazil every four years.",
@@ -9337,6 +9377,26 @@
       "category": "Polity & Governance",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/scst-representation-beyond-reserved-seats-still-remains-limited-show-tn-assembly-election-results/article70956416.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-08"
+    },
+    {
+      "id": 3787,
+      "title": "Tamil Nadu Government Formation LIVE Updates: Vijay to take oath as chief minister tomorrow as TVK secures majority support",
+      "summary": "• Vijay will be sworn in as Tamil Nadu's chief minister at 11:30am tomorrow.\n• Tamil Nadu to hold general elections on May 25, followed by state assembly elections on June 18.\n• Tamil state to hold state elections on July 25, August 25, and September 25.",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/tamil-nadu-government-formation-live-updates-tvk-vijay-party-alliance-stalin-dmk-aiadmk-10678643/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-08"
+    },
+    {
+      "id": 3733,
+      "title": "Tamil Nadu govt formation news LIVE: Smaller parties to decide on backing Vijay today; protests erupt against governor",
+      "summary": "• Protests erupt against governor Vijay, who has been in power since May.\n• Tamil Nadu governor to be sworn-in as Tamil Nadu chief minister on Thursday.\n• Vijay's party is expected to win majority in the state's assembly elections on May 25.\n• The state assembly will elect a new governor on May 26.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/tamil-nadu-government-formation-live-updates-c-joseph-vijay-tvk-majority-mark-congress-governor-arlekar-election-results-101778201092486.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-08"
     },
@@ -9571,12 +9631,12 @@
       "published_date": "2026-05-07"
     },
     {
-      "id": 3703,
-      "title": "Floor Test Or Governor’s Call? How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse",
-      "summary": "• How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse.\n• Tamil Nadu impasse is a result of a Supreme Court ruling on the validity of the state's floor test.\n• The court ruled that the floor test should be used to determine the legitimacy of Tamil Nadu's political system.\n• The verdict was upheld by the Supreme Court on Tuesday.",
+      "id": 3596,
+      "title": "IMD warns of wild weather shift in 13 states: Delhi to heat up; UP, Bihar, Kerala, Bengal brace for severe conditions",
+      "summary": "• IMD: Weather will turn from dry to wet in a matter of hours.\n• Weather could turn from rainy to dry within a few hours, it adds.\n• The IMD has issued a weather alert for 13 states, including Delhi and Mumbai.",
       "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/floor-test-or-governors-call-how-past-cases-from-goa-to-karnataka-frame-tamil-nadu-impasse-10079397.html",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/imd-warns-of-wild-weather-shift-in-13-states-delhi-to-heat-up-up-bihar-kerala-bengal-brace-for-severe-conditions-11778118359670.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-07"
     },
@@ -9601,12 +9661,12 @@
       "published_date": "2026-05-07"
     },
     {
-      "id": 3596,
-      "title": "IMD warns of wild weather shift in 13 states: Delhi to heat up; UP, Bihar, Kerala, Bengal brace for severe conditions",
-      "summary": "• IMD: Weather will turn from dry to wet in a matter of hours.\n• Weather could turn from rainy to dry within a few hours, it adds.\n• The IMD has issued a weather alert for 13 states, including Delhi and Mumbai.",
+      "id": 3703,
+      "title": "Floor Test Or Governor’s Call? How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse",
+      "summary": "• How Past Cases From Goa To Karnataka Frame Tamil Nadu Impasse.\n• Tamil Nadu impasse is a result of a Supreme Court ruling on the validity of the state's floor test.\n• The court ruled that the floor test should be used to determine the legitimacy of Tamil Nadu's political system.\n• The verdict was upheld by the Supreme Court on Tuesday.",
       "category": "State News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/imd-warns-of-wild-weather-shift-in-13-states-delhi-to-heat-up-up-bihar-kerala-bengal-brace-for-severe-conditions-11778118359670.html",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/floor-test-or-governors-call-how-past-cases-from-goa-to-karnataka-frame-tamil-nadu-impasse-10079397.html",
       "relevance_score": 0.91,
       "published_date": "2026-05-07"
     },
@@ -9931,22 +9991,22 @@
       "published_date": "2026-05-06"
     },
     {
-      "id": 3531,
-      "title": "Ballots of change: Gen-z finally said they want more through Bengal, Tamil Nadu, Assam, and Kerala poll results",
-      "summary": "• Polls were held on November 28 and 29, 2014.\n• Results will be announced on December 11 and 14, 2014, at 8am and 9am respectively.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "State News",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/ballots-of-change-gen-z-finally-said-they-want-more-through-bengal-tamil-nadu-assam-and-kerala-poll-results-3044976.html",
-      "relevance_score": 0.94,
-      "published_date": "2026-05-06"
-    },
-    {
       "id": 3570,
       "title": "Tamil Nadu Election Results 2026 Live: Vijay Wasn't Able To Prove He Has Numbers For Majority: Sources",
       "summary": "• Vijay was not able to prove he has numbers for majority, sources say.\n• Tamil Nadu election results 2026 live: See how to watch the live coverage here.\n• CLICK HERE for live updates on the election results.",
       "category": "State News",
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/tamil-nadu-election-results-2026-live-updates-vijay-tvk-government-vijay-oath-taking-ceremony-tvk-cabinet-congress-dmk-mk-stalin-aiadmk-rahul-gandhi-b-11455021#publisher=newsstand",
+      "relevance_score": 0.94,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3531,
+      "title": "Ballots of change: Gen-z finally said they want more through Bengal, Tamil Nadu, Assam, and Kerala poll results",
+      "summary": "• Polls were held on November 28 and 29, 2014.\n• Results will be announced on December 11 and 14, 2014, at 8am and 9am respectively.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/ballots-of-change-gen-z-finally-said-they-want-more-through-bengal-tamil-nadu-assam-and-kerala-poll-results-3044976.html",
       "relevance_score": 0.94,
       "published_date": "2026-05-06"
     },
@@ -9991,42 +10051,12 @@
       "published_date": "2026-05-06"
     },
     {
-      "id": 3583,
-      "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
-      "summary": "• Rubio will also attend the Quad Foreign Minister’s meeting in Washington, D.C.\n• Rubio will be accompanied by his wife, Sen.\n• The trip will take place between May 20 and May 22.",
-      "category": "International Relations",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3554,
-      "title": "Bengal Election Results 2026 Live Updates: Suvendu Adhikari To Vacate One Of Two Assembly Seats Won In 10 Days",
-      "summary": "• Biju Janata Dal (BJD) Will Be The First Opposition Party To Win A Majority In The State.\n• BJD Will Be In Opposition For The First Time In 20 years.\n• Bajratiya Janata Party (BSP) To Be The Third Party To Be In The Assembly.",
-      "category": "Polity & Governance",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/bengal-assembly-election-results-2026-live-updates-mamata-banerjee-resignation-bjp-tmc-suvendu-adhikari-trinamool-pm-modi-11455113#publisher=newsstand",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-06"
-    },
-    {
       "id": 3544,
       "title": "West Bengal election results: Full list of winners",
       "summary": "• Click here to see the full list of candidates and winners.\n• CLICK HERE to view the complete list of winning candidates and their names.\n• Click HERE to read the complete election results for West Bengal on Sunday, March 25.\n• CLICK here to read it on Monday, March 26.\n• CLICK Here to see it on Tuesday, March 27.",
       "category": "State News",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-results-2026-full-list-of-winners/article70937132.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3560,
-      "title": "Sebi sets Rs 20,000 crore threshold for ‘significant indices’; Sensex, Nifty among benchmarks covered",
-      "summary": "• Sensex and Nifty were among the key benchmarks covered by Sebi on Monday.\n• Sebi has set a threshold for 'significant indices' to be included in benchmark indices.\n• The threshold has been set at Rs20,000 for the first time.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-sets-rs-20000-crore-threshold-for-significant-indices-sensex-nifty-among-benchmarks-covered/articleshow/130852653.cms",
       "relevance_score": 0.91,
       "published_date": "2026-05-06"
     },
@@ -10047,6 +10077,36 @@
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/wave-of-change-rolls-over-three-states-sweeps-away-two-cms-50-ministers/articleshow/130841651.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3583,
+      "title": "Rubio to visit India for bilateral talks; Quad Foreign Ministers’ meeting May-end",
+      "summary": "• Rubio will also attend the Quad Foreign Minister’s meeting in Washington, D.C.\n• Rubio will be accompanied by his wife, Sen.\n• The trip will take place between May 20 and May 22.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/rubio-to-visit-india-for-bilateral-talks-quad-foreign-ministers-meeting-may-end/article70948359.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3554,
+      "title": "Bengal Election Results 2026 Live Updates: Suvendu Adhikari To Vacate One Of Two Assembly Seats Won In 10 Days",
+      "summary": "• Biju Janata Dal (BJD) Will Be The First Opposition Party To Win A Majority In The State.\n• BJD Will Be In Opposition For The First Time In 20 years.\n• Bajratiya Janata Party (BSP) To Be The Third Party To Be In The Assembly.",
+      "category": "Polity & Governance",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/bengal-assembly-election-results-2026-live-updates-mamata-banerjee-resignation-bjp-tmc-suvendu-adhikari-trinamool-pm-modi-11455113#publisher=newsstand",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3560,
+      "title": "Sebi sets Rs 20,000 crore threshold for ‘significant indices’; Sensex, Nifty among benchmarks covered",
+      "summary": "• Sensex and Nifty were among the key benchmarks covered by Sebi on Monday.\n• Sebi has set a threshold for 'significant indices' to be included in benchmark indices.\n• The threshold has been set at Rs20,000 for the first time.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sebi-sets-rs-20000-crore-threshold-for-significant-indices-sensex-nifty-among-benchmarks-covered/articleshow/130852653.cms",
       "relevance_score": 0.91,
       "published_date": "2026-05-06"
     },
@@ -10191,22 +10251,22 @@
       "published_date": "2026-05-06"
     },
     {
-      "id": 3557,
-      "title": "Why industrial heat pumps are a ‘clean heat’ opportunity for India",
-      "summary": "• India is one of the fastest growing economies in the world, with a population of more than 1.2 billion people.\n• The country is also the fastest-growing economy in the Asia-Pacific region, according to the World Bank.\n• India has the highest percentage of people living in urban areas, and the highest proportion of people in rural areas.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-industrial-heat-pumps-are-a-clean-heat-opportunity-for-india/article70946433.ece",
-      "relevance_score": 0.8428,
-      "published_date": "2026-05-06"
-    },
-    {
       "id": 3542,
       "title": "India set for hypersonic missiles soon: Double the speed of BrahMos, no defence system can stop them",
       "summary": "• BrahMos will be able to reach speeds of more than 100 miles per hour.\n• India is also working on a missile system that will be capable of reaching speeds of up to 100 miles an hour.\n• It will be called BrahMos-2 and will be part of India's missile fleet.",
       "category": "Science & Technology",
       "source": "Zee News - India",
       "url": "https://zeenews.india.com/india/india-set-for-hypersonic-missiles-soon-double-the-speed-of-brahmos-no-defence-system-can-stop-them-3044994.html",
+      "relevance_score": 0.8428,
+      "published_date": "2026-05-06"
+    },
+    {
+      "id": 3557,
+      "title": "Why industrial heat pumps are a ‘clean heat’ opportunity for India",
+      "summary": "• India is one of the fastest growing economies in the world, with a population of more than 1.2 billion people.\n• The country is also the fastest-growing economy in the Asia-Pacific region, according to the World Bank.\n• India has the highest percentage of people living in urban areas, and the highest proportion of people in rural areas.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/why-industrial-heat-pumps-are-a-clean-heat-opportunity-for-india/article70946433.ece",
       "relevance_score": 0.8428,
       "published_date": "2026-05-06"
     },
@@ -10391,12 +10451,12 @@
       "published_date": "2026-05-05"
     },
     {
-      "id": 3661,
-      "title": "IMF World Economic Outlook Projects India GDP at 6.8 Percent",
-      "summary": "• The IMF's World Economic Outlook projected India's GDP growth at 6.8% for 2026-27.\n• India remains the fastest-growing major economy globally according to the report.\n• Strong domestic consumption and infrastructure investment were cited as key drivers.\n• Global growth was projected at 3.2% amid geopolitical uncertainties.\n• The report flagged inflation and debt levels as risks for emerging markets.\n• India's current account deficit is expected to remain manageable at 1.4% of GDP.",
-      "category": "Reports & Indices",
-      "source": "IMF",
-      "url": "https://www.imf.org/en/Publications/WEO/2026",
+      "id": 3414,
+      "title": "Assembly Elections 2026: BJP leads West Bengal, TVK storms Tamil Nadu, UDF returns in Kerala",
+      "summary": "• Assembly elections in Kerala to be held in 2026, says Kerala United Democratic Party (Kerala UDF) chief.\n• Kerala UDF has been in power for more than 30 years, but has never won an assembly seat.\n• Kerala has been ruled by the UDF since the late 1980s.",
+      "category": "State News",
+      "source": "Frontline Magazine",
+      "url": "https://frontline.thehindu.com/the-nation/assembly-results-bjp-vijay-udf-surge/article70937836.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-05"
     },
@@ -10411,22 +10471,22 @@
       "published_date": "2026-05-05"
     },
     {
+      "id": 3661,
+      "title": "IMF World Economic Outlook Projects India GDP at 6.8 Percent",
+      "summary": "• The IMF's World Economic Outlook projected India's GDP growth at 6.8% for 2026-27.\n• India remains the fastest-growing major economy globally according to the report.\n• Strong domestic consumption and infrastructure investment were cited as key drivers.\n• Global growth was projected at 3.2% amid geopolitical uncertainties.\n• The report flagged inflation and debt levels as risks for emerging markets.\n• India's current account deficit is expected to remain manageable at 1.4% of GDP.",
+      "category": "Reports & Indices",
+      "source": "IMF",
+      "url": "https://www.imf.org/en/Publications/WEO/2026",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-05"
+    },
+    {
       "id": 3516,
       "title": "Salman Khurshid backs Mamata Banerjee, raises questions over Bengal, Assam election results - 'we felt that too'",
       "summary": "• He says 'we felt that too' and that the results were 'unfavourable' for the ruling Trinamool Congress party.\n• He adds: 'We felt it was not fair to the people of Bengal and Assam.\n• It was a setback for the party and for the state'.",
       "category": "State News",
       "source": "LiveMint - Politics",
       "url": "https://www.livemint.com/politics/news/salman-khurshid-backs-mamata-banerjee-raises-questions-over-bengal-assam-election-results-we-felt-that-too-cm-tmc-11777993435990.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-05"
-    },
-    {
-      "id": 3414,
-      "title": "Assembly Elections 2026: BJP leads West Bengal, TVK storms Tamil Nadu, UDF returns in Kerala",
-      "summary": "• Assembly elections in Kerala to be held in 2026, says Kerala United Democratic Party (Kerala UDF) chief.\n• Kerala UDF has been in power for more than 30 years, but has never won an assembly seat.\n• Kerala has been ruled by the UDF since the late 1980s.",
-      "category": "State News",
-      "source": "Frontline Magazine",
-      "url": "https://frontline.thehindu.com/the-nation/assembly-results-bjp-vijay-udf-surge/article70937836.ece",
       "relevance_score": 0.91,
       "published_date": "2026-05-05"
     },
@@ -10461,22 +10521,22 @@
       "published_date": "2026-05-05"
     },
     {
-      "id": 3521,
-      "title": "Skeet shooters miss out on final spots in ISSF World Cup Shotgun",
-      "summary": "• Shooters fail to qualify for final four spots in the ISSF Shotgun World Cup.\n• The final four places will be decided at a later stage of the competition.\n• Click here for more information on the ISSF World Cup in Shotgun event in South Africa in May and June.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/other-sports/skeet-shooters-miss-out-on-final-spots-in-issf-world-cup-shotgun/article70944756.ece",
-      "relevance_score": 0.8909,
-      "published_date": "2026-05-05"
-    },
-    {
       "id": 3486,
       "title": "Skeet shooters miss out on final spots in ISSF World Cup Shotgun",
       "summary": "• Shooters fail to qualify for final four spots in the ISSF Shotgun World Cup.\n• The final four places will be decided at a later stage of the competition.\n• Click here for more information on the ISSF World Cup in Shotgun event in South Africa in May and June.",
       "category": "Sports",
       "source": "Hindustan Times - Sports",
       "url": "https://www.hindustantimes.com/sports/others/skeet-shooters-miss-out-on-final-spots-in-issf-world-cup-shotgun-101777981156384.html",
+      "relevance_score": 0.8909,
+      "published_date": "2026-05-05"
+    },
+    {
+      "id": 3521,
+      "title": "Skeet shooters miss out on final spots in ISSF World Cup Shotgun",
+      "summary": "• Shooters fail to qualify for final four spots in the ISSF Shotgun World Cup.\n• The final four places will be decided at a later stage of the competition.\n• Click here for more information on the ISSF World Cup in Shotgun event in South Africa in May and June.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/other-sports/skeet-shooters-miss-out-on-final-spots-in-issf-world-cup-shotgun/article70944756.ece",
       "relevance_score": 0.8909,
       "published_date": "2026-05-05"
     },
@@ -10681,12 +10741,12 @@
       "published_date": "2026-05-04"
     },
     {
-      "id": 3469,
-      "title": "West Bengal Assembly Election Results 2026 Winners: BJP wins 207 seats, TMC 80 – Check Constituency-Wise, Party-Wise Full List",
-      "summary": "• West Bengal Assembly election results 2026: BJP won 207 seats.\n• TMC won 80 seats, BJP won 78 seats.\n• Click here to see the full list of seats.",
+      "id": 3471,
+      "title": "Tamil Nadu Assembly Election Results 2026 Winners: TVK secures 108 seats; DMK wins 59 — check constituency-wise",
+      "summary": "• TVK won 108 seats, DMK won 59 seats in the 2026 Tamil Nadu Assembly elections.\n• Tamil Nadu held its first ever general election on November 25, 2013.\n• The result was a victory for the Communist Party of India (CPI) and the ruling Tamil Nadu Communist Party (TDP).",
       "category": "State News",
       "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/west-bengal-assembly-election-results-2026-winners-constituency-wise-seat-wise-full-list-10665665/",
+      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-winners-list-constituency-wise-seat-wise-10664508/",
       "relevance_score": 0.95,
       "published_date": "2026-05-04"
     },
@@ -10701,12 +10761,12 @@
       "published_date": "2026-05-04"
     },
     {
-      "id": 3471,
-      "title": "Tamil Nadu Assembly Election Results 2026 Winners: TVK secures 108 seats; DMK wins 59 — check constituency-wise",
-      "summary": "• TVK won 108 seats, DMK won 59 seats in the 2026 Tamil Nadu Assembly elections.\n• Tamil Nadu held its first ever general election on November 25, 2013.\n• The result was a victory for the Communist Party of India (CPI) and the ruling Tamil Nadu Communist Party (TDP).",
+      "id": 3469,
+      "title": "West Bengal Assembly Election Results 2026 Winners: BJP wins 207 seats, TMC 80 – Check Constituency-Wise, Party-Wise Full List",
+      "summary": "• West Bengal Assembly election results 2026: BJP won 207 seats.\n• TMC won 80 seats, BJP won 78 seats.\n• Click here to see the full list of seats.",
       "category": "State News",
       "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-winners-list-constituency-wise-seat-wise-10664508/",
+      "url": "https://indianexpress.com/article/india/west-bengal-assembly-election-results-2026-winners-constituency-wise-seat-wise-full-list-10665665/",
       "relevance_score": 0.95,
       "published_date": "2026-05-04"
     },
@@ -10731,22 +10791,22 @@
       "published_date": "2026-05-04"
     },
     {
-      "id": 3416,
-      "title": "Nepal Cabinet resends constitutional council ordinance to President",
-      "summary": "• Nepalese Cabinet res sends constitutional council Ordinance to President for approval.\n• President will sign the ordinance into law on Monday.\n• The ordinance will govern the country's constitution and power of the president.\n• The Cabinet will also decide on the constitution of the new parliament.",
-      "category": "Polity & Governance",
-      "source": "Indian Express - World",
-      "url": "https://indianexpress.com/article/world/nepal-cabinet-resends-constitutional-council-ordinance-to-president-10673053/",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-04"
-    },
-    {
       "id": 3465,
       "title": "Tamil Nadu election results: Vijay’s TVK takes early lead in over 100 seats",
       "summary": "• Vijay's TVK has a lead of more than 100 seats in the Tamil Nadu assembly.\n• Vijayan's party has a majority of over 100 out of the state's total assembly seats.\n• The results will be announced at 8.30pm on Thursday.\n• The election will be held on February 14 and 15.",
       "category": "State News",
       "source": "The Hindu - Tamil Nadu",
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijays-tvk-disrupts-dravidian-bipolar-politics-takes-early-lead-in-over-100-seats/article70937564.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-04"
+    },
+    {
+      "id": 3416,
+      "title": "Nepal Cabinet resends constitutional council ordinance to President",
+      "summary": "• Nepalese Cabinet res sends constitutional council Ordinance to President for approval.\n• President will sign the ordinance into law on Monday.\n• The ordinance will govern the country's constitution and power of the president.\n• The Cabinet will also decide on the constitution of the new parliament.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - World",
+      "url": "https://indianexpress.com/article/world/nepal-cabinet-resends-constitutional-council-ordinance-to-president-10673053/",
       "relevance_score": 0.91,
       "published_date": "2026-05-04"
     },
@@ -10891,16 +10951,6 @@
       "published_date": "2026-05-03"
     },
     {
-      "id": 3476,
-      "title": "TN Assembly Election Results 2026: Vijay’s TVK record historic win, gains over 100 seats",
-      "summary": "• Vijay's TVK wins record-breaking 100 seats in the state's first ever general election.\n• Tamil Nadu will hold its first general election in 2026.\n• The results will be announced on November 25.\n• The result will be declared on November 26.\n• The election will be held on the same day as the general elections.",
-      "category": "Polity & Governance",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-10665989/",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-03"
-    },
-    {
       "id": 3472,
       "title": "ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win",
       "summary": "• Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win.\n• ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks Modi, Gandhi for their greetings.\n• EICL declares TVK as winners of Tamil Nadu Assembly Election 2026.\n• Tamil Nadu to go to the polls in 2026 for first time in 50 years.\n• Election to be held on November 7, 25, 28, 28 and 29.",
@@ -10911,12 +10961,12 @@
       "published_date": "2026-05-03"
     },
     {
-      "id": 3473,
-      "title": "Kerala Election Results 2026 LIVE Counting Updates: Voters hand UDF clear edge in Kerala polls, Left falls behind",
-      "summary": "• UDF leads with a clear majority of more than 50 per cent of the vote.\n• Kerala voters to go to the polls in 2026 for the first time in a state election in 50 years.\n• Kerala to hold general elections for first time since 1970s, with UDF leading with more than 40 per cent.",
-      "category": "State News",
+      "id": 3476,
+      "title": "TN Assembly Election Results 2026: Vijay’s TVK record historic win, gains over 100 seats",
+      "summary": "• Vijay's TVK wins record-breaking 100 seats in the state's first ever general election.\n• Tamil Nadu will hold its first general election in 2026.\n• The results will be announced on November 25.\n• The result will be declared on November 26.\n• The election will be held on the same day as the general elections.",
+      "category": "Polity & Governance",
       "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/kerala-assembly-election-results-2026-live-updates-ldf-vs-udf-pinarayi-vijayan-vd-satheesan-2-10667096/",
+      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-10665989/",
       "relevance_score": 0.91,
       "published_date": "2026-05-03"
     },
@@ -10927,6 +10977,16 @@
       "category": "Polity & Governance",
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/live-updates-kerala-assembly-election-results-2026-live-eci-election-commission-of-india-ldf-vs-udf-seat-tally-10666033/",
+      "relevance_score": 0.91,
+      "published_date": "2026-05-03"
+    },
+    {
+      "id": 3473,
+      "title": "Kerala Election Results 2026 LIVE Counting Updates: Voters hand UDF clear edge in Kerala polls, Left falls behind",
+      "summary": "• UDF leads with a clear majority of more than 50 per cent of the vote.\n• Kerala voters to go to the polls in 2026 for the first time in a state election in 50 years.\n• Kerala to hold general elections for first time since 1970s, with UDF leading with more than 40 per cent.",
+      "category": "State News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/kerala-assembly-election-results-2026-live-updates-ldf-vs-udf-pinarayi-vijayan-vd-satheesan-2-10667096/",
       "relevance_score": 0.91,
       "published_date": "2026-05-03"
     },
@@ -13441,22 +13501,22 @@
       "published_date": "2026-04-18"
     },
     {
-      "id": 1276,
-      "title": "Women reservation bill fails in Lok Sabha: Strategic move or poor planning?",
-      "summary": "• For the first time since 2014, the Modi government failed to pass a bill in Parliament, a move analysts suggest was strategic.\n• By forcing a vote on the women's reservation bill, linked to delimitation, the BJP aimed to record every MP's stance, creating a potent campaign tool.\n• The government positioned itself as pro-women reformists, while blaming opposition parties for obstructing progress.\n• This tactic seeks to shape the political narrative ahead of crucial elections, highlighting intent versus obstruction.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/women-reservation-bill-fails-in-lok-sabha-strategic-move-or-poor-planning/articleshow/130351599.cms",
-      "relevance_score": 0.9997,
-      "published_date": "2026-04-18"
-    },
-    {
       "id": 1270,
       "title": "'They made a big mistake': PM Modi directs ministers to expose opposition's 'anti-women' stand",
       "summary": "• Prime Minister Modi asserted that opposition parties will face repercussions for not backing the women's reservation bill, urging ministers to highlight their \"anti-women\" stance.\n• He reiterated the government's commitment to implement the reservation by 2029, accusing the opposition of a \"big mistake\" and attempting to cover up their actions after the bill's defeat in Lok Sabha.",
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/they-made-a-big-mistake-pm-modi-directs-ministers-to-expose-oppositions-anti-women-stand/articleshow/130354958.cms",
+      "relevance_score": 0.9997,
+      "published_date": "2026-04-18"
+    },
+    {
+      "id": 1276,
+      "title": "Women reservation bill fails in Lok Sabha: Strategic move or poor planning?",
+      "summary": "• For the first time since 2014, the Modi government failed to pass a bill in Parliament, a move analysts suggest was strategic.\n• By forcing a vote on the women's reservation bill, linked to delimitation, the BJP aimed to record every MP's stance, creating a potent campaign tool.\n• The government positioned itself as pro-women reformists, while blaming opposition parties for obstructing progress.\n• This tactic seeks to shape the political narrative ahead of crucial elections, highlighting intent versus obstruction.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/women-reservation-bill-fails-in-lok-sabha-strategic-move-or-poor-planning/articleshow/130351599.cms",
       "relevance_score": 0.9997,
       "published_date": "2026-04-18"
     },
@@ -13831,22 +13891,22 @@
       "published_date": "2026-04-17"
     },
     {
-      "id": 1314,
-      "title": "Poll inducement seizures cross Rs 865 crore in West Bengal, Tamil Nadu ahead of elections",
-      "summary": "• West Bengal leads in liquor seizures, while Tamil Nadu reports the highest value of illegal cash confiscations.\n• Both states are under strict directives from the Election Commission to ensure free and fair elections.",
-      "category": "State News",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/poll-inducement-seizures-cross-rs-865-crore-in-west-bengal-tamil-nadu-ahead-of-elections/articleshow/130338328.cms",
-      "relevance_score": 0.9654,
-      "published_date": "2026-04-17"
-    },
-    {
       "id": 1343,
       "title": "Parliament Special Session LIVE: INDIA bloc MPs to hold meeting to chalk out floor strategy over Delimitation Bill",
       "summary": "• Parliament Special Session LIVE: Congress MP Priyanka Gandhi Vadra urged the Centre to implement the Nari Shakti Vandan Adhiniyam, reserving one-third seats for women in the Lok Sabha, on the basis of the….\n• Get latest udpates here on Mint!.",
       "category": "Polity & Governance",
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/india/parliament-special-session-live-india-bloc-delimitation-bill-women-reservation-lok-sabha-seats-amit-shah-pm-modi-bjp-11776399656057.html",
+      "relevance_score": 0.9654,
+      "published_date": "2026-04-17"
+    },
+    {
+      "id": 1314,
+      "title": "Poll inducement seizures cross Rs 865 crore in West Bengal, Tamil Nadu ahead of elections",
+      "summary": "• West Bengal leads in liquor seizures, while Tamil Nadu reports the highest value of illegal cash confiscations.\n• Both states are under strict directives from the Election Commission to ensure free and fair elections.",
+      "category": "State News",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/poll-inducement-seizures-cross-rs-865-crore-in-west-bengal-tamil-nadu-ahead-of-elections/articleshow/130338328.cms",
       "relevance_score": 0.9654,
       "published_date": "2026-04-17"
     },
@@ -16381,22 +16441,22 @@
       "published_date": "2026-04-07"
     },
     {
-      "id": 1866,
-      "title": "Stock market: Which are top 10 gainers and losers on NSE &amp; BSE today? Check list",
-      "summary": "• Indian equity benchmarks, Sensex and Nifty, staged a strong intraday recovery to close higher on Tuesday.\n• Easing crude oil prices, positive global cues, and robust buying in IT stocks fueled the rebound.\n• Despite initial weakness, markets ended firmly in the green, with IT stocks leading the gains.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-top-10-gainers-and-losers-on-nse-bse-on-april-7-check-list/articleshow/130087028.cms",
-      "relevance_score": 0.9917,
-      "published_date": "2026-04-07"
-    },
-    {
       "id": 1868,
       "title": "'Relevant for political debate, not for removal proceedings': Rajya Sabha chairman rejects opposition's notice to remove CEC",
       "summary": "• Rajya Sabha chairman CP Radhakrishnan has rejected the opposition's motion to remove Chief Election Commissioner Gyanesh Kumar.\n• He stated that while the allegations are relevant for political discussion, they do not meet the constitutional threshold for removal proceedings.\n• The Speaker of the Lok Sabha also dismissed a similar notice.",
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/relevant-for-political-debate-not-for-removal-proceedings-rajya-sabha-chairman-rejects-opposition-notice-to-remove-cec/articleshow/130086357.cms",
+      "relevance_score": 0.9917,
+      "published_date": "2026-04-07"
+    },
+    {
+      "id": 1866,
+      "title": "Stock market: Which are top 10 gainers and losers on NSE &amp; BSE today? Check list",
+      "summary": "• Indian equity benchmarks, Sensex and Nifty, staged a strong intraday recovery to close higher on Tuesday.\n• Easing crude oil prices, positive global cues, and robust buying in IT stocks fueled the rebound.\n• Despite initial weakness, markets ended firmly in the green, with IT stocks leading the gains.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-today-which-are-top-10-gainers-and-losers-on-nse-bse-on-april-7-check-list/articleshow/130087028.cms",
       "relevance_score": 0.9917,
       "published_date": "2026-04-07"
     },
@@ -16701,22 +16761,22 @@
       "published_date": "2026-04-06"
     },
     {
-      "id": 1943,
-      "title": "Beef row: Chief minister vows action against AJP nominee's kin",
-      "summary": "• Assam CM Himanta Biswa Sarma has brought beef consumption into his election campaign, targeting Congress ally AJP's candidate Kunki Chowdhury.\n• He accused her parents of eating beef and vowed action under the Cattle Prevention Act post-election.\n• Sarma challenged Chowdhury to disown her parents' actions, emphasizing the religious sentiments of 'Sanatani' people and the sanctity of religious sites.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": null,
-      "relevance_score": 0.9713,
-      "published_date": "2026-04-06"
-    },
-    {
       "id": 1918,
       "title": "RBL Bank shares jump 4% after exceptional Q4 update, RBI’s approval for Emirates NBD’s 74% stake acquisition",
       "summary": "• Robust deposits and loan growth boosted sentiment, with the lender crossing Rs 2.5 lakh crore in total business.\n• Analysts remain positive amid exceptional momentum.",
       "category": "Economy & Banking",
       "source": "Economic Times - Top",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-shares-jump-4-after-exceptional-q4-results-rbis-approval-for-emirates-nbds-74-stake-acquisition/articleshow/130052674.cms",
+      "relevance_score": 0.9713,
+      "published_date": "2026-04-06"
+    },
+    {
+      "id": 1943,
+      "title": "Beef row: Chief minister vows action against AJP nominee's kin",
+      "summary": "• Assam CM Himanta Biswa Sarma has brought beef consumption into his election campaign, targeting Congress ally AJP's candidate Kunki Chowdhury.\n• He accused her parents of eating beef and vowed action under the Cattle Prevention Act post-election.\n• Sarma challenged Chowdhury to disown her parents' actions, emphasizing the religious sentiments of 'Sanatani' people and the sanctity of religious sites.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": null,
       "relevance_score": 0.9713,
       "published_date": "2026-04-06"
     },
@@ -18621,6 +18681,6 @@
       "published_date": "2008-10-01"
     }
   ],
-  "count": 1862,
-  "updated_at": "2026-06-06T09:27:19.351464Z"
+  "count": 1868,
+  "updated_at": "2026-06-06T11:22:15.959121Z"
 }
