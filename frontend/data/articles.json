@@ -31,6 +31,26 @@
       "published_date": "2026-06-21"
     },
     {
+      "id": 6106,
+      "title": "US and Iran begin talks on initial peace deal in Switzerland",
+      "summary": "• U.S. and Iran have been at odds for years over Iran's nuclear program.\n• The two countries have been trying to reach an agreement for years.\n• The talks in Switzerland are the first since a nuclear deal was reached in 2009.\n• Security Council has been mediating between the two sides since then, but it's not clear if the deal is working.",
+      "category": "International Relations",
+      "source": "BBC World",
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "relevance_score": 0.8637,
+      "published_date": "2026-06-21"
+    },
+    {
+      "id": 6105,
+      "title": "LIVE | Spain vs Saudi Arabia, FIFA World Cup 2026: Yamal, Oyarzabal help ESP lead 3-0 at half-time",
+      "summary": "• Spain lead Saudi Arabia 2-0 after the first half.\n• Spain take on Saudi Arabia in a friendly at the Bernabeu on Tuesday.\n• Spain play Saudi Arabia at the World Cup in 2026.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/football/fifa-world-cup-2026-live-score-spain-vs-saudi-arabia-belgium-vs-iran-match-updates-10750581/",
+      "relevance_score": 0.8605,
+      "published_date": "2026-06-21"
+    },
+    {
       "id": 6074,
       "title": "Pakistan PM, army chief join Switzerland talks on US-Iran accord details",
       "summary": "• U.S. President Barack Obama and Iranian President Mahmoud Ahmadinejad will meet in Switzerland next week.\n• The talks are expected to cover a range of issues, including the future of Iran's nuclear program.\n• Pakistan's prime minister and army chief will also attend the talks in Switzerland.\n• The meeting is expected to focus on how to implement the accord.",
@@ -19979,28 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/shouldnt-be-considered-failure-of-govt-rijiju-on-womens-reservation-bill-not-clearing-ls/articleshow/130349618.cms",
       "relevance_score": 0.9725,
       "published_date": "2026-04-18"
-    },
-    {
-      "id": 1279,
-      "title": "DA hike: Govt approves 2% dearness allowance raise for central govt employees",
-      "summary": "• Central government employees will see a 2% Dearness Allowance increase, approved by the Cabinet.\n• This comes as employee bodies push for significant pay structure reforms under the proposed 8th Pay Commission, seeking a higher fitment factor and expanded family definitions for pay calculations.",
-      "category": "Polity & Governance",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/da-hike-govt-approves-2-dearness-allowance-raise-for-central-govt-employees/articleshow/130349174.cms",
-      "relevance_score": 0.9643,
-      "published_date": "2026-04-18"
-    },
-    {
-      "id": 1287,
-      "title": "Defeat of Constitution Amendment Bill betrayal of nation's woman power: Adityanath",
-      "summary": "• “The Opposition's obstruction of the passage of the Constitutional Amendment Bill, essential for the 'Nari Shakti Vandan Adhiniyam', is a blow to the honour of 'Bharat Mata' [Mother India].\n• It is a betrayal of the entire woman power of the nation; it is an infringement upon their democratic rights,” says Adityanath.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/defeat-of-constitution-amendment-bill-betrayal-of-nations-woman-power-adityanath/article70876584.ece",
-      "relevance_score": 0.9586,
-      "published_date": "2026-04-18"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-06-21T14:56:38.486839Z"
+  "updated_at": "2026-06-21T17:20:24.400931Z"
 }
