@@ -1,6 +1,106 @@
 {
   "articles": [
     {
+      "id": 6250,
+      "title": "US-Iran memorandum and West Asia’s new regional order",
+      "summary": "• U.S. and Iran have signed an agreement to work together on Iran's nuclear program.\n• The two countries have also agreed to cooperate on other regional issues.\n• The United States and Iran are expected to sign a new deal on Iran’S nuclear program on Friday.",
+      "category": "International Relations",
+      "source": "Frontline Magazine",
+      "url": "https://frontline.thehindu.com/world-affairs/us-iran-deal-recasts-west-asia-power-balance/article71117652.ece",
+      "relevance_score": 0.9757,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6255,
+      "title": "Gautam Adani Unveils Big Bet On Nuclear Power, AI, Infrastructure",
+      "summary": "• Adani is one of the world's largest private equity firms.\n• He has invested billions of dollars in infrastructure projects in India, China, India and the U.S. in the past few years.\n• He also owns a controlling stake in two coal-fired power stations in India and one in China.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/adani-group-agm-2026-gautam-adani-unveils-big-bet-on-nuclear-power-ai-infrastructure-11679515#publisher=newsstand",
+      "relevance_score": 0.9362,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6245,
+      "title": "Kerala CM proposes inter-State collaboration with Karnataka, Tamil Nadu, Puducherry to combat drug smuggling",
+      "summary": "• Karnataka and Tamil Nadu are key states in the state's drug-smuggling problem.\n• Kerala is home to a large number of drug smugglers, especially in the coastal states of Kerala and neighbouring Tamil Nadu.\n• Kerala also has a large population of drug users and sellers.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-proposes-inter-state-collaboration-with-karnataka-tamil-nadu-puducherry-to-combat-drug-smuggling/article71140733.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6252,
+      "title": "FIFA World Cup: Neymar returns to full fitness, available for Brazil's Scotland test",
+      "summary": "• Neymar: Brazil's World Cup star is fit and ready to face Scotland.\n• Brazil vs Scotland team news, probable line ups and more.\n• Click here for all the latest from the World Cup 2014 in Brazil.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/fifa-world-cup-neymar-returns-to-full-fitness-available-for-brazils-scotland-test-101782275994282.html",
+      "relevance_score": 0.8826,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6251,
+      "title": "Gautam Adani unveils plan for 10 GW nuclear energy capacity by 2035",
+      "summary": "• Adani to build 10 GW of nuclear power plant by 2020, with capacity for another 10 GW by 2030.\n• Gautam will be chairman of Indian state-owned firm Adani Group, which owns majority stake in Adani's coal-fired power station.\n• Adan will also be CEO of Adani Power Company, which will be majority stakeholder in the project.",
+      "category": "Science & Technology",
+      "source": "Indian Express - Business",
+      "url": "https://indianexpress.com/article/business/gautam-adani-group-plan-nuclear-energy-capacity-2035-10754786/",
+      "relevance_score": 0.8824,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6246,
+      "title": "Golden jubilee celebrations of Gulbarga University Microbiology Department starting on June 25",
+      "summary": "• Microbiology department will celebrate its 50th anniversary this year.\n• The celebrations will take place across the campus.\n• For more information, visit the university's website at: http://www.gulbargasuniversity.com/microbiology-department.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/golden-jubilee-celebrations-of-gulbarga-university-microbiology-department-starting-on-june-25/article71138232.ece",
+      "relevance_score": 0.8795,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6258,
+      "title": "COL vs COD, Highlights FIFA World Cup 2026: Colombia beats DR Congo to secure Round of 32 spot",
+      "summary": "• Colombia beat DR Congo 1-0 to secure Round of 32 spot in 2026 World Cup.\n• Colombia will face DR Congo in the last 16 of the tournament in Brazil.\n• Colombia have never won a World Cup game against a team from Africa.\n• DR Congo have won just one of their 11 World Cup games against South American sides.\n• Colombia are the only team to have ever beaten DR Congo.\n• Colombia's last World Cup win against DR Congo came in 1966.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/colombia-vs-dr-congo-live-score-fifa-world-cup-2026-col-vs-cod-live-goal-updates-highlights/article71140210.ece",
+      "relevance_score": 0.8663,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6254,
+      "title": "From Ports To AI Data Centres: Gautam Adani's Roadmap For India's Growth",
+      "summary": "• Adani is the founder and CEO of Adani Ports, one of India's biggest ports.\n• He is also the chairman of the Adani Group, which owns Adani Oil, Adani Heavy Industries and Adani Terminals.\n• He says Adani has a long-term vision for India's growth.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/from-ports-to-ai-data-centres-gautam-adanis-roadmap-for-indias-growth-11679666#publisher=newsstand",
+      "relevance_score": 0.8621,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6257,
+      "title": "Women’s T20 World Cup recap: Australia rolls on as Athapaththu’s century keeps Sri Lanka alive",
+      "summary": "• Australia beat Sri Lanka by eight wickets to win the tournament.\n• Sri Lanka beat India by seven wickets in their opening match.\n• Australia won the tournament for the first time in their history in 2010.\n• Australia also won the World Cup in 1996 and 1998.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/womens-cricket/womens-t20-world-cup-australia-vs-pakistan-highlights-perry-113-run-win-semifinal-race/article71140472.ece",
+      "relevance_score": 0.8614,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6248,
+      "title": "FIFA World Cup Group L, ENG vs GHA | England left frustrated by Ghana in goalless draw",
+      "summary": "• England and Ghana play each other twice in Group L.\n• England play Ghana in two of their three games at the World Cup.\n• England face Ghana in their final Group L game on June 14 in Sao Paulo.\n• England have never lost a World Cup game against Ghana.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-england-hit-crossbar-late-in-goalless-draw-with-ghana/article71139449.ece",
+      "relevance_score": 0.8471,
+      "published_date": "2026-06-24"
+    },
+    {
       "id": 6242,
       "title": "FIFA World Cup 2026: Neymar available for Scotland clash but not certain to play, says Ancelotti",
       "summary": "• Neymar is available to play for Brazil in World Cup qualifier against Scotland on Saturday.\n• The Barcelona forward will be available to face Scotland in a friendly at Celtic Park on Saturday night.\n• The match is billed as a warm-up for the World Cup in Brazil in 2026.",
@@ -11,6 +111,16 @@
       "published_date": "2026-06-24"
     },
     {
+      "id": 6249,
+      "title": "FIFA World Cup 2026: Colombia into Round of 32 as Munoz strikes against DR Congo",
+      "summary": "• Colombia beat DR Congo 1-0 to reach the last 16 of the 2026 World Cup in Brazil.\n• Colombia will play Brazil, Costa Rica and Argentina in the round of 16.\n• Colombia also face Costa Rica in the quarter-finals.\n• Colombia play Brazil in the semi-finals and the final in Brazil in 2026.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-colombia-into-round-of-32-as-munoz-strikes-against-dr-congo/article71140565.ece",
+      "relevance_score": 0.8296,
+      "published_date": "2026-06-24"
+    },
+    {
       "id": 6235,
       "title": "Assess impact of policies on citizens: PM Modi to IAS trainees",
       "summary": "• PM Modi tells trainees to assess impact of policy on citizens.\n• Modi also asks them to take action against those who misjudge the country.\n• Modi: 'I want to make India a better place for all of us.\n• I am committed to the cause of the poor'.",
@@ -18,6 +128,16 @@
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/assess-impact-of-policies-on-citizens-pm-modi-to-ias-trainees/articleshow/131953148.cms",
       "relevance_score": 0.8296,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6256,
+      "title": "India calls for reforms of ‘outdated UN frameworks’ and slams Pakistan’s J&K rhetoric at the Security Council",
+      "summary": "• India calls on UN to reform its “outdated’ UN framework.\n• India also slams Pakistan for its rhetoric at Security Council on Kashmir.\n• Pakistan has been accused of using the Kashmir issue as a political football at the U.S.-led West.",
+      "category": "International Relations",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/india-calls-for-reforms-of-outdated-un-frameworks-and-slams-pakistan-s-jk-rhetoric-at-the-security-council-3057395.html",
+      "relevance_score": 0.8214,
       "published_date": "2026-06-24"
     },
     {
@@ -61,16 +181,6 @@
       "published_date": "2026-06-23"
     },
     {
-      "id": 6212,
-      "title": "R Madhavan gets Padma Shri, greets PM Modi, Alka Yagnik gets Padma Bhushan",
-      "summary": "• R Madhvan: 'I am proud to be an Indian.\n• I will continue to fight for the rights of the poor and downtrodden.\n• I want to work for the betterment of the country.\n• 'I want to do my bit for the cause of the poorest and most vulnerable in the world'.",
-      "category": "Awards & Honours",
-      "source": "Times of India - Delhi",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-conferred-with-padma-shri-greets-pm-narendra-modi-alka-yagnik-mammootty-get-padma-bhushan-by-president-droupadi-murmu-watch-video/articleshow/131937650.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-23"
-    },
-    {
       "id": 6180,
       "title": "'Productive Discussions On Bilateral Trade Agreement': Piyush Goyal As India-US Talks Gather Pace",
       "summary": "• 'Productive Discussions On Bilateral Trade Agreement': Piyush Goyal.\n• India-US Talks Gather Pace as India-U.S. Trade Agreement Talks continue in Washington.\n• The talks are taking place in Washington, D.C.\n• India has been seeking an agreement on a trade agreement with the United States.",
@@ -81,22 +191,22 @@
       "published_date": "2026-06-23"
     },
     {
-      "id": 6199,
-      "title": "Rohit Sharma receives Padma Shri, tennis legend Vijay Amritraj awarded Padma Bhushan",
-      "summary": "• Rohit Sharma: I am proud to be a member of the Indian cricket team.\n• I am also proud to have played in the Indian national team in the 1980s and 1990s.\n• I would also like to thank all those who helped me achieve my goal of playing in the national team.",
+      "id": 6212,
+      "title": "R Madhavan gets Padma Shri, greets PM Modi, Alka Yagnik gets Padma Bhushan",
+      "summary": "• R Madhvan: 'I am proud to be an Indian.\n• I will continue to fight for the rights of the poor and downtrodden.\n• I want to work for the betterment of the country.\n• 'I want to do my bit for the cause of the poorest and most vulnerable in the world'.",
       "category": "Awards & Honours",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-padma-shri-president-murmu-rashtrapathi-bhavan-2932652-2026-06-23?utm_source=rss",
+      "source": "Times of India - Delhi",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/r-madhavan-conferred-with-padma-shri-greets-pm-narendra-modi-alka-yagnik-mammootty-get-padma-bhushan-by-president-droupadi-murmu-watch-video/articleshow/131937650.cms",
       "relevance_score": 0.91,
       "published_date": "2026-06-23"
     },
     {
-      "id": 6200,
-      "title": "Vijay Amritraj conferred with Padma Bhushan award",
-      "summary": "• He was awarded the award for his work in the field of science and technology.\n• He is the first Indian to receive the award since independence in India in 1950.\n• He also received the Padma Shri award for contributions to science and science education.",
+      "id": 6211,
+      "title": "Rohit Sharma honoured with Padma Shri as India's 2026 list recognises eight sportspersons across fields this year",
+      "summary": "• Rohit Sharma is one of eight athletes to be honoured with the award.\n• Sharma is also the first Indian to win the award in three different fields.\n• He has also been awarded the Bharat Ratna and the Padma Bhushan.\n• Sharma was awarded the award for his contribution to sports.",
       "category": "Awards & Honours",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/tennis/vijay-amritraj-receives-padma-bhushan-award-indian-tennis-tnta-latest-news/article71137340.ece",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/rohit-sharma-honoured-with-padma-shri-as-indias-2026-list-recognises-eight-sportspersons-across-fields-this-year-101782225454018.html",
       "relevance_score": 0.91,
       "published_date": "2026-06-23"
     },
@@ -111,12 +221,22 @@
       "published_date": "2026-06-23"
     },
     {
-      "id": 6211,
-      "title": "Rohit Sharma honoured with Padma Shri as India's 2026 list recognises eight sportspersons across fields this year",
-      "summary": "• Rohit Sharma is one of eight athletes to be honoured with the award.\n• Sharma is also the first Indian to win the award in three different fields.\n• He has also been awarded the Bharat Ratna and the Padma Bhushan.\n• Sharma was awarded the award for his contribution to sports.",
+      "id": 6200,
+      "title": "Vijay Amritraj conferred with Padma Bhushan award",
+      "summary": "• He was awarded the award for his work in the field of science and technology.\n• He is the first Indian to receive the award since independence in India in 1950.\n• He also received the Padma Shri award for contributions to science and science education.",
       "category": "Awards & Honours",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/rohit-sharma-honoured-with-padma-shri-as-indias-2026-list-recognises-eight-sportspersons-across-fields-this-year-101782225454018.html",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/tennis/vijay-amritraj-receives-padma-bhushan-award-indian-tennis-tnta-latest-news/article71137340.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-23"
+    },
+    {
+      "id": 6199,
+      "title": "Rohit Sharma receives Padma Shri, tennis legend Vijay Amritraj awarded Padma Bhushan",
+      "summary": "• Rohit Sharma: I am proud to be a member of the Indian cricket team.\n• I am also proud to have played in the Indian national team in the 1980s and 1990s.\n• I would also like to thank all those who helped me achieve my goal of playing in the national team.",
+      "category": "Awards & Honours",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-padma-shri-president-murmu-rashtrapathi-bhavan-2932652-2026-06-23?utm_source=rss",
       "relevance_score": 0.91,
       "published_date": "2026-06-23"
     },
@@ -208,6 +328,16 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/who-is-george-kurian-resigns-bjp-union-minister-of-state-for-minority-affairs-rajya-sabha-101782186805359.html",
       "relevance_score": 0.8714,
+      "published_date": "2026-06-23"
+    },
+    {
+      "id": 6253,
+      "title": "NASA Names Sean Gallagher as Chief Information Officer",
+      "summary": "• Gallagher will be in charge of the agency's information technology operations.\n• He will also serve as NASA's chief information officer.\n• Gallagher has been with NASA for more than 30 years and served in the Air Force, Navy and Marine Corps.\n• He is a graduate of Harvard University and the University of California, Los Angeles.\n• Gallagher is also a member of the National Security Council.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-names-sean-gallagher-as-chief-information-officer/",
+      "relevance_score": 0.8694,
       "published_date": "2026-06-23"
     },
     {
@@ -19869,138 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/india-and-japan-forge-data-partnership-to-power-ai-ready-smart-cities/articleshow/130481914.cms",
       "relevance_score": 0.9431,
       "published_date": "2026-04-24"
-    },
-    {
-      "id": 1670,
-      "title": "`America`s strategic interests lie with India, not Pakistan`: Former US Dy Secy on Trump`s Islamabad tilt",
-      "summary": "• Former US Deputy Secretary of State Kurt Campbell declared that America's strategic future firmly lies with India, distancing Washington from Islamabad.\n• He expressed concern over the current state of US-India ties, emphasising mutual respect as a non-negotiable foundation for the relationship in the future.",
-      "category": "International Relations",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/world/americas-strategic-interests-lie-with-india-not-pakistan-former-us-dy-secy-on-trumps-islamabad-tilt-3040506.html",
-      "relevance_score": 0.9408,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1635,
-      "title": "WHO prequalifies first-ever malaria treatment for newborns and infants, adds new diagnostic tests",
-      "summary": "• Ahead of World Malaria Day on 25 April, the World Health Organization (WHO) has announced a significant step forward in the fight against malaria with the prequalification of the first treatment developed….\n• The newly prequalified treatment, artemether-lumefantrine, is the first antimalarial formulation designed specifically for the youngest malaria patients.\n• WHO prequalification will enable public sector procurement, contributing to closing a long-standing treatment gap for some 30&nbsp;million babies born each year in malaria-endemic areas of Africa.\n• Now we must.\" New prequalified tests On 14 April 2026, WHO also prequalified three new rapid diagnostic tests (RDTs) designed to address emerging diagnostic challenges for malaria.\n• According to the World malaria report 2025 , there were an estimated 282&nbsp;million cases and 610&nbsp;000 deaths in 2024 &ndash; an increase from 2023.\n• Despite these challenges, substantial progress has been made, with an estimated 2.3&nbsp;billion malaria infections prevented and 14&nbsp;million lives saved worldwide since 2000.",
-      "category": "Science & Technology",
-      "source": "WHO",
-      "url": "https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests",
-      "relevance_score": 0.9324,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1641,
-      "title": "I Am Artemis: Peter Rossoni",
-      "summary": "• In April 2026, he became a part of NASA’s Artemis II mission, helping enable communications as astronauts journeyed around the Moon.\n• Rossoni’s path to NASA began [&#8230;].",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/missions/artemis/i-am-artemis/i-am-artemis-peter-rossoni/",
-      "relevance_score": 0.9258,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1660,
-      "title": "Rupee’s current valuation provides an attractive entry point: CEA V. Anantha Nageswaran",
-      "summary": "• The rupee has been under pressure this week, with Brent above $100 a barrel.\n• The currency has given up much of the gains fueled by the RBI’s recent measures to curb speculative arbitrage bets that had pushed the rupee to record lows last month.",
-      "category": "Economy & Banking",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/rupeeundervaluednoneedtolosesleepnageswaranexplains-11776999857328.html",
-      "relevance_score": 0.9032,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1633,
-      "title": "Ronaldo has three final career dreams he must fulfil before retirement, Messi already has the first",
-      "summary": "• Cristiano Ronaldo is entering the final phase of his career with three clear goals still driving him forward: a first World Cup title in 2026, the pursuit of 1,000 career goals, and the rare chance of playing….\n• Even at 41, he remains central for club and country, shaping both legacy and milestones.",
-      "category": "Sports",
-      "source": "Times of India - World",
-      "url": "https://timesofindia.indiatimes.com/sports/international-sports/ronaldo-has-three-final-career-dreams-he-must-fulfil-before-retirement-messi-has-already-completed-the-first/articleshow/130503897.cms",
-      "relevance_score": 0.9023,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1645,
-      "title": "NASA Astronauts to Answer Questions from Missouri Students",
-      "summary": "• The Earth-to-space call will begin at 10:50 a.m.\n• EDT Thursday, April 30, and will stream live on the agency’s Learn With NASA YouTube channel.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-astronauts-to-answer-questions-from-missouri-students/",
-      "relevance_score": 0.9003,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1672,
-      "title": "How The Ministry Of Panchayati Raj Is Quietly Revolutionising Women’s Governance",
-      "summary": "• The focus has shifted decisively from filling seats to activating them.\n• Women sarpanches are now being trained, networked, and positioned as administrators in their own right.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/how-the-ministry-of-panchayati-raj-is-quietly-revolutionising-womens-governance-ws-l-10053558.html",
-      "relevance_score": 0.8964,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1651,
-      "title": "NASA’s ‘human computer’: Meet the woman who calculated the future of spaceflight without machines",
-      "summary": "• Annie Easley began as a ‘human computer’, performing complex calculations by hand before electronic systems took over.\n• She later became a programmer at NASA, contributing to propulsion and energy research.\n• Her career reflects adaptability and a lasting impact on modern space exploration.",
-      "category": "Science & Technology",
-      "source": "Times of India - World",
-      "url": "https://timesofindia.indiatimes.com/science/nasas-human-computer-meet-the-woman-who-calculated-the-future-of-spaceflight-without-machines/articleshow/130494478.cms",
-      "relevance_score": 0.8761,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1654,
-      "title": "Opinion: Opinion | Germany's First 'Military Strategy' In 77 Years Is A Wake-Up Call For India",
-      "summary": "• On April 22, India and Germany signed a Defence Industrial Cooperation Roadmap in Berlin, alongside a P-75I submarine deal.\n• On the same day, something far more consequential was released.",
-      "category": "International Relations",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/opinion/germanys-first-military-strategy-in-77-years-is-a-wake-up-call-for-india-11403231#publisher=newsstand",
-      "relevance_score": 0.8711,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1668,
-      "title": "Tamil Nadu election 2026 LIVE: Clash over high voter turnout as DMK cites SIR, AIADMK claims anti-incumbency",
-      "summary": "• Tamil Nadu election 2026 LIVE: Out of 5.73 crore eligible voters, around 4.87 crore exercised their franchise.\n• Karur district recorded the highest turnout at 91.86 per cent, while Kanyakumari saw the lowest at 75.50 per cent.",
-      "category": "State News",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/tamil-nadu-election-2026-live-updates-tn-assembly-mk-stalin-nainar-dmk-tvk-aiadmk-bjp-eci-news-vijay-voter-turnout-101777001116678.html",
-      "relevance_score": 0.8701,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1662,
-      "title": "22 militants killed in northwest Pakistan clashes after army firefight near Afghan border",
-      "summary": "• Pakistani security forces killed 22 alleged militants in Khyber District during an operation that also resulted in the death of a 10-year-old child.\n• This incident occurs amidst a rise in militant attacks, particularly in provinces bordering Afghanistan, and ongoing tensions between Pakistan and Kabul.",
-      "category": "International Relations",
-      "source": "Times of India - World",
-      "url": "https://timesofindia.indiatimes.com/world/pakistan/22-militants-killed-in-northwest-pakistan-clashes-after-army-firefight-near-afghan-border/articleshow/130484821.cms",
-      "relevance_score": 0.8578,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1709,
-      "title": "'Let the notice come, we will reply': Congress chief Kharge reacts to EC ultimatum over 'terrorist' remark",
-      "summary": "• Congress chief Mallikarjun Kharge has responded to an Election Commission notice regarding his \"terrorist\" remarks on Prime Minister Narendra Modi.\n• Kharge stated his party would reply to the EC's ultimatum, which warned of action if he failed to explain his stand within 24 hours.\n• The controversial comment was made during campaigning in Chennai.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/let-the-notice-come-we-will-reply-congress-chief-kharge-reacts-to-ec-ultimatum-over-terrorist-remark/articleshow/130465134.cms",
-      "relevance_score": 0.9982,
-      "published_date": "2026-04-23"
-    },
-    {
-      "id": 1680,
-      "title": "HDFC Bank alerts clients on card swipe for overseas deals",
-      "summary": "• In recent times many resident individuals, banking with various financial institutions, have used cards to carry out such international capital account transactions-oblivious that they were violating foreign….\n• Some probably did it consciously to dodge the tax collected at source (TCS) or sidestep restrictions on overseas forex remittance.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-alerts-clients-on-card-swipe-for-overseas-deals/articleshow/130480916.cms",
-      "relevance_score": 0.9954,
-      "published_date": "2026-04-23"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-06-24T03:56:44.247192Z"
+  "updated_at": "2026-06-24T07:19:30.462746Z"
 }
