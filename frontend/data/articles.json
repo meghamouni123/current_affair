@@ -181,6 +181,16 @@
       "published_date": "2026-06-24"
     },
     {
+      "id": 6280,
+      "title": "Chinese scientists develop safer lithium battery that resists extreme heat",
+      "summary": "• Chinese scientists develop lithium batteries that resist extreme heat, heat shock.\n• The battery is called a lithium-ion battery and can be used for long-term storage.\n• It can also be used to power smartphones and other electronic devices, among other things.",
+      "category": "Science & Technology",
+      "source": "Indian Express - Technology",
+      "url": "https://indianexpress.com/article/technology/science/china-scientists-ceramic-lithium-battery-heatproof-10755479/",
+      "relevance_score": 0.8544,
+      "published_date": "2026-06-24"
+    },
+    {
       "id": 6259,
       "title": "Jaishankar, South Korean FM discuss deepening strategic partnership in Seoul",
       "summary": "• South Korea and India have been at odds for years over North Korea's nuclear programme.\n• Jaishanker: We need to work together to overcome the North Korean nuclear threat.\n• South Korean President Moon Jae-in: We are committed to a nuclear-free, stable and secure South Korea.\n• The two countries will work together on a range of issues.",
@@ -221,22 +231,22 @@
       "published_date": "2026-06-24"
     },
     {
-      "id": 6249,
-      "title": "FIFA World Cup 2026: Colombia into Round of 32 as Munoz strikes against DR Congo",
-      "summary": "• Colombia beat DR Congo 1-0 to reach the last 16 of the 2026 World Cup in Brazil.\n• Colombia will play Brazil, Costa Rica and Argentina in the round of 16.\n• Colombia also face Costa Rica in the quarter-finals.\n• Colombia play Brazil in the semi-finals and the final in Brazil in 2026.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-colombia-into-round-of-32-as-munoz-strikes-against-dr-congo/article71140565.ece",
-      "relevance_score": 0.8296,
-      "published_date": "2026-06-24"
-    },
-    {
       "id": 6235,
       "title": "Assess impact of policies on citizens: PM Modi to IAS trainees",
       "summary": "• PM Modi tells trainees to assess impact of policy on citizens.\n• Modi also asks them to take action against those who misjudge the country.\n• Modi: 'I want to make India a better place for all of us.\n• I am committed to the cause of the poor'.",
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/assess-impact-of-policies-on-citizens-pm-modi-to-ias-trainees/articleshow/131953148.cms",
+      "relevance_score": 0.8296,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6249,
+      "title": "FIFA World Cup 2026: Colombia into Round of 32 as Munoz strikes against DR Congo",
+      "summary": "• Colombia beat DR Congo 1-0 to reach the last 16 of the 2026 World Cup in Brazil.\n• Colombia will play Brazil, Costa Rica and Argentina in the round of 16.\n• Colombia also face Costa Rica in the quarter-finals.\n• Colombia play Brazil in the semi-finals and the final in Brazil in 2026.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-colombia-into-round-of-32-as-munoz-strikes-against-dr-congo/article71140565.ece",
       "relevance_score": 0.8296,
       "published_date": "2026-06-24"
     },
@@ -321,26 +331,6 @@
       "published_date": "2026-06-23"
     },
     {
-      "id": 6208,
-      "title": "Delhi High Court directs AITA to expedite Constitutional amendments and election",
-      "summary": "• Delhi High Court orders AITa to speed up process of holding of general election.\n• AitA will hold the election on November 18.\n• The election will be held on the same day as the general elections.\n• The result will be announced on November 19.\n• For confidential support, call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/tennis/court-upholds-aita-general-bodys-authority-in-federation-reforms/article71136586.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-23"
-    },
-    {
-      "id": 6199,
-      "title": "Rohit Sharma receives Padma Shri, tennis legend Vijay Amritraj awarded Padma Bhushan",
-      "summary": "• Rohit Sharma: I am proud to be a member of the Indian cricket team.\n• I am also proud to have played in the Indian national team in the 1980s and 1990s.\n• I would also like to thank all those who helped me achieve my goal of playing in the national team.",
-      "category": "Awards & Honours",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-padma-shri-president-murmu-rashtrapathi-bhavan-2932652-2026-06-23?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-23"
-    },
-    {
       "id": 6212,
       "title": "R Madhavan gets Padma Shri, greets PM Modi, Alka Yagnik gets Padma Bhushan",
       "summary": "• R Madhvan: 'I am proud to be an Indian.\n• I will continue to fight for the rights of the poor and downtrodden.\n• I want to work for the betterment of the country.\n• 'I want to do my bit for the cause of the poorest and most vulnerable in the world'.",
@@ -361,12 +351,32 @@
       "published_date": "2026-06-23"
     },
     {
+      "id": 6208,
+      "title": "Delhi High Court directs AITA to expedite Constitutional amendments and election",
+      "summary": "• Delhi High Court orders AITa to speed up process of holding of general election.\n• AitA will hold the election on November 18.\n• The election will be held on the same day as the general elections.\n• The result will be announced on November 19.\n• For confidential support, call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/tennis/court-upholds-aita-general-bodys-authority-in-federation-reforms/article71136586.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-23"
+    },
+    {
       "id": 6200,
       "title": "Vijay Amritraj conferred with Padma Bhushan award",
       "summary": "• He was awarded the award for his work in the field of science and technology.\n• He is the first Indian to receive the award since independence in India in 1950.\n• He also received the Padma Shri award for contributions to science and science education.",
       "category": "Awards & Honours",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/tennis/vijay-amritraj-receives-padma-bhushan-award-indian-tennis-tnta-latest-news/article71137340.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-23"
+    },
+    {
+      "id": 6199,
+      "title": "Rohit Sharma receives Padma Shri, tennis legend Vijay Amritraj awarded Padma Bhushan",
+      "summary": "• Rohit Sharma: I am proud to be a member of the Indian cricket team.\n• I am also proud to have played in the Indian national team in the 1980s and 1990s.\n• I would also like to thank all those who helped me achieve my goal of playing in the national team.",
+      "category": "Awards & Honours",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-padma-shri-president-murmu-rashtrapathi-bhavan-2932652-2026-06-23?utm_source=rss",
       "relevance_score": 0.91,
       "published_date": "2026-06-23"
     },
@@ -19989,18 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/aap-implosion-bjp-gains-rajya-sabha-numbers-but-will-it-be-advantage-congress-in-punjab/articleshow/130514202.cms",
       "relevance_score": 0.8713,
       "published_date": "2026-04-25"
-    },
-    {
-      "id": 1595,
-      "title": "'Torn pants, run down car to Rs 100-crore house': Swati Maliwal's 'traitor' jibe at Arvind Kejriwal after AAP exit",
-      "summary": "• Former Arvind Kejriwal aide Swati Maliwal has accused the former Delhi chief minister.\n• She claims Kejriwal began his political journey in torn pants and with limited resources.\n• Maliwal alleges that after coming to power, he constructed a house valued at one hundred crore rupees.\n• She also criticized the AAP's governance in Punjab.\n• The remarks follow a significant party exodus.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/torn-pants-run-down-car-to-rs-100-crore-house-swati-maliwals-traitor-jibe-at-arvind-kejriwal-after-aap-exit/articleshow/130517164.cms",
-      "relevance_score": 0.8584,
-      "published_date": "2026-04-25"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-06-24T12:24:47.930759Z"
+  "updated_at": "2026-06-24T15:35:13.730636Z"
 }
