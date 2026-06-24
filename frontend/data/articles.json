@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 6269,
+      "title": "Indian startup building a chameleon satellite that can switch jobs in space",
+      "summary": "• The satellite will be used to send messages to Earth from space.\n• It will also send images of the Earth to Earth in real-time to help scientists understand the Earth's environment.\n• The project is being funded by the Indian government and the Indian Space Research Organisation (ISRO) The satellite is expected to be launched in 2018.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/science/story/xdlinx-space-labs-self-funded-imaging-satellite-2026-2027-india-software-defined-sslv-isro-sudheer-2933071-2026-06-24?utm_source=rss",
+      "relevance_score": 0.9898,
+      "published_date": "2026-06-24"
+    },
+    {
       "id": 6250,
       "title": "US-Iran memorandum and West Asia’s new regional order",
       "summary": "• U.S. and Iran have signed an agreement to work together on Iran's nuclear program.\n• The two countries have also agreed to cooperate on other regional issues.\n• The United States and Iran are expected to sign a new deal on Iran’S nuclear program on Friday.",
@@ -8,6 +18,16 @@
       "source": "Frontline Magazine",
       "url": "https://frontline.thehindu.com/world-affairs/us-iran-deal-recasts-west-asia-power-balance/article71117652.ece",
       "relevance_score": 0.9757,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6260,
+      "title": "Superhuman to bring GPTZero’s AI detection technology into its platform",
+      "summary": "• Superhuman will use the technology to detect signs of artificial intelligence.\n• The company will also use the tech to detect patterns in the human brain.\n• For more information, go to: www.superhuman.com/gptzero and www.gptZero.com.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "Indian Express - Technology",
+      "url": "https://indianexpress.com/article/technology/artificial-intelligence/superhuman-to-bring-gptzeros-ai-detection-technology-into-its-platform-10754979/",
+      "relevance_score": 0.9573,
       "published_date": "2026-06-24"
     },
     {
@@ -21,6 +41,16 @@
       "published_date": "2026-06-24"
     },
     {
+      "id": 6264,
+      "title": "Ambassador of the Hellenic Republic to ASEAN Present Letter of Credence to Secretary-General of ASEAN",
+      "summary": "• Ambassador of theHellenic Republic presented letter of credence on behalf of the Greek government to the secretary-general of Asean.\n• The letter was signed by the Greek Ambassador to AseAN, Dimitris Tzoupis.\n• The Greek ambassador also sent a letter of support to the Secretary- General of A SEAN, which was accepted.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/ambassador-of-the-hellenic-republic-to-asean-present-letter-of-credence-to-secretary-general-of-asean/",
+      "relevance_score": 0.9162,
+      "published_date": "2026-06-24"
+    },
+    {
       "id": 6245,
       "title": "Kerala CM proposes inter-State collaboration with Karnataka, Tamil Nadu, Puducherry to combat drug smuggling",
       "summary": "• Karnataka and Tamil Nadu are key states in the state's drug-smuggling problem.\n• Kerala is home to a large number of drug smugglers, especially in the coastal states of Kerala and neighbouring Tamil Nadu.\n• Kerala also has a large population of drug users and sellers.",
@@ -28,6 +58,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-proposes-inter-state-collaboration-with-karnataka-tamil-nadu-puducherry-to-combat-drug-smuggling/article71140733.ece",
       "relevance_score": 0.91,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6263,
+      "title": "Adani Group AGM: From 10 GW nuclear power capacity to big energy plans - what Gautam Adani said",
+      "summary": "• Adani says he wants to build 10 GW of nuclear power by 2018.\n• He also wants to develop solar and wind farms in India and abroad.\n• The company also has plans to build a coal-fired power station in the state of Jharkhand.\n• The Adani Group is one of India's largest private energy companies.",
+      "category": "Science & Technology",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/adani-group-agm-from-10-gw-nuclear-power-capacity-to-big-energy-plans-what-gautam-adani-said/articleshow/131959491.cms",
+      "relevance_score": 0.899,
       "published_date": "2026-06-24"
     },
     {
@@ -61,6 +101,16 @@
       "published_date": "2026-06-24"
     },
     {
+      "id": 6268,
+      "title": "Banking, defence could lead next market rally as Nifty eyes 25,000: Rohit Srivastava",
+      "summary": "• Nifty is expected to close at around 23,000 on Friday.\n• SrivASTava: Nifty could close at between 23,500-25,000 by the end of the week.\n• The current Nifty close is at around 22,500.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/banking-defence-could-lead-next-market-rally-as-nifty-eyes-25000-rohit-srivastava/articleshow/131961489.cms",
+      "relevance_score": 0.8769,
+      "published_date": "2026-06-24"
+    },
+    {
       "id": 6258,
       "title": "COL vs COD, Highlights FIFA World Cup 2026: Colombia beats DR Congo to secure Round of 32 spot",
       "summary": "• Colombia beat DR Congo 1-0 to secure Round of 32 spot in 2026 World Cup.\n• Colombia will face DR Congo in the last 16 of the tournament in Brazil.\n• Colombia have never won a World Cup game against a team from Africa.\n• DR Congo have won just one of their 11 World Cup games against South American sides.\n• Colombia are the only team to have ever beaten DR Congo.\n• Colombia's last World Cup win against DR Congo came in 1966.",
@@ -68,6 +118,16 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/football/colombia-vs-dr-congo-live-score-fifa-world-cup-2026-col-vs-cod-live-goal-updates-highlights/article71140210.ece",
       "relevance_score": 0.8663,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6265,
+      "title": "Secretary-General of ASEAN bids farewell to outgoing Ambassador of Hungary to ASEAN",
+      "summary": "• Hungary's ambassador to Asean to be replaced by Hungary's Ambassador to Thailand.\n• Hungary has been a member of the Association of Southeast Asian Nations since 1972.\n• Hungary was also a member in the ASEAnet in the 1980s and 1990s.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-bids-farewell-to-outgoing-ambassador-of-hungary-to-asean/",
+      "relevance_score": 0.8627,
       "published_date": "2026-06-24"
     },
     {
@@ -88,6 +148,16 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/cricket/womens-cricket/womens-t20-world-cup-australia-vs-pakistan-highlights-perry-113-run-win-semifinal-race/article71140472.ece",
       "relevance_score": 0.8614,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6259,
+      "title": "Jaishankar, South Korean FM discuss deepening strategic partnership in Seoul",
+      "summary": "• South Korea and India have been at odds for years over North Korea's nuclear programme.\n• Jaishanker: We need to work together to overcome the North Korean nuclear threat.\n• South Korean President Moon Jae-in: We are committed to a nuclear-free, stable and secure South Korea.\n• The two countries will work together on a range of issues.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/jaishankar-south-korean-fm-discuss-deepening-strategic-partnership-in-seoul/article71141170.ece",
+      "relevance_score": 0.8511,
       "published_date": "2026-06-24"
     },
     {
@@ -128,6 +198,26 @@
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/assess-impact-of-policies-on-citizens-pm-modi-to-ias-trainees/articleshow/131953148.cms",
       "relevance_score": 0.8296,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6266,
+      "title": "Angel One, CAMS and ICICI AMC among JP Morgan's preferred bets on India's SIP boom",
+      "summary": "• JP Morgan: Angel One and CAMS are among the best-known SIP firms in India.\n• ICICi AMC is one of the best known SIP companies in the country, the bank says.\n• The SIP industry is booming in India, according to a report by JP Morgan.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/angel-one-cams-and-icici-amc-among-jp-morgans-preferred-bets-on-indias-sip-boom/articleshow/131954978.cms",
+      "relevance_score": 0.824,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6261,
+      "title": "Lionel Messi tipped to play at 2030 FIFA World Cup, Argentina skipper drops cryptic update: ‘Not thinking about that’",
+      "summary": "• Messi has been linked with a move to Barcelona in the past.\n• Argentina have won the World Cup three times in the last four decades.\n• Messi is the most successful player in the history of the tournament, scoring more goals than anyone else.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/lionel-messi-tipped-to-play-at-2030-fifa-world-cup-argentina-skipper-drops-cryptic-update-not-thinking-about-that-101782284518362.html",
+      "relevance_score": 0.8234,
       "published_date": "2026-06-24"
     },
     {
@@ -181,12 +271,22 @@
       "published_date": "2026-06-23"
     },
     {
-      "id": 6180,
-      "title": "'Productive Discussions On Bilateral Trade Agreement': Piyush Goyal As India-US Talks Gather Pace",
-      "summary": "• 'Productive Discussions On Bilateral Trade Agreement': Piyush Goyal.\n• India-US Talks Gather Pace as India-U.S. Trade Agreement Talks continue in Washington.\n• The talks are taking place in Washington, D.C.\n• India has been seeking an agreement on a trade agreement with the United States.",
-      "category": "International Relations",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/india-us-trade-deal-talks-piyush-goyal-sergio-gor-jamieson-greer-bilateral-trade-agreement-new-delhi-2026-ws-l-10167510.html",
+      "id": 6199,
+      "title": "Rohit Sharma receives Padma Shri, tennis legend Vijay Amritraj awarded Padma Bhushan",
+      "summary": "• Rohit Sharma: I am proud to be a member of the Indian cricket team.\n• I am also proud to have played in the Indian national team in the 1980s and 1990s.\n• I would also like to thank all those who helped me achieve my goal of playing in the national team.",
+      "category": "Awards & Honours",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-padma-shri-president-murmu-rashtrapathi-bhavan-2932652-2026-06-23?utm_source=rss",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-23"
+    },
+    {
+      "id": 6200,
+      "title": "Vijay Amritraj conferred with Padma Bhushan award",
+      "summary": "• He was awarded the award for his work in the field of science and technology.\n• He is the first Indian to receive the award since independence in India in 1950.\n• He also received the Padma Shri award for contributions to science and science education.",
+      "category": "Awards & Honours",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/tennis/vijay-amritraj-receives-padma-bhushan-award-indian-tennis-tnta-latest-news/article71137340.ece",
       "relevance_score": 0.91,
       "published_date": "2026-06-23"
     },
@@ -221,22 +321,12 @@
       "published_date": "2026-06-23"
     },
     {
-      "id": 6200,
-      "title": "Vijay Amritraj conferred with Padma Bhushan award",
-      "summary": "• He was awarded the award for his work in the field of science and technology.\n• He is the first Indian to receive the award since independence in India in 1950.\n• He also received the Padma Shri award for contributions to science and science education.",
-      "category": "Awards & Honours",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/tennis/vijay-amritraj-receives-padma-bhushan-award-indian-tennis-tnta-latest-news/article71137340.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-23"
-    },
-    {
-      "id": 6199,
-      "title": "Rohit Sharma receives Padma Shri, tennis legend Vijay Amritraj awarded Padma Bhushan",
-      "summary": "• Rohit Sharma: I am proud to be a member of the Indian cricket team.\n• I am also proud to have played in the Indian national team in the 1980s and 1990s.\n• I would also like to thank all those who helped me achieve my goal of playing in the national team.",
-      "category": "Awards & Honours",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rohit-sharma-padma-shri-president-murmu-rashtrapathi-bhavan-2932652-2026-06-23?utm_source=rss",
+      "id": 6180,
+      "title": "'Productive Discussions On Bilateral Trade Agreement': Piyush Goyal As India-US Talks Gather Pace",
+      "summary": "• 'Productive Discussions On Bilateral Trade Agreement': Piyush Goyal.\n• India-US Talks Gather Pace as India-U.S. Trade Agreement Talks continue in Washington.\n• The talks are taking place in Washington, D.C.\n• India has been seeking an agreement on a trade agreement with the United States.",
+      "category": "International Relations",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/india-us-trade-deal-talks-piyush-goyal-sergio-gor-jamieson-greer-bilateral-trade-agreement-new-delhi-2026-ws-l-10167510.html",
       "relevance_score": 0.91,
       "published_date": "2026-06-23"
     },
@@ -691,12 +781,12 @@
       "published_date": "2026-06-22"
     },
     {
-      "id": 6145,
-      "title": "RBI sold nearly $9 billion in forex spot market in April amid rupee pressure",
-      "summary": "• RBI sold $9.2 billion in April alone, according to latest figures.\n• The central bank sold $8.8 billion in spot market and $6.7 billion in forwards in March.\n• The RBI sold $6 billion in forward market in February and $5 billion in March last year.",
+      "id": 6137,
+      "title": "RBI Governor urges banks to treat MSMEs as long-term partners",
+      "summary": "• He says banks should treat them as 'long-term' partners, not just short-term customers.\n• He also said banks should be willing to take loans from MSME banks.\n• He said this would help boost the MSME sector in India.\n• He was speaking at an event in New Delhi on Tuesday to mark the launch of MSME Bank.",
       "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-sold-nearly-9-billion-in-forex-spot-market-in-april-amid-rupee-pressure/articleshow/131911335.cms",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/rbi-governor-urges-banks-to-treat-msmes-as-long-term-partners/article71132627.ece",
       "relevance_score": 0.91,
       "published_date": "2026-06-22"
     },
@@ -721,12 +811,12 @@
       "published_date": "2026-06-22"
     },
     {
-      "id": 6137,
-      "title": "RBI Governor urges banks to treat MSMEs as long-term partners",
-      "summary": "• He says banks should treat them as 'long-term' partners, not just short-term customers.\n• He also said banks should be willing to take loans from MSME banks.\n• He said this would help boost the MSME sector in India.\n• He was speaking at an event in New Delhi on Tuesday to mark the launch of MSME Bank.",
+      "id": 6145,
+      "title": "RBI sold nearly $9 billion in forex spot market in April amid rupee pressure",
+      "summary": "• RBI sold $9.2 billion in April alone, according to latest figures.\n• The central bank sold $8.8 billion in spot market and $6.7 billion in forwards in March.\n• The RBI sold $6 billion in forward market in February and $5 billion in March last year.",
       "category": "Economy & Banking",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/kerala/rbi-governor-urges-banks-to-treat-msmes-as-long-term-partners/article71132627.ece",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-sold-nearly-9-billion-in-forex-spot-market-in-april-amid-rupee-pressure/articleshow/131911335.cms",
       "relevance_score": 0.91,
       "published_date": "2026-06-22"
     },
@@ -1221,22 +1311,22 @@
       "published_date": "2026-06-21"
     },
     {
-      "id": 6096,
-      "title": "Cabinet panel for cautious approach towards VB - G RAM G",
-      "summary": "• VB is a combination of VB, G and G RAM.\n• G is the acronym for VB-G RAM G, while RAM is the abbreviation for memory stick.\n• G means 'memory' and RAM is a type of memory chip.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/telangana/cabinet-panel-for-cautious-approach-towards-vb-g-ram-g/article71129534.ece",
-      "relevance_score": 0.8331,
-      "published_date": "2026-06-21"
-    },
-    {
       "id": 6119,
       "title": "Spain vs Saudi Arabia Highlights, FIFA World Cup 2026: Spain roar back to form with emphatic 4-0 statement win",
       "summary": "• Spain beat Saudi Arabia 4-1 in World Cup warm-up game.\n• Spain win their first World Cup game since 1986.\n• Saudi Arabia lose their first ever World Cup match against South Africa in 1986.\n• Spain defeated South Africa 3-0 in their opening game of the tournament.",
       "category": "Sports",
       "source": "Hindustan Times - Sports",
       "url": "https://www.hindustantimes.com/sports/football/esp-vs-ksa-live-score-spain-vs-saudi-arabia-fifa-world-cup-2026-today-21-june-latest-score-101782052396094.html",
+      "relevance_score": 0.8331,
+      "published_date": "2026-06-21"
+    },
+    {
+      "id": 6096,
+      "title": "Cabinet panel for cautious approach towards VB - G RAM G",
+      "summary": "• VB is a combination of VB, G and G RAM.\n• G is the acronym for VB-G RAM G, while RAM is the abbreviation for memory stick.\n• G means 'memory' and RAM is a type of memory chip.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/telangana/cabinet-panel-for-cautious-approach-towards-vb-g-ram-g/article71129534.ece",
       "relevance_score": 0.8331,
       "published_date": "2026-06-21"
     },
@@ -1671,22 +1761,22 @@
       "published_date": "2026-06-19"
     },
     {
-      "id": 6005,
-      "title": "West Bengal: Rs 500 Crore Cash War Rocks Trinamool Congress, Treasurer Seeks Account Freeze",
-      "summary": "• The political landscape in West Bengal has been completely rocked by an unprecedented, explosive financial and institutional crisis.\n• The battle for the literal ownership of the All India Trinamool Congress (AITC) has moved from the state assembly directly into the banking sector.\n• Former TMC Treasurer Aroop Biswas has officially written an urgent letter to HDFC Bank's Central Plaza branch in Kolkata, demanding a complete and immediate freeze on all debit transactions.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/west-bengal-rs-500-crore-cash-war-rocks-trinamool-congress-treasurer-seeks-account-freeze-10161288.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-19"
-    },
-    {
       "id": 6032,
       "title": "Uddhav Thackeray Offers To Resign As UBT Sena Chief, Calls Rebel MPs 'Traitors' | BREAKING | News18",
       "summary": "• Uddhav Thackeray offered to step down as party president amid a possible fresh wave of rebellion within the party.\n• He struck a defiant note, asserting that his workers remained confident and that he was ready to face any challenge as long as he had the support of Shiv Sainiks.\n• His remarks came as only three out of his party’s nine Lok Sabha MPs attended the parliamentary meeting in Delhi on Thursday.\n• Arvind Sawant, Rajabhau Waje and Anil Desai were the only ones who attended the meeting.\n• They were felicitated at the party’s foundation day celebrations held by the Uddhav-led camp.",
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/politics/uddhav-thackeray-offers-to-resign-as-ubt-sena-chief-calls-rebel-mps-traitors-breaking-news18-10161874.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-19"
+    },
+    {
+      "id": 6005,
+      "title": "West Bengal: Rs 500 Crore Cash War Rocks Trinamool Congress, Treasurer Seeks Account Freeze",
+      "summary": "• The political landscape in West Bengal has been completely rocked by an unprecedented, explosive financial and institutional crisis.\n• The battle for the literal ownership of the All India Trinamool Congress (AITC) has moved from the state assembly directly into the banking sector.\n• Former TMC Treasurer Aroop Biswas has officially written an urgent letter to HDFC Bank's Central Plaza branch in Kolkata, demanding a complete and immediate freeze on all debit transactions.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/west-bengal-rs-500-crore-cash-war-rocks-trinamool-congress-treasurer-seeks-account-freeze-10161288.html",
       "relevance_score": 0.91,
       "published_date": "2026-06-19"
     },
@@ -1701,22 +1791,22 @@
       "published_date": "2026-06-19"
     },
     {
-      "id": 6009,
-      "title": "U.S. Soccer Needed a World Cup Strategy. It Turned to the ‘Pentagon.’",
-      "summary": "• The strategy was to win the World Cup.\n• It was also a success because it was a win-win strategy for the U.N.\n• The goal was to have a winning team at the 2014 World Cup in Brazil.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/football/us-soccer-needed-a-world-cup-strategy-it-turned-to-the-pentagon-101781868827555.html",
-      "relevance_score": 0.8996,
-      "published_date": "2026-06-19"
-    },
-    {
       "id": 6003,
       "title": "U.S. Soccer Needed a World Cup Strategy. It Turned to the ‘Pentagon.’",
       "summary": "• The strategy was to win the World Cup.\n• It was also a success because it was a win-win strategy for the U.N.\n• The goal was to have a winning team at the 2014 World Cup in Brazil.",
       "category": "Sports",
       "source": "Hindustan Times - Sports",
       "url": "https://www.hindustantimes.com/sports/us-soccer-needed-a-world-cup-strategy-it-turned-to-the-pentagon-101781868783587.html",
+      "relevance_score": 0.8996,
+      "published_date": "2026-06-19"
+    },
+    {
+      "id": 6009,
+      "title": "U.S. Soccer Needed a World Cup Strategy. It Turned to the ‘Pentagon.’",
+      "summary": "• The strategy was to win the World Cup.\n• It was also a success because it was a win-win strategy for the U.N.\n• The goal was to have a winning team at the 2014 World Cup in Brazil.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/us-soccer-needed-a-world-cup-strategy-it-turned-to-the-pentagon-101781868827555.html",
       "relevance_score": 0.8996,
       "published_date": "2026-06-19"
     },
@@ -2551,12 +2641,12 @@
       "published_date": "2026-06-17"
     },
     {
-      "id": 5874,
-      "title": "'Big Things Are Happening': Trump Highlights Growing India-US Trade & Investment Ties | Modi At G7",
-      "summary": "• US President Donald Trump says, \"We had some great meetings in France.\n• We have a G2 coming up, and then we have aG20 coming up.\n• We had, in particular, some very good conversations with Prime Minister Modi of India.\n• A lot of things are happening between the United States and India.\n• The United States is doing the best we've ever done\".\n• We have over $19.2 trillion coming in, and we're building factories, we're building everything.",
-      "category": "Polity & Governance",
+      "id": 5885,
+      "title": "Trump-Modi Meet | Good Thing Trump Accepted India's Role: Alok Bansal | G7 Summit | News18",
+      "summary": "• Prime Minister Narendra Modi described his meeting with U.S. President Donald Trump in Evian as productive.\n• Modi noted that both leaders reviewed the sustained growth of bilateral cooperation and discussed ways to further strengthen the strategic partnership.\n• India Foundation Executive Vice President Alok Bansal offered a more cautious assessment, arguing that while Trump acknowledged India's growing role on the global stage, the meeting did not produce any major substantive outcomes.\n• Prime Minister Narendra Modi described his meeting with U.S. President Donald Trump in Evian as productive, highlighting continued progress in trade, energy, defence, technology, and people-to-people ties between India and the United States.Following the meeting, Modi noted that both leaders….",
+      "category": "International Relations",
       "source": "News18 - World",
-      "url": "https://www.news18.com/videos/world/big-things-are-happening-trump-highlights-growing-india-us-trade-investment-ties-modi-at-g7-10156637.html",
+      "url": "https://www.news18.com/videos/breaking-news/trump-modi-meet-good-thing-trump-accepted-india-s-role-alok-bansal-g7-summit-news18-10156984.html",
       "relevance_score": 0.91,
       "published_date": "2026-06-17"
     },
@@ -2581,12 +2671,12 @@
       "published_date": "2026-06-17"
     },
     {
-      "id": 5885,
-      "title": "Trump-Modi Meet | Good Thing Trump Accepted India's Role: Alok Bansal | G7 Summit | News18",
-      "summary": "• Prime Minister Narendra Modi described his meeting with U.S. President Donald Trump in Evian as productive.\n• Modi noted that both leaders reviewed the sustained growth of bilateral cooperation and discussed ways to further strengthen the strategic partnership.\n• India Foundation Executive Vice President Alok Bansal offered a more cautious assessment, arguing that while Trump acknowledged India's growing role on the global stage, the meeting did not produce any major substantive outcomes.\n• Prime Minister Narendra Modi described his meeting with U.S. President Donald Trump in Evian as productive, highlighting continued progress in trade, energy, defence, technology, and people-to-people ties between India and the United States.Following the meeting, Modi noted that both leaders….",
-      "category": "International Relations",
+      "id": 5874,
+      "title": "'Big Things Are Happening': Trump Highlights Growing India-US Trade & Investment Ties | Modi At G7",
+      "summary": "• US President Donald Trump says, \"We had some great meetings in France.\n• We have a G2 coming up, and then we have aG20 coming up.\n• We had, in particular, some very good conversations with Prime Minister Modi of India.\n• A lot of things are happening between the United States and India.\n• The United States is doing the best we've ever done\".\n• We have over $19.2 trillion coming in, and we're building factories, we're building everything.",
+      "category": "Polity & Governance",
       "source": "News18 - World",
-      "url": "https://www.news18.com/videos/breaking-news/trump-modi-meet-good-thing-trump-accepted-india-s-role-alok-bansal-g7-summit-news18-10156984.html",
+      "url": "https://www.news18.com/videos/world/big-things-are-happening-trump-highlights-growing-india-us-trade-investment-ties-modi-at-g7-10156637.html",
       "relevance_score": 0.91,
       "published_date": "2026-06-17"
     },
@@ -19909,98 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/world/middle-east/peace-talks-back-on-trump-sending-envoys-to-pakistan-to-meet-iran-fm-vance-on-standby/articleshow/130499596.cms",
       "relevance_score": 0.9941,
       "published_date": "2026-04-24"
-    },
-    {
-      "id": 1647,
-      "title": "Rupee's valuation hits over-a-decade low: Currency hurt by Middle East war, FPI outflows",
-      "summary": "• Rupee has hit a decade-low against global peers, driven by soaring oil prices and significant foreign investor withdrawals.\n• This depreciation, reflected in a weakened Real Effective Exchange Rate, makes exports cheaper but imports costlier.\n• Despite the current undervaluation, a swift recovery is not anticipated due to sustained dollar demand.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupees-valuation-hits-over-a-decade-low-currency-hurt-by-middle-east-war-fpi-outflows/articleshow/130495842.cms",
-      "relevance_score": 0.9815,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1682,
-      "title": "Global cues weigh on Dalal Street as oil spike fuels investor worries",
-      "summary": "• Indian stock markets declined nearly 1% on Thursday, mirroring losses in Asian benchmarks as Brent oil prices surpassed $100, fueling cautious sentiment.\n• Analysts anticipate range-bound trading until strong market triggers emerge, with the Nifty closing at 24,173.05 and Sensex at 77,664.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-cues-weigh-on-dalal-street-as-oil-spike-fuels-investor-worries/articleshow/130480952.cms",
-      "relevance_score": 0.9803,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1657,
-      "title": "Fresh bid to impeach CEC Gyanesh Kumar: Opposition submits new notice signed by 73 MPs in Rajya Sabha",
-      "summary": "• This follows earlier rejected impeachment notices, with accusations of 'partial conduct' favoring the ruling BJP, particularly concerning electoral roll revisions.\n• The move occurs amidst political tensions surrounding West Bengal's assembly elections.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/fresh-bid-to-impeach-cec-gyanesh-kumar-opposition-submits-new-notice-signed-by-73-mps-in-rajya-sabha/articleshow/130490067.cms",
-      "relevance_score": 0.98,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1643,
-      "title": "'Ghayal' turns 'ghatak': How Raghav Chadha's exit delivers 5 big blows to AAP",
-      "summary": "• Raghav Chadha's defection from AAP to BJP, along with six other Rajya Sabha members, significantly weakens the party's parliamentary strength and national positioning.\n• This move, which qualifies as a merger under anti-defection rules, erodes AAP's credibility and its ability to represent Punjab's interests nationally, potentially impacting upcoming elections.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/raghav-chadha-quits-aap-ghayal-turns-ghatak-how-his-exit-delivers-5-big-blows-to-aam-aadmi-party/articleshow/130497404.cms",
-      "relevance_score": 0.9778,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1676,
-      "title": "Iran admits 'strategic mistake' over nuclear issue at negotiation table in Pakistan",
-      "summary": "• In a bold declaration, an MP from Iran has criticized the recent diplomatic discussions held in Pakistan, deeming them a 'tactical blunder.' He contended that engaging in dialogue about Iran's nuclear….\n• The MP disclosed that the US had imposed a demand for a two-decade suspension on enriched uranium activities, which Iran firmly turned down.",
-      "category": "International Relations",
-      "source": "Times of India - World",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/iran-admits-strategic-mistake-over-nuclear-issue-at-negotiation-table-in-pakistan/articleshow/130482307.cms",
-      "relevance_score": 0.9777,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1663,
-      "title": "Stock market crash: Why have Sensex, Nifty dropped over 1% in trade today? Top reasons",
-      "summary": "• Technology stocks bore the brunt of the selling.\n• Shares of Infosys, HCLTech, Tech Mahindra and Tata Consultancy Services fell between 2 per cent and 4 per cent after Infosys’ fourth-quarter results failed to meet market expectations.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-crash-why-have-sensex-nifty-dropped-over-in-trade-today-april-24-2026-top-reasons-us-iran-war-oil-prices-it-stocks/articleshow/130487268.cms",
-      "relevance_score": 0.9766,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1656,
-      "title": "‘Crushed temple of democracy’: PM Modi slams Bengal govt, warns TMC ‘goons’ they have ‘no place to hide after May 4’",
-      "summary": "• Prime Minister Narendra Modi claimed the \"wave of change\" in West Bengal is evident after the first phase of polling, signaling a BJP victory.\n• He alleged the TMC has \"crushed the temple of democracy\" and urged voters to reconstruct it, while also criticizing the party over women's safety.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/crushed-temple-of-democracy-pm-modi-slams-bengal-govt-warns-tmc-goons-they-have-no-place-to-hide-after-may-4/articleshow/130488548.cms",
-      "relevance_score": 0.9579,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1639,
-      "title": "After Iranian FM Araghchi confirms Islamabad visit, US officials say Witkoff, Kushner to travel to Pakistan for talks",
-      "summary": "• US President Trump's envoy Steve Witkoff and Jared Kushner will visit Pakistan for talks with Iran's foreign minister.\n• The discussions aim to advance negotiations on Tehran’s nuclear program, following recent outreach from Iran.\n• Vice President JD Vance remains on standby for potential participation.",
-      "category": "International Relations",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/after-iranian-fm-araghchi-confirms-islamabad-visit-us-officials-say-witkoff-kushner-to-travel-to-pakistan-for-talks-11777051897402.html",
-      "relevance_score": 0.9571,
-      "published_date": "2026-04-24"
-    },
-    {
-      "id": 1678,
-      "title": "India and Japan forge data partnership to power AI-ready smart cities",
-      "summary": "• Japanese firm ONESTRUCTION and Indian Institute of Science-backed DataKaveri have partnered to integrate construction data into urban AI platforms.\n• This collaboration aims to unlock valuable building information, previously lost after project completion, for use in smart city applications and digital twins across India and Japan.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/india-and-japan-forge-data-partnership-to-power-ai-ready-smart-cities/articleshow/130481914.cms",
-      "relevance_score": 0.9431,
-      "published_date": "2026-04-24"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-06-24T07:19:30.462746Z"
+  "updated_at": "2026-06-24T10:16:31.865434Z"
 }
