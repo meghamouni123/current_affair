@@ -131,6 +131,16 @@
       "published_date": "2026-06-25"
     },
     {
+      "id": 6334,
+      "title": "Hyderabad-based Standard Engineering Tech to acquire 51% in GScale Energy for ₹190 crore",
+      "summary": "• GScale is one of the largest energy companies in the world.\n• The deal is expected to be worth more than $1 billion to the Indian energy sector.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-based-standard-engineering-tech-to-acquire-51-in-gscale-energy-for-190-crore/article71146836.ece",
+      "relevance_score": 0.8406,
+      "published_date": "2026-06-25"
+    },
+    {
       "id": 6331,
       "title": "Pulse Polio drive in Yadgir starting Sunday",
       "summary": "• More than 1,000 people are expected to take part in the drive.\n• The drive will be held in the city's main square, in the heart of the city, and also in other parts of the town.\n• It's the first of its kind in the country and will run through the end of the year.",
@@ -561,22 +571,22 @@
       "published_date": "2026-06-24"
     },
     {
-      "id": 6249,
-      "title": "FIFA World Cup 2026: Colombia into Round of 32 as Munoz strikes against DR Congo",
-      "summary": "• Colombia beat DR Congo 1-0 to reach the last 16 of the 2026 World Cup in Brazil.\n• Colombia will play Brazil, Costa Rica and Argentina in the round of 16.\n• Colombia also face Costa Rica in the quarter-finals.\n• Colombia play Brazil in the semi-finals and the final in Brazil in 2026.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-colombia-into-round-of-32-as-munoz-strikes-against-dr-congo/article71140565.ece",
-      "relevance_score": 0.8296,
-      "published_date": "2026-06-24"
-    },
-    {
       "id": 6235,
       "title": "Assess impact of policies on citizens: PM Modi to IAS trainees",
       "summary": "• PM Modi tells trainees to assess impact of policy on citizens.\n• Modi also asks them to take action against those who misjudge the country.\n• Modi: 'I want to make India a better place for all of us.\n• I am committed to the cause of the poor'.",
       "category": "Polity & Governance",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/assess-impact-of-policies-on-citizens-pm-modi-to-ias-trainees/articleshow/131953148.cms",
+      "relevance_score": 0.8296,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6249,
+      "title": "FIFA World Cup 2026: Colombia into Round of 32 as Munoz strikes against DR Congo",
+      "summary": "• Colombia beat DR Congo 1-0 to reach the last 16 of the 2026 World Cup in Brazil.\n• Colombia will play Brazil, Costa Rica and Argentina in the round of 16.\n• Colombia also face Costa Rica in the quarter-finals.\n• Colombia play Brazil in the semi-finals and the final in Brazil in 2026.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-colombia-into-round-of-32-as-munoz-strikes-against-dr-congo/article71140565.ece",
       "relevance_score": 0.8296,
       "published_date": "2026-06-24"
     },
@@ -19989,18 +19999,8 @@
       "url": "https://www.news18.com/india/upi-in-south-korea-can-it-replace-forex-credit-cards-what-it-means-for-indias-global-push-shil-ws-el-10059413.html",
       "relevance_score": 0.9696,
       "published_date": "2026-04-27"
-    },
-    {
-      "id": 1535,
-      "title": "King Charles III begins US state visit amid Washington security scare and Iran tensions",
-      "summary": "• The visit unfolds against a backdrop of strained relations between the UK government, led by PM Keir Starmer, and the Trump administration.\n• It also comes against the backdrop of ongoing controversy involving Prince Andrew and his ties to Jeffrey Epstein.",
-      "category": "International Relations",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/king-charles-iii-begins-us-state-visit-amid-washington-security-scare-and-iran-tensions-11777317333071.html",
-      "relevance_score": 0.939,
-      "published_date": "2026-04-27"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-06-25T15:42:49.688788Z"
+  "updated_at": "2026-06-25T17:47:22.120675Z"
 }
