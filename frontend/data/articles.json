@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 6298,
+      "title": "Amit Shah to launch drive to destroy 2 lakh kg of drugs",
+      "summary": "• Aims to destroy two lakh kgs of drugs in one go, says PM.\n• Shah: 'We will not tolerate drugs in our country.\n• We will not allow drugs to be produced and sold in India.\n• We are not going to tolerate drugs of any kind in our nation' He adds: 'I am not a drug dealer.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-launch-drive-to-destroy-2-lakh-kg-of-drugs/articleshow/131980040.cms",
+      "relevance_score": 0.9381,
+      "published_date": "2026-06-25"
+    },
+    {
+      "id": 6297,
+      "title": "BJP demands FIR against Punjab CM Bhagwant Mann under new law",
+      "summary": "• Mann is the son of former Punjab chief minister and a member of the Indian National Congress.\n• Mann has been in charge of Punjab since 2003.\n• He is also a former chief minister of Haryana and an ex-chairman of the Punjab Pradesh Congress Party (PPP) The PPP is the largest party in the Punjab assembly.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/bjp-demands-fir-against-punjab-cm-bhagwant-mann-under-new-law/articleshow/131980175.cms",
+      "relevance_score": 0.852,
+      "published_date": "2026-06-25"
+    },
+    {
+      "id": 6296,
+      "title": "Plan to target tourists in Pahalgam was in motion week before attack, terrorists used trekking app to log coordinates",
+      "summary": "• Plan to target tourists in Pahalgam was in motion week before attack, terrorists say.\n• Terrorists used trekking app to log coordinates, according to police.\n• They were planning to carry out an attack on a group of tourists in the resort town.\n• The attack was carried out by a group known as the Islamic State of Iraq and Levant (ISIL), police say.\n• The group claimed responsibility for the attack in a statement.",
+      "category": "National News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/pahalgam-terror-attack-nia-chargesheet-pakistan-based-handler-10756041/",
+      "relevance_score": 0.807,
+      "published_date": "2026-06-25"
+    },
+    {
       "id": 6269,
       "title": "Indian startup building a chameleon satellite that can switch jobs in space",
       "summary": "• The satellite will be used to send messages to Earth from space.\n• It will also send images of the Earth to Earth in real-time to help scientists understand the Earth's environment.\n• The project is being funded by the Indian government and the Indian Space Research Organisation (ISRO) The satellite is expected to be launched in 2018.",
@@ -58,6 +88,16 @@
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/world/story/us-iran-peace-deal-pakistan-assures-iran-of-continued-support-for-lasting-settlement-ptag-2933323-2026-06-24?utm_source=rss",
       "relevance_score": 0.9307,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6294,
+      "title": "ePlane unveils India’s first full scale eVTOL prototype",
+      "summary": "• EPlane is a subsidiary of India's state-run airline, Air India.\n• The company is also developing an e-rickshaw and a helicopter.\n• The e-rikshaw will be the first to be able to take off and land vertically from a runway.\n• The helicopter will be capable of taking off and landing vertically from the ground.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/eplane-unveils-indias-first-full-scale-evtol-prototype/article71142711.ece",
+      "relevance_score": 0.9282,
       "published_date": "2026-06-24"
     },
     {
@@ -311,13 +351,13 @@
       "published_date": "2026-06-24"
     },
     {
-      "id": 6235,
-      "title": "Assess impact of policies on citizens: PM Modi to IAS trainees",
-      "summary": "• PM Modi tells trainees to assess impact of policy on citizens.\n• Modi also asks them to take action against those who misjudge the country.\n• Modi: 'I want to make India a better place for all of us.\n• I am committed to the cause of the poor'.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/assess-impact-of-policies-on-citizens-pm-modi-to-ias-trainees/articleshow/131953148.cms",
-      "relevance_score": 0.8296,
+      "id": 6295,
+      "title": "Karnataka to implement VB-G RAM G from July 1 even as it explores legal options",
+      "summary": "• Karnataka will be the first state in India to implement the new system.\n• The state will be able to use the new technology in its own state-run hospitals and other facilities.\n• The new system will be available to patients in hospitals across the state.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-to-implement-vb-g-ram-g-from-july-1-even-as-it-explores-legal-options/article71142308.ece",
+      "relevance_score": 0.8308,
       "published_date": "2026-06-24"
     },
     {
@@ -327,6 +367,16 @@
       "category": "Sports",
       "source": "The Hindu - Sport",
       "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-colombia-into-round-of-32-as-munoz-strikes-against-dr-congo/article71140565.ece",
+      "relevance_score": 0.8296,
+      "published_date": "2026-06-24"
+    },
+    {
+      "id": 6235,
+      "title": "Assess impact of policies on citizens: PM Modi to IAS trainees",
+      "summary": "• PM Modi tells trainees to assess impact of policy on citizens.\n• Modi also asks them to take action against those who misjudge the country.\n• Modi: 'I want to make India a better place for all of us.\n• I am committed to the cause of the poor'.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/assess-impact-of-policies-on-citizens-pm-modi-to-ias-trainees/articleshow/131953148.cms",
       "relevance_score": 0.8296,
       "published_date": "2026-06-24"
     },
@@ -19949,58 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/punjab-cm-bhagwant-mann-seeks-president-murmus-intervention-after-raghav-chadha-led-aap-exodus-in-rajya-sabha/articleshow/130512179.cms",
       "relevance_score": 0.9705,
       "published_date": "2026-04-25"
-    },
-    {
-      "id": 1611,
-      "title": "L&amp;T Finance Q4 profit climbs 27 pc to Rs 807 cr",
-      "summary": "• This growth was fueled by a sharp increase in interest income and robust retail loan disbursements.\n• The company's core net interest also saw an upward trend.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/lt-finance-q4-profit-climbs-27-pc-to-rs-807-cr/articleshow/130511449.cms",
-      "relevance_score": 0.9542,
-      "published_date": "2026-04-25"
-    },
-    {
-      "id": 1613,
-      "title": "Axis Bank Q4FY26 net profit marginally down at Rs 7071 crore on prudential provisions",
-      "summary": "• Axis Bank's Q4 FY26 net profit dipped slightly to Rs 7,071 crore, impacted by higher provisioning and lower trading gains.\n• Despite this, core interest income saw steady growth, fueled by a significant 19% rise in net advances, particularly in corporate and SME segments.\n• The bank also reported improved asset quality and strong capital adequacy ratios.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/axis-bank-q4fy26-net-profit-marginally-down-at-rs-7071-crore-on-prudential-provisions/articleshow/130511417.cms",
-      "relevance_score": 0.9311,
-      "published_date": "2026-04-25"
-    },
-    {
-      "id": 1621,
-      "title": "From FAANG to BATMMAAN: the new acronym driving global tech investing, says Niteen Dongare",
-      "summary": "• Global investors are shifting focus from FAANG and Magnificent 7 to broader innovation, embracing the BATMMAAN acronym for AI, semiconductors, and digital ecosystems.\n• Niteen Dongare advises staying invested in US markets, emphasizing proven earnings and stable management amidst geopolitical volatility.\n• He also highlights the growing trend of Indian investors diversifying globally, with AI and semiconductors attracting significant interest.",
-      "category": "Science & Technology",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/from-faang-to-batmmaan-the-new-acronym-driving-global-tech-investing-says-niteen-dongare/articleshow/130508957.cms",
-      "relevance_score": 0.928,
-      "published_date": "2026-04-25"
-    },
-    {
-      "id": 1594,
-      "title": "'See India as civilisation, not nation': Isha founder Sadhguru at IIT2026 meet in US",
-      "summary": "• At the IIT2026 Global Conference, Sadhguru urged viewing India as a civilization, not just a nation, emphasizing its spiritual and scientific heritage.\n• He highlighted rapid global change driven by AI, stressing the need for human clarity and understanding our own potential beyond mere data processing.\n• The conference celebrated 75 years of IITs, focusing on AI, innovation, and collaboration.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/see-india-as-civilisation-not-nation-isha-founder-sadhguru-at-iit2026-meet-in-us/articleshow/130518186.cms",
-      "relevance_score": 0.9267,
-      "published_date": "2026-04-25"
-    },
-    {
-      "id": 1623,
-      "title": "Jane Street's $40 billion trading haul tops rivals, sources say",
-      "summary": "• Jane Street, a leading market maker, achieved a record $39.6 billion in net trading revenue last year, surpassing rivals like Citadel Securities and Hudson River Trading.\n• This surge was fueled by market volatility and a significant boost from its investments in private startups, including AI firm Anthropic.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jane-streets-40-billion-trading-haul-tops-rivals-sources-say/articleshow/130508024.cms",
-      "relevance_score": 0.9208,
-      "published_date": "2026-04-25"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-06-24T17:56:01.023335Z"
+  "updated_at": "2026-06-25T04:04:33.651977Z"
 }
