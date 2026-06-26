@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 6361,
+      "title": "Meet the world’s new peacemakers",
+      "summary": "• The world's first female leaders are taking on the challenge of peacemaking.\n• The first female heads of state will be the first female president of the United Nations.\n• The U.S. president will be first female leader of the European Union.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/meet-the-world-s-new-peacemakers-101782473855668.html",
+      "relevance_score": 0.9427,
+      "published_date": "2026-06-26"
+    },
+    {
+      "id": 6362,
+      "title": "What are fire-hunting satellites? Greece turns to space technology against wildfires. How it works",
+      "summary": "• How it works and why it's being used in the country's firefighting efforts.\n• Share your thoughts in the comments below or post a video on CNN iReport.\n• Follow CNN Living on Facebook and Twitter and share your photos of Greece's wildfires on Instagram and Twitter.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/what-are-fire-hunting-satellites-greece-turns-to-space-technology-against-wildfires-101782468240138.html",
+      "relevance_score": 0.9059,
+      "published_date": "2026-06-26"
+    },
+    {
       "id": 6356,
       "title": "Forex measures yield results! FPIs buy record $4.2 billion Indian government bonds in June; reserves may get a boost",
       "summary": "• FPIs buy record $4.2 billion Indian government bonds in June.\n• India's reserves may get a boost from foreign investors buying government bonds.\n• Indian rupee hit a record high against the dollar in June, up 0.3% on the day.\n• The rupee was down 0.4% against the U.S. dollar on the same day.",
@@ -148,6 +168,16 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-points-table-live-group-f-real-time-updates-soccer-wc-standings-final-matchday/article71147899.ece",
       "relevance_score": 0.8211,
+      "published_date": "2026-06-26"
+    },
+    {
+      "id": 6363,
+      "title": "India's AI services revenue touches $12 billion as adoption moves beyond pilots: Nasscom",
+      "summary": "• India's AI Services Revenue touches $11.5 billion, Nasscom says.\n• Nasscom: India'sAI Services Revenue Touches $12billion as Adoption Moves beyond Pilots.\n• India has one of the highest rates of AI adoption in the world, according to Nasscom's research.",
+      "category": "Science & Technology",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-ai-services-revenue-touches-12-billion-as-adoption-moves-beyond-pilots-nasscom/articleshow/132012591.cms",
+      "relevance_score": 0.8116,
       "published_date": "2026-06-26"
     },
     {
@@ -19969,38 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/at-no-point-shashi-tharoor-refutes-kiren-rijijus-claim-that-he-agreed-congress-is-anti-women/articleshow/130579397.cms",
       "relevance_score": 0.9923,
       "published_date": "2026-04-28"
-    },
-    {
-      "id": 1502,
-      "title": "CM Dhami addressed the special Assembly session on the Nari Shakti Vandan Adhiniyam",
-      "summary": "• Appealing to the House, the Chief Minister emphasised that there should be no politics when it comes to empowering women.\n• He said that women are no longer limited to mere participation but are now taking on leadership roles.\n• Recognizing the strength of women, Prime Minister Narendra Modi introduced the Nari Shakti Vandan Act in 2023.",
-      "category": "Polity & Governance",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/cm-dhami-addressed-the-special-assembly-session-on-the-nari-shakti-vandan-adhiniyam-3041812.html",
-      "relevance_score": 0.9918,
-      "published_date": "2026-04-28"
-    },
-    {
-      "id": 1516,
-      "title": "Calcutta HC refuses action against poll officers till April 29 amid row involving IPS officer Ajay Pal Sharma",
-      "summary": "• The Calcutta High Court has refused to intervene in allegations against election observer Ajay Pal Sharma, citing the ongoing polling period.\n• A lawyer's plea to restrain the IPS officer, accused of violating the Model Code of Conduct and intimidating voters in South 24 Parganas, was dismissed.\n• The court advised approaching the Election Commission for redressal amidst a political row.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/calcutta-hc-refuses-action-against-poll-officers-till-april-29-amid-row-involving-ips-officer-ajay-pal-sharma/articleshow/130578573.cms",
-      "relevance_score": 0.9902,
-      "published_date": "2026-04-28"
-    },
-    {
-      "id": 1504,
-      "title": "Who is Ajitesh Argal? India's U-19 World Cup winner-turned-umpire in IPL 2026 has a strong Virat Kohli connection",
-      "summary": "• Ajitesh Argal was one of the on-field umpires in the IPL 2026 match between Delhi Capitals and Royal Challengers Bengaluru.\n• After the game, Argal also met his first India captain Virat Kohli.\n• Notably, Argal was a part of the Kohli-led Indian team that won the U19 World Cup in 2008 in Malaysia.",
-      "category": "Sports",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/trends/who-is-ajitesh-argal-indias-u-19-world-cup-winner-turned-umpire-in-ipl-2026-has-a-strong-virat-kohli-connection-11777375527509.html",
-      "relevance_score": 0.9897,
-      "published_date": "2026-04-28"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-06-26T10:27:08.501813Z"
+  "updated_at": "2026-06-26T12:31:33.729038Z"
 }
