@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 6468,
+      "title": "One app for health: Centre to launch Aarogya Setu 2.0",
+      "summary": "• Centre will use app to monitor patients' blood pressure, heart rate and other vital signs.\n• Centre also plans to use the app to check for signs of obesity and other conditions.\n• Centre to use it to monitor patient's blood pressure and other critical signs of stress, for example, and to help them get better sleep.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/one-app-for-health-centre-to-launch-aarogya-setu-2-0/articleshow/132054418.cms",
+      "relevance_score": 0.9712,
+      "published_date": "2026-06-28"
+    },
+    {
+      "id": 6465,
+      "title": "Central Sanskrit University introduces B.Tech programme in AI, data science",
+      "summary": "• Students will be able to work on a range of subjects including data science, AI and machine learning.\n• They will also have the option of studying for a masters degree in the subject.\n• The programme will run for three years at Central Sanskrit University in India.\n• For more information, visit the university's website at: http://www.csu.org.uk.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/education/central-sanskrit-university-introduces-btech-programme-in-ai-data-science/article71157681.ece",
+      "relevance_score": 0.9595,
+      "published_date": "2026-06-28"
+    },
+    {
       "id": 6453,
       "title": "What is the new QR code system to crack down on fake medicines",
       "summary": "• QR code is a new way to check for fake medicines using a QR code.\n• The new system is being trialled in the UK and will be rolled out in the U.S. by the end of the year.\n• Click here to find out more about the QR code and how to use it in your area.",
@@ -61,6 +81,16 @@
       "published_date": "2026-06-28"
     },
     {
+      "id": 6466,
+      "title": "OpenAI names Prabhjeet Singh as managing director for its India operations",
+      "summary": "• Singh will be responsible for the company's operations in India.\n• He will be based in New Delhi and will lead the firm's AI research in the country.\n• Singh is a graduate of the prestigious Indian Institute of Technology, Delhi, and the Indian National Institute of Computer Science, Delhi.\n• He is also a co-founder of the start-up OpenAI, based in Bengaluru.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/sci-tech/technology/openai-names-prabhjeet-singh-as-managing-director-for-its-india-operations/article71157664.ece",
+      "relevance_score": 0.9022,
+      "published_date": "2026-06-28"
+    },
+    {
       "id": 6464,
       "title": "Sinner begins Wimbledon defence, Sabalenka seeks first title",
       "summary": "• Sinner is defending his Wimbledon title, which he won last year.\n• Sabalenska is seeking her first title at Wimbledon, having won the title in 2010 and 2011.\n• She is bidding to win her first grand slam title at SW19 in Doha, Qatar.",
@@ -111,6 +141,16 @@
       "published_date": "2026-06-28"
     },
     {
+      "id": 6470,
+      "title": "North-East floods raise power, logistics and inflation risks",
+      "summary": "• North-East is home to one of the world's fastest-growing economies.\n• The region has been hit hard by floods and other natural disasters in recent years.\n• The floods have also raised concerns over the country's economic growth and inflation.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
+      "category": "Economy & Banking",
+      "source": "LiveMint - Economy",
+      "url": "https://www.livemint.com/economy/northeast-floods-raise-power-logistics-and-inflation-risks-11782645575976.html",
+      "relevance_score": 0.8566,
+      "published_date": "2026-06-28"
+    },
+    {
       "id": 6435,
       "title": "FIFA World Cup 2026 highlights: Colombia vs Portugal final Group K both sides battle to goalless draw",
       "summary": "• Colombia and Portugal play out 0-0 draw in 2026 World Cup Group K final.\n• Colombia lead Group K with four points from two games.\n• Portugal lead group with two points from one game.\n• Colombia have won one and lost one of their two World Cup games so far.\n• Portugal have failed to win a single game at the World Cup since 1966.",
@@ -118,6 +158,16 @@
       "source": "The Hindu - Sport",
       "url": "https://www.thehindu.com/sport/football/colombia-vs-portugal-fifa-world-cup-match-live-score-updates-june-28-2026/article71155753.ece",
       "relevance_score": 0.8561,
+      "published_date": "2026-06-28"
+    },
+    {
+      "id": 6472,
+      "title": "India clinches historic AVC Men’s Volleyball Cup bronze after unbeaten pool run",
+      "summary": "• India beat China and Russia to win the bronze medal.\n• India also won the silver medal in the 2010 edition of the tournament.\n• The team also won a silver medal at the 2010 Commonwealth Games in Delhi.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/volleyball/indian-volleyball-team-unbeaten-run-avc-cup-third-place-bronze-latest-scores-results/article71158455.ece",
+      "relevance_score": 0.8535,
       "published_date": "2026-06-28"
     },
     {
@@ -168,6 +218,16 @@
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/education/14-year-old-mahima-rajput-selected-for-shakthisat-space-mission-11697075#publisher=newsstand",
       "relevance_score": 0.8267,
+      "published_date": "2026-06-28"
+    },
+    {
+      "id": 6467,
+      "title": "Rain havoc: Railway bridge collapses in Assam, flash floods in Arunachal",
+      "summary": "• Railway bridge collapsed in Assom, flash Floods in Ar Unachal, officials say.\n• Railways closed in both states due to heavy downpours and flash floods.\n• Railway also closed in Manipur, Mizoram and Nagaland due to flash floods and heavy rain.",
+      "category": "National News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/assam-flood-dhemaji-railway-bridge-collapse-arunachal-pradesh-landslide-rain-10761828/",
+      "relevance_score": 0.8226,
       "published_date": "2026-06-28"
     },
     {
@@ -19939,68 +19999,8 @@
       "url": "https://www.thehindu.com/news/international/new-mexico-seeks-child-safety-restrictions-on-meta-apps-algorithms-in-trials-2nd-phase/article70937689.ece",
       "relevance_score": 0.8041,
       "published_date": "2026-05-04"
-    },
-    {
-      "id": 3434,
-      "title": "Joint call by the President of the ICRC, the Director-General of WHO and the International President of MSF",
-      "summary": "• Ten years ago, the UN Security Council unanimously adopted Resolution 2286 on health care in armed conflicts.\n• Today, we mark not an achievement – we mark a failure.\n• As violence affecting medical facilities, transport and personnel continues unabated, the harm this resolution sought to prevent has not diminished.\n• As the heads of the International Committee of the Red Cross (ICRC), the World Health Organization (WHO), and Médecins Sans Frontières (MSF), we join others in the international community in issuing an urgent call for action.\n• The situation is even worse compared to 10 years ago.\n• It has continued and, in many contexts, intensified.",
-      "category": "International Relations",
-      "source": "WHO",
-      "url": "https://www.who.int/news/item/04-05-2026-joint-call-by-the-president-of-the-icrc--the-director-general-of-who-and-the-international-president-of-msf",
-      "relevance_score": 0.8003,
-      "published_date": "2026-05-04"
-    },
-    {
-      "id": 3451,
-      "title": "What is Mission Drishti? Bengaluru-passed GalaxEye launches world’s first OptoSAR satellite. Here's what makes it unique",
-      "summary": "• Here's what makes it unique and how it will be used in the future.\n• It will be the first of its kind in the world and will be operated by an Indian company.\n• The mission is expected to be completed by the end of the year.\n• It is the first in a series of similar missions to be launched by Indian companies.",
-      "category": "Science & Technology",
-      "source": "LiveMint - Science",
-      "url": "https://www.livemint.com/science/news/mission-drishti-bengaluru-passed-galaxeye-launches-world-first-optosar-satellite-heres-what-makes-it-unique-pm-modi-11777807352112.html",
-      "relevance_score": 0.9705,
-      "published_date": "2026-05-03"
-    },
-    {
-      "id": 3475,
-      "title": "ECI Election Results 2026 LIVE Updates: Constituency-wise winners for West Bengal, Tamil Nadu, Assam, Kerala",
-      "summary": "• ECI Election results 2026: Candidates will be able to cast their votes in a single block of votes.\n• The results will be announced at 8.30pm local time (9.30am GMT) on Wednesday.\n• The elections will be held on November 7 and 8.",
-      "category": "State News",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/election-commission-of-india-eci-tamil-nadu-assam-puducherry-west-bengal-kerala-election-results-2026-live-eciresults-nic-in-results-eci-gov-in-10669077/",
-      "relevance_score": 0.95,
-      "published_date": "2026-05-03"
-    },
-    {
-      "id": 3405,
-      "title": "India’s first State-led Centre of Excellence for space tech launched in Bengaluru",
-      "summary": "• India's first state-led centre for space technology to be set up in the city.\n• The centre will be based in the state of Karnataka.\n• It will be a centre of excellence for space and space-related technology.\n• It is the first of its kind in the country and will focus on space technology.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Science",
-      "url": "https://www.thehindu.com/news/cities/bangalore/indias-first-state-led-centre-of-excellence-for-space-tech-launched-in-bengaluru/article70929347.ece",
-      "relevance_score": 0.9454,
-      "published_date": "2026-05-03"
-    },
-    {
-      "id": 3404,
-      "title": "GalaxEye launches Mission Drishti, India’s largest privately developed Earth observation satellite",
-      "summary": "• GalaxEye is a privately developed satellite company based in Bengaluru, India.\n• The satellite will be used to observe the Earth from space.\n• The mission is scheduled to launch in mid-2014.\n• For more information, go to: www.galaxEye.com and www.facebook.com/galaxeye.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Science",
-      "url": "https://www.thehindu.com/sci-tech/science/galaxeye-launches-mission-drishti-indias-largest-privately-developed-earth-observation-satellite/article70934749.ece",
-      "relevance_score": 0.9422,
-      "published_date": "2026-05-03"
-    },
-    {
-      "id": 3472,
-      "title": "ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win",
-      "summary": "• Vijay thanks PM Modi, Rahul Gandhi for greetings after TVK’s historic win.\n• ECI Tamil Nadu Election Results 2026 LIVE Updates: Vijay thanks Modi, Gandhi for their greetings.\n• EICL declares TVK as winners of Tamil Nadu Assembly Election 2026.\n• Tamil Nadu to go to the polls in 2026 for first time in 50 years.\n• Election to be held on November 7, 25, 28, 28 and 29.",
-      "category": "Polity & Governance",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/tamil-nadu-assembly-election-results-2026-live-updates-dmk-aiadmk-tvk-10665171/",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-03"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-06-28T14:37:27.095840Z"
+  "updated_at": "2026-06-28T17:10:30.875898Z"
 }
