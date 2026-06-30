@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "id": 6538,
+      "title": "Modi set for US visit in December; his bond with Trump was ‘envy of world’: Envoys",
+      "summary": "• Modi set for U.S. visit in September; his visit will be in December, officials say.\n• Modi will be accompanied by his wife, Glamour model Priyanka Chopra, and other high-profile dignitaries.\n• The visit will take place in New York and Washington, D.C.",
+      "category": "International Relations",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/modi-set-for-us-visit-in-december-his-bond-with-trump-was-envy-of-world-envoys-sergio-gor-101782788198983.html",
+      "relevance_score": 0.8853,
+      "published_date": "2026-06-30"
+    },
+    {
+      "id": 6544,
+      "title": "Trump calls PM Modi `friend,` committed to stronger India-US ties: Ambassador Gor",
+      "summary": "• Ambassador Gor: PM Modi is committed to strengthening India-U.S. ties.\n• Trump calls Modi a 'friend' and says he wants 'stronger' ties between the two countries.\n• Modi: 'I am committed to building stronger ties between India and the U.S., and we will work together to achieve this'.",
+      "category": "International Relations",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/trump-calls-pm-modi-friend-committed-to-stronger-india-us-ties-ambassador-gor-3058463.html",
+      "relevance_score": 0.8591,
+      "published_date": "2026-06-30"
+    },
+    {
+      "id": 6545,
+      "title": "`Threat to regional stability`: India condemns Pakistan’s air strikes in Afghanistan",
+      "summary": "• India says the strikes are a threat to regional stability.\n• India: The strikes are an act of war against a sovereign nation.\n• Pakistan: The attacks are in response to an attack on our military bases in the Afghan capital, Kabul.\n• The Indian government has condemned the strikes as ‘provocative’.",
+      "category": "International Relations",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/threat-to-regional-stability-india-condemns-pakistan-s-air-strikes-in-afghanistan-3058459.html",
+      "relevance_score": 0.8272,
+      "published_date": "2026-06-30"
+    },
+    {
+      "id": 6547,
+      "title": "FIFA World Cup 2026: Argentina’s Romero back in full training before Cape Verde clash",
+      "summary": "• Argentina face Cape Verdes in first warm-up game on Tuesday night.\n• Argentina will then travel to South Africa for a friendly on Wednesday.\n• The second leg will take place on Saturday in Buenos Aires.\n• The third and final game will be played on Sunday in Sao Paulo.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/argentina-cristian-romero-training-injury-cape-verde-clash-fifa-world-cup-2026/article71164117.ece",
+      "relevance_score": 0.808,
+      "published_date": "2026-06-30"
+    },
+    {
       "id": 6515,
       "title": "Sri Sathya Sai police launch LHMS mobile app to combat house burglaries",
       "summary": "• Police launch mobile app in bid to combat burglaries in Sri Sathiya Sai.\n• Police to use app to fight burglaries, break-ins in the area.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
@@ -18,6 +58,16 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/govt-plans-rs-5000-crore-scheme-to-help-steel-industry-adopt-green-technologies/articleshow/132070917.cms",
       "relevance_score": 0.9415,
+      "published_date": "2026-06-29"
+    },
+    {
+      "id": 6542,
+      "title": "International cooperation critical as terrorism threat evolves",
+      "summary": "• International cooperation critical as terrorism threat evolves, U.S. officials say.\n• Secretary-General Ban Ki-moon has called for international cooperation to combat terrorism.\n• The United States has been accused of failing to do enough to combat the threat of terrorism in recent years.\n• The Obama administration has been criticized for not doing enough to counter the threat.\n• The State Department has also been criticized over its response to terrorism in the past.",
+      "category": "International Relations",
+      "source": "UN News",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167834",
+      "relevance_score": 0.9374,
       "published_date": "2026-06-29"
     },
     {
@@ -61,26 +111,6 @@
       "published_date": "2026-06-29"
     },
     {
-      "id": 6521,
-      "title": "India women's cricket team qualifies for Olympics despite World Cup early exit",
-      "summary": "• India women's cricketers qualify for the Olympics despite early exit from World Cup.\n• India's women's team will play at the Olympics for the first time in four years.\n• India have never won an Olympic gold medal in women's sport before this year's Games.\n• The last time India won an Olympics medal was in 1988, when they won the silver medal.",
-      "category": "Sports",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/cricket/story/los-angeles-olympics-2028-india-women-cricket-team-qualification-2936658-2026-06-29?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-29"
-    },
-    {
-      "id": 6525,
-      "title": "Why every T20 game affects India’s cricket hopes at 2028 LA Olympics",
-      "summary": "• India are hoping to win a place at the 2028 Olympic Games in Los Angeles.\n• India have never won an Olympic medal in T20 cricket.\n• They have won just one gold medal in cricket, at the 1988 Seoul Olympics in 1988.\n• India won the silver medal at the 2000 Sydney Olympics in 2000.",
-      "category": "Sports",
-      "source": "Indian Express - Explained",
-      "url": "https://indianexpress.com/article/explained/explained-sports/t20-game-affects-india-cricket-prospects-olympics-10763239/",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-29"
-    },
-    {
       "id": 6513,
       "title": "LA 2028 Olympics: India among teams set for men’s T20 cricket competition",
       "summary": "• India will compete in the men's T20 competition at the LA 2028 Olympic Games.\n• The tournament will take place at the Los Angeles Olympic Stadium.\n• The event will be part of the 2028 Summer Olympics in Los Angeles.\n• It will be the first T20 tournament to be held at the Olympics.",
@@ -101,6 +131,36 @@
       "published_date": "2026-06-29"
     },
     {
+      "id": 6521,
+      "title": "India women's cricket team qualifies for Olympics despite World Cup early exit",
+      "summary": "• India women's cricketers qualify for the Olympics despite early exit from World Cup.\n• India's women's team will play at the Olympics for the first time in four years.\n• India have never won an Olympic gold medal in women's sport before this year's Games.\n• The last time India won an Olympics medal was in 1988, when they won the silver medal.",
+      "category": "Sports",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/cricket/story/los-angeles-olympics-2028-india-women-cricket-team-qualification-2936658-2026-06-29?utm_source=rss",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-29"
+    },
+    {
+      "id": 6525,
+      "title": "Why every T20 game affects India’s cricket hopes at 2028 LA Olympics",
+      "summary": "• India are hoping to win a place at the 2028 Olympic Games in Los Angeles.\n• India have never won an Olympic medal in T20 cricket.\n• They have won just one gold medal in cricket, at the 1988 Seoul Olympics in 1988.\n• India won the silver medal at the 2000 Sydney Olympics in 2000.",
+      "category": "Sports",
+      "source": "Indian Express - Explained",
+      "url": "https://indianexpress.com/article/explained/explained-sports/t20-game-affects-india-cricket-prospects-olympics-10763239/",
+      "relevance_score": 0.91,
+      "published_date": "2026-06-29"
+    },
+    {
+      "id": 6539,
+      "title": "Aarogya Setu 2.0 launched as personal health record app",
+      "summary": "• It will be available on Android and iOS devices.\n• The app will also be available in India in the coming months.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/aarogya-setu-2-0-launched-as-personal-health-record-app-101782758165282.html",
+      "relevance_score": 0.9053,
+      "published_date": "2026-06-29"
+    },
+    {
       "id": 6520,
       "title": "Deputy Secretary-General of ASEAN for Community and Corporate Affairs meets with Ambassador of Republic of Korea (ROK) to ASEAN",
       "summary": "• Ambassador of ROK to A SEAN is also the head of the ROK delegation to the summit.\n• ROK is the second largest economy in the region after the United States.\n• It is the biggest economy in Southeast Asia, followed by China.",
@@ -108,6 +168,16 @@
       "source": "ASEAN Secretariat",
       "url": "https://asean.org/deputy-secretary-general-of-asean-for-community-and-corporate-affairs-meets-with-ambassador-of-republic-of-korea-rok-to-asean-2/",
       "relevance_score": 0.904,
+      "published_date": "2026-06-29"
+    },
+    {
+      "id": 6549,
+      "title": "FIFA World Cup 2026: Norway, Ivory Coast spar for a chance to meet Brazil in R16",
+      "summary": "• Brazil will be hosting the tournament for the first time in 2026.\n• The tournament will be held in Rio de Janeiro and Sao Paulo.\n• Brazil is hosting the World Cup for the second time in its history.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup-2026-norway-ivory-coast-preview-h2h-context-round-of-16-draw-brazil-or-japan/article71161893.ece",
+      "relevance_score": 0.8974,
       "published_date": "2026-06-29"
     },
     {
@@ -231,6 +301,16 @@
       "published_date": "2026-06-29"
     },
     {
+      "id": 6537,
+      "title": "Wimbledon 2026 | Osaka defeats Jacquemot after Japanese-inspired 'Kill Bill' kimono walk-on",
+      "summary": "• Osaka defeatsJacquemot in women's singles final at Wimbledon.\n• Osaka wins 6-1, 6-2, 7-5 in final to win first Wimbledon title in 2026.\n• Osaka's win was first women's final at the tournament since 1981.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/tennis/wimbledon-2026-osaka-defeats-jacquemot-after-japanese-inspired-kill-bill-kimono-walk-on/article71163046.ece",
+      "relevance_score": 0.8663,
+      "published_date": "2026-06-29"
+    },
+    {
       "id": 6535,
       "title": "Maja Chwalinska tumbles out of Wimbledon after fall on match point",
       "summary": "• She was playing Agnieszka Radwanska in the quarter-finals.\n• She will play Maria Sharapova in the last 16 on Sunday.\n• Click HERE for all the latest Wimbledon news.",
@@ -238,6 +318,16 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/tennis/wimbledon-2026-maja-chwalinska-loses-opener-mananchaya-sawangkaew-tennis-results/article71162251.ece",
       "relevance_score": 0.8656,
+      "published_date": "2026-06-29"
+    },
+    {
+      "id": 6536,
+      "title": "Djokovic sees off inspired Wu to reach Wimbledon second round",
+      "summary": "• Djokovic beats Wu in straight sets to reach second round for first time since 2011.\n• He will now face either Andy Murray or Stan Wawrinka in the next round.\n• For more from the Wimbledon Championships, click here for the official website.\n• For tickets to Wimbledon, visit WimbledonTickets.com or click here.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/tennis/djokovic-sees-off-inspired-wu-to-reach-wimbledon-second-round/article71163358.ece",
+      "relevance_score": 0.8583,
       "published_date": "2026-06-29"
     },
     {
@@ -19909,98 +19999,8 @@
       "url": "https://www.indiatoday.in/technology/news/story/anthropic-creates-10-new-ai-agents-for-bank-and-finance-work-will-there-be-bloodbath-on-stock-market-again-2907312-2026-05-06?utm_source=rss",
       "relevance_score": 0.8143,
       "published_date": "2026-05-06"
-    },
-    {
-      "id": 3575,
-      "title": "Hyderabad hospital launches ‘Beat the Heat’ campaign on heat-stroke awareness",
-      "summary": "• Campaign aims to raise awareness about the dangers of heatstroke in the city.\n• The campaign is part of a larger campaign to raise heat- stroke awareness in the country.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-hospital-launches-beat-the-heat-campaign-on-heat-stroke-awareness/article70947292.ece",
-      "relevance_score": 0.8134,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3562,
-      "title": "CJI was only meant to have a say in CEC/EC appointments till Parliament brought a law: Supreme Court",
-      "summary": "• Supreme Court says CJI will have no say in appointments until Parliament brings a law in place.\n• CECs and ECs are appointed by the President of India and the Prime Minister of India.\n• The appointments are made by the president and the prime minister of the country.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/supreme-court-refuses-to-adjourn-hearing-on-pleas-against-eci-law-says-this-matter-is-more-important/article70946929.ece",
-      "relevance_score": 0.8112,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3551,
-      "title": "Iran says it wants a 'comprehensive agreement' with U.S.",
-      "summary": "• Iran says it will not allow nuclear weapons to be placed in its territory.\n• Iran also says it has no intention of giving up its nuclear program in return for U.N.\n• Iran has been accused of testing U.K. and Arab nations' willingness to accept nuclear weapons.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/iran-says-it-wants-a-comprehensive-agreement-with-us/article70946237.ece",
-      "relevance_score": 0.8109,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3588,
-      "title": "Enhanced Comprehensive Strategic Partnership: India, Vietnam Chart $25B Trade & Defence Roadmap",
-      "summary": "• India and Vietnam have signed a $25 billion trade and defence deal.\n• The two countries have also agreed to work together on a joint anti-piracy mission in the South China Sea.\n• The deal is expected to boost trade between the two countries by more than $1 billion a year.",
-      "category": "International Relations",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/world/enhanced-comprehensive-strategic-partnership-india-vietnam-chart-25b-trade-defence-roadmap-10078025.html",
-      "relevance_score": 0.8049,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3572,
-      "title": "FIFA extends Prestianni ban worldwide, threatening World Cup debut",
-      "summary": "• Prestianini banned from all football activities for two years.\n• FIFA also banned him from all sporting activities for three years.\n• Presti was banned from football for two seasons in 2010, two years in 2011.\n• He was also banned for one year in 2012 for biting a woman in a nightclub.\n• He has also been banned for biting two women in two separate incidents in 2010.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/gianluca-prestianni-ban-homophobic-fifa-world-cup-2026-argentina-vinicius/article70947126.ece",
-      "relevance_score": 0.8041,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3543,
-      "title": "British government eyes possible bid for Olympics in 2040s",
-      "summary": "• British government is considering a bid for the Olympics in the 2030s and 2050s.\n• It is also considering a possible bid in the 2030s and the 2070s.\n• The bid would be for the first time in the UK since the London Olympics in 1968.\n• The British government has said it would consider a bid if it was successful.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/other-sports/british-government-olympics-hosting-bid-2040s/article70945556.ece",
-      "relevance_score": 0.8015,
-      "published_date": "2026-05-06"
-    },
-    {
-      "id": 3504,
-      "title": "Anthropic, OpenAI launch AI services companies, challenge TCS and Infosys in India",
-      "summary": "• An earlier version of this article stated that Anthropic and OpenAI were working on AI services.\n• We are happy to clarify that this was not the case.\n• We apologise for any confusion caused as a result of this.\n• We have been asked to make clear that we are working on an AI services company.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/technology/news/story/anthropic-openai-launch-ai-services-companies-challenge-tcs-and-infosys-in-india-2906776-2026-05-05?utm_source=rss",
-      "relevance_score": 0.9546,
-      "published_date": "2026-05-05"
-    },
-    {
-      "id": 3513,
-      "title": "Bank credit grows 15.9% in FY26 to Rs 212.9 lakh crore; Finance ministry says capex, reforms boosting demand",
-      "summary": "• Bank credit grows 15.9% in FY26 to Rs 212.9 lakh crore.\n• Finance ministry says capex, reforms boosting demand for bank credit.\n• Bank credit grows by 15.8% in 2014-15, 15.7% in 2015-16, says finance ministry.\n• In 2013-14, bank credit grew by 14.2% and 14.7%, respectively.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/bank-credit-grows-15-9-in-fy26-to-rs-212-9-lakh-crore-finance-ministry-says-capex-reforms-boosting-demand/articleshow/130834408.cms",
-      "relevance_score": 0.9353,
-      "published_date": "2026-05-05"
-    },
-    {
-      "id": 3480,
-      "title": "What OpenAI, Anthropic’s new enterprise AI services ventures mean for Indian IT firms",
-      "summary": "• OpenAI is a joint venture between Anthropic and OpenAI.\n• Anthropic is an AI company based in San Francisco, California.\n• It has been working with Google, Facebook, Microsoft and others to develop artificial intelligence.\n• The company also has its own AI division, OpenAI AI, based in New York.",
-      "category": "Science & Technology",
-      "source": "Indian Express - Technology",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-anthropic-enterprise-ai-services-ventures-it-sector-10674418/",
-      "relevance_score": 0.9327,
-      "published_date": "2026-05-05"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-06-29T18:19:47.423786Z"
+  "updated_at": "2026-06-30T04:12:34.346018Z"
 }
