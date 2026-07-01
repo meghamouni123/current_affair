@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 6635,
+      "title": "Adani Green First In India To Surpass 20 GW Renewable Energy Capacity",
+      "summary": "• More than 20 GW of renewable energy capacity at Adani's Indian plant.\n• More about Adani and its renewable energy project here.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/adani-green-first-in-india-to-surpass-20-gw-renewable-energy-capacity-11711076#publisher=newsstand",
+      "relevance_score": 0.9236,
+      "published_date": "2026-07-01"
+    },
+    {
       "id": 6613,
       "title": "Haryana, Goa, Punjab ace rollout of new criminal laws",
       "summary": "• Haryana and Goa among states to roll out new criminal law.\n• Punjab, GoA, Punjab among states that will introduce new laws in coming months.\n• The new laws are expected to be rolled out across the state by the end of the year.\n• For confidential support, call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
@@ -31,6 +41,26 @@
       "published_date": "2026-07-01"
     },
     {
+      "id": 6632,
+      "title": "Mexico end knockout jinx with Ecuador win to reach World Cup round of 16",
+      "summary": "• Mexico end World Cup jinx by beating Ecuador in World Cup quarter-final.\n• Mexico have never won a World Cup game against a South American team.\n• Mexico had lost their previous three World Cup games against South American teams.Mexico have won just one of their last 11 World Cup matches against South Americans.\n• Mexico are the only team to have won all three of their World Cup knockout matches.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/mexico-end-knockout-jinx-with-ecuador-win-to-reach-world-cup-round-of-16-101782881775153.html",
+      "relevance_score": 0.8665,
+      "published_date": "2026-07-01"
+    },
+    {
+      "id": 6630,
+      "title": "Maharashtra govt to set up expert panel for AI smart glasses SOPs, says minister",
+      "summary": "• Maharashtra govt will set up Expert Panel for Smart Glasses SOP, says state minister.\n• The panel will be made up of experts from India, China and the UK.\n• It will also have experts from the U.S. and Australia.\n• It is expected to be set up by the end of the year.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/maharashtra-govt-to-set-up-expert-panel-for-ai-smart-glasses-sops-says-minister-101782891229907.html",
+      "relevance_score": 0.8569,
+      "published_date": "2026-07-01"
+    },
+    {
       "id": 6622,
       "title": "FIFA explains World Cup ruling that led to controversial disallowed Germany goal",
       "summary": "• Germany's goal was disallowed for offside in World Cup quarterfinal against Argentina.\n• Germany won the match 2-1 after extra-time and penalty shootout.\n• Germany also won the game 2-0 in the semi-final against Costa Rica.",
@@ -48,6 +78,36 @@
       "source": "News18 - India",
       "url": "https://www.news18.com/india/delhi-ev-policy-2026-electric-vehicle-subsidy-portal-30-days-rc-registration-dbt-transport-department-ws-el-10183235.html",
       "relevance_score": 0.8419,
+      "published_date": "2026-07-01"
+    },
+    {
+      "id": 6636,
+      "title": "FIFA World Cup 2026: Mexico coach Aguirre emphasises connection with fans as driving force for victory",
+      "summary": "• Mexico beat Costa Rica 2-1 in opening game of 2026 World Cup.\n• Mexico face Costa Rica in final group game on June 14.\n• Mexico will then play the USA in the quarter-finals on June 21.\n• Mexico play the United States in the semi-final on June 28.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/mexico-world-cup-javier-aguirre-fan-connection-victory-ecuador/article71168994.ece",
+      "relevance_score": 0.8356,
+      "published_date": "2026-07-01"
+    },
+    {
+      "id": 6631,
+      "title": "Kylian Mbappe snubs Lionel Messi record talk with one clear World Cup goal: 'Leo is going to score more'",
+      "summary": "• 'Leo is going to score more' says the France star.\n• 'Mbappe is the best player in the world' says Lionel Messi's former Barcelona team-mate.\n• 'He is the only player in history to have scored more goals in a single World Cup' says Messi.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/kylian-mbappe-snubs-lionel-messi-record-talk-with-one-clear-world-cup-goal-leo-is-going-to-score-more-101782888660640.html",
+      "relevance_score": 0.8348,
+      "published_date": "2026-07-01"
+    },
+    {
+      "id": 6628,
+      "title": "Anthropic unveils 'Claude Science' for scientific research",
+      "summary": "• The project is a collaboration between anthropologists and scientists from around the world.\n• It aims to improve understanding of the human body through the study of animals and the environment.\n• For more information, visit anthropic.org and the Claude Science Foundation on Facebook and Twitter.\n• For confidential support, call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/anthropic-unveils-claude-science-for-scientific-research/article71168539.ece",
+      "relevance_score": 0.8153,
       "published_date": "2026-07-01"
     },
     {
@@ -341,6 +401,16 @@
       "published_date": "2026-06-30"
     },
     {
+      "id": 6555,
+      "title": "The South American statement: How 2026 World Cup has challenged Europe's narrative",
+      "summary": "• South America will host the World Cup for the first time in 2026.\n• The tournament will be the first in South America and will take place in Rio de Janeiro.\n• The event will also be held in Buenos Aires, Rio and Sao Paulo.\n• The 2026 tournament will feature more than 100 nations from around the world.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/the-south-american-statement-how-2026-world-cup-has-challenged-europes-narrative-101782798811342.html",
+      "relevance_score": 0.8319,
+      "published_date": "2026-06-30"
+    },
+    {
       "id": 6568,
       "title": "FIFA World Cup 2026: Nagelsmann says won't 'run away' after Germany World Cup exit",
       "summary": "• Germany coach says he won't run away after Germany's World Cup elimination.\n• Nagelsman says he will stay in Germany and help the national team recover from their World Cup defeat.\n• Germany lost 2-1 to Argentina in the quarter-finals of the World Cup.\n• Germany also crashed out in the round of 16.",
@@ -351,13 +421,13 @@
       "published_date": "2026-06-30"
     },
     {
-      "id": 6555,
-      "title": "The South American statement: How 2026 World Cup has challenged Europe's narrative",
-      "summary": "• South America will host the World Cup for the first time in 2026.\n• The tournament will be the first in South America and will take place in Rio de Janeiro.\n• The event will also be held in Buenos Aires, Rio and Sao Paulo.\n• The 2026 tournament will feature more than 100 nations from around the world.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/football/the-south-american-statement-how-2026-world-cup-has-challenged-europes-narrative-101782798811342.html",
-      "relevance_score": 0.8319,
+      "id": 6634,
+      "title": "La NASA adjudica nuevas misiones científicas para Base Lunar y adelanta nuevas oportunidades",
+      "summary": "• La NASA adelanta nueva oportunidades para base lunar.\n• NASA adjudicas nuevo misione cienticio para base Lunar.\n• NASA: Base Lunar will have a 'lunar base' for the rest of its existence.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/la-nasa-adjudica-nuevas-misiones-cientificas-para-base-lunar-y-adelanta-nuevas-oportunidades/",
+      "relevance_score": 0.8303,
       "published_date": "2026-06-30"
     },
     {
@@ -19929,78 +19999,8 @@
       "url": "https://science.nasa.gov/photojournal/nasa-sends-mars-helicopter-blades-beyond-mach-1/",
       "relevance_score": 0.8912,
       "published_date": "2026-05-07"
-    },
-    {
-      "id": 3656,
-      "title": "RBI Appoints New Deputy Governor for Monetary Policy",
-      "summary": "• The Reserve Bank of India appointed a new Deputy Governor to oversee monetary policy operations.\n• The appointment follows the retirement of the previous incumbent after a five-year tenure.\n• The new appointee has extensive experience in banking regulation and financial stability.\n• RBI emphasized continuity in policy direction under the new leadership.\n• The appointment was approved by the Government of India.\n• This is part of RBI's ongoing leadership transition plan.",
-      "category": "Schemes & Appointments",
-      "source": "RBI",
-      "url": "https://www.rbi.org.in/appointments/deputy-governor-2026",
-      "relevance_score": 0.8897,
-      "published_date": "2026-05-07"
-    },
-    {
-      "id": 3691,
-      "title": "DRDO’s aircraft integration and flight testing complex to come up in Puttaparthi",
-      "summary": "• The complex will be used to test new aircraft, including the F/A-18 Hornet and the F-16 fighter jet.\n• It will be the first of its kind in India, and will be based in the state of Maharashtra.\n• It is expected to be completed by the end of the year.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/drdos-aircraft-integration-and-flight-testing-complex-to-come-up-in-puttaparthi/article70951422.ece",
-      "relevance_score": 0.8851,
-      "published_date": "2026-05-07"
-    },
-    {
-      "id": 3702,
-      "title": "Google launches Fitbit Air, a wrist strap that will use AI to track user health",
-      "summary": "• The wrist strap will be available on Android and iOS devices.\n• The company also plans to roll out a version for Android phones and tablets later this year.\n• For more information, visit Fitbit's website or go to www.fitbit.com.\n• Back to Mail Online home.back to the page you came from.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/technology/news/story/google-launches-fitbit-air-a-wrist-strap-that-will-use-ai-to-track-user-health-2908338-2026-05-07?utm_source=rss",
-      "relevance_score": 0.8814,
-      "published_date": "2026-05-07"
-    },
-    {
-      "id": 3669,
-      "title": "Questioning religious practices will break religion and civilisation: Supreme Court in Dawoodi Bohras case",
-      "summary": "• Supreme Court in Dawoodi Bohras case will hear case on Thursday.\n• The case will be heard by the Supreme Court of India, which will rule on the case on Friday.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/questioning-religious-practices-will-break-religion-and-civilisation-supreme-court-in-dawoodi-bohras-case/article70950389.ece",
-      "relevance_score": 0.8776,
-      "published_date": "2026-05-07"
-    },
-    {
-      "id": 3713,
-      "title": "Title was the only goal: Ayush Shetty on Thomas Cup run",
-      "summary": "• Shetty won the title with a 1-0 win over Kolkata in the final.\n• He also helped his side to victory in the semi-final against Chennai City.\n• The final took place at the Maracana Stadium in New Delhi.\n• The match was won by Chennai City 2-0 in a penalty shoot-out.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/badminton/title-was-the-only-goal-ayush-shetty-on-thomas-cup-run-101778174779303.html",
-      "relevance_score": 0.8756,
-      "published_date": "2026-05-07"
-    },
-    {
-      "id": 3676,
-      "title": "Live: Governor assures Vijay he will not invite any other party to form government",
-      "summary": "• Vijay: I won't invite other parties, I will only invite my own party.\n• Watch live coverage of the swearing-in ceremony on CNN TV at 8pm.\n• Follow live coverage on CNN.com and @cnnpolitics on Facebook and Twitter.",
-      "category": "Polity & Governance",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/elections/assembly/story/tamil-nadu-govenrment-formation-live-updates-vijay-tvk-new-cm-oath-ceremony-details-aiadmk-dmk-congress-resort-politics-2907868-2026-05-07?utm_source=rss",
-      "relevance_score": 0.8722,
-      "published_date": "2026-05-07"
-    },
-    {
-      "id": 3694,
-      "title": "In just four months of 2026, Tamil Nadu records 2.63 lakh dog bites, 17 deaths",
-      "summary": "• Tamil Nadu recorded 17 dog deaths in the first quarter of this year alone.\n• In the same period of time, there were 2.3 million dog bites in the state, according to state government figures.\n• The state recorded 2.1 million dog bite deaths in that period alone.",
-      "category": "State News",
-      "source": "The Hindu - Tamil Nadu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/in-four-months-tamil-nadu-records-263-lakh-dog-bites-17-deaths/article70947531.ece",
-      "relevance_score": 0.8677,
-      "published_date": "2026-05-07"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-01T04:17:17.396712Z"
+  "updated_at": "2026-07-01T08:11:32.170214Z"
 }
