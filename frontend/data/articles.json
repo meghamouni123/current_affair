@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 6711,
+      "title": "Vikram-1 aims higher after Vikram-S: What is Mission Aagaman set for launch as early as July 12",
+      "summary": "• Mission AAGaman set to launch asEarly as July12.\n• Mission AAgaman set be launched on July 12, 2014, from Sriharikota, Tamil Nadu.\n• Mission aagaman will be the second mission to be launched by the Indian space agency.",
+      "category": "Science & Technology",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/vikram1-aims-higher-after-vikram-s-what-is-mission-aagaman-set-for-launch-as-early-as-july-12-11782993973287.html",
+      "relevance_score": 0.9587,
+      "published_date": "2026-07-02"
+    },
+    {
       "id": 6688,
       "title": "Parliamentary panel set to adopt bill to remove PM, CMs if they spend 30 days in custody",
       "summary": "• Parliament to vote on bill on whether to remove leaders if they are held for more than 30 days.\n• PMs and CMs could be removed from office if they remain in custody for 30 days or more.\n• The bill is expected to be voted on in the next few days.\n• The vote is set to take place on Tuesday.",
@@ -41,6 +51,16 @@
       "published_date": "2026-07-02"
     },
     {
+      "id": 6712,
+      "title": "Exclusive: ‘Fully prepared for Punjab assembly elections, will get clear majority’, says Congress",
+      "summary": "• ‘We will get a clear majority,’ says Congress president Rahul Gandhi.\n• Congress is ‘fully prepared’ for Punjab elections, says Rahul Gandhi, president of Congress in Punjab.\n• Congress has been in power in Punjab for the past four years.\n• It won the last two elections in the state with a majority of more than 60%.",
+      "category": "State News",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/exclusive-fully-prepared-for-punjab-assembly-elections-will-get-clear-majority-says-congress-3059015.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-02"
+    },
+    {
       "id": 6699,
       "title": "Kerala High Court asks Law Secretary and Cabinet Secretary to appear unless progress is made on draft anti-ragging amendment Bill",
       "summary": "• Law Secretary, Cabinet Secretary will have to appear before High Court on Monday.\n• High Court has asked them to appear if progress is not made on the draft bill.\n• The High Court is also asking them to explain why they are not taking action on the bill.\n• They will also have to answer questions on the proposed amendments to the Indian Penal Code.",
@@ -48,6 +68,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-asks-law-secretary-and-cabinet-secretary-to-appear-unless-progress-is-made-on-draft-anti-ragging-amendment-bill/article71173880.ece",
       "relevance_score": 0.91,
+      "published_date": "2026-07-02"
+    },
+    {
+      "id": 6705,
+      "title": "India should focus on merit-based research ecosystem to emerge in AI ecosystem, says Neelkanth Mishra",
+      "summary": "• Mishra: India must focus on 'merit-based' research ecosystem, not just 'hierarchical' research.\n• He says India needs to focus on creating an ecosystem of 'innovators' and 'creators' in the AI ecosystem.\n• He adds: 'We need to create an ecosystem that is open to all.\n• We need to be able to work together'.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/india-should-focus-on-merit-based-research-ecosystem-to-emerge-in-ai-ecosystem-says-neelkanth-mishra/article71174615.ece",
+      "relevance_score": 0.9,
       "published_date": "2026-07-02"
     },
     {
@@ -61,22 +91,22 @@
       "published_date": "2026-07-02"
     },
     {
-      "id": 6689,
-      "title": "Andhra Pradesh to set up task force against social media abuse, says Pawan Kalyan",
-      "summary": "• The task force will be based in the state's capital, Hyderabad.\n• The Task Force will be made up of social media experts and experts from across the country.\n• It will be headed by a chief minister from the state.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-to-set-up-task-force-against-social-media-abuse-says-pawan-kalyan/article71173053.ece",
-      "relevance_score": 0.8969,
-      "published_date": "2026-07-02"
-    },
-    {
       "id": 6673,
       "title": "Nasa explores sending backup Mars rover to Moon’s south pole",
       "summary": "• The mission would be a backup to the Curiosity rover, which is currently based on the surface of Mars.\n• It would be the first rover to reach the Moon's south pole in more than a decade.\n• The rover would be based on a rover that was based on Curiosity's orbiter, which has been on Mars since 2006.",
       "category": "Science & Technology",
       "source": "Indian Express - Technology",
       "url": "https://indianexpress.com/article/technology/science/nasa-explores-sending-backup-mars-rover-to-moons-south-pole-10767386/",
+      "relevance_score": 0.8969,
+      "published_date": "2026-07-02"
+    },
+    {
+      "id": 6689,
+      "title": "Andhra Pradesh to set up task force against social media abuse, says Pawan Kalyan",
+      "summary": "• The task force will be based in the state's capital, Hyderabad.\n• The Task Force will be made up of social media experts and experts from across the country.\n• It will be headed by a chief minister from the state.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-to-set-up-task-force-against-social-media-abuse-says-pawan-kalyan/article71173053.ece",
       "relevance_score": 0.8969,
       "published_date": "2026-07-02"
     },
@@ -91,6 +121,26 @@
       "published_date": "2026-07-02"
     },
     {
+      "id": 6706,
+      "title": "Every eligible citizen will be on voters’ list, says A.P. Chief Electoral Officer",
+      "summary": "• Every eligible citizen on the list will be able to vote in the general election, he says.\n• The election will take place on November 18.\n• The results will be announced on November 25.\n• The general election will be held on November 26.\n• The winner will be declared on November 28.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - Andhra Pradesh",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/every-eligible-citizen-will-be-on-electoral-roll-says-ap-chief-electoral-officer/article71173688.ece",
+      "relevance_score": 0.8871,
+      "published_date": "2026-07-02"
+    },
+    {
+      "id": 6713,
+      "title": "Wimbledon 2026- Fritz powers past Kypson to reach third round; De Minaur also advances",
+      "summary": "• Fritz will play Andy Murray in the quarter-finals at SW19 in New York.\n• Fritz to play Roger Federer in the semi-final at Wimbledon in 2026.\n• Wimbledon to host its first women's singles final in 2028.\n• The event will take place at the All England Club in London.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/tennis/wimbledon-mens-singles-result-today-taylor-fritz-second-round-match/article71174604.ece",
+      "relevance_score": 0.8849,
+      "published_date": "2026-07-02"
+    },
+    {
       "id": 6701,
       "title": "Vikram-1, India's 1st Private Orbital Rocket, Set To Launch By August 4",
       "summary": "• India's first private Orbital Rocket to be launched on August 4, 2014.\n• Vikram will be launched from India's spaceport in Sriharikota, Rajasthan.\n• The rocket will be powered by India's state-run Vikram-II rocket, which will have a two-stage engine.",
@@ -98,6 +148,16 @@
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/vikram-1-indias-1st-private-orbital-rocket-set-to-launch-by-august-4-11717605#publisher=newsstand",
       "relevance_score": 0.8837,
+      "published_date": "2026-07-02"
+    },
+    {
+      "id": 6708,
+      "title": "Vikram-1, India’s first private orbital rocket to launch this month",
+      "summary": "• It will be the first of its kind in the world.\n• The rocket will take off from the east coast of India.\n• It is expected to reach orbit in less than two hours.\n• The launch is scheduled to take place on November 14.\n• The Vikram rocket will be powered by India's own state-run rocket company.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/vikram1-india-s-first-private-orbital-rocket-to-launch-this-month-101783002153042.html",
+      "relevance_score": 0.88,
       "published_date": "2026-07-02"
     },
     {
@@ -111,6 +171,16 @@
       "published_date": "2026-07-02"
     },
     {
+      "id": 6715,
+      "title": "Pakistan Cricket Board signs agreement with Saudi Arabia Cricket Federation",
+      "summary": "• Pakistan Cricket Board signed agreement withSaudi Arabia Cricket federation.\n• Saudi Arabia cricket federation to host Pakistan's national team in 2015 World Cup.\n• Pakistan team will be based in Riyadh, Saudi Arabia's capital, from 2015-16.\n• Pakistan will also play matches in Dubai and Sharjah in 2015.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/pakistan-cricket-board-signs-agreement-saudi-arabia-cricket-federation/article71174545.ece",
+      "relevance_score": 0.8639,
+      "published_date": "2026-07-02"
+    },
+    {
       "id": 6690,
       "title": "India’s first privately developed orbital-class rocket Vikram-1 set for launch",
       "summary": "• India's first privatelyDeveloped Orbital-class Rocket Vikram 1 to be launched on November 14.\n• Vikram is a privately developed rocket that will launch into space.\n• The launch is scheduled to take place on November 15.\n• The rocket will carry a payload of 2,000 kgs (4,500 pounds) into orbit.",
@@ -121,6 +191,16 @@
       "published_date": "2026-07-02"
     },
     {
+      "id": 6704,
+      "title": "APTDC plans to introduce solar-powered electric boats at tourist destinations in phases",
+      "summary": "• APTDC wants to introduce electric boats in tourist destinations at tourist attractions in phases, starting with tourist hotspots such as Costa Rica, Costa Rica and South Africa.\n• The project is expected to cost $1.5 billion to $2 billion over the next five years.\n• The first phase of the project will be completed by 2018.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/aptdc-plans-to-introduce-solar-powered-electric-boats-at-tourist-destinations-in-phases/article71173673.ece",
+      "relevance_score": 0.8522,
+      "published_date": "2026-07-02"
+    },
+    {
       "id": 6671,
       "title": "FIFA World Cup 2026 | Three people run onto field, stop play briefly during Senegal vs Belgium knockout match",
       "summary": "• FIFA 2026: Three people running onto field during Senegalese vs Belgium match.\n• Three people ran onto field and stopped play briefly.\n• FIFA2026: Two people run on field and stop play for a few seconds during Senegal v Belgium.\n• FIFA2020: Two men run on the field and halt play briefly for a short time.",
@@ -128,6 +208,26 @@
       "source": "The Hindu - Sport",
       "url": "https://www.thehindu.com/sport/football/fifa-world-cup-senegal-vs-belgium-knockout-match-pitch-invaders/article71171799.ece",
       "relevance_score": 0.8513,
+      "published_date": "2026-07-02"
+    },
+    {
+      "id": 6714,
+      "title": "Spain vs Austria: Head-to-head record, predicted XIs, recent form ahead of FIFA World Cup 2026 Round of 32 match",
+      "summary": "• Spain face Austria in the World Cup 2026 Round of 32.\n• The two sides met in the quarter-finals of the 2014 World Cup in Brazil.\n• Spain beat Austria 1-0 in a friendly at the Bernabeu in 2010.\n• Austria beat Spain 2-1 in their last meeting in the 2010 World Cup quarter-final.\n• Spain have never beaten Austria in a World Cup game.\n• Austria have won just one of their last 11 World Cup games against Spain.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/spain-vs-austria-head-to-head-form-guide-predicted-xi-fifa-world-cup-2026-round-of-32/article71174554.ece",
+      "relevance_score": 0.8442,
+      "published_date": "2026-07-02"
+    },
+    {
+      "id": 6707,
+      "title": "‘Asian Games not exposure tour’: Sports Minister; football team not to be sent",
+      "summary": "• Sports Minister: Football team will not be sent to the Asian Games in Jakarta and Palembang.\n• Sports minister: ‘Football team not going to theAsian Games in Indonesia.’ ‘This is not an exposure tour.\n• This is a preparation for the Games,’ he said.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/asian-games-not-exposure-tour-mansukh-mandaviya-football-team-10768456/",
+      "relevance_score": 0.8437,
       "published_date": "2026-07-02"
     },
     {
@@ -168,6 +268,16 @@
       "source": "News18 - India",
       "url": "https://www.news18.com/india/54-years-of-simla-agreement-pact-promise-and-why-india-says-pakistan-broke-its-spirit-ws-l-10185875.html",
       "relevance_score": 0.8164,
+      "published_date": "2026-07-02"
+    },
+    {
+      "id": 6709,
+      "title": "NASA’s Webb Reveals Stars Sparking to Life in Cosmic Celebration",
+      "summary": "• NASA's Webb will send images back to Earth from the edge of the solar system.\n• The Webb telescope will send back images of the universe's most distant stars and planets.\n• It will also send back data on the Earth's atmosphere and Earth's magnetic field.\n• The project is called the James Webb Space Telescope, or Webb.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-stars-sparking-to-life-in-cosmic-celebration/",
+      "relevance_score": 0.8129,
       "published_date": "2026-07-02"
     },
     {
@@ -19889,118 +19999,8 @@
       "url": "https://sportstar.thehindu.com/football/fifa-world-cup-2026-uruguay-team-news-will-luis-suarez-play-in-wc-return-from-retirement/article70958083.ece",
       "relevance_score": 0.8839,
       "published_date": "2026-05-09"
-    },
-    {
-      "id": 3796,
-      "title": "IPL 2026: Gill and Rashid sizzle in Titans’ thumping victory over Royals",
-      "summary": "• Titans beat Royals by eight wickets in their opening match of the tournament.\n• Titans will now face off against the Delhi Daredevils in their next match.\n• Titans have won the last two matches in the IPL, beating the Royals in the final on Sunday.\n• CLICK HERE for all the latest IPL news.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-gill-and-rashid-sizzle-in-titans-thumping-victory-over-royals/article70960316.ece",
-      "relevance_score": 0.8821,
-      "published_date": "2026-05-09"
-    },
-    {
-      "id": 3761,
-      "title": "AI for children should not bypass human validation: Vineet Nayar, Founder, Sampark Foundation",
-      "summary": "• Nayar: AI should be used to help children understand the world around them.\n• He says it should not be used as a replacement for parents or teachers.\n• He adds that children should be able to make decisions on their own, without the help of AI.",
-      "category": "Science & Technology",
-      "source": "Indian Express - Technology",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/vineet-nayar-hcl-sampark-foundation-rural-education-ai-impact-10679795/",
-      "relevance_score": 0.8777,
-      "published_date": "2026-05-09"
-    },
-    {
-      "id": 3786,
-      "title": "Regional, caste calculus in BJP’s West Bengal Cabinet choices",
-      "summary": "• West Bengal is a state in the Indian state of West Bengal.\n• The state has been ruled by the BJP since the state assembly elections in 1998.\n• The BJP has been in power in West Bengal since the 1990s.\n• The current state government is led by the Communist Party of India-BJP (BJP) government.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/elections/west-bengal-assembly/regional-caste-calculus-in-bjps-west-bengal-cabinet-choices/article70959092.ece",
-      "relevance_score": 0.8687,
-      "published_date": "2026-05-09"
-    },
-    {
-      "id": 3793,
-      "title": "Playing in IPL is not going to hurt my career, says RCB batter Jacob Bethell",
-      "summary": "• RCB are playing in the IPL for the first time this season.\n• Bethell is a left-handed batsman who plays for RCB in the Indian Premier League.\n• He is also a part of RCB's IPL squad.\n• Click here for more IPL news and updates.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/ipl/jacob-bethell-rcb-runs-ipl-marquee-tournament-of-year-royal-challengers-bengaluru/article70959628.ece",
-      "relevance_score": 0.8569,
-      "published_date": "2026-05-09"
-    },
-    {
-      "id": 3773,
-      "title": "Lionel Messi says Argentina up against ‘other favourites’ in defending FIFA World Cup title",
-      "summary": "• Argentina are defending the title they won in Brazil in 2010.\n• Argentina face Croatia, Nigeria and Nigeria in Group D at the 2014 World Cup in Brazil.\n• Click here for all the latest World Cup 2014 news.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/lionel-messi-interview-argentina-against-top-favourites-for-fifa-world-cup-2026-title-defence/article70958047.ece",
-      "relevance_score": 0.8556,
-      "published_date": "2026-05-09"
-    },
-    {
-      "id": 3756,
-      "title": "IIT Madras Global Research Foundation announces deep tech hub in California",
-      "summary": "• IIT-Madras Madras will be a hub for deep tech research and development in the U.S. It will be based at the IIT's Madras Institute of Technology, Madras, California.\n• The center will also be home to a number of IITs from across the world, including IIT Chennai and IIT Delhi.\n• The project will be led by IIT Rajasthan and the University of California, Los Angeles.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-global-research-foundation-announces-deep-tech-hub-in-california/article70956101.ece",
-      "relevance_score": 0.8465,
-      "published_date": "2026-05-09"
-    },
-    {
-      "id": 3768,
-      "title": "Plea in Supreme Court says Governor is ‘duty-bound’ to invite TVK to form government in Tamil Nadu",
-      "summary": "• Tamil Nadu has been ruled by the Communist Party of India- Marxist (CPI-M) for the last 20 years.\n• The CPI-M has been in power in the state since May last year.\n• The party has been at the centre of a political crisis in the past few months.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/plea-in-supreme-court-says-governor-is-duty-bound-to-invite-tvk-to-form-government-in-tamil-nadu/article70956540.ece",
-      "relevance_score": 0.8445,
-      "published_date": "2026-05-09"
-    },
-    {
-      "id": 3795,
-      "title": "Forest Department may take up drone survey to verify land claims in Anamalai Tiger Reserve",
-      "summary": "• Forest Department will use drones to check whether land claims have been made.\n• Forest department will also use drone for land claims verification in other parts of the reserve, officials say.\n• For confidential support, call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/Coimbatore/forest-department-may-take-up-drone-survey-to-verify-land-claims-in-anamalai-tiger-reserve/article70959108.ece",
-      "relevance_score": 0.8445,
-      "published_date": "2026-05-09"
-    },
-    {
-      "id": 3775,
-      "title": "Stuttering Rajasthan Royals take on resurgent Gujarat Titans in Jaipur encounter",
-      "summary": "• Stuttering Rajesthan Royals face resurgent Gujar Titans inJaipur clash.\n• Rajasththan Royals vs Gujarat Titans: Team news, probable line ups, odds and more.\n• CLICK HERE for all the latest IPL news from the Jaipuri region.\n• Click here for the team news,bable line ups and odds.",
-      "category": "National News",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/cricket/story/rr-vs-gt-preview-predicted-xi-pitch-report-jaipur-playoff-race-2909118-2026-05-09?utm_source=rss",
-      "relevance_score": 0.8401,
-      "published_date": "2026-05-09"
-    },
-    {
-      "id": 3783,
-      "title": "What Is Hantavirus? This Is Where It Got Its Name From",
-      "summary": "• This Is Where It Got Its Name From.\n• Watch the full video on CNN.com's \"Hantav virus\" tonight at 9 p.m.\n• ET on HLN and Sunday at 10 p.M.",
-      "category": "Science & Technology",
-      "source": "NDTV - World",
-      "url": "https://www.ndtv.com/health/what-is-hantavirus-this-is-where-it-got-its-name-from-11471229#publisher=newsstand",
-      "relevance_score": 0.8369,
-      "published_date": "2026-05-09"
-    },
-    {
-      "id": 3778,
-      "title": "Karim Benzema wins another trophy in Saudi Arabia as Al Hilal clinches Saudi Kings’ Cup",
-      "summary": "• Benzema won the Champions League with Real Madrid last season.\n• He also helped Real Madrid win the La Liga title in 2010.\n• The Real Madrid star also won the Spanish league in 2010 and 2011.\n• Click here for more from the Saudi Kings' Cup final in Riyadh.\n• CLICK HERE for all the latest from Saudi Arabia.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/karim-benzema-al-hilal-win-saudi-kings-cup-another-trophy-for-ballon-d-or-winner/article70958497.ece",
-      "relevance_score": 0.8255,
-      "published_date": "2026-05-09"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-02T12:14:47.441087Z"
+  "updated_at": "2026-07-02T14:53:20.300634Z"
 }
