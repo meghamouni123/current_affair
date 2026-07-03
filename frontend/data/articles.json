@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "id": 6740,
+      "title": "Maharashtra TET scam: Three more persons arrested from Punjab, Bihar",
+      "summary": "• Three more people arrested from Bihar, Punjab, and three more from Uttar Pradesh.\n• Two of the arrested are accused of being involved in the scam.\n• The other two are alleged to be involved in TET frauds in Uttar Pradesh, Bihar, and Punjab.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/three-held-in-up-in-maharashtra-tet-paper-leak-case/article71177289.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-03"
+    },
+    {
+      "id": 6744,
+      "title": "India's economy on sustained growth path: Government officials on financial resilience",
+      "summary": "• Government officials on financial resilience: India's financial resilience is key to growth.\n• India's economic growth is expected to be around 7.5 per cent this year, up from 6.7 per cent in 2013.\n• India is the world's second largest economy after the U.S. and second-largest economy in the world behind China.",
+      "category": "Economy & Banking",
+      "source": "Hindustan Times - Business",
+      "url": "https://www.hindustantimes.com/business/indias-economy-on-sustained-growth-path-government-officials-on-financial-resilience-101783047363568.html",
+      "relevance_score": 0.8882,
+      "published_date": "2026-07-03"
+    },
+    {
+      "id": 6742,
+      "title": "Microsoft launches firm to help companies adopt AI with $2.5 billion",
+      "summary": "• Microsoft says it will invest $2 billion in AI research and development over the next five years.\n• The firm will also help companies develop new products and services using the technology.\n• The company will also invest $1 billion in new software and services to help businesses adopt AI.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-launches-firm-to-help-companies-adopt-ai-with-25-billion/article71177209.ece",
+      "relevance_score": 0.888,
+      "published_date": "2026-07-03"
+    },
+    {
+      "id": 6745,
+      "title": "Julian Nagelsmann resigns as Germany coach after World Cup shocker, Jurgen Klopp frontrunner to replace him",
+      "summary": "• Julian Nagelsmann resigns as Germany coach after World Cup shocker.\n• Jurgen Klopp frontrunner to replace him, says Sportsmail's Martin Samuel.\n• Germany lost 2-1 to Brazil in the quarter-finals of the World Cup in Brazil.\n• Click here for all the latest Germany news.\n• CLICK HERE for the latest on Germany's World Cup 2014 campaign and the 2014 World Cup final.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/julian-nagelsmann-resigns-as-germany-coach-after-world-cup-shocker-jurgen-klopp-frontrunner-to-replace-him-101783059688388.html",
+      "relevance_score": 0.8858,
+      "published_date": "2026-07-03"
+    },
+    {
       "id": 6728,
       "title": "FIFA World Cup 2026 | Spain rolls past Austria into Round of 16, riding on Oyarzabal’s double",
       "summary": "• Spain beat Austria 2-0 in their opening game of the World Cup in Brazil.\n• Spain went on to win all three of their games in the tournament.\n• Spain won the tournament in Brazil in 1986 and 1986.\n• Spain also won the Copa del Rey in 1986.",
@@ -11,6 +51,36 @@
       "published_date": "2026-07-03"
     },
     {
+      "id": 6746,
+      "title": "India, Japan call for global action against Pakistan-linked cross border terror",
+      "summary": "• India and Japan have been at odds over Kashmir issue for years.\n• India has accused Pakistan of sponsoring terror attacks from across the border.\n• Pakistan has denied involvement in any terror attacks in India or Japan in the last few years.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/india-japan-call-for-global-action-against-pakistan-linked-cross-border-terror/articleshow/132154188.cms",
+      "relevance_score": 0.8577,
+      "published_date": "2026-07-03"
+    },
+    {
+      "id": 6752,
+      "title": "England reaches Women’s T20 World Cup final after Sciver-Brunt masterclass",
+      "summary": "• Sciver and Brunt both starred for England in the semi-final win over India.\n• England beat India 2-1 to reach the final for the first time in their history.\n• Click here for all the latest from the World T20 Cup in South Africa and the rest of the world.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/womens-cricket/sciver-brunt-england-womens-t20-world-cup-final-south-africa/article71177257.ece",
+      "relevance_score": 0.8545,
+      "published_date": "2026-07-03"
+    },
+    {
+      "id": 6751,
+      "title": "Delhi will become India’s civic-tech capital: CM Rekha Gupta",
+      "summary": "• Delhi will be India's civic- tech capital, says Delhi's chief minister.\n• Delhi is home to more than 1,000 start-ups and start-up accelerators.\n• Delhi also has one of the highest concentration of start- ups in the world.",
+      "category": "Science & Technology",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/delhi-will-become-india-s-civic-tech-capital-cm-rekha-gupta-3059073.html",
+      "relevance_score": 0.8323,
+      "published_date": "2026-07-03"
+    },
+    {
       "id": 6734,
       "title": "Green Vision: Assam launches Mega Plantation Drive, Indigenous Fruit Mission",
       "summary": "• Assam is home to some of the world's most biodiverse areas.\n• The state also has one of the highest levels of indigenous population in the country.\n• Green Vision is a project of the Assam Pradesh Foundation, a non-profit organisation based in the state's capital, Guwahati.",
@@ -18,6 +88,16 @@
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/green-vision-assam-launches-mega-plantation-drive-indigenous-fruit-mission-11720364#publisher=newsstand",
       "relevance_score": 0.8181,
+      "published_date": "2026-07-03"
+    },
+    {
+      "id": 6749,
+      "title": "Iranian FM Araghchi slams US' regional summit with 12 countries, says ‘outsiders cannot even protect themselves’",
+      "summary": "• Iranian FM Araghchi slams US' regional summit with 12 countries.\n• Iran is holding the summit with the United States, Israel, Saudi Arabia, Egypt, Morocco, Qatar, Turkey, Jordan, UAE, Morocco and Saudi Arabia.\n• Iran also holds a summit with Russia, China, the United Kingdom, France, Germany, Italy and Spain.",
+      "category": "International Relations",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/world/iranian-fm-araghchi-slams-us-regional-summit-with-12-countries-says-outsiders-cannot-even-protect-themselves-11783048808724.html",
+      "relevance_score": 0.8159,
       "published_date": "2026-07-03"
     },
     {
@@ -91,22 +171,22 @@
       "published_date": "2026-07-02"
     },
     {
-      "id": 6723,
-      "title": "Hockey World Cup can help us at Asian Games: Sjoerd Marijne",
-      "summary": "• Sjoerder Marijane is the coach of Dutch hockey team at the Asian Games in Indonesia.\n• He says the World Cup will help them prepare for the Games in Jakarta and Palembang.\n• The Dutch team are hoping to qualify for the quarter-finals of the tournament in Indonesia in August.\n• The team will then play in the semi-finals and final.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/hockey/hockey-world-cup-can-help-us-at-asian-games-india-women-coach-sjoerd-marijne/article71175468.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-02"
-    },
-    {
       "id": 6699,
       "title": "Kerala High Court asks Law Secretary and Cabinet Secretary to appear unless progress is made on draft anti-ragging amendment Bill",
       "summary": "• Law Secretary, Cabinet Secretary will have to appear before High Court on Monday.\n• High Court has asked them to appear if progress is not made on the draft bill.\n• The High Court is also asking them to explain why they are not taking action on the bill.\n• They will also have to answer questions on the proposed amendments to the Indian Penal Code.",
       "category": "Polity & Governance",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-asks-law-secretary-and-cabinet-secretary-to-appear-unless-progress-is-made-on-draft-anti-ragging-amendment-bill/article71173880.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-02"
+    },
+    {
+      "id": 6723,
+      "title": "Hockey World Cup can help us at Asian Games: Sjoerd Marijne",
+      "summary": "• Sjoerder Marijane is the coach of Dutch hockey team at the Asian Games in Indonesia.\n• He says the World Cup will help them prepare for the Games in Jakarta and Palembang.\n• The Dutch team are hoping to qualify for the quarter-finals of the tournament in Indonesia in August.\n• The team will then play in the semi-finals and final.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/hockey/hockey-world-cup-can-help-us-at-asian-games-india-women-coach-sjoerd-marijne/article71175468.ece",
       "relevance_score": 0.91,
       "published_date": "2026-07-02"
     },
@@ -481,22 +561,22 @@
       "published_date": "2026-07-02"
     },
     {
-      "id": 6695,
-      "title": "Secretary-General of ASEAN Meets with Chairman of the Southeast Asian Futures Initiative Centre",
-      "summary": "• Secretary-General meets with chairman of the South East Asia Futures initiative centre.\n• Meeting takes place at the Southeast Asia Futured Initiative Centre in Bangkok, Thailand.\n• The meeting is part of the ASEan-ASEAN Summit on the Future of the Asia-Pacific region, taking place from November 14-15.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-meets-with-chairman-of-the-southeast-asian-futures-initiative-centre/",
-      "relevance_score": 0.8103,
-      "published_date": "2026-07-02"
-    },
-    {
       "id": 6674,
       "title": "India, Malaysia review entire spectrum of bilateral military cooperation",
       "summary": "• India, Malaysia to discuss full range of military cooperation, including air, sea, air and air forces.\n• India and Malaysia have been close allies since the Second World War.\n• India: We are committed to working closely with Malaysia.\n• Malaysia: We will work closely with India on a range of issues, including security, defence and economy.",
       "category": "International Relations",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/india-malaysia-review-entire-spectrum-of-bilateral-military-cooperation/articleshow/132126725.cms",
+      "relevance_score": 0.8103,
+      "published_date": "2026-07-02"
+    },
+    {
+      "id": 6695,
+      "title": "Secretary-General of ASEAN Meets with Chairman of the Southeast Asian Futures Initiative Centre",
+      "summary": "• Secretary-General meets with chairman of the South East Asia Futures initiative centre.\n• Meeting takes place at the Southeast Asia Futured Initiative Centre in Bangkok, Thailand.\n• The meeting is part of the ASEan-ASEAN Summit on the Future of the Asia-Pacific region, taking place from November 14-15.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-meets-with-chairman-of-the-southeast-asian-futures-initiative-centre/",
       "relevance_score": 0.8103,
       "published_date": "2026-07-02"
     },
@@ -19919,88 +19999,8 @@
       "url": "https://www.thehindu.com/business/Economy/hsbc-slashes-fy27-gdp-estimate-sharply-to-6-expects-two-rbi-rate-hikes/article70967007.ece",
       "relevance_score": 0.824,
       "published_date": "2026-05-11"
-    },
-    {
-      "id": 3836,
-      "title": "No jurisdiction to act on DMK minister’s one-vote loss to TVK: ECI to Madras HC",
-      "summary": "• ECI has no jurisdiction to take action on the matter, says Madras High Court.\n• DMK lost the vote by one vote in a by-election to the Tamil Nadu assembly in a no-confidence motion.\n• The result was announced by the DMK government, which was led by Kanimozhi.",
-      "category": "Polity & Governance",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/no-jurisdiction-to-act-on-dmk-minister-s-one-vote-loss-to-tvk-eci-to-madras-hc-101778481722466.html",
-      "relevance_score": 0.8178,
-      "published_date": "2026-05-11"
-    },
-    {
-      "id": 3870,
-      "title": "India must build its own AI models: Sarvam AI",
-      "summary": "• India must build our own AI model: SarVam AI, an AI firm based in Chennai, says its founder and CEO.\n• The firm is based in the Indian capital and has offices in Chennai and Hyderabad.\n• The company is also based in Hyderabad and has an office in Chennai.\n• It has an AI lab in the Hyderabad campus of the University of Technology, Hyderabad, and an AI centre in the Chennai campus.",
-      "category": "Science & Technology",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/india-must-build-its-own-ai-models-sarvam-ai/articleshow/131023283.cms",
-      "relevance_score": 0.8153,
-      "published_date": "2026-05-11"
-    },
-    {
-      "id": 3848,
-      "title": "P6, fastest lap: Racing prodigy Atiqa Mir makes big impact on 'dream' FIA Karting debut",
-      "summary": "• I've always dreamed of being in a karting team.\n• It's been an incredible experience' Mir: \"I've never had a feeling like this in my life.\n• I feel like I've made a difference in the lives of people around the world\".",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/others/p6-fastest-lap-racing-prodigy-atiqa-mir-makes-big-impact-on-dream-fia-karting-debut-101778494126427.html",
-      "relevance_score": 0.8102,
-      "published_date": "2026-05-11"
-    },
-    {
-      "id": 3853,
-      "title": "Green energy key to India’s future growth: Naidu",
-      "summary": "• Green energy is a key part of the country's future growth, he says.\n• Green power is also key to the nation's future economic growth, says the vice-chairman of the state-owned Indian Electric Power Corporation (IESC) He says the company is committed to promoting green energy in the country.\n• EICC is a subsidiary of the Indian government.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/green-energy-key-to-indias-future-growth-naidu/article70966522.ece",
-      "relevance_score": 0.8043,
-      "published_date": "2026-05-11"
-    },
-    {
-      "id": 3798,
-      "title": "Australia Sees Military Allies Ready to Work Together If Needed",
-      "summary": "• Australia's Defense Minister says Australia is prepared to work with U.S. military allies if needed.\n• Australia sees military allies ready to working together if needed, says Defence Minister Tony Abbott.\n• Australia is a major ally of the United States of America in the region.",
-      "category": "International Relations",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/australia-sees-military-allies-ready-to-work-together-if-needed-11778371288536.html",
-      "relevance_score": 0.9279,
-      "published_date": "2026-05-10"
-    },
-    {
-      "id": 3797,
-      "title": "India’s informal sector becoming less indebted, also investing less",
-      "summary": "• India has one of the highest levels of debt in the world, according to the World Bank.\n• The country has also seen a sharp decline in the value of its currency in recent years.\n• The rupee has fallen against the US dollar since the beginning of the year, and is now trading at a record low of 7.8 per cent.",
-      "category": "Economy & Banking",
-      "source": "Indian Express - Business",
-      "url": "https://indianexpress.com/article/business/indias-informal-sector-becoming-less-indebted-also-investing-less-10681735/",
-      "relevance_score": 0.9122,
-      "published_date": "2026-05-10"
-    },
-    {
-      "id": 3821,
-      "title": "Andhra Pradesh Chief Minister Chandrababu Naidu for Delhi on May 11",
-      "summary": "• Andhra Pradesh chief minister will be in New Delhi for a meeting with Prime Minister Narendra Modi.\n• He will be accompanied by Deputy Prime Minister Naveen Patnaik and Deputy Chief Minister Ravi Agrawal.\n• The meeting will take place at the Indian Prime Minister's residence in Delhi.",
-      "category": "State News",
-      "source": "The Hindu - Andhra Pradesh",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-chief-minister-chandrababu-naidu-for-delhi-on-may-11/article70962342.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-10"
-    },
-    {
-      "id": 3811,
-      "title": "India, Trinidad and Tobago sign eight MoUs during Jaishankar visit",
-      "summary": "• India, Trinidad, Tobago signed MoUs on the sidelines of Jaishanksar's visit to Trinidad.\n• India and Trinidad signed MoU on the margins of Jaisankar's trip to the country last week.\n• Jaishankaar was in Trinidad to sign MoUs between the two countries.",
-      "category": "International Relations",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/india-trinidad-and-tobago-sign-eight-mous-during-jaishankar-visit/article70962536.ece",
-      "relevance_score": 0.9034,
-      "published_date": "2026-05-10"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-03T03:37:11.540918Z"
+  "updated_at": "2026-07-03T07:20:33.643010Z"
 }
