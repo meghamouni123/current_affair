@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": 6788,
+      "title": "From refinery to chip facility: PM to launch projects worth Rs 1 lakh crore today",
+      "summary": "• From refinery tochip facility: PM to launched projects worth £1.5bn.\n• From chip facility to refinery, PM will launch projects of £1bn today.\n• From chip facility: From refinery and chip facility.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-rajasthan-gujarat-visit-today-balotra-refinery-jodhpur-airport-jaipur-metro-sanand-semiconductor-projects-rs-1-lakh-crore-2940301-2026-07-04?utm_source=rss",
+      "relevance_score": 0.9085,
+      "published_date": "2026-07-04"
+    },
+    {
+      "id": 6790,
+      "title": "America At 250: How The United States Became A Global Superpower",
+      "summary": "• The U.S. became a global superpower at the age of 250.\n• America At 250 is CNN.com's weekly, offbeat look at the nation's 250th anniversary.\n• See more at www.cnn.com/america at 250 and follow us on Twitter @CNNAt250 and @CNNOpinion.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/photogallery/world/america-at-250-how-the-united-states-became-a-global-superpower-ws-l-10188751.html",
+      "relevance_score": 0.8291,
+      "published_date": "2026-07-04"
+    },
+    {
+      "id": 6789,
+      "title": "Trump, Netanyahu agree to meet in the US soon during phone call",
+      "summary": "• Trump, Netanyahu agreed to a meeting in the U.S. soon, according to a phone call between the two leaders.\n• Trump and Netanyahu will meet for the first time in the United States soon, the White House says.\n• The meeting will take place in Washington, D.C.",
+      "category": "International Relations",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/world/story/trump-netanyahu-agree-us-meeting-soon-amid-iran-tensions-2940320-2026-07-04?utm_source=rss",
+      "relevance_score": 0.8253,
+      "published_date": "2026-07-04"
+    },
+    {
+      "id": 6787,
+      "title": "Iranian Speaker, Foreign Minister Break Down At Ali Khamenei's Farewell",
+      "summary": "• Khamenei is Iran's supreme leader and the country's leader of the Islamic Revolution.\n• Khamenei is expected to remain in office until the end of the Iranian parliament in January.\n• He is also expected to serve as president of Iran until the next presidential election in 2016.",
+      "category": "International Relations",
+      "source": "NDTV - World",
+      "url": "https://www.ndtv.com/world-news/iranian-parliament-speaker-mohammad-bagher-ghalibaf-and-iranian-foreign-minister-abbas-araghchi-break-down-in-tears-at-ayatollah-ali-khamenei-farewell-11724700#publisher=newsstand",
+      "relevance_score": 0.8087,
+      "published_date": "2026-07-04"
+    },
+    {
+      "id": 6785,
+      "title": "Lionel Messi extends goal-scoring spree, beats Pele, Kylian Mbappe for most clutch performances in World Cup knockouts",
+      "summary": "• Messi has now scored in each of Argentina's last three World Cup games.\n• He has scored four goals in his last four World Cup appearances.\n• Argentina beat Croatia 1-0 to reach the quarter-finals of the tournament.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/lionel-messi-extends-goal-scoring-spree-beats-pele-kylian-mbappe-for-most-clutch-performances-in-world-cup-knockouts-101783128182778.html",
+      "relevance_score": 0.808,
+      "published_date": "2026-07-04"
+    },
+    {
       "id": 6754,
       "title": "Vikram-1 launch will be great boost for India’s private space sector: Skyroot Aerospace co-founder & CEO Pawan Kumar Chandana",
       "summary": "• Vikram will be India's first deep space communications satellite.\n• The launch is scheduled to take place on November 28.\n• The mission will take two years to complete, with a crew of around 20 people.\n• The Vikram launch will take place from Sriharikota in the southern part of the country.",
@@ -21,6 +71,26 @@
       "published_date": "2026-07-03"
     },
     {
+      "id": 6783,
+      "title": "Odisha signs memorandum of cooperation for Japan-backed projects worth ₹67,000 crore",
+      "summary": "• Odisha and Japan to work together on projects worth more than $1.5 billion.\n• The projects will be carried out in Odisha and the state's neighbouring states of Jharkhand and Samastipur.\n• The total cost of the projects is expected to be around $1 billion.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/odisha/odisha-signs-memorandum-of-cooperation-for-japan-backed-projects-worth-67000-crore/article71178591.ece",
+      "relevance_score": 0.9146,
+      "published_date": "2026-07-03"
+    },
+    {
+      "id": 6740,
+      "title": "Maharashtra TET scam: Three more persons arrested from Punjab, Bihar",
+      "summary": "• Three more people arrested from Bihar, Punjab, and three more from Uttar Pradesh.\n• Two of the arrested are accused of being involved in the scam.\n• The other two are alleged to be involved in TET frauds in Uttar Pradesh, Bihar, and Punjab.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/three-held-in-up-in-maharashtra-tet-paper-leak-case/article71177289.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-03"
+    },
+    {
       "id": 6772,
       "title": "FIFA World Cup 2026 — Ashley Westwood on data, tactical discipline, and breakout stars of the tournament",
       "summary": "• Westwood: \"I think we're going to have a great tournament in 2026.\n• It's going to be one of the most exciting ever\" The World Cup will be held in Mexico City, Mexico, from June 14 to July 14.\n• The tournament will be the first to be held on African soil.",
@@ -37,16 +107,6 @@
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/cricket/womens-cricket/womens-t20-world-cup-2026-south-africa-knocked-out-tazmin-brits-eyeing-la-2028-olympics/article71179538.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-03"
-    },
-    {
-      "id": 6740,
-      "title": "Maharashtra TET scam: Three more persons arrested from Punjab, Bihar",
-      "summary": "• Three more people arrested from Bihar, Punjab, and three more from Uttar Pradesh.\n• Two of the arrested are accused of being involved in the scam.\n• The other two are alleged to be involved in TET frauds in Uttar Pradesh, Bihar, and Punjab.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/three-held-in-up-in-maharashtra-tet-paper-leak-case/article71177289.ece",
       "relevance_score": 0.91,
       "published_date": "2026-07-03"
     },
@@ -71,6 +131,16 @@
       "published_date": "2026-07-03"
     },
     {
+      "id": 6791,
+      "title": "Egypt says police officer pushed player, team director at World Cup",
+      "summary": "• Egypt says officer was on duty at time of incident with player and team director.\n• Police officer denies pushing player or team director, says he was acting in self-defence.\n• Egypt's national team director says player was not pushed by police officer, player was on his way to hospital.\n• The incident took place at the World Cup in Brazil.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/egypt-world-cup-dallas-police-officer-pushed-player-director/article71181561.ece",
+      "relevance_score": 0.8978,
+      "published_date": "2026-07-03"
+    },
+    {
       "id": 6773,
       "title": "England squad for ODI series vs India — Tongue, Coles called into squad; Atkinson, Mahmood return",
       "summary": "• England squad for ODIs vs India – Tongue and Coles call into squad.\n• Atkinson and Mahmood returned to England squad; Coles and Tongue called up.\n• England ODI squad for India series — Tongues,Coles called up to squad; Tongues called up for series.\n• India ODI team: Ravi Shastri, Mahendra Singh Dhoni, Virat Kohli, Rohit Sharma.",
@@ -88,6 +158,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/karnataka/tech-driven-value-addition-need-of-the-hour-for-indian-agriculture-shobha-karandlaje/article71178673.ece",
       "relevance_score": 0.8926,
+      "published_date": "2026-07-03"
+    },
+    {
+      "id": 6792,
+      "title": "FIFA World Cup 2026: Raphinha returns to give Brazil selection dilemma before Norway clash",
+      "summary": "• Brazil play Norway in friendly in Sao Paulo on Wednesday.\n• Brazil will then travel to Norway for World Cup warm-up match on Friday.\n• Brazil face Norway in Group D of the World Cup in Rio de Janeiro on June 14.\n• Brazil also face Germany in Group G on June 13.\n• Brazil are bidding to win the tournament for the first time in their history.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/raphinha-injury-return-brazil-vs-norway-ancelotti-selection-dilemma/article71181435.ece",
+      "relevance_score": 0.8919,
       "published_date": "2026-07-03"
     },
     {
@@ -118,6 +198,16 @@
       "source": "The Hindu - Business",
       "url": "https://www.thehindu.com/sci-tech/technology/microsoft-launches-firm-to-help-companies-adopt-ai-with-25-billion/article71177209.ece",
       "relevance_score": 0.888,
+      "published_date": "2026-07-03"
+    },
+    {
+      "id": 6793,
+      "title": "Salah and Egypt hold their nerve to claim a piece of World Cup history in shootout win",
+      "summary": "• Salah and his Egypt team-mates held their nerve in a shootout to win the World Cup for the first time in their history.\n• Egypt beat Uruguay 2-1 in a penalty shootout to claim their first ever World Cup win in a shoot-out.\n• Egypt have now won all three of their World Cup shoot-outs so far.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/salah-egypt-vs-australia-world-cup-shootout-victory/article71180571.ece",
+      "relevance_score": 0.8875,
       "published_date": "2026-07-03"
     },
     {
@@ -291,6 +381,16 @@
       "published_date": "2026-07-03"
     },
     {
+      "id": 6786,
+      "title": "Centre ready for elected UT body, Article 371-like safeguards, say Ladakh groups",
+      "summary": "• Article 371 is Article 371 of the Indian constitution.\n• Ladakh has been at the centre of conflict between India and China since 1950s.\n• The two sides have been at loggerheads over the region's status since the fall of British rule in India in 1950s and 1960s.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/centre-ready-for-elected-ut-body-article-371-like-safeguards-say-ladakh-groups/articleshow/132168839.cms",
+      "relevance_score": 0.8164,
+      "published_date": "2026-07-03"
+    },
+    {
       "id": 6749,
       "title": "Iranian FM Araghchi slams US' regional summit with 12 countries, says ‘outsiders cannot even protect themselves’",
       "summary": "• Iranian FM Araghchi slams US' regional summit with 12 countries.\n• Iran is holding the summit with the United States, Israel, Saudi Arabia, Egypt, Morocco, Qatar, Turkey, Jordan, UAE, Morocco and Saudi Arabia.\n• Iran also holds a summit with Russia, China, the United Kingdom, France, Germany, Italy and Spain.",
@@ -308,6 +408,16 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/centre-removes-bat-bms-linked-apps-from-app-stores-after-e-rickshaw-remote-shutdown-reports/articleshow/132155150.cms",
       "relevance_score": 0.8095,
+      "published_date": "2026-07-03"
+    },
+    {
+      "id": 6794,
+      "title": "Mat Ryan replaces Patrick Beach ahead of Australia vs Egypt FIFA World Cup 2026 penalty shootout",
+      "summary": "• Australia will face Egypt in a penalty shootout at the World Cup in 2026.\n• The match will take place at the Maracana in Rio de Janeiro, Brazil.\n• Australia won the game 1-0 thanks to a penalty shoot-out.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/matt-ryan-australia-penalty-shootout-egypt-fifa-world-cup-2026-patrick-beach-news/article71180384.ece",
+      "relevance_score": 0.8041,
       "published_date": "2026-07-03"
     },
     {
@@ -381,26 +491,6 @@
       "published_date": "2026-07-02"
     },
     {
-      "id": 6686,
-      "title": "Ram Temple Trust Scam Probe Widens | SIT Eyes VHP Leaders, ED & CBI Entry? | Donation Row",
-      "summary": "• The investigation into the alleged financial irregularities linked to the Ram Temple Trust is widening.\n• Investigators are examining whether employees involved in the donation-counting process underwent mandatory police verification.\n• The Uttar Pradesh government is considering whether the case warrants a probe by central agencies such as the CBI or the Enforcement Directorate, though no final decision has been officially announced.\n• Sources indicate that VHP leaders may be invited as special invitees to the Trust's July 6 meeting.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/ram-temple-trust-scam-probe-widens-sit-eyes-vhp-leaders-ed-cbi-entry-donation-row-10186023.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-02"
-    },
-    {
-      "id": 6712,
-      "title": "Exclusive: ‘Fully prepared for Punjab assembly elections, will get clear majority’, says Congress",
-      "summary": "• ‘We will get a clear majority,’ says Congress president Rahul Gandhi.\n• Congress is ‘fully prepared’ for Punjab elections, says Rahul Gandhi, president of Congress in Punjab.\n• Congress has been in power in Punjab for the past four years.\n• It won the last two elections in the state with a majority of more than 60%.",
-      "category": "State News",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/exclusive-fully-prepared-for-punjab-assembly-elections-will-get-clear-majority-says-congress-3059015.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-02"
-    },
-    {
       "id": 6723,
       "title": "Hockey World Cup can help us at Asian Games: Sjoerd Marijne",
       "summary": "• Sjoerder Marijane is the coach of Dutch hockey team at the Asian Games in Indonesia.\n• He says the World Cup will help them prepare for the Games in Jakarta and Palembang.\n• The Dutch team are hoping to qualify for the quarter-finals of the tournament in Indonesia in August.\n• The team will then play in the semi-finals and final.",
@@ -411,12 +501,32 @@
       "published_date": "2026-07-02"
     },
     {
+      "id": 6686,
+      "title": "Ram Temple Trust Scam Probe Widens | SIT Eyes VHP Leaders, ED & CBI Entry? | Donation Row",
+      "summary": "• The investigation into the alleged financial irregularities linked to the Ram Temple Trust is widening.\n• Investigators are examining whether employees involved in the donation-counting process underwent mandatory police verification.\n• The Uttar Pradesh government is considering whether the case warrants a probe by central agencies such as the CBI or the Enforcement Directorate, though no final decision has been officially announced.\n• Sources indicate that VHP leaders may be invited as special invitees to the Trust's July 6 meeting.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/ram-temple-trust-scam-probe-widens-sit-eyes-vhp-leaders-ed-cbi-entry-donation-row-10186023.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-02"
+    },
+    {
       "id": 6699,
       "title": "Kerala High Court asks Law Secretary and Cabinet Secretary to appear unless progress is made on draft anti-ragging amendment Bill",
       "summary": "• Law Secretary, Cabinet Secretary will have to appear before High Court on Monday.\n• High Court has asked them to appear if progress is not made on the draft bill.\n• The High Court is also asking them to explain why they are not taking action on the bill.\n• They will also have to answer questions on the proposed amendments to the Indian Penal Code.",
       "category": "Polity & Governance",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-asks-law-secretary-and-cabinet-secretary-to-appear-unless-progress-is-made-on-draft-anti-ragging-amendment-bill/article71173880.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-02"
+    },
+    {
+      "id": 6712,
+      "title": "Exclusive: ‘Fully prepared for Punjab assembly elections, will get clear majority’, says Congress",
+      "summary": "• ‘We will get a clear majority,’ says Congress president Rahul Gandhi.\n• Congress is ‘fully prepared’ for Punjab elections, says Rahul Gandhi, president of Congress in Punjab.\n• Congress has been in power in Punjab for the past four years.\n• It won the last two elections in the state with a majority of more than 60%.",
+      "category": "State News",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/exclusive-fully-prepared-for-punjab-assembly-elections-will-get-clear-majority-says-congress-3059015.html",
       "relevance_score": 0.91,
       "published_date": "2026-07-02"
     },
@@ -791,22 +901,22 @@
       "published_date": "2026-07-02"
     },
     {
-      "id": 6695,
-      "title": "Secretary-General of ASEAN Meets with Chairman of the Southeast Asian Futures Initiative Centre",
-      "summary": "• Secretary-General meets with chairman of the South East Asia Futures initiative centre.\n• Meeting takes place at the Southeast Asia Futured Initiative Centre in Bangkok, Thailand.\n• The meeting is part of the ASEan-ASEAN Summit on the Future of the Asia-Pacific region, taking place from November 14-15.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-meets-with-chairman-of-the-southeast-asian-futures-initiative-centre/",
-      "relevance_score": 0.8103,
-      "published_date": "2026-07-02"
-    },
-    {
       "id": 6674,
       "title": "India, Malaysia review entire spectrum of bilateral military cooperation",
       "summary": "• India, Malaysia to discuss full range of military cooperation, including air, sea, air and air forces.\n• India and Malaysia have been close allies since the Second World War.\n• India: We are committed to working closely with Malaysia.\n• Malaysia: We will work closely with India on a range of issues, including security, defence and economy.",
       "category": "International Relations",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/india-malaysia-review-entire-spectrum-of-bilateral-military-cooperation/articleshow/132126725.cms",
+      "relevance_score": 0.8103,
+      "published_date": "2026-07-02"
+    },
+    {
+      "id": 6695,
+      "title": "Secretary-General of ASEAN Meets with Chairman of the Southeast Asian Futures Initiative Centre",
+      "summary": "• Secretary-General meets with chairman of the South East Asia Futures initiative centre.\n• Meeting takes place at the Southeast Asia Futured Initiative Centre in Bangkok, Thailand.\n• The meeting is part of the ASEan-ASEAN Summit on the Future of the Asia-Pacific region, taking place from November 14-15.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-meets-with-chairman-of-the-southeast-asian-futures-initiative-centre/",
       "relevance_score": 0.8103,
       "published_date": "2026-07-02"
     },
@@ -891,22 +1001,22 @@
       "published_date": "2026-07-01"
     },
     {
-      "id": 6660,
-      "title": "Women’s T20 World Cup | What Sthalekar is up to these days: planning cricket tours",
-      "summary": "• Women’s T20 World Cup is taking place in India this month.\n• Sthalekar is a former captain of the Indian women's cricket team.\n• He has also been involved in planning cricket tours in the past.\n• He is also a former coach of the India women's national cricket team and the India Under-19s team.\n• Click here for all the latest from the Women's World T20 Cup.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/cricket/womens-t20-world-cup-what-sthalekar-is-up-to-these-days-planning-cricket-tours/article71171178.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-01"
-    },
-    {
       "id": 6613,
       "title": "Haryana, Goa, Punjab ace rollout of new criminal laws",
       "summary": "• Haryana and Goa among states to roll out new criminal law.\n• Punjab, GoA, Punjab among states that will introduce new laws in coming months.\n• The new laws are expected to be rolled out across the state by the end of the year.\n• For confidential support, call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
       "category": "State News",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/haryana-goa-punjab-ace-rollout-of-new-criminal-laws/articleshow/132104828.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-01"
+    },
+    {
+      "id": 6660,
+      "title": "Women’s T20 World Cup | What Sthalekar is up to these days: planning cricket tours",
+      "summary": "• Women’s T20 World Cup is taking place in India this month.\n• Sthalekar is a former captain of the Indian women's cricket team.\n• He has also been involved in planning cricket tours in the past.\n• He is also a former coach of the India women's national cricket team and the India Under-19s team.\n• Click here for all the latest from the Women's World T20 Cup.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/cricket/womens-t20-world-cup-what-sthalekar-is-up-to-these-days-planning-cricket-tours/article71171178.ece",
       "relevance_score": 0.91,
       "published_date": "2026-07-01"
     },
@@ -19889,118 +19999,8 @@
       "url": "https://www.hindustantimes.com/sports/others/sakshi-malik-accuses-wfi-of-deliberately-trying-to-block-vinesh-phogats-comeback-calls-for-pm-modis-intervention-101778569372721.html",
       "relevance_score": 0.8653,
       "published_date": "2026-05-12"
-    },
-    {
-      "id": 3906,
-      "title": "Iran chief negotiator says U.S. must accept proposal or face 'failure'",
-      "summary": "• Iran says the proposal is in line with its sovereignty, human rights and international law.\n• Iran also says it is not seeking regime change in the Middle East or in the world at all.\n• It is seeking a peaceful resolution to the Syrian civil war, which began in 2011.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/iran-chief-negotiator-says-us-must-accept-proposal-or-face-failure/article70969159.ece",
-      "relevance_score": 0.8488,
-      "published_date": "2026-05-12"
-    },
-    {
-      "id": 3905,
-      "title": "For ‘Clean’ NEET UG: 101 Recommendations Of 2024 Versus The Ground Reality Of 2026 Explained",
-      "summary": "• For ‘ clean’ N.E.T.Ug: 101 recommendations of 2024 versus the ground reality of 2026.\n• For clean NEET: 101 proposals of 2024 vs. the ground Reality of 2024.\n• For 'clean' NEET, 100 recommendations of 2025 vs. 100 Recommendations of 2025.",
-      "category": "Science & Technology",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/explainers/101-reforms-suggested-for-better-neet-ug-in-2024-could-have-averted-2026-leak-how-many-have-been-implemented-ws-l-10086772.html",
-      "relevance_score": 0.8476,
-      "published_date": "2026-05-12"
-    },
-    {
-      "id": 3880,
-      "title": "PM Modi to visit UAE and four other nations to strengthen bilateral ties",
-      "summary": "• PM Modi will also make a trip to Pakistan, Bangladesh, Sri Lanka and Bhutan.\n• He will also visit the Maldives, Nepal, Bhutan and Sri Lanka.\n• PM will also travel to Indonesia, Thailand, Malaysia and Brunei in a five-nation tour.\n• The visit is part of India's year-long tour of the Middle East.",
-      "category": "International Relations",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/pm-modi-to-visit-uae-and-four-other-nations-to-strengthen-bilateral-ties-3046616.html",
-      "relevance_score": 0.8444,
-      "published_date": "2026-05-12"
-    },
-    {
-      "id": 3892,
-      "title": "Stock market today: Sensex drops over 680 points, Nifty50 below 23,700",
-      "summary": "• Sensex down more than 700 points; Nifty down over 100 points.\n• Sense X down over 700 points, S&P down over 500 points.Sensex down over 400 points; S Nifty falls over 200 points.\n• CLICK HERE for all the latest market news.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-12-may-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/131026795.cms",
-      "relevance_score": 0.8397,
-      "published_date": "2026-05-12"
-    },
-    {
-      "id": 3868,
-      "title": "Tech industry follows well-established hybrid work models: Nasscom in response to PM Modi’s call for work from home",
-      "summary": "• Tech industry follows well-established hybrid work models, says Nasscom.\n• Nasscom in response to PM Modi’s call for work from home.\n• PM Modi has called for a shift in India's work culture to make it more flexible.\n• The move has been welcomed by many in the tech industry, including Nasscom and Infosys.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Technology",
-      "url": "https://www.thehindu.com/business/Industry/tech-industry-follows-well-established-hybrid-work-models-nasscom-in-response-to-pm-modis-call-for-work-from-home/article70966135.ece",
-      "relevance_score": 0.8314,
-      "published_date": "2026-05-12"
-    },
-    {
-      "id": 3899,
-      "title": "Why Anthropic and OpenAI are doubling down on enterprise AI, and how this will hit Indian IT",
-      "summary": "• Why Anthropic is partnering with OpenAI to develop artificial intelligence for the Indian IT industry.\n• Why OpenAI is using its AI technology to help Indian IT firms develop AI-based systems.\n• Why it's important for Indian IT companies to have a presence in the field of AI and machine learning.",
-      "category": "Science & Technology",
-      "source": "Indian Express - Explained",
-      "url": "https://indianexpress.com/article/explained/explained-sci-tech/why-anthropic-and-openai-are-doubling-down-on-enterprise-ai-and-how-this-will-hit-indian-it-10685298/",
-      "relevance_score": 0.831,
-      "published_date": "2026-05-12"
-    },
-    {
-      "id": 3893,
-      "title": "Secretary-General of ASEAN Marks a Decade of Engagement at the 10th ASEAN Entities Forum",
-      "summary": "• Secretary-General marks a decade of engagement with the region's key stakeholders.\n• AASEAN has been at the center of the world's economic and political power for more than a decade.\n• Asean is the largest group of nations in the world, making up more than half of the global population.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-marks-a-decade-of-engagement-at-the-10th-asean-entities-forum/",
-      "relevance_score": 0.8303,
-      "published_date": "2026-05-12"
-    },
-    {
-      "id": 3927,
-      "title": "Trump ahead of Beijing summit with Xi says US does not need China’s help on Iran",
-      "summary": "• Trump says U.S. doesn't need China's help to deal with Iran, but wants Beijing's help on other issues.\n• China has been a key ally of the United States in the fight against Iran's nuclear program.\n• China is the world's leading producer of oil and a major producer of natural gas.",
-      "category": "International Relations",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/us-news/trump-ahead-of-beijing-summit-with-xi-says-us-does-not-need-china-s-help-on-iran-11778616424015.html",
-      "relevance_score": 0.8289,
-      "published_date": "2026-05-12"
-    },
-    {
-      "id": 3917,
-      "title": "Deputy Secretary-General of ASEAN closes 10th ASEAN Entities Forum, underscores pivotal role of ASEAN Entities",
-      "summary": "• He was speaking at the 10th edition of the forum, which took place in Bangkok, Thailand.\n• He said it was the first time the region had hosted such a forum.\n• He added that it was a great opportunity for the region to strengthen its ties with each other.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/deputy-secretary-general-of-asean-closes-10th-asean-entities-forum-underscores-pivotal-role-of-asean-entities/",
-      "relevance_score": 0.8273,
-      "published_date": "2026-05-12"
-    },
-    {
-      "id": 3913,
-      "title": "IPL 2026: We cannot overthink and overanalyse, says PBKS coach Bahutule",
-      "summary": "• PBKS are playing in the Indian Premier League for the first time in 2026.\n• The IPL will be held in New Delhi, India, from May to July.\n• The first match of the season will be played at the Maracana Stadium.\n• The second match will take place at the All India Stadium in Mumbai.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-we-cannot-overthink-and-overanalyse-says-pbks-coach-bahutule/article70970376.ece",
-      "relevance_score": 0.8271,
-      "published_date": "2026-05-12"
-    },
-    {
-      "id": 3908,
-      "title": "West Bengal to join Digital Agriculture Mission soon",
-      "summary": "• West Bengal will be a part of Digital Agriculture mission in the next few months.\n• Bengal will also be part of the Digital Agriculturemission in the future.\n• For confidential support, call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here.",
-      "category": "Science & Technology",
-      "source": "LiveMint - Economy",
-      "url": "https://www.livemint.com/economy/west-bengal-digital-agriculture-mission-farmers-agri-stack-benefits-11778507828472.html",
-      "relevance_score": 0.8177,
-      "published_date": "2026-05-12"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-03T17:15:33.667467Z"
+  "updated_at": "2026-07-04T03:19:36.029687Z"
 }
