@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 6993,
+      "title": "Make China leading power in sci-tech by 2035: Xi tells scientists",
+      "summary": "• Xi wants China to be a world leader in science and technology by the year 2035.\n• He wants to make China a leader in the field of artificial intelligence by then.\n• He also wants to lead the world in nanotechnology and nanomaterials by the end of the century.\n• China is a major player in the world of nanotechnology.",
+      "category": "Science & Technology",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/make-china-leading-power-in-sci-tech-by-2035-xi-tells-scientists/article71198311.ece",
+      "relevance_score": 0.9336,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 6998,
+      "title": "Indian researcher Devesh Nandal named to Harvard-led UAP Science Advisory Council",
+      "summary": "• Nandal is a leading researcher in the field of evolutionary biology.\n• He is also a professor at the Indian Institute of Science in Bengaluru.\n• He has published more than 100 papers in journals such as Nature and Science and the Proceedings of the Royal Society of London.\n• He also has a doctorate in physics from the University of Cambridge.\n• He was awarded the Padma Vibhushan award in 2010.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/indian-researcher-devesh-nandal-named-to-harvard-led-uap-science-advisory-council-101783514367018.html",
+      "relevance_score": 0.9102,
+      "published_date": "2026-07-08"
+    },
+    {
       "id": 6986,
       "title": "Meet Dr Robert Sola Okojie: The Nigerian engineer inducted into Nasa’s Inventors Hall of Fame after 21 years",
       "summary": "• Dr Sola was the first African to be inducted to the Nasa Inventor's Hall of fame.\n• He was also the first Nigerian to be honoured with a Nasa award.\n• He has been inducted in Nasa's In inventors hall of fame for 21 years after being nominated by Nasa.",
@@ -41,6 +61,26 @@
       "published_date": "2026-07-08"
     },
     {
+      "id": 7003,
+      "title": "DRDO Successfully Tests Pinaka Long Range Guided Rocket, Rajnath Singh Calls It 'Major Milestone'",
+      "summary": "• DRDO Successfully Tests Pinaka Long Range Guided Rocket.\n• Rajnath Singh calls it a 'Major Milestone' for the Indian Space Research Organisation.\n• The Pinaka is a long-range, high-altitude rocket that can be launched from Earth's atmosphere.\n• It has a range of more than 1,000 miles and can carry a payload of up to 1,500 kg.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/drdo-successfully-tests-pinaka-long-range-guided-rocket-rajnath-singh-calls-it-major-milestone-ws-l-10198538.html",
+      "relevance_score": 0.8891,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 6999,
+      "title": "Trump administration approves OpenAI's GPT-5.6 rollout after safety testing - Here's what's next",
+      "summary": "• Here's what's next for the AI tech company.\n• OpenAI is working with the U.S. government to develop new AI technology.\n• The company is also working with Google, Facebook, Microsoft, and others to develop AI-powered robots.\n• The technology could be used to solve problems in medicine and other fields.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/us-news/trump-administration-clears-openai-gpt-5-6-public-launch-after-safety-review-101783508851295.html",
+      "relevance_score": 0.8767,
+      "published_date": "2026-07-08"
+    },
+    {
       "id": 6987,
       "title": "PM Modi Leaves For Australia After Indonesia Visit, 14 Pacts Signed",
       "summary": "• PM Narendra Modi leaves For Australia after Indonesian Visit, 12 Pacts signed, 14 agreements signed.\n• Modi to meet Australian Prime Minister Tony Abbott in Sydney.\n• Modi will meet Australian PM Tony Abbott on Monday in Sydney, India's first bilateral meeting with Australian PM since 2001.",
@@ -71,6 +111,36 @@
       "published_date": "2026-07-08"
     },
     {
+      "id": 7005,
+      "title": "Wimbledon 2026: Kostyuk powers into second straight Slam semifinal with win over Paolini",
+      "summary": "• Kostiuk: I'm looking forward to playing in a Grand Slam final for the first time in my life.\n• I want to be in one of the last four or five.\n• That's what I want for my life in 2026.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/tennis/wimbledon-2026-kostyuk-beats-paolini-report-quarterfinal/article71198801.ece",
+      "relevance_score": 0.8549,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 7001,
+      "title": "Isro tests parachutes responsible for slowing capsule falling from space",
+      "summary": "• Isro test parachutes to stop capsule from falling to Earth from orbit.\n• The capsule will have a parachute to stop it from hitting the Earth's surface.\n• The mission is scheduled to take place in 2023 and is expected to last three years.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/science/gaganyaan-mission/story/isro-tests-parachutes-to-slow-down-gaganyaan-crew-caspsule-on-returning-from-space-2943553-2026-07-08?utm_source=rss",
+      "relevance_score": 0.8545,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 6996,
+      "title": "FIFA World Cup 2026: Egypt file complaint against referee after controversial exit",
+      "summary": "• FIFA World Cup 2022: Russia to host 2026 tournament in Moscow, Russia.\n• Russia to hold 2026 World Cup in Rio de Janeiro, Brazil, in 2028.\n• Brazil will host the 2028 Olympics and 2028 Paralympics.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-egypt-file-complaint-against-referee-after-controversial-exit/article71197815.ece",
+      "relevance_score": 0.8544,
+      "published_date": "2026-07-08"
+    },
+    {
       "id": 6961,
       "title": "Rupee gains on cheaper oil, FII buying",
       "summary": "• FII buys seen as a sign of confidence in India's economic recovery.\n• Rupee has been hit hard by falling oil prices in recent months.\n• The rupee has also been hit by a fall in the value of the rupee against the U.S. dollar in recent weeks.\n• CLICK HERE for all the latest rupee news.",
@@ -78,6 +148,36 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-gains-on-cheaper-oil-fii-buying/articleshow/132251047.cms",
       "relevance_score": 0.8498,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 6991,
+      "title": "Bangalore Development Authority defends drive to plant 15 lakh saplings, announces scientific monitoring",
+      "summary": "• Authority announces scientific monitoring to monitor progress of project.\n• Bangalore Development Authority to plant saplings in 15 lakhs acres of land in city.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/bangalore/bangalore-development-authority-defends-drive-to-plant-15-lakh-saplings-announces-scientific-monitoring/article71198451.ece",
+      "relevance_score": 0.8478,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 7006,
+      "title": "Israeli strike kills FIFA World Cup screening organiser in Gaza just before kickoff",
+      "summary": "• Israeli strike kills Hamas official in Gaza before World Cup kick-off on June 14.\n• Israel says strike was in response to Hamas rocket attack on residential areas in Gaza.\n• Hamas says attack was in retaliation for a rocket attack that killed three of its members in the West Bank and two in the east of the Gaza Strip.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/israel-strike-gaza-death-fifa-world-cuo-screening-argentina-egypt/article71197945.ece",
+      "relevance_score": 0.8477,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 6992,
+      "title": "Tribal research institutes to draw up national tribal research agenda for next five years",
+      "summary": "• National tribal research agendas to be drawn up over five years, says report.\n• Report to be presented to parliament next month.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.\n• In the U.S., call the National Suicide Prevention Line on 1-800-273-8255.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/tribal-research-institutes-to-draw-up-national-tribal-research-agenda-for-next-five-years/article71198307.ece",
+      "relevance_score": 0.8438,
       "published_date": "2026-07-08"
     },
     {
@@ -101,6 +201,16 @@
       "published_date": "2026-07-08"
     },
     {
+      "id": 7002,
+      "title": "Drishti-10 Drone Crashes Near Porbandar: What We Know About India's Advanced Surveillance UAV",
+      "summary": "• Drishti 10 is India's most advanced surveillance UAV, with a range of more than 100 miles.\n• The drone was shot down by an Indian Air Force F/A-18 Hornet fighter jet.\n• The crash is the first time an Indian UAV has crashed in the country's history.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/drishti-10-drone-porbandar-surveillance-uav-ws-l-10198499.html",
+      "relevance_score": 0.8366,
+      "published_date": "2026-07-08"
+    },
+    {
       "id": 6982,
       "title": "IND vs ENG 3rd T20: Shreyas Iyer calls performance 'atrocious, unacceptable’",
       "summary": "• IND vs ENG 3rd T20: Shreyas Iyer calls performance 'atrocious' and 'unacceptable' India lost to England by eight wickets in the third T20.\n• India lost the toss and were bowled out for a low total of 19.\n• India's captain Virat Kohli was named man of the match.\n• England's captain Stuart Broad was named player of the tournament.",
@@ -118,6 +228,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/telangana/telangana-govt-to-constitute-committee-to-strengthen-digital-governance/article71192966.ece",
       "relevance_score": 0.8269,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 6990,
+      "title": "Kerala to form special task force for timely probe into dowry harassment, domestic violence complaints",
+      "summary": "• Thomas will be the chief minister of the state.\n• Thomas is known for his tough stance on issues such as dowry and domestic violence.\n• He has been accused of abusing his wife's dowry in the past.\n• Thomas has denied the allegations and said he has been victim of a smear campaign.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-to-form-special-task-force-for-timely-probe-into-dowry-harassment-domestic-violence-complaints/article71198035.ece",
+      "relevance_score": 0.8263,
       "published_date": "2026-07-08"
     },
     {
@@ -191,6 +311,16 @@
       "published_date": "2026-07-08"
     },
     {
+      "id": 6995,
+      "title": "Can compete with Govt’s CNAP mandate, Truecaller CEO says",
+      "summary": "• Can compete with CNAP, CEO says Truecallers can compete with government mandate.\n• TruecallER is a mobile phone app that allows users to make phone calls on the go.\n• It was founded in 2007 and now has more than 100,000 customers.\n• It is based in New York City and has been in operation since 2008.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Science",
+      "url": "https://www.thehindu.com/sci-tech/technology/can-compete-with-govts-cnap-mandate-truecaller-ceo-says/article70856192.ece",
+      "relevance_score": 0.8017,
+      "published_date": "2026-07-08"
+    },
+    {
       "id": 6938,
       "title": "5-month-old startup wants to launch 100,000 AI data centre satellites into space",
       "summary": "• It wants to create a network of data centres around the world.\n• The company also wants to use the satellites to send data back to Earth in the form of artificial intelligence.\n• It's called AI Data Centre Satellite Network (ADNS) and is based in San Francisco.\n• The startup is funded by Google, Facebook, Microsoft and other tech giants.",
@@ -201,22 +331,22 @@
       "published_date": "2026-07-07"
     },
     {
-      "id": 6942,
-      "title": "IMD issues flash flood alert for Gujarat, Maharashtra and Karnataka over next 24 hours",
-      "summary": "• Flooding expected in parts of Maharashtra, Karnataka and Gujarat.\n• Floods expected to subside over next few days, IMD says.\n• CLICK HERE for all the latest from the IMD's Flash Flood Warning Centre in Karnataka, Maharashtra, Gujarat and Maharashtra.",
-      "category": "State News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/imd-issues-flash-flood-alert-for-gujarat-maharashtra-and-karnataka-over-next-24-hours-11783425880978.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-07"
-    },
-    {
       "id": 6902,
       "title": "Chief Minister Joseph Vijay writes to Prime Minister Narendra Modi opposing proposed amendment to Food Security Act",
       "summary": "• Vijay: I am concerned about the impact of the proposed amendment on the food security of the country.\n• I have written to the Prime Minister to oppose the amendment.\n• I would like to make clear that I am not in favour of any changes to food security act.",
       "category": "Polity & Governance",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-joseph-vijay-writes-to-prime-minister-narendra-modi-opposing-proposed-amendment-to-food-security-act/article71190437.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-07"
+    },
+    {
+      "id": 6942,
+      "title": "IMD issues flash flood alert for Gujarat, Maharashtra and Karnataka over next 24 hours",
+      "summary": "• Flooding expected in parts of Maharashtra, Karnataka and Gujarat.\n• Floods expected to subside over next few days, IMD says.\n• CLICK HERE for all the latest from the IMD's Flash Flood Warning Centre in Karnataka, Maharashtra, Gujarat and Maharashtra.",
+      "category": "State News",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/imd-issues-flash-flood-alert-for-gujarat-maharashtra-and-karnataka-over-next-24-hours-11783425880978.html",
       "relevance_score": 0.91,
       "published_date": "2026-07-07"
     },
@@ -19869,138 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-sees-no-signs-of-excess-credit-risk-keeps-countercyclical-capital-buffer-inactive/articleshow/131178725.cms",
       "relevance_score": 0.8266,
       "published_date": "2026-05-18"
-    },
-    {
-      "id": 4173,
-      "title": "AI super-apps are remaking China’s internet",
-      "summary": "• They include ‘smart’ search, ‘likes’ and ‘favourites’ that can be used to search for content.\n• They can also be used as search engines, search engines and search engines.\n• They are called ‘super-apps’ or ‘search engines’ in Chinese.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/ai-super-apps-are-remaking-china-s-internet-101779095090128.html",
-      "relevance_score": 0.8257,
-      "published_date": "2026-05-18"
-    },
-    {
-      "id": 4197,
-      "title": "Central Bank of India conducts mega MSME credit outreach programme",
-      "summary": "• The programme aims to boost credit to small and medium enterprises in the country.\n• The aim is to help them get access to credit from the central bank to boost their business.\n• The scheme is aimed at helping them get credit for their business ventures.\n• It also aims to promote credit to the MSME sector in India's rural areas.",
-      "category": "Economy & Banking",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/central-bank-of-india-conducts-mega-msme-credit-outreach-programme/article70995009.ece",
-      "relevance_score": 0.8237,
-      "published_date": "2026-05-18"
-    },
-    {
-      "id": 4181,
-      "title": "EU’s Ursula von der Leyen wants to seal investment agreement with India, calls it ‘missing puzzle’",
-      "summary": "• She calls it the ‘missing puzzle’ of the EU-India trade deal.\n• She says it is ‘the only way forward’ for the two countries to work together on economic and trade issues.\n• The EU and India are seeking to sign an investment agreement by the end of the year.",
-      "category": "International Relations",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/eus-ursula-von-der-leyen-wants-to-seal-investment-agreement-with-india-calls-it-missing-puzzle/article70993590.ece",
-      "relevance_score": 0.8236,
-      "published_date": "2026-05-18"
-    },
-    {
-      "id": 4180,
-      "title": "Lokesh to inaugurate SAEL solar power plant on May 22",
-      "summary": "• Lokesh will be inaugurated by Prime Minister Narendra Modi.\n• SAEL will be the first of its kind in the country.\n• The plant will have a capacity of 1,000 megawatts of solar power.\n• It is expected to be fully operational by the end of the year.\n• For confidential support call the National Suicide Prevention Lifeline on 1-800-273-8255 or visit www.suicidepreventionlifeline.org.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/lokesh-to-inaugurate-sael-solar-power-plant-on-may-22/article70994918.ece",
-      "relevance_score": 0.8192,
-      "published_date": "2026-05-18"
-    },
-    {
-      "id": 4151,
-      "title": "India, Sweden agree to elevate bilateral ties to Strategic Partnership | highlights",
-      "summary": "• India and Sweden have been at odds for years over Kashmir issue.\n• The two countries have a long-standing friendship between the two Koreas and Lakshadweep in the north-east of the country.\n• They also have a close relationship with each other's Himalayan region, which is at the heart of the two countries' relations.",
-      "category": "International Relations",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/narendra-modi-five-nation-tour-live-updates-uae-netherlands-sweden-norway-italy-trade-investment-west-asia-crisis/article70989625.ece",
-      "relevance_score": 0.9437,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4143,
-      "title": "PM Modi’s visit to Netherlands secures 17 strategic pacts",
-      "summary": "• PM Modi's visit to Dutch secured 17 strategic agreements with the country.\n• India and the Netherlands have been at odds for years over Kashmir issue.\n• The two countries are now at odds over the Kashmir issue in the Indian Parliament.",
-      "category": "International Relations",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/pm-modis-visit-to-netherlands-secures-17-strategic-pacts/articleshow/131161976.cms",
-      "relevance_score": 0.9423,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4108,
-      "title": "Ex-ISRO Scientist's $1 Billion Startup Eyes Maiden Orbital Rocket Launch",
-      "summary": "• Former ISRO Scientist to launch first rocket from Cape Canaveral, Florida, on May 31.\n• He will launch from the Kennedy Space Center's spaceport on May 30.\n• The launch is expected to be the first of its kind in space history.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/ex-isro-scientists-rs-1-500-crore-startup-eyes-maiden-orbital-rocket-launch-11505997#publisher=newsstand",
-      "relevance_score": 0.9396,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4131,
-      "title": "India, Sweden agree to elevate ties to Strategic Partnership",
-      "summary": "• India and Sweden will be part of the new Strategic Partnership between the two countries.\n• The two countries will be in the European Union and the United Nations.\n• They will also be members of the NATO and the European Economic and Security Council.\n• The move will help strengthen their economic and political ties in the region and the region in general.\n• India will be joining the EU and the UN in the next few years.",
-      "category": "International Relations",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/pm-modi-in-sweden-updates-on-may-17-2026/article70990427.ece",
-      "relevance_score": 0.9292,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4126,
-      "title": "Another step towards strengthening Amaravati’s quantum technology ecosystem",
-      "summary": "• Amaravathi is a city in the state of Uttarakhand, India.\n• It is home to the state's quantum technology research and development centre.\n• The city is also a hub for quantum technology and quantum science research in India.\n• For more information, visit www.aaravati.org.uk and www.qu quantum-tech-research.gov.in.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/another-step-towards-strengthening-amaravatis-quantum-technology-ecosystem/article70990640.ece",
-      "relevance_score": 0.9212,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4109,
-      "title": "India weather update: IMD predicts more heatwave days for Delhi, Punjab; Kerala braces for monsoon onset",
-      "summary": "• Kerala braces for monsoon onset; IMD says monsoon will be 'difficult' to predict.\n• IMD: Temperatures expected to remain high for next few days in most parts of the country.\n• Delhi and Punjab are expected to see the highest temperatures in the country for the next two days.\n• Kerala is bracing for the onset of monsoon.",
-      "category": "State News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/india-weather-update-imd-predicts-more-heatwave-days-for-delhi-punjab-kerala-braces-for-monsoon-onset-11778978787281.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4113,
-      "title": "IMD weather update: Monsoon 2026 to reach Kerala early, heatwave alerts issued for Delhi, UP and Rajasthan",
-      "summary": "• IMD weather forecast for the next few days: Rain, thundery showers, high humidity, high temperatures.\n• Monsoon forecast for next few weeks: Sunny, dry, with some thundery showery showers and thundery downpours.\n• Rainfall forecast: Moderate to heavy, with thundery rain and high humidity.",
-      "category": "State News",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/monsoon-2026-kerala-onset-may-26-delhi-heatwave-alert-3048136.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4144,
-      "title": "Secretary-General of ASEAN to Undertake Working Visit to Timor-Leste on the sidelines of the 24th anniversary of the Restoration of Independence of the Democratic Republic of Timor-Leste",
-      "summary": "• Secretary-General of ASEAN to Undertake Working Visit to Timor-Leste.\n• Visit will take place on the sidelines of the 24th anniversary of the Restoration of Independence of the Democratic Republic oftimor-leste.\n• The visit will also take place at the ASEan Summit in Doha, Qatar, on November 14-15.\n• The Asean Summit will be the first to be held in the Doha region of Qatar.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-to-undertake-working-visit-to-timor-leste-on-the-sidelines-of-the-24th-anniversary-of-the-restoration-of-independence-of-the-democratic-republic-of-timor-leste/",
-      "relevance_score": 0.9002,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4117,
-      "title": "Thailand Open badminton: Satwik-Chirag save four championship points before settling for runner-up finish",
-      "summary": "• Satwik and Chirag finish in second place in the men's singles event in Bangkok.\n• The men's doubles final will take place in Bangkok on Saturday.\n• The women's singles final will be held on Sunday.\n• The winner will be crowned champion of the Thailand Open.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/other-sports/thailand-open-badminton-championship-on-may-17-2026/article70989905.ece",
-      "relevance_score": 0.8836,
-      "published_date": "2026-05-17"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-08T12:00:01.933021Z"
+  "updated_at": "2026-07-08T15:34:41.625482Z"
 }
