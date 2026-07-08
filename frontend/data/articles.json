@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 6973,
+      "title": "Rupee erases previous gains, tumbles 20 paise against US dollar",
+      "summary": "• Rupee has lost 20 paisas against the US dollar in the last two days.\n• The rupee was up against the U.S. dollar earlier this week, but has since lost ground.\n• The dollar is trading at a record high against the Indian rupee of 72.5 against the United States dollar.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-erases-previous-gains-tumbles-20-paise-against-us-dollar/articleshow/132254044.cms",
+      "relevance_score": 0.8982,
+      "published_date": "2026-07-08"
+    },
+    {
       "id": 6954,
       "title": "Switzerland edge Colombia on penalties to reach first World Cup quarter-final since 1954",
       "summary": "• Switzerland will play either Brazil or Argentina in the last eight.\n• Switzerland have never been to a World Cup semi-final in their history.\n• The last time they were in the quarter-finals was in 1954, when they won the tournament in South Africa.\n• Switzerland won 4-2 on penalties after 0-0 draw with Colombia.",
@@ -28,6 +38,36 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-gains-on-cheaper-oil-fii-buying/articleshow/132251047.cms",
       "relevance_score": 0.8498,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 6971,
+      "title": "Switzerland vs Colombia FIFA World Cup highlights: Switzerland edge Colombia on penalties to reach first World Cup quarter-final since 1954",
+      "summary": "• Switzerland reach World Cup quarter-final for first time since 1954.\n• Switzerland beat Colombia on penalties to reach last eight for the first time in their history.\n• Switzerland will play either Brazil or Argentina in the last eight.\n• Click here for Switzerland vs Colombia World Cup 2014 match stats and stats.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/colombia-vs-switzerland-fifa-world-cup-round-of-16-match-live-score-updates-july-7-2026/article71195391.ece",
+      "relevance_score": 0.8403,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 6968,
+      "title": "Significance of Guwahati Declaration adopted by BRICS nations | Explained",
+      "summary": "• Significance and impact of the Declaration adopted in the wake of the G8 summit.\n• Significant role of India in the BRICS Summit in India's decision to hold the summit in the first place in India.\n• The summit took place in the Indian state of Uttar Pradesh, which is part of India's BRICS membership.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/significance-of-guwahati-declaration-adopted-by-brics-nations-explained/article71196603.ece",
+      "relevance_score": 0.8201,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 6969,
+      "title": "China's DeepSeek developing its own AI chip, sources say",
+      "summary": "• China's Deep Seek is a subsidiary of China's state-owned chipmaker, DeepMind.\n• DeepSe seek has been working with DeepMind to develop its own artificial intelligence chip.\n• China is also working with South Korea to develop a version of its own chip, source says.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/chinas-deepseek-developing-its-own-ai-chip-sources-say/article71196481.ece",
+      "relevance_score": 0.8091,
       "published_date": "2026-07-08"
     },
     {
@@ -231,22 +271,22 @@
       "published_date": "2026-07-07"
     },
     {
-      "id": 6918,
-      "title": "Ganjam, Cuttack among districts with most Odisha SIR deletions",
-      "summary": "• SIRs have been deleted in Odisha in the past two years.\n• The state government has been trying to get rid of SIR's in order to improve the state's infrastructure.\n• The most recent SIR was deleted in Ganjam and Cuttacks last year.\n• The latest SIR will be deleted in Cuttacking and Ganjam again this year.",
-      "category": "State News",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/ganjam-cuttack-among-districts-with-most-odisha-sir-deletions-101783365463826.html",
-      "relevance_score": 0.8652,
-      "published_date": "2026-07-07"
-    },
-    {
       "id": 6907,
       "title": "Ganjam, Cuttack among districts with most Odisha SIR deletions",
       "summary": "• SIRs have been deleted in Odisha in the past two years.\n• The state government has been trying to get rid of SIR's in order to improve the state's infrastructure.\n• The most recent SIR was deleted in Ganjam and Cuttacks last year.\n• The latest SIR will be deleted in Cuttacking and Ganjam again this year.",
       "category": "State News",
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/ganjam-cuttack-among-districts-with-most-odisha-sir-deletions-101783387962814.html",
+      "relevance_score": 0.8652,
+      "published_date": "2026-07-07"
+    },
+    {
+      "id": 6918,
+      "title": "Ganjam, Cuttack among districts with most Odisha SIR deletions",
+      "summary": "• SIRs have been deleted in Odisha in the past two years.\n• The state government has been trying to get rid of SIR's in order to improve the state's infrastructure.\n• The most recent SIR was deleted in Ganjam and Cuttacks last year.\n• The latest SIR will be deleted in Cuttacking and Ganjam again this year.",
+      "category": "State News",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/ganjam-cuttack-among-districts-with-most-odisha-sir-deletions-101783365463826.html",
       "relevance_score": 0.8652,
       "published_date": "2026-07-07"
     },
@@ -317,6 +357,16 @@
       "category": "Science & Technology",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/indonesia-to-build-country-specific-evms-with-indias-support/articleshow/132230983.cms",
+      "relevance_score": 0.8544,
+      "published_date": "2026-07-07"
+    },
+    {
+      "id": 6972,
+      "title": "Argentina vs Egypt, FIFA World Cup 2026 Highlights: Messi powers Argentina’s extraordinary comeback in 3-2 win over Egypt",
+      "summary": "• Argentina beat Egypt 3-1 in World Cup warm-up game in Buenos Aires.\n• Lionel Messi scores twice as Argentina come from 2-0 down to beat Egypt.\n• Messi also scores a brace as Argentina score three goals in three games.\n• Messi's brace was Argentina's first in the World Cup since 1950.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/football/argentina-vs-egypt-football-live-score-fifa-world-cup-2026-round-of-16-messi-salah-10775680/",
       "relevance_score": 0.8544,
       "published_date": "2026-07-07"
     },
@@ -398,6 +448,16 @@
       "source": "The Hindu - Sport",
       "url": "https://www.thehindu.com/sport/fifa-world-cup-2026-integrity-of-tournament-questioned-as-trump-fifa-defend-actions-surrounding-balogun-suspension/article71192408.ece",
       "relevance_score": 0.8276,
+      "published_date": "2026-07-07"
+    },
+    {
+      "id": 6974,
+      "title": "NASA Transfers ‘Hundred Acre Wood’ to Patuxent Research Refuge",
+      "summary": "• “Hundred acre wood’ is one of the world’s largest wooded areas.\n• NASA will use the wood as part of a research facility in Maryland, Maryland and Washington, D.C.\n• It will also be used as a habitat for endangered species, among other things.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/goddard/nasa-transfers-hundred-acre-wood-to-patuxent-research-refuge/",
+      "relevance_score": 0.8261,
       "published_date": "2026-07-07"
     },
     {
@@ -19939,68 +19999,8 @@
       "url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capitals-vs-rajasthan-royals-mitchel-starc-vaibhav-sooryavanshi-match-updates/article70990789.ece",
       "relevance_score": 0.8169,
       "published_date": "2026-05-17"
-    },
-    {
-      "id": 4128,
-      "title": "Bidar getting ₹1,100-crore power infrastructure projects",
-      "summary": "• Bidar to get power projects worth more than Rs. 1,000 crore.\n• Bidar to be part of Rs. 2,000-crores power projects across the country.\n• Bidsar is a state-run power station in the Indian state of Bihar.\n• BIDSAR is one of the biggest state-owned power stations in the state.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/bidar-getting-1100-crore-power-infrastructure-projects/article70990513.ece",
-      "relevance_score": 0.8102,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4148,
-      "title": "PBKS vs RCB, IPL 2026 — Punjab Kings did not create enough opportunities, says bowling coach Hopes",
-      "summary": "• Punjab Kings will play RCB at the Wankhede Stadium in Mumbai on Sunday, May 28.\n• The IPL will be held in Mumbai for the first time in 2026, with a total of 16 teams in the tournament.\n• The match will be played at the Maharashtra Cricket Stadium in Ahmedabad.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/ipl/punjab-kings-james-hopes-reaction-pbks-vs-rcb-royal-challengers-bengaluru-standings-points-table-cricket-news/article70991310.ece",
-      "relevance_score": 0.8081,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4141,
-      "title": "Aaron Rai prize money: PGA Championship winner to bag huge sum after shocker. Purse details out",
-      "summary": "• Purse details out for Rai, who will receive a total of $1.2 million.\n• Rai will receive his prize money after winning the tournament on Sunday.\n• The winner will be announced at a press conference later in the day.\n• For more information on the prize money, visit golfgolf.com.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/us-sports/aaron-rai-prize-money-career-earnings-pga-championship-winner-to-bag-huge-sum-after-shocker-purse-details-out-101779058722745.html",
-      "relevance_score": 0.8077,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4121,
-      "title": "Assam school students learn hands-on water quality testing",
-      "summary": "• WQT tests water quality in the state's rivers, streams and creeks.\n• The school also conducts water quality tests in the nearby state of Arunachal Pradesh.\n• The students also conduct water quality checks in the neighbouring state of Tripura.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/assam/assam-school-students-learn-hands-on-water-quality-testing/article70990189.ece",
-      "relevance_score": 0.8077,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4125,
-      "title": "First Made-In-India Airbus C-295 Aircraft Ready For Flight Test At Vadodara Facility",
-      "summary": "• First Made-in-India aircraft to be tested at India's first state-of-the-art manufacturing facility in the country.\n• First C295 to be built in India has been in the works for more than a decade.\n• The C295 is the first of its kind to be made in India.",
-      "category": "Science & Technology",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/first-made-in-india-airbus-c-295-aircraft-ready-for-flight-test-at-vadodara-facility-ws-l-10096259.html",
-      "relevance_score": 0.8034,
-      "published_date": "2026-05-17"
-    },
-    {
-      "id": 4098,
-      "title": "IITH, DMRL and Innomet launch project for gas atomiser",
-      "summary": "• IITH and DMRL will work with Innomet on project to create gas-atomiser.\n• For more information on the project, visit IITH's website or Innomet's website.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/telangana/iith-dmrl-and-innomet-launch-project-for-gas-atomiser/article70984205.ece",
-      "relevance_score": 0.9765,
-      "published_date": "2026-05-16"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-08T03:22:07.516103Z"
+  "updated_at": "2026-07-08T06:47:07.825727Z"
 }
