@@ -101,6 +101,16 @@
       "published_date": "2026-07-09"
     },
     {
+      "id": 7078,
+      "title": "From Olympics to FIFA World Cup, Vancouver shows the way in Indigenous inclusion",
+      "summary": "• Vancouver has been a model for inclusion of Indigenous people in major sporting events.\n• Vancouver hosted the 2010 Winter Olympics, 2010 World Cup and 2014 Winter Olympics.\n• Vancouver is home to Canada's first ever Winter Olympics and 2010 Winter Games.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-winter-olympics-vancouver-blueprint-indigenous-communities-participation-major-events/article71199786.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-09"
+    },
+    {
       "id": 7044,
       "title": "PM Modi explains how India-Australia diplomacy ‘feels like cricket’, draws laugh from Albanese",
       "summary": "• PM Modi: ‘India’s relationship with Australia is like a cricket match.’ India and Australia have been at odds for years over Kashmir issue.\n• India has a long-standing friendship with Australia and a close relationship with New Zealand.\n• India and New Zealand have a long history of diplomatic relations.",
@@ -221,6 +231,16 @@
       "published_date": "2026-07-09"
     },
     {
+      "id": 7074,
+      "title": "Minister moots raising retirement age of professors in govt. medical colleges",
+      "summary": "• Minister moots raise retirement age for professors in medical colleges from 65 to 75 years of age.\n• He also wants to raise it to 80 years for those who have been teaching for more than 30 years.\n• He wants to make it 75 years for professors who have taught for 30 years or more.\n• He says this would be in line with international standards.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/minister-moots-raising-retirement-age-of-professors-in-govt-medical-colleges/article71203270.ece",
+      "relevance_score": 0.8584,
+      "published_date": "2026-07-09"
+    },
+    {
       "id": 7040,
       "title": "India's first hydrogen train to be flagged off next week: Route, speed, technology and all you need to know",
       "summary": "• The train will be the first of its kind in the world.\n• It will have a top speed of 100km/h and will be powered by hydrogen fuel cells.\n• It is expected to be fully operational by the end of the year.\n• The first train will have the capacity to carry 1,200 passengers.",
@@ -301,22 +321,22 @@
       "published_date": "2026-07-09"
     },
     {
-      "id": 7018,
-      "title": "Military technology’s environmental impact: A bird’s nest made of fibre-optic cable",
-      "summary": "• The cable is used to connect military bases to the rest of the world.\n• It is also used to build homes and other structures in the U.S. and Europe.\n• The cables are also used in the construction of military bases and other facilities in the Middle East and Africa.\n• They are often used for military communications and surveillance.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Science",
-      "url": "https://www.thehindu.com/sci-tech/science/military-technologys-environmental-impact-a-birds-nest-made-of-fibre-optic-cable/article71198636.ece",
-      "relevance_score": 0.8372,
-      "published_date": "2026-07-09"
-    },
-    {
       "id": 7033,
       "title": "West Asia war LIVE: Three killed in U.S. strikes in western Iran, says Iran state media",
       "summary": "• Iran state TV reports that three people have been killed in the strikes, including two women and one man.\n• Iran says the strikes were carried out by U.N.\n• Iran denies the reports, saying the strike was carried out in response to a drone attack on Iranian targets.",
       "category": "International Relations",
       "source": "The Hindu - International",
       "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-strikes-strait-of-hormuz-oil-price-donald-trump-mojtaba-khamenei-netanyahu-peace-deal/article71200749.ece",
+      "relevance_score": 0.8372,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7018,
+      "title": "Military technology’s environmental impact: A bird’s nest made of fibre-optic cable",
+      "summary": "• The cable is used to connect military bases to the rest of the world.\n• It is also used to build homes and other structures in the U.S. and Europe.\n• The cables are also used in the construction of military bases and other facilities in the Middle East and Africa.\n• They are often used for military communications and surveillance.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Science",
+      "url": "https://www.thehindu.com/sci-tech/science/military-technologys-environmental-impact-a-birds-nest-made-of-fibre-optic-cable/article71198636.ece",
       "relevance_score": 0.8372,
       "published_date": "2026-07-09"
     },
@@ -341,6 +361,16 @@
       "published_date": "2026-07-09"
     },
     {
+      "id": 7077,
+      "title": "Sam Altman reveals OpenAI modified ChatGPT-5.6 after US government testing, says process improved AI safety",
+      "summary": "• He says it was developed with the US government in mind.\n• He also says it will be available to the public by the end of the year.\n• For more information, visit OpenAI's official blog and the OpenAI blog.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",
+      "category": "Science & Technology",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/us-news/sam-altman-reveals-openai-modified-chatgpt-5-6-after-us-government-testing-says-process-improved-ai-safety-11783615217596.html",
+      "relevance_score": 0.831,
+      "published_date": "2026-07-09"
+    },
+    {
       "id": 7053,
       "title": "Eye on Indo-Pacific: India and Australia deepen ties across nuclear, maritime and mineral sectors",
       "summary": "• Australia and India have a long history of cooperation in the region.\n• The two countries have a close relationship across a number of sectors, including energy, mining and mining.\n• India is a key player in the Asia-Pacific region, and Australia is a major player in Australia's economy.\n• The countries also have close ties in the South China Sea.",
@@ -348,6 +378,26 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/eye-on-indo-pacific-india-and-australia-deepen-ties-across-nuclear-maritime-and-mineral-sectors/article71202208.ece",
       "relevance_score": 0.8232,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7073,
+      "title": "Karimnagar Police plan to install 700 more CCTV cameras to enhance surveillance",
+      "summary": "• Police to install more than 1,000 CCTV cameras in the city.\n• Police say they will use the cameras to increase surveillance of the city's crime scene.\n• Police will also use them to monitor the area's crime rate and crime rates in the long term.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/telangana/karimnagar-police-plan-to-install-700-more-cctv-cameras-to-enhance-surveillance/article71203478.ece",
+      "relevance_score": 0.8203,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7079,
+      "title": "ENG vs IND, 4th T20I: Sooryavanshi dismissed for 15 off 10 balls",
+      "summary": "• India win the toss and opt to bat first.\n• India take on India in the fourth T20i at the Ageas Bowl in Pune.\n• India beat India by three wickets in the first match.\n• India won the second match by two wickets at the same venue.\n• The third match will be played at the Eden Gardens in London.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/vaibhav-sooryavanshi-score-4th-t20i-eng-vs-ind-bristol-jofra-archer-wicket/article71203722.ece",
+      "relevance_score": 0.8143,
       "published_date": "2026-07-09"
     },
     {
@@ -379,6 +429,16 @@
       "url": "https://www.thehindu.com/news/national/karnataka/no-eligible-voter-should-be-left-out-in-sir-says-deputy-election-commissioner/article71202686.ece",
       "relevance_score": 0.8009,
       "published_date": "2026-07-09"
+    },
+    {
+      "id": 7075,
+      "title": "NASA Awards Contracts for Mars Advanced Surface Mobility Technology",
+      "summary": "• NASA also awards $1.5 billion in contracts for the development of a Mars rover and rover lander.\n• The Mars rover will be the first vehicle to land on the red planet's surface.\n• The rover will take off from the surface of Mars in 2020 and land on Mars in 2030.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/directorates/smd/planetary-science-division/mars-exploration-program/nasa-awards-contracts-for-mars-advanced-surface-mobility-technology/",
+      "relevance_score": 0.9408,
+      "published_date": "2026-07-08"
     },
     {
       "id": 6993,
@@ -681,22 +741,22 @@
       "published_date": "2026-07-08"
     },
     {
-      "id": 6971,
-      "title": "Switzerland vs Colombia FIFA World Cup highlights: Switzerland edge Colombia on penalties to reach first World Cup quarter-final since 1954",
-      "summary": "• Switzerland reach World Cup quarter-final for first time since 1954.\n• Switzerland beat Colombia on penalties to reach last eight for the first time in their history.\n• Switzerland will play either Brazil or Argentina in the last eight.\n• Click here for Switzerland vs Colombia World Cup 2014 match stats and stats.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/football/colombia-vs-switzerland-fifa-world-cup-round-of-16-match-live-score-updates-july-7-2026/article71195391.ece",
-      "relevance_score": 0.8403,
-      "published_date": "2026-07-08"
-    },
-    {
       "id": 7020,
       "title": "Isro successfully conducts key test on main parachutes for Gaganyaan crew module",
       "summary": "• Isro also successfully conducts test of main parachute for GAGanyaan space module.\n• Gaganaan is a space module developed by Isro and the Indian space agency, ISRO.\n• It is part of Isro's space exploration program.",
       "category": "Science & Technology",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/isro-successfully-conducts-key-test-on-main-parachutes-for-gaganyaan-crew-module/articleshow/132272247.cms",
+      "relevance_score": 0.8403,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 6971,
+      "title": "Switzerland vs Colombia FIFA World Cup highlights: Switzerland edge Colombia on penalties to reach first World Cup quarter-final since 1954",
+      "summary": "• Switzerland reach World Cup quarter-final for first time since 1954.\n• Switzerland beat Colombia on penalties to reach last eight for the first time in their history.\n• Switzerland will play either Brazil or Argentina in the last eight.\n• Click here for Switzerland vs Colombia World Cup 2014 match stats and stats.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/colombia-vs-switzerland-fifa-world-cup-round-of-16-match-live-score-updates-july-7-2026/article71195391.ece",
       "relevance_score": 0.8403,
       "published_date": "2026-07-08"
     },
@@ -19939,68 +19999,8 @@
       "url": "https://asean.org/secretary-general-of-asean-attends-welcome-dinner-hosted-by-the-minister-of-foreign-affairs-and-cooperation-of-the-democratic-republic-of-timor-leste/",
       "relevance_score": 0.9,
       "published_date": "2026-05-19"
-    },
-    {
-      "id": 4223,
-      "title": "U.S.-China: A temporary truce",
-      "summary": "• U.S.-China: A temporary truce has been agreed to between the two countries.\n• U.S. President Barack Obama and Chinese President Xi Jinping have agreed to a temporary truce.\n• The truce is expected to last until at least the end of the year, when a new deal could be agreed on.\n• For more, go to CNN.com/Talks with President Obama and China's President Xi.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-us-china-a-temporary-truce/article70992898.ece",
-      "relevance_score": 0.8955,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4242,
-      "title": "NATO jet shoots down suspected Ukrainian drone over Estonia",
-      "summary": "• NATO jet shot down suspected drone over Estonian airspace.\n• NATO says it was shot down by a drone operated by a Russian-made unmanned aerial vehicle.\n• The drone was believed to be carrying a Ukrainian military drone.\n• The incident occurred over the Estonian capital of Tallinn in the early hours of Monday morning, NATO says.\n• The U.S. military says it shot down the drone after it was spotted by an Estonian military drone over Tallinn.",
-      "category": "International Relations",
-      "source": "Indian Express - World",
-      "url": "https://indianexpress.com/article/world/nato-jet-shoots-down-suspected-ukrainian-drone-over-estonia-10697703/",
-      "relevance_score": 0.893,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4250,
-      "title": "OpenAI Founding Member Andrej Karpathy Joins Anthropic",
-      "summary": "• Andrej is a co-founder and co-chairman of the OpenAI Foundation.\n• He is also a founding member of OpenAI and the co-founders of the firm's AI research group, DeepMind.\n• He will also be a board member of Anthropic, which he co-founded with Andrej.",
-      "category": "Science & Technology",
-      "source": "NDTV - World",
-      "url": "https://www.ndtv.com/world-news/openai-founding-member-andrej-karpathy-joins-anthropic-11518983#publisher=newsstand",
-      "relevance_score": 0.8928,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4272,
-      "title": "Vance Says Poland Troop Decision Will Push Europe to Step Up",
-      "summary": "• Vance: Troop decision will push Europe to step up to help fight ISIS in Iraq and Syria.\n• He says the decision will be a wake-up call for Europe to do more to fight terrorism in the Middle East and beyond.\n• The U.S. has been involved in two wars in the region since 2003, including one in Afghanistan.",
-      "category": "Polity & Governance",
-      "source": "LiveMint - Politics",
-      "url": "https://www.livemint.com/politics/vance-says-poland-troop-decision-will-push-europe-to-step-up-11779220137985.html",
-      "relevance_score": 0.8848,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4257,
-      "title": "A China-U.S. summit that drew global attention",
-      "summary": "• A China-U.S. summit that drew global attention was held in Washington, D.C.\n• The two countries' leaders will meet for the first time since the 2008 U.S.-China summit.\n• The summit is expected to be the largest ever between the two countries.\n• It is also the largest bilateral meeting between the leaders of China and the United States since the early 1990s.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/opinion/lead/a-china-us-summit-that-drew-global-attention/article70999017.ece",
-      "relevance_score": 0.8809,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4254,
-      "title": "Viral Kumbh Mela woman, husband move M.P. High Court over ‘forged’ age record to portray her as minor",
-      "summary": "• High Court over ‘forged’ age record to portray her as minor.\n• Woman, husband claim she was born in India in 1950s and is now in her 60s.\n• They say she is still in touch with her family and friends in India.\n• They claim she has been living in India for more than a decade.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/viral-kumbh-mela-woman-husband-move-mp-high-court-over-forged-age-record-to-portray-her-as-minor/article70998882.ece",
-      "relevance_score": 0.8805,
-      "published_date": "2026-05-19"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-09T16:03:01.222044Z"
+  "updated_at": "2026-07-09T17:49:50.740205Z"
 }
