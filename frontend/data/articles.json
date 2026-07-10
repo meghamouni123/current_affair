@@ -1,13 +1,13 @@
 {
   "articles": [
     {
-      "id": 7123,
-      "title": "BREAKING NEWS: Gautam Gambhir's Position Under Scrutiny After England T20I Series Loss – Report",
-      "summary": "• BCCI is set to assess the performances of both the players and the coaching staff.\n• India have now lost five out the total six T20Is that have been played in the tour.\n• The first two losses came against Ireland and the one occasion when India didn't lose ended in no result due to rain.\n• Head coach Gautam Gambhir's contract runs until 2027, his position has also come under scrutiny following the team's recent performances.",
-      "category": "Sports",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/breaking-news-gautam-gambhir-s-position-under-scrutiny-after-england-t20i-series-loss-report-10203938.html",
-      "relevance_score": 0.91,
+      "id": 7127,
+      "title": "KPTCL adopts zero trust framework to strengthen digital infrastructure and prevent data theft",
+      "summary": "• Adoptszero trust framework for digital infrastructure to strengthendigital infrastructure.\n• KpTCL ltd is based in Kuala Lumpur, capital of Kuala Lumpur City, Malaysia.\n• It is owned by Malaysia's state-owned KPCL, which has operations in Malaysia, Indonesia, Thailand and Malaysia.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/kptcl-adopts-zero-trust-framework-to-strengthen-digital-infrastructure-and-prevent-data-theft/article71206821.ece",
+      "relevance_score": 0.9153,
       "published_date": "2026-07-10"
     },
     {
@@ -21,6 +21,16 @@
       "published_date": "2026-07-10"
     },
     {
+      "id": 7123,
+      "title": "BREAKING NEWS: Gautam Gambhir's Position Under Scrutiny After England T20I Series Loss – Report",
+      "summary": "• BCCI is set to assess the performances of both the players and the coaching staff.\n• India have now lost five out the total six T20Is that have been played in the tour.\n• The first two losses came against Ireland and the one occasion when India didn't lose ended in no result due to rain.\n• Head coach Gautam Gambhir's contract runs until 2027, his position has also come under scrutiny following the team's recent performances.",
+      "category": "Sports",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/breaking-news-gautam-gambhir-s-position-under-scrutiny-after-england-t20i-series-loss-report-10203938.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-10"
+    },
+    {
       "id": 7111,
       "title": "Science should reach society with integrity and transparency: Soumya Swaminathan",
       "summary": "• Science should be transparent and open to the public, she says.\n• Swamin Nathan is a professor of science at the University of California, Los Angeles.\n• He is also a co-founder of the Centre for Science and Technology, a non-profit based in San Francisco.",
@@ -28,6 +38,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/cities/bangalore/science-should-reach-society-with-integrity-and-transparency-soumya-swaminathan/article71205977.ece",
       "relevance_score": 0.9084,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7126,
+      "title": "We want to create leaders from the panchayat to Parliament, says CM",
+      "summary": "• We want to make leaders from panchaysat to parliament, says the CM.\n• He says we need leaders who can take the country to the next level of politics.\n• We need leaders from all walks of life, he says.\n• We must create leaders who have the courage to take the nation to a higher level.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/we-want-to-create-leaders-from-the-panchayat-to-parliament-says-cm/article71207300.ece",
+      "relevance_score": 0.9079,
       "published_date": "2026-07-10"
     },
     {
@@ -81,6 +101,26 @@
       "published_date": "2026-07-10"
     },
     {
+      "id": 7131,
+      "title": "FIFA World Cup 2026 | Morocco coach Ouahbi admits his team lacked ideas in the loss to France",
+      "summary": "• Morocco lost 1-0 to France in their opening World Cup game.\n• Coach Ouahbi admits his team lacked ideas in the loss.\n• Morocco will host the World Cup for the first time in 2026.\n• The tournament will be held in France, Spain, Portugal, Italy and Morocco.\n• Morocco are bidding for a place in the 2026 World Cup in South Africa, Brazil and Mexico.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/morocco-coach-ouahbi-admits-his-team-lacked-ideas-in-the-loss-to-france/article71206626.ece",
+      "relevance_score": 0.8835,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7133,
+      "title": "Bandhan Bank launches ‘Cyber Cop’ CSR campaign with Hindustan Times and Rohit Shetty",
+      "summary": "• Bandhan Bank is a leading bank in India with a market share of more than 40 per cent.\n• The bank also has one of the highest customer satisfaction ratings in the country.\n• The company has been in business for more than 30 years and has been a part of the Indian film industry for over 20 years.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - Business",
+      "url": "https://www.hindustantimes.com/business/bandhan-bank-launches-cyber-cop-csr-campaign-with-hindustan-times-and-rohit-shetty-101783682392024.html",
+      "relevance_score": 0.8786,
+      "published_date": "2026-07-10"
+    },
+    {
       "id": 7108,
       "title": "EU Warns Pakistan | Human Rights Failures Could Cost Major Trade Benefits | EU vs Pakistan News",
       "summary": "• Pakistan currently enjoys trade preferences under the EU's GSP+ framework.\n• This provides reduced tariffs on exports in exchange for commitments to international conventions on human rights, labour rights, environmental protection and good governance.\n• Any change in trade status could have significant implications for Pakistan's export sector, economy and international standing.\n• For Pakistan, the possible economic impact, and what this development could mean for relations between Islamabad and Brussels.\n• The European Union has issued a strong warning to Pakistan, cautioning that continued concerns over human rights, democratic governance and rule of law could put the country's valuable preferential trade benefits at risk.Pakistan currently enjoys trade preferences under the EU's GSP+ (Generalised….",
@@ -128,6 +168,16 @@
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/your-actions-dont-match-your-ideology-bjp-mla-questions-own-government-sitting-on-resolution-seeking-bharat-ratna-to-savarkar/articleshow/132307741.cms",
       "relevance_score": 0.842,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7129,
+      "title": "International experts launch natural farming model at Guntur school",
+      "summary": "• They hope it will be a model for the rest of the country.\n• The school is run by a group of teachers and students from around the world.\n• It is based on a model of natural farming called \"Guntur Natural Farming\" It aims to teach students how to grow crops in a sustainable way.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/international-experts-launch-natural-farming-model-at-guntur-school/article71206992.ece",
+      "relevance_score": 0.8366,
       "published_date": "2026-07-10"
     },
     {
@@ -191,6 +241,16 @@
       "published_date": "2026-07-10"
     },
     {
+      "id": 7130,
+      "title": "Markets rally for second day; Sensex jumps over 800 points",
+      "summary": "• Sensex up more than 800 points; Nifty up over 1,300 points.\n• Nifty 50 up over 100 points; S&P 500 up over 2,000 points; BSE up over 3,200 points.\n• Nasdaq up over 500 points; Dixx up over 300 points.\n• WBS, Nifty, NSE, BSE, CSE, H Nifty all up over 200 points.",
+      "category": "Economy & Banking",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/markets/markets-rally-for-second-day-sensex-jumps-over-800-points/article71206342.ece",
+      "relevance_score": 0.8243,
+      "published_date": "2026-07-10"
+    },
+    {
       "id": 7107,
       "title": "India is launching a diamond lotus into space. Yes, you read that right",
       "summary": "• India is launching a diamond lotus into space.\n• The country is sending a diamond-shaped flower into space for the first time.\n• It will be launched into space from the Indian space agency's spaceport in Sriharikota, near Chennai, on Monday.\n• The launch is expected to take place at around 5:30pm local time (9:30am ET) on Monday, according to reports.",
@@ -198,6 +258,26 @@
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/science/story/india-is-launching-a-diamond-lotus-into-space-unique-jewel-to-fly-on-vikram-1-2944731-2026-07-10?utm_source=rss",
       "relevance_score": 0.8211,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7132,
+      "title": "‘Nothing else will be discussed’: BCCI confirms T20 review after India’s tour collapse",
+      "summary": "• India were due to play three T20s and a one-day international against Sri Lanka.\n• India lost all three matches in Sri Lanka and were knocked out of the World Cup in the group stages.\n• India also lost the final match of the series against South Africa.\n• The tour was to be followed by a two-match ODI series.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/cricket/nothing-else-will-be-discussed-bcci-confirms-t20-review-after-indias-tour-collapse-10780924/",
+      "relevance_score": 0.8191,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7128,
+      "title": "Assembly elections likely in mid-2029 after delimitation, Congress to retain power: Chief Minister A. Revanth Reddy",
+      "summary": "• Assembly elections likely to be held in mid of 2029 after new boundaries are drawn in the state.\n• Congress likely to win a third consecutive term in the assembly elections, Reddy says.\n• The current Congress government has been in power since 2003.\n• The next election will be held by the end of next year.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/telangana/assembly-elections-likely-in-mid-2029-after-delimitation-congress-to-retain-power-chief-minister-a-revanth-reddy/article71206970.ece",
+      "relevance_score": 0.8179,
       "published_date": "2026-07-10"
     },
     {
@@ -641,22 +721,22 @@
       "published_date": "2026-07-09"
     },
     {
-      "id": 7033,
-      "title": "West Asia war LIVE: Three killed in U.S. strikes in western Iran, says Iran state media",
-      "summary": "• Iran state TV reports that three people have been killed in the strikes, including two women and one man.\n• Iran says the strikes were carried out by U.N.\n• Iran denies the reports, saying the strike was carried out in response to a drone attack on Iranian targets.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-strikes-strait-of-hormuz-oil-price-donald-trump-mojtaba-khamenei-netanyahu-peace-deal/article71200749.ece",
-      "relevance_score": 0.8372,
-      "published_date": "2026-07-09"
-    },
-    {
       "id": 7018,
       "title": "Military technology’s environmental impact: A bird’s nest made of fibre-optic cable",
       "summary": "• The cable is used to connect military bases to the rest of the world.\n• It is also used to build homes and other structures in the U.S. and Europe.\n• The cables are also used in the construction of military bases and other facilities in the Middle East and Africa.\n• They are often used for military communications and surveillance.",
       "category": "Science & Technology",
       "source": "The Hindu - Science",
       "url": "https://www.thehindu.com/sci-tech/science/military-technologys-environmental-impact-a-birds-nest-made-of-fibre-optic-cable/article71198636.ece",
+      "relevance_score": 0.8372,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7033,
+      "title": "West Asia war LIVE: Three killed in U.S. strikes in western Iran, says Iran state media",
+      "summary": "• Iran state TV reports that three people have been killed in the strikes, including two women and one man.\n• Iran says the strikes were carried out by U.N.\n• Iran denies the reports, saying the strike was carried out in response to a drone attack on Iranian targets.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-strikes-strait-of-hormuz-oil-price-donald-trump-mojtaba-khamenei-netanyahu-peace-deal/article71200749.ece",
       "relevance_score": 0.8372,
       "published_date": "2026-07-09"
     },
@@ -2691,6 +2771,16 @@
       "published_date": "2026-07-03"
     },
     {
+      "id": 7134,
+      "title": "Nasa launches mission to save falling space telescope",
+      "summary": "• The space telescope will be used to study the Earth from space.\n• The telescope will also be used as part of a research program to understand the Earth's climate.\n• The mission will also help scientists learn more about Earth's environment.\n• The spacecraft will be based in Houston, Texas, and will orbit the Earth at a base in Houston.",
+      "category": "Science & Technology",
+      "source": "BBC - Science & Environment",
+      "url": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
+      "relevance_score": 0.9129,
+      "published_date": "2026-07-03"
+    },
+    {
       "id": 6772,
       "title": "FIFA World Cup 2026 — Ashley Westwood on data, tactical discipline, and breakout stars of the tournament",
       "summary": "• Westwood: \"I think we're going to have a great tournament in 2026.\n• It's going to be one of the most exciting ever\" The World Cup will be held in Mexico City, Mexico, from June 14 to July 14.\n• The tournament will be the first to be held on African soil.",
@@ -2701,22 +2791,22 @@
       "published_date": "2026-07-03"
     },
     {
-      "id": 6740,
-      "title": "Maharashtra TET scam: Three more persons arrested from Punjab, Bihar",
-      "summary": "• Three more people arrested from Bihar, Punjab, and three more from Uttar Pradesh.\n• Two of the arrested are accused of being involved in the scam.\n• The other two are alleged to be involved in TET frauds in Uttar Pradesh, Bihar, and Punjab.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/three-held-in-up-in-maharashtra-tet-paper-leak-case/article71177289.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-03"
-    },
-    {
       "id": 6782,
       "title": "Women’s T20 World Cup 2026: Tazmin Brits hopes to make LA 2028 Olympics squad for South Africa",
       "summary": "• South Africa are hosting the tournament for the first time in 2026.\n• Brits is hoping to make the squad for the 2028 Olympic Games in Los Angeles.\n• She will also be part of South Africa's World T20 squad for 2026 and 2028.",
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/cricket/womens-cricket/womens-t20-world-cup-2026-south-africa-knocked-out-tazmin-brits-eyeing-la-2028-olympics/article71179538.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-03"
+    },
+    {
+      "id": 6740,
+      "title": "Maharashtra TET scam: Three more persons arrested from Punjab, Bihar",
+      "summary": "• Three more people arrested from Bihar, Punjab, and three more from Uttar Pradesh.\n• Two of the arrested are accused of being involved in the scam.\n• The other two are alleged to be involved in TET frauds in Uttar Pradesh, Bihar, and Punjab.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/three-held-in-up-in-maharashtra-tet-paper-leak-case/article71177289.ece",
       "relevance_score": 0.91,
       "published_date": "2026-07-03"
     },
@@ -19909,98 +19999,8 @@
       "url": "https://indianexpress.com/article/india/india-south-korea-defence-cooperation-rajnath-singh-seoul-visit-10699576/",
       "relevance_score": 0.8961,
       "published_date": "2026-05-20"
-    },
-    {
-      "id": 4312,
-      "title": "Dr. Reddy’s launches Semaglutide tablets in India",
-      "summary": "• The tablets are available on the company's website and in select stores across the country.\n• Dr Reddy's says the tablets are safe and effective for a range of conditions.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/dr-reddys-launches-semaglutide-tablets-in-india/article71002198.ece",
-      "relevance_score": 0.8931,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4286,
-      "title": "Inflation falls to 2.8% but is expected to rise from here",
-      "summary": "• Inflation fall is due to a fall in the cost of living and a rise in food prices.\n• In the UK, inflation fell from 2.7% in May to just under 2%.\n• In the U.S., inflation fell to just over 2.5%.\n• In Europe, inflation has fallen to below 2%.",
-      "category": "Economy & Banking",
-      "source": "BBC Business",
-      "url": "https://www.bbc.com/news/articles/c4g0e0p4p2go?at_medium=RSS&at_campaign=rss",
-      "relevance_score": 0.8926,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4266,
-      "title": "Rupee slides to new low of 96.53 vs dollar",
-      "summary": "• The rupee hit a record high against the U.S. dollar in the previous session.\n• The dollar hit a new record high of $1.2955 on Monday.\n• Debt ceiling has been raised to $2.2 trillion.\n• The debt ceiling is expected to be increased to $3.5 trillion by the end of the year.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-slides-to-new-low-of-96-53-vs-dollar/articleshow/131213718.cms",
-      "relevance_score": 0.8864,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4326,
-      "title": "Supreme Court upholds bail for man booked under UAPA",
-      "summary": "• Man was charged with assaulting a police officer.\n• He was released on bail after being charged with assault and resisting arrest.\n• The case was heard at the Supreme Court in Washington, D.C.\n• The judge ruled that the man was entitled to bail under the law.\n• The man was also granted bail under a previous version of this article.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/kerala/supreme-court-upholds-bail-for-man-booked-under-uapa/article61756140.ece",
-      "relevance_score": 0.8842,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4322,
-      "title": "World Cup-bound Norway player backs calls for improved heat protocols from FIFA",
-      "summary": "• FIFA has been criticised for not doing enough to protect players from heat exhaustion.\n• World Cup is taking place in Brazil in 2014, and Norway will be playing in Group D with South Africa, Brazil and Costa Rica.\n• Click here for more from FIFA's World Cup 2014 news.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/ipl/fifa-world-cup-2026-heat-usa-mexico-protocol-norway-morten-thorsby-query/article71003398.ece",
-      "relevance_score": 0.8817,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4314,
-      "title": "World Bee Day campaign encourages public to protect declining UK pollinators",
-      "summary": "• World Bee Day is held every year to raise awareness of declining pollinators in the UK.\n• The UK has one of the lowest levels of bee numbers in the world.\n• The number of bees in Britain has fallen by more than 40 per cent in the last decade.\n• The population of bees has also declined by almost 30 per cent since 2001.",
-      "category": "International Relations",
-      "source": "Times of India - World",
-      "url": "https://timesofindia.indiatimes.com/world/uk/world-bee-day-campaign-encourages-public-to-protect-declining-uk-pollinators/articleshow/131230508.cms",
-      "relevance_score": 0.8815,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4279,
-      "title": "PM Modi at India-Nordic Summit: Green tech, 6G among key outcomes",
-      "summary": "• PM Modi: Green technology and 6G will be key outcomes of the summit.\n• India and the Nordic countries will discuss a range of issues, including climate change, energy, and the economy.\n• The summit will take place in New Delhi on November 14 and 15.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/pm-modi-at-india-nordic-summit-green-tech-6g-among-key-outcomes/articleshow/131216956.cms",
-      "relevance_score": 0.8753,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4288,
-      "title": "UGC NET 2026 Registration Ends Today: Check Step By Step Application Process Here",
-      "summary": "• For more information, visit the UGNT 2026 application page here.\n• For confidential support call the National Suicide Prevention Lifeline at 1-800-273-8255 or visit http://www.suicidepreventionlifeline.org/.\n• For support on suicide matters call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch or click here.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/ugc-net-2026-registration-ends-today-check-step-by-step-application-process-here-11521943#publisher=newsstand",
-      "relevance_score": 0.8745,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4320,
-      "title": "RBI to infuse liquidity via $5 billion dollar rupee swap auction on May 26",
-      "summary": "• RBI will sell $5.5 billion dollars in rupee swaps at the auction.\n• The auction will be held on the last day of the month on May 25.\n• The rupee is trading at a record low of 62.8 against the dollar on the Bombay Stock Exchange.\n• It is the biggest single-day fall in the value of the rupee against the US dollar.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-infuse-liquidity-via-5-billion-dollar-rupee-swap-auction-on-may-26/articleshow/131230353.cms",
-      "relevance_score": 0.8697,
-      "published_date": "2026-05-20"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-10T12:35:28.994609Z"
+  "updated_at": "2026-07-10T15:35:01.317762Z"
 }
