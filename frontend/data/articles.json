@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": 7093,
+      "title": "Bloomberg introduces global trade in Indian bonds",
+      "summary": "• India is one of the fastest-growing economies in the world, with a $1.2 trillion economy.\n• The country is home to some of the world's largest economies, including the U.S., China, Japan and South Korea.\n• It is also home to India's second-largest economy, with an economy of $2.1 trillion.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/bloomberg-introduces-global-trade-in-indian-bonds/articleshow/132300704.cms",
+      "relevance_score": 0.8982,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7096,
+      "title": "5x cheaper than missiles, hits target in 37 seconds: Explained why India needed Pinaka Mk-3 rocket | DNA",
+      "summary": "• India's Pinaka rocket is the first of its kind in the world.\n• Pinaka was developed by the Soviet Union in the 1960s and 1970s.\n• India launched its first rocket in the 1980s and has been developing its own version ever since.\n• The rocket is called Pinaka-3 and is powered by the country's own indigenous technology.",
+      "category": "Science & Technology",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/india/pinaka-mark-3-rocket-explained-drdo-test-china-us-russia-3060187.html",
+      "relevance_score": 0.8973,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7087,
+      "title": "Jharkhand unveils plan to adopt AI in governance",
+      "summary": "• Jharkhand unveils plan to adopt AI in governance in state's first state-run bank.\n• Jharkham to use AI to help in decision-making and decision making in state of Jharkshand.\n• State to use technology to help with decision making and decision- making in the state's bank accounts and in state government offices.",
+      "category": "Science & Technology",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/jharkhand-unveils-plan-to-adopt-ai-in-governance-10779867/",
+      "relevance_score": 0.8327,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7084,
+      "title": "FIFA World Cup 2026 | Yamal's best 'yet to come,' warns Spain coach",
+      "summary": "• Yamal will host the tournament for the first time in 2026.\n• The tournament will take place in Russia and will be known as the World Cup in Yamal.\n• Click here for more FIFA World Cup 2022 news and news.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-yamals-best-yet-to-come-warns-spain-coach/article71205068.ece",
+      "relevance_score": 0.8296,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7094,
+      "title": "India emerges as global hub for Philips' AI healthcare solutions",
+      "summary": "• Philips is a global leader in the field of artificial intelligence and machine learning.\n• The company is based in India but has offices in the UK, France, Germany and the U.S. It also has a presence in the Netherlands, Belgium and the Netherlands.\n• Click here for more information on Philips' healthcare solutions in India and beyond.",
+      "category": "Science & Technology",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/india-emerges-as-global-hub-for-philips-ai-healthcare-solutions/articleshow/132300685.cms",
+      "relevance_score": 0.8266,
+      "published_date": "2026-07-10"
+    },
+    {
       "id": 7042,
       "title": "India, Australia seal nuclear and defence deals to deepen strategic ties",
       "summary": "• India and Australia sign deals to strengthen strategic ties and build up nuclear arsenals.\n• The two countries are also working on joint development projects in the South China Sea and the South Arabian Sea.\n• The deals are expected to be worth billions of dollars over the next few years.\n• The countries will work together on a range of joint military and defence projects.",
@@ -91,22 +141,22 @@
       "published_date": "2026-07-09"
     },
     {
-      "id": 7069,
-      "title": "Tamil Nadu CM Seeks OBC Quota | Big Political Debate | Breaking News | The 5PM Brief",
-      "summary": "• Tamil Nadu Chief Minister has renewed the push for OBC reservation.\n• The move is expected to have significant political implications.\n• Questions are being raised over the implementation of reservation policies, the role of the Centre, and the constitutional framework governing affirmative action.\n• CNN-News18 brings you comprehensive coverage of this major political development, including the Chief Minister's remarks, political reactions, legal implications and expert analysis.\n• The latest demand has triggered fresh debate over reservation policy, constitutional provisions, and the rights of Other Backwards Classes (OBCs).The move is expected to have significant political implications, with reactions pouring in from political parties, legal experts and social organisations.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/tamil-nadu-cm-seeks-obc-quota-big-political-debate-breaking-news-the-5pm-brief-10201079.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-09"
-    },
-    {
       "id": 7078,
       "title": "From Olympics to FIFA World Cup, Vancouver shows the way in Indigenous inclusion",
       "summary": "• Vancouver has been a model for inclusion of Indigenous people in major sporting events.\n• Vancouver hosted the 2010 Winter Olympics, 2010 World Cup and 2014 Winter Olympics.\n• Vancouver is home to Canada's first ever Winter Olympics and 2010 Winter Games.",
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-winter-olympics-vancouver-blueprint-indigenous-communities-participation-major-events/article71199786.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7069,
+      "title": "Tamil Nadu CM Seeks OBC Quota | Big Political Debate | Breaking News | The 5PM Brief",
+      "summary": "• Tamil Nadu Chief Minister has renewed the push for OBC reservation.\n• The move is expected to have significant political implications.\n• Questions are being raised over the implementation of reservation policies, the role of the Centre, and the constitutional framework governing affirmative action.\n• CNN-News18 brings you comprehensive coverage of this major political development, including the Chief Minister's remarks, political reactions, legal implications and expert analysis.\n• The latest demand has triggered fresh debate over reservation policy, constitutional provisions, and the rights of Other Backwards Classes (OBCs).The move is expected to have significant political implications, with reactions pouring in from political parties, legal experts and social organisations.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/tamil-nadu-cm-seeks-obc-quota-big-political-debate-breaking-news-the-5pm-brief-10201079.html",
       "relevance_score": 0.91,
       "published_date": "2026-07-09"
     },
@@ -131,6 +181,16 @@
       "published_date": "2026-07-09"
     },
     {
+      "id": 7097,
+      "title": "ENG vs IND 4th T20I: England thrashes India by nine wickets to win series",
+      "summary": "• England thrashes India by nine wickets to win series 2-1.\n• England win 4th T20I to level series at 1-1 after 3 wins from 3 matches.\n• India won 3-1 in first match of five-match series against England.\n• England won first two matches of series with 2-0 win in first game.\n• India lost the third match of the series with 3-0 defeat.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/england-vs-india-score-results-updates-4th-t20i-series-win-harry-brook-sooryavanshi-eng-v-ind-cricket-news/article71204020.ece",
+      "relevance_score": 0.8999,
+      "published_date": "2026-07-09"
+    },
+    {
       "id": 7035,
       "title": "SpaceXAI launches Grok 4.5 model for coding, agentic tasks",
       "summary": "• Grok is a cloud-based platform that lets developers code for each other.\n• SpaceXAI says Grok can be used to solve any of the world's most complex problems.\n• For more information on Grok, go to: www.spaceXAI.com/grok.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",
@@ -148,6 +208,16 @@
       "source": "News18 - India",
       "url": "https://www.news18.com/world/modi-albanese-to-discuss-trade-defense-uranium-in-melbourne-ws-l-10199461.html",
       "relevance_score": 0.8924,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7095,
+      "title": "World’s first hydrogen aircraft engine: Airbus and MTU begin developing next-generation clean aviation technology",
+      "summary": "• Airbus, MTU working on world's first hydrogen engine.\n• Airbus says engine will be powered by hydrogen fuel cells, not fuel cells.\n• Airbus: Engine will be used to power small planes, helicopters, and small planes with hydrogen fuel cell engines.\n• The engine is expected to be ready for commercial flight by 2018.",
+      "category": "Science & Technology",
+      "source": "Times of India - World",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/worlds-first-hydrogen-aircraft-engine-airbus-and-mtu-begin-developing-next-generation-clean-aviation-technology/articleshow/132295643.cms",
+      "relevance_score": 0.8915,
       "published_date": "2026-07-09"
     },
     {
@@ -181,6 +251,16 @@
       "published_date": "2026-07-09"
     },
     {
+      "id": 7082,
+      "title": "PM Modi in Australia updates: India, Australia seal landmark pacts on nuclear energy and defence",
+      "summary": "• India and Australia to work together on nuclear power, defence and other issues.\n• PM Modi will also meet Australian Prime Minister Tony Abbott in Sydney on Monday.\n• Modi will then travel to Canberra on Tuesday for talks with Australian PM Scott Morrison in Canberra.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/narendra-modi-australia-visit-live-updates-three-nation-tour-green-energy-deals-anthony-albanese-melbourne/article71200835.ece",
+      "relevance_score": 0.8808,
+      "published_date": "2026-07-09"
+    },
+    {
       "id": 7039,
       "title": "Gold rush: India’s holdings of US Treasuries fall to near 6-year low; points to shift in RBI strategy",
       "summary": "• India's holdings of U.S. Treasiors fall to a near six-yearLow; pointsto shift in Reserve Bank of India's strategy.\n• Indian investors have been buying gold at a record high in the past few months.\n• India has also been buying U.K. sovereign bonds at record levels.",
@@ -191,6 +271,16 @@
       "published_date": "2026-07-09"
     },
     {
+      "id": 7081,
+      "title": "DIG Varun Kumar shifted to Special Task Force",
+      "summary": "• DIG has been transferred from DIG and DIG to DIG.\n• Kumar will be in charge of the Anti-Terrorism Squad.\n• He was previously in the DIGship of the Special Task force.\n• He has been with the force for more than a decade.\n• For confidential support call the National Suicide Prevention Lifeline on 1-800-273-8255 or visit www.suicidepreventionlifeline.org.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/dig-varun-kumar-shifted-to-special-task-force/article71202067.ece",
+      "relevance_score": 0.87,
+      "published_date": "2026-07-09"
+    },
+    {
       "id": 7051,
       "title": "BSNL launches satellite phone for Rs 1.34 lakh, here is what makes it special",
       "summary": "• BSNL launched satellite phone at a cost of around Rs1.34 crore.\n• The satellite phone will be available in Hindi, English, Tamil and Kannada languages.\n• The launch is expected to take place in the next few days.\n• The phone is available for a period of three months.",
@@ -198,6 +288,16 @@
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/technology/news/story/bsnl-launches-satellite-phone-for-rs-134-lakh-here-is-what-makes-it-special-2943973-2026-07-09?utm_source=rss",
       "relevance_score": 0.8686,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7092,
+      "title": "Modi, Albanese adopt new joint declaration to deepen Indo-Australian defence cooperation",
+      "summary": "• Modi and Albanese adopted new joint Declaration to deepen India-Albania defence cooperation on Monday.\n• The declaration was signed by the prime ministers of the two countries at a summit in New Delhi.\n• The two countries also signed a joint declaration with Australia on defence cooperation in 2007.\n• The Declaration was signed at the request of Prime Minister Tony Abbott.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/modi-albanese-adopt-new-joint-declaration-to-deepen-indo-australian-defence-cooperation/articleshow/132297846.cms",
+      "relevance_score": 0.8685,
       "published_date": "2026-07-09"
     },
     {
@@ -218,6 +318,16 @@
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/health/story/once-weekly-insulin-awiqli-launched-in-india-for-adults-with-type-1-and-type-2-diabetes-2943877-2026-07-09?utm_source=rss",
       "relevance_score": 0.8653,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7085,
+      "title": "India win five medals, including a gold, on Day 1 of Asian U-23 Athletics Championships",
+      "summary": "• India win five golds, including two golds and two silver medals on the first day of the event.\n• India also won two silver and two bronze medals on Day 2 of the competition.\n• India won four gold medals and one silver on Day 3 of the tournament.\n• India are the defending champions of the Asian Under-23 Championships.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/other-sports/india-win-five-medals-including-a-gold-on-day-1-of-asian-u-23-athletics-championships/article71204207.ece",
+      "relevance_score": 0.8643,
       "published_date": "2026-07-09"
     },
     {
@@ -301,6 +411,16 @@
       "published_date": "2026-07-09"
     },
     {
+      "id": 7088,
+      "title": "India, Australia ink defence pacts, fast-track trade deal",
+      "summary": "• India to sign defence deals with Australia and other nations.\n• India will sign defence pact with Australia on July 31.\n• India-Australia defence deal to be signed on July 30.",
+      "category": "International Relations",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/india-australia-ink-defence-pacts-fast-track-trade-deal-10779742/",
+      "relevance_score": 0.8417,
+      "published_date": "2026-07-09"
+    },
+    {
       "id": 7021,
       "title": "Citing high crude, IMF, ADB trim growth forecast for India",
       "summary": "• India's growth forecast has been cut by 0.3 per cent to 8.2 per cent for the year to March 31.\n• India is one of the fastest growing economies in the world, according to the IMF and ADB.\n• India has the world's fastest-growing economy and second-fastest growth rate in Asia.",
@@ -321,22 +441,22 @@
       "published_date": "2026-07-09"
     },
     {
-      "id": 7033,
-      "title": "West Asia war LIVE: Three killed in U.S. strikes in western Iran, says Iran state media",
-      "summary": "• Iran state TV reports that three people have been killed in the strikes, including two women and one man.\n• Iran says the strikes were carried out by U.N.\n• Iran denies the reports, saying the strike was carried out in response to a drone attack on Iranian targets.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-strikes-strait-of-hormuz-oil-price-donald-trump-mojtaba-khamenei-netanyahu-peace-deal/article71200749.ece",
-      "relevance_score": 0.8372,
-      "published_date": "2026-07-09"
-    },
-    {
       "id": 7018,
       "title": "Military technology’s environmental impact: A bird’s nest made of fibre-optic cable",
       "summary": "• The cable is used to connect military bases to the rest of the world.\n• It is also used to build homes and other structures in the U.S. and Europe.\n• The cables are also used in the construction of military bases and other facilities in the Middle East and Africa.\n• They are often used for military communications and surveillance.",
       "category": "Science & Technology",
       "source": "The Hindu - Science",
       "url": "https://www.thehindu.com/sci-tech/science/military-technologys-environmental-impact-a-birds-nest-made-of-fibre-optic-cable/article71198636.ece",
+      "relevance_score": 0.8372,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7033,
+      "title": "West Asia war LIVE: Three killed in U.S. strikes in western Iran, says Iran state media",
+      "summary": "• Iran state TV reports that three people have been killed in the strikes, including two women and one man.\n• Iran says the strikes were carried out by U.N.\n• Iran denies the reports, saying the strike was carried out in response to a drone attack on Iranian targets.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/us-iran-war-live-updates-missile-strikes-strait-of-hormuz-oil-price-donald-trump-mojtaba-khamenei-netanyahu-peace-deal/article71200749.ece",
       "relevance_score": 0.8372,
       "published_date": "2026-07-09"
     },
@@ -368,6 +488,16 @@
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/us-news/sam-altman-reveals-openai-modified-chatgpt-5-6-after-us-government-testing-says-process-improved-ai-safety-11783615217596.html",
       "relevance_score": 0.831,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7091,
+      "title": "Who is Facundo Tello? Meet the Argentine referee officiating France vs Morocco in FIFA World Cup 2026 quarterfinal",
+      "summary": "• Facundo Tello will officiate France vs Morocco in FIFA World Cup 2026 quarterfinal.\n• He will be in charge of France's first World Cup game since 1986.\n• France beat Morocco 1-0 in the opening game of the quarterfinal at the Maracana Stadium in Rio de Janeiro.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/us-sports/who-is-facundo-tello-meet-the-argentine-referee-officiating-france-vs-morocco-in-fifa-world-cup-2026-quarterfinal-101783629243149.html",
+      "relevance_score": 0.8287,
       "published_date": "2026-07-09"
     },
     {
@@ -408,6 +538,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/gujarat/gujarat-launches-first-data-centre-policy-targets-6-lakh-crore-investments-and-75-gw-capacity/article71201726.ece",
       "relevance_score": 0.8081,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7086,
+      "title": "India assured of eight medals in U-19 women's category at Asian U-19 and U-23 boxing C'ships",
+      "summary": "• India will be looking to win eight medals, including four golds and two silver medals.\n• India is also hoping to win four medals in the men's under-19 and under-23 categories.\n• India has won two golds in the women's Under-19 boxing at Asian Games.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/other-sports/india-assured-of-eight-medals-in-u-19-womens-category-at-asian-u-19-and-u-23-boxing-cships/article71204206.ece",
+      "relevance_score": 0.805,
       "published_date": "2026-07-09"
     },
     {
@@ -19859,148 +19999,8 @@
       "url": "https://www.thehindu.com/news/cities/Coimbatore/tn-forest-dept-launch-probe-as-camp-elephant-collapses-and-dies/article71002989.ece",
       "relevance_score": 0.8084,
       "published_date": "2026-05-20"
-    },
-    {
-      "id": 4316,
-      "title": "NASA-developed AI Could Help Track Harmful Algae",
-      "summary": "• Could also help find people who are at risk of developing cancer.\n• Could be used to help find missing people in remote parts of the world.\n• It could also help search for missing people and help them reunite with loved ones.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/science-research/earth-science/nasa-developed-ai-could-help-track-harmful-algae/",
-      "relevance_score": 0.8062,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4263,
-      "title": "At Google I/O 2026, Sundar Pichai underlines focus on AI agents",
-      "summary": "• Google will launch its first AI-powered assistant in the form of a virtual assistant.\n• It will be called 'Google Assistant' and will be able to communicate with other AI agents in real-time.\n• The company also plans to launch a new assistant called 'Alexa' in the future.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - Business",
-      "url": "https://www.hindustantimes.com/business/at-google-i-o-2026-sundar-pichai-underlines-focus-on-ai-agents-101779239712007.html",
-      "relevance_score": 0.8041,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4300,
-      "title": "AU special examination drive to begin on June 1",
-      "summary": "• Special examination drive will be open to all students in the U.S. and around the world.\n• The drive will run until the end of the year, with the first exam on June 15.\n• The first exam will be held on June 13.\n• The third will be the final exam, on June 16.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/au-special-drive-examinations-to-begin-from-june-1/article71002452.ece",
-      "relevance_score": 0.8023,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4295,
-      "title": "Putin, Xi's Beijing meeting highlights friendship, sees over 40 bilateral cooperation agreements &amp; more: 10 key updates",
-      "summary": "• Putin and Xi sign over 40 cooperation agreements during their meeting in Beijing.\n• Putin, Xi meet for first time since Putin's visit to China in November.\n• Putin: China and Russia have signed more than 40 bilateral agreements in recent years.\n• The two leaders will meet again next week for a second meeting in three days.",
-      "category": "International Relations",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/world/putin-xi-beijing-meeting-highlights-friendship-sees-over-40-bilateral-cooperation-agreements-more-10-key-updat-11779273339434.html",
-      "relevance_score": 0.801,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4280,
-      "title": "WADA signs three-year memorandum of understanding with ASEAN",
-      "summary": "• WADA has been banned from testing for performance-enhancing drugs since September 2013.\n• The ban was imposed by the World Anti-Doping Agency (WADA) in response to a positive test for the banned substance doping agent test for performance enhancing drugs.\n• The drug is banned for 12 months in the U.S., 10 months in Europe and three years in Asia.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/wada-signs-three-year-memorandum-of-understanding-with-asean/",
-      "relevance_score": 0.9763,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4233,
-      "title": "Google launches AI education initiatives for teachers and students in India",
-      "summary": "• Google says it will use artificial intelligence to help teachers teach students about the world around them.\n• The company will also use the technology to teach students how to use AI to improve their knowledge of the world.\n• Google has also launched a series of other AI-based education initiatives in India as part of the initiative.",
-      "category": "Science & Technology",
-      "source": "Indian Express - Technology",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/google-launches-ai-education-initiatives-for-teachers-and-students-in-india-10697640/",
-      "relevance_score": 0.9395,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4218,
-      "title": "Secretary-General of ASEAN Pays Courtesy Call on the President of the Democratic Republic of Timor-Leste",
-      "summary": "• Secretary-General calls on the president of the DRL to visit the DRC in DRC.\n• The DRL is the only country in the region that is a part of the ASEan Community.\n• The country is also a member of the Non-Aligned Movement.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-pays-courtesy-call-on-the-president-of-the-democratic-republic-of-timor-leste/",
-      "relevance_score": 0.9313,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4251,
-      "title": "Who Is Andrej Karpathy? Ex-OpenAI Founder, Former Tesla AI Chief Joins Anthropic",
-      "summary": "• Andrej Karpathy, the former Tesla AI chief, has joined Anthropic.\n• He is the co-founder and former CEO of OpenAI, a company that developed AI technology.\n• KARPATHY: \"We're trying to make the world a better place.\n• We want to make it better for all of us\" He also co-founded Tesla's AI division, Tesla AI.",
-      "category": "Science & Technology",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/world/who-is-andrej-karpathy-ex-openai-founder-former-tesla-ai-chief-joins-anthropic-ws-l-10100617.html",
-      "relevance_score": 0.9182,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4267,
-      "title": "RBI to align bank disclosure norms with global standards",
-      "summary": "• SBCR norms are based on global standards for bank disclosure and reporting.\n• RBSR is a member of the World Bank and the International Accounting Standards Board (IASB).\n• SBCB is a subsidiary of the Reserve Bank of India (RBI).",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-to-align-bank-disclosure-norms-with-global-standards/articleshow/131213426.cms",
-      "relevance_score": 0.9167,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4239,
-      "title": "Flavour technology comes under focus National Technology Day at CFTRI",
-      "summary": "• National Technology day is held every year to celebrate technology and innovation.\n• The event is run by the Confederation of Trade and Industry (CFTRI) and is open to the public.\n• For more information on the event, visit CFTRi.org.uk or go to www.cfti.com/national-tech-day.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/flavour-technology-comes-under-focus-national-technology-day-at-cftri/article70998769.ece",
-      "relevance_score": 0.9084,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4238,
-      "title": "KEA Connect app to provide students with CET counselling",
-      "summary": "• KEA Connect app will be available on Android and iOS devices.\n• The app will also be available in Spanish and English.\n• For more information on the app, visit kea.com/cet.\n• For confidential support on suicide matters call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/kea-connect-app-to-provide-students-with-cet-counselling/article70997859.ece",
-      "relevance_score": 0.9083,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4240,
-      "title": "Scientific waste mgmt systems being implemented in State, says Deputy CM",
-      "summary": "• Deputy CM: 'We are trying to make the state a better place to live, work and raise a family.\n• We are also trying to improve the quality of life for the people of the state' He added: 'I want to make sure that we have the best possible waste management system in the state.\n• I want to ensure that we don't have to rely on private companies to manage waste'.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/telangana/scientific-waste-mgmt-systems-being-implemented-in-state-says-deputy-cm/article70998509.ece",
-      "relevance_score": 0.9072,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4241,
-      "title": "A.P. leads in digitising patient health records with eHospital system",
-      "summary": "• EHospital is a new system that aims to digitise the nation's health care system.\n• The system is expected to be fully operational by the end of the year.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/ap-leads-in-digitising-patient-health-records-with-ehospital-system/article70998639.ece",
-      "relevance_score": 0.906,
-      "published_date": "2026-05-19"
-    },
-    {
-      "id": 4235,
-      "title": "Secretary-General of ASEAN Attends Welcome Dinner Hosted by the Minister of Foreign Affairs and Cooperation of the Democratic Republic of Timor-Leste",
-      "summary": "• Secretary-General attends dinner hosted by the minister of foreign affairs and cooperation of the DRL.\n• ASEan Summit held in DRL's capital, Porto Alegre, on November 14-15, 2013.\n• Asean Summit was attended by the Secretary- General of the League of East and Southeast Asian Nations (LEADERS).",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-attends-welcome-dinner-hosted-by-the-minister-of-foreign-affairs-and-cooperation-of-the-democratic-republic-of-timor-leste/",
-      "relevance_score": 0.9,
-      "published_date": "2026-05-19"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-09T17:49:50.740205Z"
+  "updated_at": "2026-07-10T03:44:33.250968Z"
 }
