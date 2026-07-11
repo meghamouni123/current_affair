@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": 7142,
+      "title": "Implementing digital and AI in healthcare is fundamentally more complex: Rizwan Koita, co-founder, Koita Foundation",
+      "summary": "• He says the future of healthcare will depend on how we use technology to improve patient care.\n• Koita: \"We need to make sure we don't just rely on technology to solve problems.\n• We need to use it as a tool to make better decisions\".",
+      "category": "Science & Technology",
+      "source": "Indian Express - Technology",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/rizwan-koita-foundation-nabh-digital-health-ai-india-healthcare-10781107/",
+      "relevance_score": 0.9642,
+      "published_date": "2026-07-11"
+    },
+    {
+      "id": 7152,
+      "title": "‘Historic’ milestone: India-New Zealand announce strategic partnership in Modi's first visit to the nation",
+      "summary": "• India-New Zealand announced strategic partnership to boost trade and economic ties.\n• Modi's visit was his first to New Zealand in his post-cabinet tenure as Prime Minister of India.\n• Modi: 'This is an historic moment for both our countries.\n• We are proud to be part of this historic partnership.\n• We will work together to build a stronger and better India'.",
+      "category": "International Relations",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/historic-milestone-india-new-zealand-announce-strategic-partnership-in-modis-first-visit-to-the-nation-11783733376944.html",
+      "relevance_score": 0.9022,
+      "published_date": "2026-07-11"
+    },
+    {
+      "id": 7143,
+      "title": "FIFA World Cup: Switzerland, a team of men with dual identities",
+      "summary": "• Switzerland are playing in Brazil for the first time at the World Cup.\n• They are coached by former World Cup winner Yann Sommer.\n• Switzerland have never won a World Cup, losing all four of their games.\n• They have never been to the quarter-finals or the last eight of the tournament.\n• They haven't even won a game in the knockout stages of a tournament.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/football/fifa-world-cup-switzerland-a-team-of-men-with-dual-identities-10781320/",
+      "relevance_score": 0.884,
+      "published_date": "2026-07-11"
+    },
+    {
+      "id": 7141,
+      "title": "In Assam Budget, satellite city near Guwahati airport, semiconductor push",
+      "summary": "• Semiconductor push is part of Assam's bid to become a major semiconductor producer in the world.\n• In Assam, semiconductors are used to make computers, phones, tablets and other electronic devices.\n• In the state, they are also used to build roads, bridges, hospitals and other infrastructure.",
+      "category": "National News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/in-assam-budget-satellite-city-near-guwahati-airport-semiconductor-push-10781313/",
+      "relevance_score": 0.8777,
+      "published_date": "2026-07-11"
+    },
+    {
+      "id": 7139,
+      "title": "PM Modi hails India-New Zealand FTA as ‘historic milestone’, says it will deepen bilateral ties",
+      "summary": "• PM Modi: FTA will be an opportunity for India to deepen bilateral relations with New Zealand.\n• India and New Zealand have signed an agreement on a free trade agreement.\n• The two countries will sign the deal within a year.\n• The deal is expected to be signed within two years.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/modi-new-zealand-visit-free-trade-deal-historic-milestone/article71209262.ece",
+      "relevance_score": 0.8434,
+      "published_date": "2026-07-11"
+    },
+    {
       "id": 7127,
       "title": "KPTCL adopts zero trust framework to strengthen digital infrastructure and prevent data theft",
       "summary": "• Adoptszero trust framework for digital infrastructure to strengthendigital infrastructure.\n• KpTCL ltd is based in Kuala Lumpur, capital of Kuala Lumpur City, Malaysia.\n• It is owned by Malaysia's state-owned KPCL, which has operations in Malaysia, Indonesia, Thailand and Malaysia.",
@@ -11,22 +61,22 @@
       "published_date": "2026-07-10"
     },
     {
-      "id": 7123,
-      "title": "BREAKING NEWS: Gautam Gambhir's Position Under Scrutiny After England T20I Series Loss – Report",
-      "summary": "• BCCI is set to assess the performances of both the players and the coaching staff.\n• India have now lost five out the total six T20Is that have been played in the tour.\n• The first two losses came against Ireland and the one occasion when India didn't lose ended in no result due to rain.\n• Head coach Gautam Gambhir's contract runs until 2027, his position has also come under scrutiny following the team's recent performances.",
-      "category": "Sports",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/breaking-news-gautam-gambhir-s-position-under-scrutiny-after-england-t20i-series-loss-report-10203938.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-10"
-    },
-    {
       "id": 7110,
       "title": "Australia Opens Uranium Doors for India | PM Modi's Big Diplomatic Win | PM Modi in Australia",
       "summary": "• Australia opens the door to expanded uranium cooperation with India.\n• Announcement marks a major milestone in bilateral ties.\n• The move is expected to support India's long-term energy security.\n• The development comes as Prime Minister Narendra Modi and Australian Prime Minister Anthony Albanese continue discussions on strengthening cooperation across the Indo-Pacific, defence, technology, education and economic growth.\n• The announcement was made during Prime Minister Modi's visit to Australia.\n• | Major shift in Australia's Approach for India.",
       "category": "International Relations",
       "source": "News18 - World",
       "url": "https://www.news18.com/videos/world/australia-opens-uranium-doors-for-india-pm-modi-s-big-diplomatic-win-pm-modi-in-australia-10202776.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7123,
+      "title": "BREAKING NEWS: Gautam Gambhir's Position Under Scrutiny After England T20I Series Loss – Report",
+      "summary": "• BCCI is set to assess the performances of both the players and the coaching staff.\n• India have now lost five out the total six T20Is that have been played in the tour.\n• The first two losses came against Ireland and the one occasion when India didn't lose ended in no result due to rain.\n• Head coach Gautam Gambhir's contract runs until 2027, his position has also come under scrutiny following the team's recent performances.",
+      "category": "Sports",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/breaking-news-gautam-gambhir-s-position-under-scrutiny-after-england-t20i-series-loss-report-10203938.html",
       "relevance_score": 0.91,
       "published_date": "2026-07-10"
     },
@@ -101,6 +151,26 @@
       "published_date": "2026-07-10"
     },
     {
+      "id": 7151,
+      "title": "Assam's Rs 2,100-Crore Plan To Build Satellite City Around Guwahati Airport",
+      "summary": "• Assam's £1.5-billion plan to build a satellite city around GuWahati airport.\n• Guwawati Airport is located in the state's north-eastern region.\n• The city will be built around the airport's main runway.\n• The project is expected to be completed by 2018.",
+      "category": "National News",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/assams-rs-2-100-crore-plan-to-build-satellite-city-around-guwahati-airport-11755872#publisher=newsstand",
+      "relevance_score": 0.8894,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7154,
+      "title": "Vinicius reacts to Brazil FIFA World Cup exit — I apologize and I’m going to fight for our dream",
+      "summary": "• Vinicius reacts to Brazil FIFA World Cup exit.\n• I apologize and I'm going to fight for our dream, he says.\n• He says he will fight for Brazil's dream to win the World Cup in Brazil.\n• He also apologizes to Brazil's fans for the way they reacted to the news.\n• He adds that he will continue to fight to help Brazil win the tournament.\n• Click here for more Brazil World Cup news.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/vinicius-reaction-brazil-exit-round-of-16-norway-loss-fifa-world-cup-2026/article71207957.ece",
+      "relevance_score": 0.8891,
+      "published_date": "2026-07-10"
+    },
+    {
       "id": 7131,
       "title": "FIFA World Cup 2026 | Morocco coach Ouahbi admits his team lacked ideas in the loss to France",
       "summary": "• Morocco lost 1-0 to France in their opening World Cup game.\n• Coach Ouahbi admits his team lacked ideas in the loss.\n• Morocco will host the World Cup for the first time in 2026.\n• The tournament will be held in France, Spain, Portugal, Italy and Morocco.\n• Morocco are bidding for a place in the 2026 World Cup in South Africa, Brazil and Mexico.",
@@ -111,6 +181,16 @@
       "published_date": "2026-07-10"
     },
     {
+      "id": 7144,
+      "title": "How Sinner outclassed Djokovic to seal 2nd consecutive Wimbledon final spot",
+      "summary": "• Sinner will play Andy Murray in Sunday's final at SW19 in SW19 final in London.\n• Click here for all the latest Wimbledon 2015 news.\n• Follow LIVE coverage of the final at Wimbledon on CNN.com and @Wimbledon on Twitter and @CNNOpinion.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/tennis/jannik-sinner-outclasses-novak-djokovic-wimbledon-2026-semifinal-6-4-6-4-6-4-10781173/",
+      "relevance_score": 0.8816,
+      "published_date": "2026-07-10"
+    },
+    {
       "id": 7133,
       "title": "Bandhan Bank launches ‘Cyber Cop’ CSR campaign with Hindustan Times and Rohit Shetty",
       "summary": "• Bandhan Bank is a leading bank in India with a market share of more than 40 per cent.\n• The bank also has one of the highest customer satisfaction ratings in the country.\n• The company has been in business for more than 30 years and has been a part of the Indian film industry for over 20 years.",
@@ -118,6 +198,26 @@
       "source": "Hindustan Times - Business",
       "url": "https://www.hindustantimes.com/business/bandhan-bank-launches-cyber-cop-csr-campaign-with-hindustan-times-and-rohit-shetty-101783682392024.html",
       "relevance_score": 0.8786,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7153,
+      "title": "Senne Lammens commits error after replacing Courtois in Belgium vs Spain FIFA World Cup 2026 quarterfinal",
+      "summary": "• Lammen: 'I don't know why I made that mistake.\n• I was trying to do my best for my country' Belgium beat Spain 1-0 in the quarterfinal at the World Cup in 2026.\n• Belgium face Spain in the final at the Maracana in Rio.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/senne-lammens-belgium-fifa-world-cup-2026-debut-thibaut-courtois-injury-substitution-news/article71208160.ece",
+      "relevance_score": 0.8785,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7146,
+      "title": "Women activists: Govt must implement 33% women’s quota at current strength of Parliament",
+      "summary": "• Women activists: Government must take into account Parliament's current strength.\n• Govt should take into consideration Parliament's strength at current size of Parliament, they say.\n• They say this will ensure that 33% of Parliament is made up of women and children.\n• The government should take this into account, they argue.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/women-activists-govt-must-implement-33-womens-quota-at-current-strength-of-parliament/articleshow/132320383.cms",
+      "relevance_score": 0.8779,
       "published_date": "2026-07-10"
     },
     {
@@ -178,6 +278,36 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/cricket/ind-vs-eng-5th-t20i-preview-india-avoid-whitewash-shreyas-iyer-southampton/article71205779.ece",
       "relevance_score": 0.8623,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7155,
+      "title": "Wimbledon 2026 — Cruz Hewitt keeps the family flag flying, moves into boys’ final",
+      "summary": "• Cruz Hewit: I’m going to be the best I can be at Wimbledon.\n• I don’t want to lose to Roger Federer or Novak Djokovic or Andy Murray.\n• I just want to get to the final.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/tennis/wimbledon-2026-cruz-hewitt-boys-singles-semifinal-family-flag-scores-match-report-latest/article71207965.ece",
+      "relevance_score": 0.8575,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7145,
+      "title": "Is Pedri injured? Why the Spain star is not playing against Belgium in today's World Cup match",
+      "summary": "• Spain face Belgium in their opening game of the World Cup on June 14.\n• CLICK HERE for all the latest from the 2014 World Cup in Brazil.\n• READ: Spain vs Belgium team news, probable line ups, odds and more.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/us-sports/is-pedri-injured-know-reason-why-spain-star-is-not-playing-against-belgium-in-todays-fifa-world-cup-quarter-final-101783705322401.html",
+      "relevance_score": 0.8533,
+      "published_date": "2026-07-10"
+    },
+    {
+      "id": 7149,
+      "title": "India and Australia Are Reshaping What It Means To Be Strategic Partners",
+      "summary": "• The two countries are working together on a range of strategic issues.\n• India and Australia have been strategic partners since the 1980s.\n• The countries are now working on a number of new strategic issues, including climate change and climate change.\n• They are also working together to improve the quality of life in the country's poorest areas.",
+      "category": "International Relations",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/07/india-and-australia-are-reshaping-what-it-means-to-be-strategic-partners/",
+      "relevance_score": 0.8476,
       "published_date": "2026-07-10"
     },
     {
@@ -19869,138 +19999,8 @@
       "url": "https://www.nasa.gov/news-release/nasa-welcomes-16th-deputy-administrator-matt-anderson/",
       "relevance_score": 0.8173,
       "published_date": "2026-05-21"
-    },
-    {
-      "id": 4377,
-      "title": "GT vs CSK Highlights, IPL 2026: Gujarat Titans crushes Chennai Super Kings by 89 runs",
-      "summary": "• CSK lose by the same margin in last IPL match against Gujarat Titans in 2010.\n• Chennai Titans won the match by eight wickets by the end of the innings.\n• Gujarat Titan won the toss and elected to bat first in IPL2026.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/ipl/gt-vs-csk-ipl-2026-live-score-gujarat-titans-chennai-super-kings-ipl-2026-match-updates-may-21/article71003880.ece",
-      "relevance_score": 0.813,
-      "published_date": "2026-05-21"
-    },
-    {
-      "id": 4338,
-      "title": "SAEL to invest ₹1,200 crore in 300 MW solar plant in Kadapa; Lokesh to open unit on May 22",
-      "summary": "• SAEL will invest  $1.2 billion in the plant, which will have a capacity of 300 MW.\n• The plant is expected to be fully operational by the end of the year, SAEL has said.\n• The solar plant will be the first of its kind in the country.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/sael-to-invest-1200-crore-in-300-mw-solar-plant-in-kadapa-lokesh-to-open-unit-on-may-22/article71003016.ece",
-      "relevance_score": 0.8088,
-      "published_date": "2026-05-21"
-    },
-    {
-      "id": 4345,
-      "title": "Esports World Cup 2026 moved from Saudi Arabia to France amid Middle East war escalation",
-      "summary": "• World Cup will take place in 2026 in France, rather than in Saudi Arabia, as originally planned.\n• It will be the first time the World Cup has been held in a Middle East country.\n• The tournament will be held in France for first time since 1998 in South Africa, and the second time in 1998 in Brazil.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/esports-world-cup-2026-france-host-middle-east-war-riyadh-10700685/",
-      "relevance_score": 0.8054,
-      "published_date": "2026-05-21"
-    },
-    {
-      "id": 4361,
-      "title": "MEA's Sibi George highlights India's cross-border terrorism threat at BRICS meeting",
-      "summary": "• George: India has been targeted by terrorists from across the border.\n• MEA's George: Terrorists from Pakistan, China and Bangladesh have targeted India.\n• India is one of the fastest-growing economies in the world, with a population of more than 100 million.\n• India's economy is the second largest in the BRICS, after China.",
-      "category": "International Relations",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/meas-sibi-george-highlights-indias-cross-border-terrorism-threat-at-brics-meeting-101779364544067.html",
-      "relevance_score": 0.8028,
-      "published_date": "2026-05-21"
-    },
-    {
-      "id": 4252,
-      "title": "From ‘virus’ to ‘tsunami’: How outgoing Chief Ministers, leaders of Tamil Nadu viewed election results since 1967",
-      "summary": "• Share your views in the comments section below.\n• Click here to share your views on the election results in Tamil Nadu.\n• The results will be announced at 8.30 p.m.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/from-virus-to-tsunami-how-outgoing-chief-ministers-leaders-of-tamil-nadu-viewed-election-results-since-1967/article70998378.ece",
-      "relevance_score": 0.94,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4310,
-      "title": "SRMIST, The Hindu to organise webinar on careers in agritech",
-      "summary": "• Webinar to be held at 10.30am on Wednesday, September 26.\n• For confidential support, call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/education/srmist-the-hindu-to-organise-webinar-on-careers-in-agritech/article71003027.ece",
-      "relevance_score": 0.9396,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4331,
-      "title": "Private defence company tests rocket at Chandipur",
-      "summary": "• Private defence company test rocket in India's second-largest city.\n• Rocket was launched by Indian government-run rocket launch unit.\n• Rocket launched from the Indian city's spaceport in the early hours of the morning on Monday.\n• The rocket was launched from a launch pad in the city's Defence Research and Development Organisation (DRDO) base.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/private-defence-company-tests-rocket-at-chandipur/articleshow/131237578.cms",
-      "relevance_score": 0.9212,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4294,
-      "title": "Secretary-General of ASEAN Delivers Remarks at the Groundbreaking Ceremony for the construction of Timor-Leste’s International Convention Centre in Dili",
-      "summary": "• Secretary-General delivers Remarks during the groundbreaking ceremony for the building of the international convention centre in Timor Leste.\n• The International Convention Center will be the first of its kind in the region.\n• The centre is expected to be completed by the end of 2015.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-delivers-remarks-at-the-groundbreaking-ceremony-for-the-construction-of-timor-lestes-international-convention-centre-in-dili/",
-      "relevance_score": 0.9182,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4321,
-      "title": "The Double-Edged Shield: RBI Set To Unleash $5 Billion FX Swap To Defend Rupee, Boost Banking Liquidity",
-      "summary": "• The $5 billion FX Swap will be used to bolster the rupee's value against the US dollar.\n• The swap is expected to be completed by the end of the month.\n• It will be the first of its kind in the world, according to the Reserve Bank of India.",
-      "category": "Economy & Banking",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/business/banking-finance/the-double-edged-shield-rbi-set-to-unleash-5-billion-fx-swap-to-defend-rupee-boost-banking-liquidity-10102667.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4324,
-      "title": "Hockey coach Baldev Singh to be honoured with Padma Shri",
-      "summary": "• Baldev will be the first Indian to receive the award.\n• He will also be the second Indian to be awarded the award in the history of the sport.\n• The award will be handed to him at a ceremony in New Delhi on May 31.",
-      "category": "Awards & Honours",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/sport/hockey/hockey-coach-baldev-singh-to-be-honoured-with-padma-shri/article71003891.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4308,
-      "title": "Baldev Singh, architect of Shahabad hockey nursery, to be conferred Padma Shri",
-      "summary": "• Singh is also the founder of the Shahabad Hockey Club.\n• He will be awarded the award for his contribution to the sport.\n• Singh will be given the award at a ceremony in Delhi on Friday.\n• He is also a member of the Indian Hockey Hall of Fame and the Indian National Hockey Association.",
-      "category": "Awards & Honours",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/hockey/baldev-singh-hockey-coach-padma-shri-2026-awardee-life-history-journey-latest/article71002623.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4277,
-      "title": "Rupee hits record low, Sensex falls 517 points and Nifty slips below 23,500 in early trade",
-      "summary": "• Sensex down 517, Nifty falls below 22,500; Niftydaq falls below 21,500.\n• Rupee hits a record low against US dollar; Sensex hits record high against dollar.\n• Nifty hits 22,000; NSE falls below 20,000, S&P falls below 2,400.",
-      "category": "Economy & Banking",
-      "source": "Indian Express - Business",
-      "url": "https://indianexpress.com/article/business/market/rupee-market-stocks-gift-nifty-cautious-open-10698749/",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-20"
-    },
-    {
-      "id": 4293,
-      "title": "Delhi, UP, Rajasthan, Punjab &amp; more states sizzle in heatwave: What's fuelling temperature spike",
-      "summary": "• Delhi, UP, Rajasthan, Punjab &amp; more states sizzle in heatwave.\n• Here's what you need to know about the heatwave in India.\n• The heatwave is expected to last for the rest of the week, according to the Indian Bureau of Meteorology.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "State News",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/delhi-up-rajasthan-punjab-more-states-sizzle-in-heatwave-whats-fuelling-temperature-spike/articleshow/131220647.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-20"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-10T17:49:52.718483Z"
+  "updated_at": "2026-07-11T03:04:08.728283Z"
 }
