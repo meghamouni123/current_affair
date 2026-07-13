@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": 7233,
+      "title": "Parliamentary panel backs suspension, not removal, of PMs, CMs in new bill",
+      "summary": "• PMs and CMs to be suspended, not removed, under new bill, panel says.\n• Parliament to vote on the bill next week.\n• The bill is expected to be passed by the end of the month.\n• The PMs will be suspended for a maximum of two years, the bill says.",
+      "category": "Polity & Governance",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/jpc-constitution-amendment-bill-temporary-removal-reinstatement-arrested-ministers-2946647-2026-07-13?utm_source=rss",
+      "relevance_score": 0.9365,
+      "published_date": "2026-07-13"
+    },
+    {
+      "id": 7231,
+      "title": "Australian cricket rocked by cheating scandal days after T20 World Cup win",
+      "summary": "• Australian cricketers involved in cheating scandal have been banned from all cricket activities for two years.\n• Australian cricket team is set to be stripped of all cricketing privileges for the rest of the year.\n• The scandal comes just days after Australia won the World T20 T20 Cup in New Zealand.\n• Australia's cricket team won the tournament for the first time in 20 years.",
+      "category": "Sports",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/cricket/story/ashleigh-gardner-georgia-voll-cheating-australian-cricket-controversy-monica-wright-instagram-2946648-2026-07-13?utm_source=rss",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-13"
+    },
+    {
+      "id": 7236,
+      "title": "Noskova moves into WTA Top 10 after Wimbledon triumph",
+      "summary": "• She has won three titles this year, including the Wimbledon title.\n• She also won the Australian Open in January.\n• She was ranked No 7 in the U.S. and No.\n• She won her first Grand Slam title at Wimbledon in July 2013.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/inda-noskova-wta-rankings-top-10-wimbledon-champion/article71216651.ece",
+      "relevance_score": 0.8766,
+      "published_date": "2026-07-13"
+    },
+    {
+      "id": 7232,
+      "title": "Indian-origin Nasa astronaut Anil Menon to launch to space for 240 days",
+      "summary": "• Menon will be the first Indian in space for more than 30 years.\n• He will be in orbit for a year and a half.\n• He is scheduled to be in space until September 30, 2015.\n• The mission will take him into space for a total of 240 days, or about six months.\n• The cost of the mission is estimated to be around $1.5 billion.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/science/story/anil-menon-first-iss-mission-soyuz-ms-29-launch-240-day-space-research-2946666-2026-07-13?utm_source=rss",
+      "relevance_score": 0.8751,
+      "published_date": "2026-07-13"
+    },
+    {
+      "id": 7228,
+      "title": "‘Get ready for sudden death’: Iranian newspaper warns Trump after ally senator Graham dies",
+      "summary": "• Graham was a Republican who served in the Senate from South Carolina.\n• He was also a member of the House of Representatives and the Senate Armed Services Committee.\n• Graham's death is the latest in a string of high-profile deaths in recent years in the U.S. and abroad.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/get-ready-for-sudden-death-iran-newspaper-hamshahri-warns-trump-after-ally-senator-lindsey-graham-dies-101783932466954.html",
+      "relevance_score": 0.8712,
+      "published_date": "2026-07-13"
+    },
+    {
       "id": 7217,
       "title": "China This Week | What 3 new developments in China’s military and space sectors reveal",
       "summary": "• China This Week looks at three new developments in China's military and space sectors.\n• China This Week is CNN's weekly, offbeat look at what's going on in China.\n• Visit CNN.com/China this week to see what else is happening in China this week.",
@@ -51,6 +101,26 @@
       "published_date": "2026-07-13"
     },
     {
+      "id": 7234,
+      "title": "These AI Drones Can Fly 1,000 Km And Destroy Themselves. Here's Why India Wants Them",
+      "summary": "• These AI Drones Can Fly 1,000 Km And Destroy Themselves.\n• Here are some of the reasons why India wants them in the first place.\n• They can fly for up to a year and can be controlled by a remote-controlled drone.\n• They also have the ability to kill themselves if they get into trouble.\n• They are also able to fly for a long period of time without crashing.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/explainers/these-ai-drones-can-fly-1000-km-and-destroy-themselves-heres-why-india-wants-them-ws-l-10208146.html",
+      "relevance_score": 0.8322,
+      "published_date": "2026-07-13"
+    },
+    {
+      "id": 7230,
+      "title": "Cupid shares fall 2% after 131% rally in 3 months; Stock reclassified to BSE Group ‘A’",
+      "summary": "• Stock reclassified to BSE Group ‘A’ and reclassified as a ‘Cupid’ stock on the BSE.\n• The stock has risen 131% in the last three months, making it one of India’s best-performing BSE stocks.\n• It is now one of the most traded stocks on the Indian Stock Exchange.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cupid-shares-fall-2-after-131-rally-in-3-months-stock-reclassified-to-bse-group-a/articleshow/132358280.cms",
+      "relevance_score": 0.8261,
+      "published_date": "2026-07-13"
+    },
+    {
       "id": 7227,
       "title": "Meet Hiten Dharpure, 17-Year-Old Behind The World's Smallest Robotic Arm",
       "summary": "• Hiten is the owner of the world's smallest robotic arm.\n• He is also the creator of the \"World's smallest robot arm,\" which he has been building for the past three years.\n• He also has a robot arm that he uses to play with his friends in his spare time.\n• He says he hopes to one day have his own robotic arm of his own.",
@@ -58,6 +128,16 @@
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/education/meet-hiten-dharpure-17-year-old-behind-the-worlds-smallest-robotic-arm-11762928#publisher=newsstand",
       "relevance_score": 0.8258,
+      "published_date": "2026-07-13"
+    },
+    {
+      "id": 7229,
+      "title": "Stocks to buy: What's the outlook for Nifty for July 13-July 17 week? Check list of top stock recommendations",
+      "summary": "• Check out our list of stock recommendations and buy them here.\n• Back from the page where you were from.\n• Click here to return to the original page.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-stocks-to-buy-this-week-july-13-to-july-17-stock-recommendations-indian-hotels-company-equitas-small-finance-bank/articleshow/132359258.cms",
+      "relevance_score": 0.8122,
       "published_date": "2026-07-13"
     },
     {
@@ -141,22 +221,22 @@
       "published_date": "2026-07-12"
     },
     {
-      "id": 7195,
-      "title": "India failed to adapt: Captain Shreyas Iyer vows to learn from England T20I debacle",
-      "summary": "• India lost to England by eight wickets in three-match series.\n• England won the series 2-1, India lost the second T20 by six wickets.\n• CLICK HERE for all the latest Cricket World Cup 2015 news.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/shreyas-iyer-captain-admits-failure-to-adapt-india-loses-england-t20i-series/article71213272.ece",
-      "relevance_score": 0.8809,
-      "published_date": "2026-07-12"
-    },
-    {
       "id": 7193,
       "title": "How an Indian startup is using software to break China's rare earth monopoly",
       "summary": "• The company is developing software that can be used to mine rare earths in China.\n• The technology is being developed by a startup in India called Rare Earth Technologies.\n• The startup is trying to break the Chinese rare earth industry's monopoly on rare earth metals.\n• It is also developing software to help other companies mine rare Earths in other countries.",
       "category": "Science & Technology",
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/technology/features/story/look-ma-no-magnets-how-an-indian-startup-is-using-software-to-break-chinas-rare-earth-monopoly-2946039-2026-07-12?utm_source=rss",
+      "relevance_score": 0.8809,
+      "published_date": "2026-07-12"
+    },
+    {
+      "id": 7195,
+      "title": "India failed to adapt: Captain Shreyas Iyer vows to learn from England T20I debacle",
+      "summary": "• India lost to England by eight wickets in three-match series.\n• England won the series 2-1, India lost the second T20 by six wickets.\n• CLICK HERE for all the latest Cricket World Cup 2015 news.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/shreyas-iyer-captain-admits-failure-to-adapt-india-loses-england-t20i-series/article71213272.ece",
       "relevance_score": 0.8809,
       "published_date": "2026-07-12"
     },
@@ -19919,88 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/dept-of-space-gives-nod-for-space-tech-facilities-in-tamil-nadu-gujarat/articleshow/131261849.cms",
       "relevance_score": 0.8994,
       "published_date": "2026-05-22"
-    },
-    {
-      "id": 4440,
-      "title": "After buses, BMTC plans to turn passenger tickets into advertising space",
-      "summary": "• BMTC will use tickets to sell advertising space for the first time in its new advertising campaign.\n• The campaign will be called 'BMTC on the Goa' and will run until the end of the year.\n• For more information on the campaign, visit BMTC's official website.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch or click here for details.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/after-buses-bmtc-plans-to-turn-passenger-tickets-into-advertising-space/article71010976.ece",
-      "relevance_score": 0.8914,
-      "published_date": "2026-05-22"
-    },
-    {
-      "id": 4385,
-      "title": "Bankers pitch RBI-backed FX hedge",
-      "summary": "• Bankers pitch RBI-backed FX hedge in bid to boost India's struggling economy.\n• Bankers say it would be a good way to hedge the country's currency against the yen and other Asian currencies.\n• RBI says it has no immediate plans to launch such a hedge.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/bankers-pitch-rbi-backed-fx-hedge/articleshow/131254625.cms",
-      "relevance_score": 0.8912,
-      "published_date": "2026-05-22"
-    },
-    {
-      "id": 4444,
-      "title": "TENNIS | Ivashka loses his cool but not his semifinal against Stewart",
-      "summary": "• Ivashka loses his temper but doesn't lose the match.\n• Ivasheska will play Novak Djokovic in the final on Sunday.\n• The match will take place at the O2 Arena in London.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/tennis/tennis-ivashka-loses-his-cool-but-not-his-semifinal-against-stewart/article71011934.ece",
-      "relevance_score": 0.8882,
-      "published_date": "2026-05-22"
-    },
-    {
-      "id": 4404,
-      "title": "Secretary-General of ASEAN Meets with Parliamentary Secretary to the Minister of International Trade of Canada",
-      "summary": "• Meeting took place at the offices of the Prime Minister of Canada and the Foreign Minister of Australia.\n• Meeting was attended by the Secretary-General and the Parliamentary Secretary for International Trade.\n• The meeting was also attended by representatives of the Canadian and ASEan trade delegations from Canada and Australia.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-meets-with-parliamentary-secretary-to-the-minister-of-international-trade-of-canada/",
-      "relevance_score": 0.8874,
-      "published_date": "2026-05-22"
-    },
-    {
-      "id": 4447,
-      "title": "India successfully test-launches Agni-1 ballistic missile",
-      "summary": "• India has launched its first ever ballistic missile, the Agni 1.\n• The missile is a version of the country's Agni 2 ballistic missile that can carry a nuclear warhead.\n• The launch was followed by a successful test launch on November 30, 2013, and a second test on November 31, 2013 respectively.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/india-successfully-test-launches-agni-1-ballistic-missile/articleshow/131265957.cms",
-      "relevance_score": 0.887,
-      "published_date": "2026-05-22"
-    },
-    {
-      "id": 4445,
-      "title": "Pre-feasibility study for Tadepalligudem airport launched",
-      "summary": "• Airport would be built on the site of an existing airport in the town of Tadepallgudem.\n• The airport would be the first of its kind in the region.\n• It would also be the largest in the Middle East, with a population of more than 1.5 million.\n• It is expected to be completed by the end of 2015.",
-      "category": "National News",
-      "source": "The Hindu - Andhra Pradesh",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/pre-feasibility-study-fortadepalligudem-airport-launched/article71011167.ece",
-      "relevance_score": 0.8835,
-      "published_date": "2026-05-22"
-    },
-    {
-      "id": 4431,
-      "title": "NASA Announces Realignment to Accelerate Mission Delivery",
-      "summary": "• NASA will focus on space exploration, science, technology, engineering and medicine.\n• The agency will also focus on a new generation of space shuttles and space X-ray telescopes.\n• The mission will be based in Houston, Texas, with a base in Cape Canaveral, Florida, and a spaceport in San Diego, California.\n• The program will be led by the Air Force Space Command.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-realignment-to-accelerate-mission-delivery/",
-      "relevance_score": 0.8807,
-      "published_date": "2026-05-22"
-    },
-    {
-      "id": 4391,
-      "title": "PM Modi tells ministers to push for alternative energy sources, amid Iran war; prioritise next-generation reforms",
-      "summary": "• Modi: prioritise next-generation reforms; prioritise 'clean' energy sources.\n• PM Modi: We need to focus on clean energy sources to reduce dependence on fossil fuels.\n• PM: We must also focus on 'clean energy sources' to reduce dependency on fossil fuel sources, such as coal, gas and oil.",
-      "category": "Science & Technology",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/pm-modi-tells-ministers-to-push-for-alternative-energy-sources-amid-iran-war-prioritise-next-generation-reforms-11779407841201.html",
-      "relevance_score": 0.87,
-      "published_date": "2026-05-22"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-13T06:57:14.958497Z"
+  "updated_at": "2026-07-13T10:12:57.522468Z"
 }
