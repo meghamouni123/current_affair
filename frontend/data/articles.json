@@ -51,22 +51,22 @@
       "published_date": "2026-07-15"
     },
     {
-      "id": 7341,
-      "title": "Parliament Monsoon Session: BJP wooing NCP (SP), DMK for Constitution Amendment Bill, alleges Chidambaram",
-      "summary": "• Parliaments will be in session for three weeks from August 15 to September 14.\n• The session is expected to be the longest in the history of the country's parliament.\n• It will be the first session to be held during the monsoon session of the Parliament.",
-      "category": "Polity & Governance",
-      "source": "LiveMint - Politics",
-      "url": "https://www.livemint.com/politics/news/parliament-monsoon-session-bjp-wooing-ncp-sp-dmk-for-constitution-amendment-bill-alleges-chidambaram-11784076584570.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-15"
-    },
-    {
       "id": 7356,
       "title": "ICC announces major revamp of ODI and T20 World Cup formats",
       "summary": "• ODI, T20 formats to be changed for 2015 and 2016 World Cups.\n• ICC will also introduce a Cricket World Cup for the first time in 20 years.\n• ICC to hold first ever Cricket World Cups in South Africa and India in 2015.\n• ICC also plans to host Cricket World Championships in 2015 and 2026 in Australia and New Zealand.",
       "category": "Sports",
       "source": "Indian Express - Sports",
       "url": "https://indianexpress.com/article/sports/cricket/odi-t20-world-cup-formats-major-revamp-icc-announcement-10787768/",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7341,
+      "title": "Parliament Monsoon Session: BJP wooing NCP (SP), DMK for Constitution Amendment Bill, alleges Chidambaram",
+      "summary": "• Parliaments will be in session for three weeks from August 15 to September 14.\n• The session is expected to be the longest in the history of the country's parliament.\n• It will be the first session to be held during the monsoon session of the Parliament.",
+      "category": "Polity & Governance",
+      "source": "LiveMint - Politics",
+      "url": "https://www.livemint.com/politics/news/parliament-monsoon-session-bjp-wooing-ncp-sp-dmk-for-constitution-amendment-bill-alleges-chidambaram-11784076584570.html",
       "relevance_score": 0.91,
       "published_date": "2026-07-15"
     },
@@ -78,6 +78,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/iriset-ties-up-with-two-engineering-colleges-to-introduce-btech-course-on-kavach/article71225557.ece",
       "relevance_score": 0.9072,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7379,
+      "title": "Isha Gramotsavam expands to North India, set to cover 10 states in biggest edition yet",
+      "summary": "• Isha Gramotavam will be available in English, Hindi, Tamil, Telugu, Kannada, Bhojpuri, Marathi, and Punjabi.\n• It will be published in 10 states, including 10 new states in North India.\n• It is set to be the biggest edition in the history of the Tamil film industry.",
+      "category": "State News",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/isha-gramotsavam-expands-to-north-india-set-to-cover-10-states-in-biggest-edition-yet/articleshow/132419981.cms",
+      "relevance_score": 0.9035,
       "published_date": "2026-07-15"
     },
     {
@@ -111,6 +121,16 @@
       "published_date": "2026-07-15"
     },
     {
+      "id": 7383,
+      "title": "ZIM vs BAN, 1st T20I: Ngarava, Muzarabani help Zimbabwe start on a winning note",
+      "summary": "• Zimbabwe won the toss and elected to bat first.\n• Zimbabwe beat BAN by three wickets in the first T20.\n• Zimbabwe are playing their first ever T20 in South Africa.\n• Zimbabwe have won their last five T20s against South Africa in a row.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/zimbabwe-vs-bangladesh-1st-t20i-bennett-muzarabani-ngarava-zim-v-ban-match-report-final-scores-latest/article71226612.ece",
+      "relevance_score": 0.8948,
+      "published_date": "2026-07-15"
+    },
+    {
       "id": 7351,
       "title": "Metro man E Sreedharan’s solar rail idea runs into Kerala roadblock",
       "summary": "• He is the founder of the Kerala Solar Rail Project, which aims to build a solar-powered rail network in the state.\n• The project has been in the works for more than a decade but has not yet been implemented.\n• He says it would be a great way to connect the state with the rest of India.",
@@ -118,6 +138,26 @@
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/metro-man-sreedharans-solar-rail-idea-runs-into-kerala-govt-roadblock-10787189/",
       "relevance_score": 0.8931,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7375,
+      "title": "Kerala High Court allows Tenny Joppan to be removed as accused in solar scam case",
+      "summary": "• He is accused of being one of the prime accused in the alleged scam.\n• Joppans was arrested on suspicion of defrauding thousands of people of money in a solar scam.\n• He was released on bail and will appear before the Kerala High Court again next month.\n• He has been accused of fraudulently obtaining money from a solar panel company.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-allows-tenny-joppan-to-be-removed-as-accused-in-solar-scam-case/article71226914.ece",
+      "relevance_score": 0.8822,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7381,
+      "title": "NASA’s Perseverance Rover Reads Record of Ancient Mars Impacts",
+      "summary": "• The rover is on a mission to find out what happened on the red planet in ancient times.\n• The mission is called the Curiosity rover and is based at the Jet Propulsion Laboratory in California.\n• It is the first rover of its kind to explore the surface of another planet in the history of the solar system.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/solar-system/planets/mars/nasas-perseverance-rover-reads-record-of-ancient-mars-impacts/",
+      "relevance_score": 0.874,
       "published_date": "2026-07-15"
     },
     {
@@ -198,6 +238,16 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/delimitation-bill-to-have-50-seat-hike-for-all-states-or-no-support-supriya-sule-101784107391002.html",
       "relevance_score": 0.8349,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7382,
+      "title": "Arnav causes a flutter in Indian tennis with historic Wimbledon quarterfinals run in boys’ singles",
+      "summary": "• Arnav is the first Indian boy to reach the quarterfinals of Wimbledon in 50 years.\n• He is also the first player from India to make it to the last eight at Wimbledon.\n• He was beaten by Roger Federer in the semi-finals of the men’s singles.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/tennis/arnav-paparkar-story-interview-wimbledon-2026-boys-quarterfinals-results-indian-tennis-news/article71226562.ece",
+      "relevance_score": 0.8296,
       "published_date": "2026-07-15"
     },
     {
@@ -531,22 +581,22 @@
       "published_date": "2026-07-14"
     },
     {
-      "id": 7329,
-      "title": "UNESCO Award-winning restoration of Thukkachi temple in Tamil Nadu: a blend of traditional wisdom and modern technology",
-      "summary": "• UNESCO Award-winning restoration of Thukkachi temple in Tamil Nadu.\n• The temple is a blend of traditional wisdom and modern technology.\n• It is located in the state of Tamil Nadu, in the south of India.\n• It was built in the 13th century by a Tamil king.\n• The current temple was restored in the 1990s by a team of engineers and restorers.\n• For more information, visit the temple's official website.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/unesco-award-winning-restoration-of-thukkachi-temple-in-tamil-nadu-a-blend-of-traditional-wisdom-and-modern-technology/article71221191.ece",
-      "relevance_score": 0.861,
-      "published_date": "2026-07-14"
-    },
-    {
       "id": 7325,
       "title": "Winning medal in CWG will be harder than Asian Games: India’s top 400m runners",
       "summary": "• India will be competing in the Commonwealth Games and the Asian Games in Australia and New Zealand.\n• India has four runners in the 400m and two in the 800m events at the CWG.\n• India also has three in the 200m and one in the 4x400m relay events.",
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/athletics/winning-medal-in-cwg-tougher-than-asian-games-indian-athletics-400m-news/article71222303.ece",
+      "relevance_score": 0.861,
+      "published_date": "2026-07-14"
+    },
+    {
+      "id": 7329,
+      "title": "UNESCO Award-winning restoration of Thukkachi temple in Tamil Nadu: a blend of traditional wisdom and modern technology",
+      "summary": "• UNESCO Award-winning restoration of Thukkachi temple in Tamil Nadu.\n• The temple is a blend of traditional wisdom and modern technology.\n• It is located in the state of Tamil Nadu, in the south of India.\n• It was built in the 13th century by a Tamil king.\n• The current temple was restored in the 1990s by a team of engineers and restorers.\n• For more information, visit the temple's official website.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/unesco-award-winning-restoration-of-thukkachi-temple-in-tamil-nadu-a-blend-of-traditional-wisdom-and-modern-technology/article71221191.ece",
       "relevance_score": 0.861,
       "published_date": "2026-07-14"
     },
@@ -601,22 +651,22 @@
       "published_date": "2026-07-14"
     },
     {
-      "id": 7310,
-      "title": "Singapore offers technical support for Amaravati development",
-      "summary": "• Singapore offers technical help for Amarvati development in the form of technical support.\n• Singapore also offers support for the development of the city-state's water supply system.\n• Singapore is also offering technical support to Amaravathi for its water supply and distribution system.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/singapore-offers-technical-support-for-amaravati-development/article71220940.ece",
-      "relevance_score": 0.8432,
-      "published_date": "2026-07-14"
-    },
-    {
       "id": 7328,
       "title": "Norway firm to set up India’s first river kinetic energy demo plant in Arunachal",
       "summary": "• Norweigan firm will build a river kinetic power plant on the banks of a river in the state.\n• The project is part of a larger plan to develop river energy projects across India.\n• The plant is expected to be operational by the end of the year, the company says.",
       "category": "Science & Technology",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/arunachal-pradesh/norway-firm-to-set-up-indias-first-river-kinetic-energy-demo-plant-in-arunachal/article71221988.ece",
+      "relevance_score": 0.8432,
+      "published_date": "2026-07-14"
+    },
+    {
+      "id": 7310,
+      "title": "Singapore offers technical support for Amaravati development",
+      "summary": "• Singapore offers technical help for Amarvati development in the form of technical support.\n• Singapore also offers support for the development of the city-state's water supply system.\n• Singapore is also offering technical support to Amaravathi for its water supply and distribution system.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/singapore-offers-technical-support-for-amaravati-development/article71220940.ece",
       "relevance_score": 0.8432,
       "published_date": "2026-07-14"
     },
@@ -19949,58 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/business/india-business/new-iip-series-to-track-rare-earth-png-water-supply/articleshow/131338759.cms",
       "relevance_score": 0.8345,
       "published_date": "2026-05-26"
-    },
-    {
-      "id": 4622,
-      "title": "Rupee slides 44 paise against dollar as rising oil prices and Middle East tensions weigh",
-      "summary": "• Rising oil prices, Middle East tension weigh on the rupee, say analysts.\n• Rupee has lost 44 paisas against the dollar since the beginning of the year, they say.\n• Click here for all the latest India news, LIVE updates on the Rupee and the Nifty at www.dailymail.co.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-slides-44-paise-against-dollar-as-rising-oil-prices-and-middle-east-tensions-weigh/articleshow/131332832.cms",
-      "relevance_score": 0.8313,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4580,
-      "title": "CEC protecting vote chors and those destroying democracy: Rahul Gandhi",
-      "summary": "• CEC is a body made up of members of the Indian National Congress, the Congress Party, and the Shiromani Akhada Party.\n• The CEC was set up by the Congress to protect the vote of the minority party members.\n• It was also set up to ensure the voice of the minorities was heard in elections.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/rahul-gandhi-voter-theft-allegation-press-conference-cec-gyanesh-kumar-aland-rajura-constituency-updates/article70064605.ece",
-      "relevance_score": 0.8307,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4597,
-      "title": "Opinion: Opinion | India-US Reset At Quad: Why Rubio's Visit Could Be A Win-Win, And A Game Changer",
-      "summary": "• India and the United States have been at odds for decades over the Kashmir issue.\n• The two countries are now at odds again over the disputed Kashmir region of the Himalayas, which is claimed by both India and Pakistan.\n• The U.S.-India reset at Quad could be a win-win situation for both countries.",
-      "category": "International Relations",
-      "source": "NDTV - World",
-      "url": "https://www.ndtv.com/opinion/india-us-reset-at-quad-why-rubios-visit-could-be-a-win-win-and-a-game-changer-11548316#publisher=newsstand",
-      "relevance_score": 0.8303,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4636,
-      "title": "Top 10 Countries That Obtain Maximum Green Cards In US",
-      "summary": "• Top 10 countries that Obtain maximum Green Cards in US in order to get a job in the U.S., according to CNN.com.\n• Click here to see the full list of countries that have the highest number of green cards in the United States.\n• For confidential support call the National Suicide Prevention Lifeline at 1-800-273-8255 or visit www.suicidepreventionlifeline.org.",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/photogallery/world/top-10-countries-that-obtain-maximum-green-cards-in-us-ws-l-10113934.html",
-      "relevance_score": 0.8267,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4619,
-      "title": "Scientists move closer to diamond-based quantum chips with superconducting breakthrough",
-      "summary": "• Scientists have been working on quantum chips for more than a decade to develop the technology.\n• They hope to use diamonds to create quantum chips that could be used in medical devices and other devices.\n• The technology could also be used to develop new drugs and treatments for cancer and other conditions.",
-      "category": "Science & Technology",
-      "source": "Indian Express - Technology",
-      "url": "https://indianexpress.com/article/technology/science/scientists-move-closer-to-diamond-based-quantum-chips-with-superconducting-breakthrough-10709044/",
-      "relevance_score": 0.8219,
-      "published_date": "2026-05-26"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-15T14:46:31.491449Z"
+  "updated_at": "2026-07-15T17:26:23.830251Z"
 }
