@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 7371,
+      "title": "Cabinet approves  ₹1.27 trillion for Semiconductor Mission 2.0: Here's what's new",
+      "summary": "• Here's what's new and what's coming in the next phase of the project.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or see www.samaritans.org for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
+      "category": "Science & Technology",
+      "source": "LiveMint - Economy",
+      "url": "https://www.livemint.com/economy/cabinet-approves-1-27-lakh-crore-for-semiconductor-mission-2-0-heres-whats-new-11784110140301.html",
+      "relevance_score": 0.9801,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7370,
+      "title": "Google expands India AI push with new education, healthcare and cybersecurity initiatives – key details",
+      "summary": "• Google is also launching a health and cybersecurity initiative in the country.\n• The initiative will focus on healthcare, education and cybersecurity.\n• Google also plans to launch a healthcare initiative in India in the coming months.\n• The company is also planning to launch an AI program in the state of Goa in the next few months.",
+      "category": "Science & Technology",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/google-expands-india-ai-push-with-new-education-healthcare-and-cybersecurity-initiatives-google-i-o-connect-india-11784111938407.html",
+      "relevance_score": 0.9625,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7365,
+      "title": "Cabinet approves Semiconductor Mission 2.0 with Rs 1.27 lakh crore outlay",
+      "summary": "• Semiconductors are used to make chips that are used in computers and other electronic devices.\n• The project is part of the government's ambitious plan to develop India's next-generation semiconductor manufacturing plants.\n• The plan is expected to cost around Rs 2.5 lakh crore, with an initial investment of Rs 100,000 crore.",
+      "category": "Science & Technology",
+      "source": "Indian Express - Business",
+      "url": "https://indianexpress.com/article/business/cabinet-semiconductor-mission-2-0-10787705/",
+      "relevance_score": 0.9535,
+      "published_date": "2026-07-15"
+    },
+    {
       "id": 7359,
       "title": "IPL-style eliminator, Super 7: ICC announces major changes to ODI, T20 World Cups",
       "summary": "• ICC announces Major changes to World Cups for ODI and T20 events.\n• ICC to introduce IPL- style eliminator and Super 7 in next two years.\n• ICC will also introduce T20 and ODI World Cups in 2015 and 2016.\n• ICC has also announced changes to Cricket World Cup qualification system.",
@@ -21,6 +51,16 @@
       "published_date": "2026-07-15"
     },
     {
+      "id": 7341,
+      "title": "Parliament Monsoon Session: BJP wooing NCP (SP), DMK for Constitution Amendment Bill, alleges Chidambaram",
+      "summary": "• Parliaments will be in session for three weeks from August 15 to September 14.\n• The session is expected to be the longest in the history of the country's parliament.\n• It will be the first session to be held during the monsoon session of the Parliament.",
+      "category": "Polity & Governance",
+      "source": "LiveMint - Politics",
+      "url": "https://www.livemint.com/politics/news/parliament-monsoon-session-bjp-wooing-ncp-sp-dmk-for-constitution-amendment-bill-alleges-chidambaram-11784076584570.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-15"
+    },
+    {
       "id": 7356,
       "title": "ICC announces major revamp of ODI and T20 World Cup formats",
       "summary": "• ODI, T20 formats to be changed for 2015 and 2016 World Cups.\n• ICC will also introduce a Cricket World Cup for the first time in 20 years.\n• ICC to hold first ever Cricket World Cups in South Africa and India in 2015.\n• ICC also plans to host Cricket World Championships in 2015 and 2026 in Australia and New Zealand.",
@@ -31,13 +71,23 @@
       "published_date": "2026-07-15"
     },
     {
-      "id": 7341,
-      "title": "Parliament Monsoon Session: BJP wooing NCP (SP), DMK for Constitution Amendment Bill, alleges Chidambaram",
-      "summary": "• Parliaments will be in session for three weeks from August 15 to September 14.\n• The session is expected to be the longest in the history of the country's parliament.\n• It will be the first session to be held during the monsoon session of the Parliament.",
+      "id": 7361,
+      "title": "IRISET ties up with two engineering colleges to introduce B.Tech course on 'Kavach'",
+      "summary": "• IRISET ties up with two engineering colleges to introduce B.Tech course on 'Kavach' Kavach is a Chinese term for a person who has gone through a series of trials and tribulations in order to reach a certain point in his life.\n• The course will be offered in two parts: the first being in the morning and the second in the afternoon.\n• It will be available to students from all engineering colleges in India.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/iriset-ties-up-with-two-engineering-colleges-to-introduce-btech-course-on-kavach/article71225557.ece",
+      "relevance_score": 0.9072,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7364,
+      "title": "Mathura case: Supreme Court defers hearing; talks underway between Hindu litigants",
+      "summary": "• Mathura case was a case of alleged caste violence in the town of Mathura in Uttar Pradesh, India.\n• The case was brought by a group of Hindu students who were denied entry to the town by the state government.\n• The Supreme Court ruled in favor of the students in the case in 2012.\n• The high court has now decided to defer the hearing.",
       "category": "Polity & Governance",
-      "source": "LiveMint - Politics",
-      "url": "https://www.livemint.com/politics/news/parliament-monsoon-session-bjp-wooing-ncp-sp-dmk-for-constitution-amendment-bill-alleges-chidambaram-11784076584570.html",
-      "relevance_score": 0.91,
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/mathura-case-supreme-court-defers-hearing-talks-underway-between-hindu-litigants/article71225804.ece",
+      "relevance_score": 0.8964,
       "published_date": "2026-07-15"
     },
     {
@@ -91,6 +141,16 @@
       "published_date": "2026-07-15"
     },
     {
+      "id": 7360,
+      "title": "Kerala Bird Atlas 2.0 launched",
+      "summary": "• It will be used to track birds in the state of Kerala.\n• It is the latest version of the Kerala Bird Atlas, the world's largest bird tracking system.\n• It has been developed by the Wildlife Conservation Society of India and the Kerala Wildlife Institute of Research and Education.\n• It was launched in 2007 and has been used since then in Kerala.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-bird-atlas-20-launched/article71225930.ece",
+      "relevance_score": 0.8527,
+      "published_date": "2026-07-15"
+    },
+    {
       "id": 7344,
       "title": "Indraprastha University BTech 2026 Round 2 Counselling Registration Begins",
       "summary": "• BTech students are encouraged to contact their counsellors if they need to talk about personal issues.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
@@ -98,6 +158,26 @@
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/education/indraprastha-university-btech-2026-round-2-counselling-registration-begins-11772992#publisher=newsstand",
       "relevance_score": 0.8486,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7368,
+      "title": "Secretary-General of ASEAN meets with Philippine Foreign Service Institute Delegation",
+      "summary": "• Secretary-General meets with Filipinos to discuss ways to improve bilateral relations.\n• ASEan is a group of nations with more than 60 nations.\n• AASEAN is the largest region in the world, with a population of more than 100 million people.\n• The group is led by China, which has more than 80 million people, and the Philippines have more than 30 million.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-meets-with-philippine-foreign-service-institute-delegation/",
+      "relevance_score": 0.8449,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7374,
+      "title": "ICC ODI rankings: Axar Patel in top-10 for all-rounders after England win",
+      "summary": "• England beat Sri Lanka by eight wickets in their second ODI of the series.\n• Patel is ranked 10th in the ODI world rankings for all rounders.\n• England's win over Sri Lanka saw Patel move into the top 10 for ODI all-arounders.\n• CLICK HERE for all the latest Cricket World Cup 2015 news.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/icc-odi-rankings-latest-update-axar-patel-top-10-england-vs-india-1st-odi/article71225285.ece",
+      "relevance_score": 0.8424,
       "published_date": "2026-07-15"
     },
     {
@@ -141,6 +221,16 @@
       "published_date": "2026-07-15"
     },
     {
+      "id": 7372,
+      "title": "How legal challenge to Sunetra Pawar's presidentship deepens crisis in NCP",
+      "summary": "• Pawar to be sworn in as president of NCP on Monday night.\n• She will be the first woman to hold the post in India's second largest Lok Sabha.\n• She is also the first Indian woman to be president of a state-level political party.\n• She was first elected to the Lok Sabha in 2004.",
+      "category": "Polity & Governance",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india-today-insight/story/how-legal-challenge-to-sunetra-pawars-presidentship-deepens-crisis-in-ncp-2948490-2026-07-15?utm_source=rss",
+      "relevance_score": 0.8146,
+      "published_date": "2026-07-15"
+    },
+    {
       "id": 7355,
       "title": "Ayodhya incident hurt faith of Ram devotees: Uttar Pradesh Chief Minister Adityanath on donation theft issue",
       "summary": "• Adityansath: Donations stolen from Ram temple in Ayodhya hurt the faith ofRam devotees.\n• He also said that the incident has hurt the reputation of Uttar Pradesh as well as the state as a whole.\n• The incident took place in the holy month of Ramdurga.",
@@ -148,6 +238,26 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/uttar-pradesh/ayodhya-incident-hurt-faith-of-ram-devotees-uttar-pradesh-chief-minister-adityanath-on-donation-theft-issue/article71224674.ece",
       "relevance_score": 0.8062,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7366,
+      "title": "When the Janata Party government fell: Short term, long shadow",
+      "summary": "• When the BJP was in power, it was the largest party in India.\n• When they were out of office, they were the third-largest in the state legislature.\n• They were also the biggest party in Lok Sabha for the first time in 30 years.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - Explained",
+      "url": "https://indianexpress.com/article/explained/explained-history/janata-party-morarji-desai-1078792-10787922/",
+      "relevance_score": 0.8061,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7362,
+      "title": "No policy paralysis, government is proactive in policy making: Revanth Reddy",
+      "summary": "• Reddy: Government is taking a proactive approach to policy making.\n• He says there is no policy paralysis and government is taking action on key issues.\n• He also says the government is being proactive in its decision-making process.\n• He was speaking to reporters on the sidelines of an event in Hyderabad, the capital of Telangana.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/no-policy-paralysis-government-is-proactive-in-policy-making-revanth-reddy/article71225694.ece",
+      "relevance_score": 0.8023,
       "published_date": "2026-07-15"
     },
     {
@@ -491,22 +601,22 @@
       "published_date": "2026-07-14"
     },
     {
-      "id": 7328,
-      "title": "Norway firm to set up India’s first river kinetic energy demo plant in Arunachal",
-      "summary": "• Norweigan firm will build a river kinetic power plant on the banks of a river in the state.\n• The project is part of a larger plan to develop river energy projects across India.\n• The plant is expected to be operational by the end of the year, the company says.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/norway-firm-to-set-up-indias-first-river-kinetic-energy-demo-plant-in-arunachal/article71221988.ece",
-      "relevance_score": 0.8432,
-      "published_date": "2026-07-14"
-    },
-    {
       "id": 7310,
       "title": "Singapore offers technical support for Amaravati development",
       "summary": "• Singapore offers technical help for Amarvati development in the form of technical support.\n• Singapore also offers support for the development of the city-state's water supply system.\n• Singapore is also offering technical support to Amaravathi for its water supply and distribution system.",
       "category": "Science & Technology",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/singapore-offers-technical-support-for-amaravati-development/article71220940.ece",
+      "relevance_score": 0.8432,
+      "published_date": "2026-07-14"
+    },
+    {
+      "id": 7328,
+      "title": "Norway firm to set up India’s first river kinetic energy demo plant in Arunachal",
+      "summary": "• Norweigan firm will build a river kinetic power plant on the banks of a river in the state.\n• The project is part of a larger plan to develop river energy projects across India.\n• The plant is expected to be operational by the end of the year, the company says.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/norway-firm-to-set-up-indias-first-river-kinetic-energy-demo-plant-in-arunachal/article71221988.ece",
       "relevance_score": 0.8432,
       "published_date": "2026-07-14"
     },
@@ -19889,118 +19999,8 @@
       "url": "https://indianexpress.com/article/technology/science/scientists-move-closer-to-diamond-based-quantum-chips-with-superconducting-breakthrough-10709044/",
       "relevance_score": 0.8219,
       "published_date": "2026-05-26"
-    },
-    {
-      "id": 4618,
-      "title": "Amid China concerns, India and US sign pact to secure supply of critical minerals",
-      "summary": "• India and U.S. sign pact with China to secure Supply of Critical Minerals.\n• China has been concerned about India's growing influence in the region.\n• China is the world's largest consumer of minerals, including iron, nickel and cobalt.\n• India is also a major producer of gold and rare earths.",
-      "category": "International Relations",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/india-us-sign-minerals-framework-jaishankar-rubio-china-supply-chain-10709038/",
-      "relevance_score": 0.8202,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4586,
-      "title": "Quad launches new maritime, critical mineral initiatives at Delhi Summit",
-      "summary": "• Quad is a consortium of international companies with a focus on maritime and critical mineral industries.\n• Quad is based in New Delhi, India, but has offices in London, Washington and New Delhi.\n• For more information on Quad's initiatives, visit www.quad.org.uk.\n• For confidential support, call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/quad-issues-joint-statement-jaishankar-says-talks-highlighted-need-for-safe-unimpeded-maritime-commerce-10708092/",
-      "relevance_score": 0.8182,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4613,
-      "title": "Governor gives conditional approval for HDMC bifurcation",
-      "summary": "• HDMC will be split into two parts, with separate facilities in each section.\n• The two areas will be connected by a new highway.\n• The new highway will be named after the city's first African-American mayor, who died in office last year.\n• The city will also have a new airport, with a new name for the second section.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/governor-gives-conditional-approval-for-hdmc-bifurcation/article71026105.ece",
-      "relevance_score": 0.8159,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4626,
-      "title": "16th ASEAN-Australia Joint Cooperation Committee Meeting convenes at the ASEAN Headquarters/ASEAN Secretariat",
-      "summary": "• 16th meeting is the first to be held between the two countries.\n• Meeting is aimed at boosting cooperation between the countries.\n• The meeting also aims to strengthen cooperation between Australia and the Asean nations.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/16th-asean-australia-joint-cooperation-committee-meeting-convenes-at-the-asean-headquarters-asean-secretariat/",
-      "relevance_score": 0.8125,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4582,
-      "title": "Not in favour of Pakistan joining Abraham Accords: Defence Minister Khawaja Asif",
-      "summary": "• Asif: 'I don't want Pakistan to be a part of the Arab world.\n• I don't think it's a good idea for Pakistan to join the Arab League.\n• It's a bad idea for us to be part of it,' he says.\n• He adds: 'It's not in our interest to be involved in any kind of military action in the Middle East'.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/not-in-favour-of-pakistan-joining-abraham-accords-defence-minister-khawaja-asif/article71023827.ece",
-      "relevance_score": 0.8099,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4593,
-      "title": "Quad foreign ministers meet in Delhi: Iran war puts supply chains, connectivity chokepoints in focus",
-      "summary": "• Iran war putting supply chains and connectivity choke points in focus, say foreign ministers.\n• Iran has been accused of testing the world's ability to cope with its nuclear program.\n• Iran's nuclear program has been linked to the deaths of thousands of people in the past few years, including thousands of children.",
-      "category": "International Relations",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/quad-foreign-ministers-meet-in-delhi-iran-war-puts-supply-chains-connectivity-chokepoints-in-focus/articleshow/131321128.cms",
-      "relevance_score": 0.8084,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4600,
-      "title": "‘One-Dose Cancer Cure’: MedTherapy Unveils India Push For Affordable Gene Therapy",
-      "summary": "• MedTher therapy is a company that uses gene therapy to treat cancer patients in India.\n• The company is based in Bangalore, India, and has offices in New York and London.\n• Med Therapy is a subsidiary of MediTherapy, which has offices across the world.",
-      "category": "Science & Technology",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/one-dose-cancer-cure-medtherapy-unveils-india-push-for-affordable-gene-therapy-ws-l-10113218.html",
-      "relevance_score": 0.8083,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4584,
-      "title": "Anthropic's co-founder says AI must be guided from outside Big Tech",
-      "summary": "• The company is developing a new type of artificial intelligence that can learn from the human brain.\n• It's called an 'augmented reality' that can be taught by the human mind.\n• For more, go to anthropic.com and follow @anthropic on Twitter, Facebook and Google+.\n• For more on Anthropic, visit the company's website.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/anthropics-co-founder-says-ai-must-be-guided-from-outside-big-tech/article71023518.ece",
-      "relevance_score": 0.8076,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4642,
-      "title": "Eighth Indian Open Para Athletics Championships",
-      "summary": "• The event is one of the biggest in the world for para-athletics.\n• The competition is open to men and women of all ages and skill levels.\n• There are two levels of competition: men's and women's.\n• The women's event is held in the women's category.\n• The men's event takes place in the men's division.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/athletics/8th-indian-open-para-athletics-championships/article71025913.ece",
-      "relevance_score": 0.8065,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4634,
-      "title": "Amid official denials, sources say Congress high command nudges Karnataka Chief Minister Siddaramaiah to come to the Rajya Sabha",
-      "summary": "• Karnataka chief minister is a member of the Congress party.\n• He has been accused of corruption in the state by the ruling BJP government.\n• The allegations have been denied by the Karnataka government and the state Congress Party.\n• The Karnataka state legislature is currently in the grip of a political crisis.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/amid-official-denials-sources-say-congress-high-command-nudges-karnataka-chief-ministersiddaramaiah-to-come-to-the-rajya-sabha/article71025684.ece",
-      "relevance_score": 0.8052,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4609,
-      "title": "At Quad Meet, A $20 Billion Deal To Break China's Grip on Critical Minerals",
-      "summary": "• The deal would break China's grip on critical Minerals, including iron, nickel, cobalt, and rare earths.\n• It would be the largest deal of its kind in the history of the iron and nickel mining industry.\n• It is expected to be worth more than $20 billion.",
-      "category": "International Relations",
-      "source": "NDTV - World",
-      "url": "https://www.ndtv.com/world-news/at-quad-meet-a-20-billion-deal-to-break-chinas-grip-on-critical-minerals-11549021#publisher=newsstand",
-      "relevance_score": 0.8051,
-      "published_date": "2026-05-26"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-15T11:35:23.294836Z"
+  "updated_at": "2026-07-15T14:46:31.491449Z"
 }
