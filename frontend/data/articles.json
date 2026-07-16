@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 7392,
+      "title": "Indus Waters Treaty: Why India wants to renegotiate the pact with Pakistan",
+      "summary": "• India and Pakistan signed the pact in the 1960s to protect the Indus River and its tributaries.\n• India says the treaty is outdated and needs to be renegotiated.\n• Pakistan says it is committed to the treaty and has no intention of changing the terms of the pact.\n• India: The treaty is a violation of the sovereignty of India.",
+      "category": "International Relations",
+      "source": "Indian Express - Explained",
+      "url": "https://indianexpress.com/article/explained/indus-waters-treaty-india-renegotiation-10788019/",
+      "relevance_score": 0.8375,
+      "published_date": "2026-07-16"
+    },
+    {
       "id": 7371,
       "title": "Cabinet approves  ₹1.27 trillion for Semiconductor Mission 2.0: Here's what's new",
       "summary": "• Here's what's new and what's coming in the next phase of the project.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or see www.samaritans.org for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
@@ -51,13 +61,13 @@
       "published_date": "2026-07-15"
     },
     {
-      "id": 7356,
-      "title": "ICC announces major revamp of ODI and T20 World Cup formats",
-      "summary": "• ODI, T20 formats to be changed for 2015 and 2016 World Cups.\n• ICC will also introduce a Cricket World Cup for the first time in 20 years.\n• ICC to hold first ever Cricket World Cups in South Africa and India in 2015.\n• ICC also plans to host Cricket World Championships in 2015 and 2026 in Australia and New Zealand.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/odi-t20-world-cup-formats-major-revamp-icc-announcement-10787768/",
-      "relevance_score": 0.91,
+      "id": 7387,
+      "title": "West Asia War updates: In essential and existential war with America, says Iran's top negotiator",
+      "summary": "• Iran is at war with the U.S. over its nuclear program, says top Iranian diplomat.\n• Iran's nuclear program is aimed at developing nuclear weapons that could be used to strike back at the West.\n• Iran has been accused of enriching uranium for its nuclear weapons program.\n• Iran also has nuclear weapons in its possession that it wants to use for nuclear weapons.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-war-washington-strikes-tehran-donald-trump-peace-deal-strait-of-hormuz-live-updates-july-15-2026/article71223849.ece",
+      "relevance_score": 0.9103,
       "published_date": "2026-07-15"
     },
     {
@@ -67,6 +77,16 @@
       "category": "Polity & Governance",
       "source": "LiveMint - Politics",
       "url": "https://www.livemint.com/politics/news/parliament-monsoon-session-bjp-wooing-ncp-sp-dmk-for-constitution-amendment-bill-alleges-chidambaram-11784076584570.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7356,
+      "title": "ICC announces major revamp of ODI and T20 World Cup formats",
+      "summary": "• ODI, T20 formats to be changed for 2015 and 2016 World Cups.\n• ICC will also introduce a Cricket World Cup for the first time in 20 years.\n• ICC to hold first ever Cricket World Cups in South Africa and India in 2015.\n• ICC also plans to host Cricket World Championships in 2015 and 2026 in Australia and New Zealand.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/cricket/odi-t20-world-cup-formats-major-revamp-icc-announcement-10787768/",
       "relevance_score": 0.91,
       "published_date": "2026-07-15"
     },
@@ -211,6 +231,16 @@
       "published_date": "2026-07-15"
     },
     {
+      "id": 7386,
+      "title": "VIT gets ₹50 lakh endowment fund for student innovation programmes",
+      "summary": "• VIT will use the money to fund student innovations programmes.\n• The fund will also be used to fund research and development projects.\n• The endowment will be used for the development of VIT’s campus and other facilities.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vit-gets-50-lakh-endowment-fund-for-student-innovation-programmes/article71226026.ece",
+      "relevance_score": 0.8434,
+      "published_date": "2026-07-15"
+    },
+    {
       "id": 7374,
       "title": "ICC ODI rankings: Axar Patel in top-10 for all-rounders after England win",
       "summary": "• England beat Sri Lanka by eight wickets in their second ODI of the series.\n• Patel is ranked 10th in the ODI world rankings for all rounders.\n• England's win over Sri Lanka saw Patel move into the top 10 for ODI all-arounders.\n• CLICK HERE for all the latest Cricket World Cup 2015 news.",
@@ -261,6 +291,16 @@
       "published_date": "2026-07-15"
     },
     {
+      "id": 7394,
+      "title": "Softer inflation trips rate hike forecasts, RBI hold more likely",
+      "summary": "• Softer inflation trip up rate hikes forecasts, Reserve Bank of India holds more likely rate hike.\n• RBI holds rate hike more likely than some economists had predicted.\n• CLICK HERE for all the latest on the Reserve Bank's latest rate hike and interest rate news.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/softer-inflation-trips-rate-hike-forecasts-rbi-hold-more-likely/articleshow/132427231.cms",
+      "relevance_score": 0.82,
+      "published_date": "2026-07-15"
+    },
+    {
       "id": 7354,
       "title": "Cabinet approves ₹1.27 lakh crore for Semicon Mission 2.0",
       "summary": "• The project is part of the government's ambitious 'Semicon Mission' to build a state-of-the-art information technology centre in India.\n• The centre is expected to be completed by the end of this year.\n• The cost of the project is estimated to be in the region of Rs. 2.5 lakh crore.",
@@ -278,6 +318,16 @@
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/india-today-insight/story/how-legal-challenge-to-sunetra-pawars-presidentship-deepens-crisis-in-ncp-2948490-2026-07-15?utm_source=rss",
       "relevance_score": 0.8146,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7385,
+      "title": "Telangana to set up anti-drug and safety committees in all educational institutions",
+      "summary": "• Telangana will also set up an anti- drug and safety committee in the state's colleges and universities.\n• The committee will be made up of experts from across the country.\n• The committees will be set up in schools, colleges, hospitals and other institutions across the state.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-to-set-up-anti-drug-and-safety-committees-in-all-educational-institutions/article71225870.ece",
+      "relevance_score": 0.8067,
       "published_date": "2026-07-15"
     },
     {
@@ -308,6 +358,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/no-policy-paralysis-government-is-proactive-in-policy-making-revanth-reddy/article71225694.ece",
       "relevance_score": 0.8023,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7390,
+      "title": "Over 10,000 students from government schools across Chennai take part in cleanliness campaign",
+      "summary": "• Students from schools across the city took part in the cleanliness drive.\n• The campaign was launched by the Chennai government to promote cleanliness in the city and across the state of Tamil Nadu.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Tamil Nadu",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/over-10000-students-from-government-schools-across-chennai-take-part-in-cleanliness-campaign/article71226862.ece",
+      "relevance_score": 0.802,
       "published_date": "2026-07-15"
     },
     {
@@ -651,22 +711,22 @@
       "published_date": "2026-07-14"
     },
     {
-      "id": 7328,
-      "title": "Norway firm to set up India’s first river kinetic energy demo plant in Arunachal",
-      "summary": "• Norweigan firm will build a river kinetic power plant on the banks of a river in the state.\n• The project is part of a larger plan to develop river energy projects across India.\n• The plant is expected to be operational by the end of the year, the company says.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/norway-firm-to-set-up-indias-first-river-kinetic-energy-demo-plant-in-arunachal/article71221988.ece",
-      "relevance_score": 0.8432,
-      "published_date": "2026-07-14"
-    },
-    {
       "id": 7310,
       "title": "Singapore offers technical support for Amaravati development",
       "summary": "• Singapore offers technical help for Amarvati development in the form of technical support.\n• Singapore also offers support for the development of the city-state's water supply system.\n• Singapore is also offering technical support to Amaravathi for its water supply and distribution system.",
       "category": "Science & Technology",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/singapore-offers-technical-support-for-amaravati-development/article71220940.ece",
+      "relevance_score": 0.8432,
+      "published_date": "2026-07-14"
+    },
+    {
+      "id": 7328,
+      "title": "Norway firm to set up India’s first river kinetic energy demo plant in Arunachal",
+      "summary": "• Norweigan firm will build a river kinetic power plant on the banks of a river in the state.\n• The project is part of a larger plan to develop river energy projects across India.\n• The plant is expected to be operational by the end of the year, the company says.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/arunachal-pradesh/norway-firm-to-set-up-indias-first-river-kinetic-energy-demo-plant-in-arunachal/article71221988.ece",
       "relevance_score": 0.8432,
       "published_date": "2026-07-14"
     },
@@ -891,22 +951,22 @@
       "published_date": "2026-07-13"
     },
     {
-      "id": 7248,
-      "title": "Noskova moves into WTA Top 10 after Wimbledon triumph",
-      "summary": "• She has won three titles this year, including the Wimbledon title.\n• She also won the Australian Open in January.\n• She was ranked No 7 in the U.S. and No.\n• She won her first Grand Slam title at Wimbledon in July 2013.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/tennis/inda-noskova-wta-rankings-top-10-wimbledon-champion/article71216651.ece",
-      "relevance_score": 0.8766,
-      "published_date": "2026-07-13"
-    },
-    {
       "id": 7236,
       "title": "Noskova moves into WTA Top 10 after Wimbledon triumph",
       "summary": "• She has won three titles this year, including the Wimbledon title.\n• She also won the Australian Open in January.\n• She was ranked No 7 in the U.S. and No.\n• She won her first Grand Slam title at Wimbledon in July 2013.",
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/football/inda-noskova-wta-rankings-top-10-wimbledon-champion/article71216651.ece",
+      "relevance_score": 0.8766,
+      "published_date": "2026-07-13"
+    },
+    {
+      "id": 7248,
+      "title": "Noskova moves into WTA Top 10 after Wimbledon triumph",
+      "summary": "• She has won three titles this year, including the Wimbledon title.\n• She also won the Australian Open in January.\n• She was ranked No 7 in the U.S. and No.\n• She won her first Grand Slam title at Wimbledon in July 2013.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/tennis/inda-noskova-wta-rankings-top-10-wimbledon-champion/article71216651.ece",
       "relevance_score": 0.8766,
       "published_date": "2026-07-13"
     },
@@ -2311,16 +2371,6 @@
       "published_date": "2026-07-09"
     },
     {
-      "id": 7078,
-      "title": "From Olympics to FIFA World Cup, Vancouver shows the way in Indigenous inclusion",
-      "summary": "• Vancouver has been a model for inclusion of Indigenous people in major sporting events.\n• Vancouver hosted the 2010 Winter Olympics, 2010 World Cup and 2014 Winter Olympics.\n• Vancouver is home to Canada's first ever Winter Olympics and 2010 Winter Games.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-winter-olympics-vancouver-blueprint-indigenous-communities-participation-major-events/article71199786.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-09"
-    },
-    {
       "id": 7044,
       "title": "PM Modi explains how India-Australia diplomacy ‘feels like cricket’, draws laugh from Albanese",
       "summary": "• PM Modi: ‘India’s relationship with Australia is like a cricket match.’ India and Australia have been at odds for years over Kashmir issue.\n• India has a long-standing friendship with Australia and a close relationship with New Zealand.\n• India and New Zealand have a long history of diplomatic relations.",
@@ -2337,6 +2387,16 @@
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/tamil-nadu-cm-seeks-obc-quota-big-political-debate-breaking-news-the-5pm-brief-10201079.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-09"
+    },
+    {
+      "id": 7078,
+      "title": "From Olympics to FIFA World Cup, Vancouver shows the way in Indigenous inclusion",
+      "summary": "• Vancouver has been a model for inclusion of Indigenous people in major sporting events.\n• Vancouver hosted the 2010 Winter Olympics, 2010 World Cup and 2014 Winter Olympics.\n• Vancouver is home to Canada's first ever Winter Olympics and 2010 Winter Games.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-winter-olympics-vancouver-blueprint-indigenous-communities-participation-major-events/article71199786.ece",
       "relevance_score": 0.91,
       "published_date": "2026-07-09"
     },
@@ -3071,22 +3131,22 @@
       "published_date": "2026-07-08"
     },
     {
-      "id": 7020,
-      "title": "Isro successfully conducts key test on main parachutes for Gaganyaan crew module",
-      "summary": "• Isro also successfully conducts test of main parachute for GAGanyaan space module.\n• Gaganaan is a space module developed by Isro and the Indian space agency, ISRO.\n• It is part of Isro's space exploration program.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/isro-successfully-conducts-key-test-on-main-parachutes-for-gaganyaan-crew-module/articleshow/132272247.cms",
-      "relevance_score": 0.8403,
-      "published_date": "2026-07-08"
-    },
-    {
       "id": 6971,
       "title": "Switzerland vs Colombia FIFA World Cup highlights: Switzerland edge Colombia on penalties to reach first World Cup quarter-final since 1954",
       "summary": "• Switzerland reach World Cup quarter-final for first time since 1954.\n• Switzerland beat Colombia on penalties to reach last eight for the first time in their history.\n• Switzerland will play either Brazil or Argentina in the last eight.\n• Click here for Switzerland vs Colombia World Cup 2014 match stats and stats.",
       "category": "Sports",
       "source": "The Hindu - Sport",
       "url": "https://www.thehindu.com/sport/football/colombia-vs-switzerland-fifa-world-cup-round-of-16-match-live-score-updates-july-7-2026/article71195391.ece",
+      "relevance_score": 0.8403,
+      "published_date": "2026-07-08"
+    },
+    {
+      "id": 7020,
+      "title": "Isro successfully conducts key test on main parachutes for Gaganyaan crew module",
+      "summary": "• Isro also successfully conducts test of main parachute for GAGanyaan space module.\n• Gaganaan is a space module developed by Isro and the Indian space agency, ISRO.\n• It is part of Isro's space exploration program.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/isro-successfully-conducts-key-test-on-main-parachutes-for-gaganyaan-crew-module/articleshow/132272247.cms",
       "relevance_score": 0.8403,
       "published_date": "2026-07-08"
     },
@@ -19939,68 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/thane-hospital-conducts-robotic-gall-bladder-telesurgery-using-indigenous-mizo-endo-4000-platform/articleshow/131322397.cms",
       "relevance_score": 0.8457,
       "published_date": "2026-05-26"
-    },
-    {
-      "id": 4631,
-      "title": "Leader of Opposition R. Ashok criticises Congress government",
-      "summary": "• R.Ashok: 'I am not happy with the way the government is going about its work.\n• I want to see a change in the way it is being carried out.\n• I don't want a repeat of what we have seen in the past two years' He added: 'We need to change the way we are doing things in the country'.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/leader-of-opposition-r-ashok-criticises-congress-government/article71025294.ece",
-      "relevance_score": 0.8453,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4803,
-      "title": "ASEAN Convenes Regional Workshop to Advance Development of ADO Volume 2 on Digital Human Security",
-      "summary": "• ASEAN, China, Japan, South Korea, India, Malaysia, Singapore, Brunei, Thailand, Vietnam, Laos, Myanmar, Thailand to attend the meeting.\n• The meeting will focus on digital human security in the 21st century.\n• It will also focus on the development of the ADO Convention on Human Rights and Security.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/asean-convenes-regional-workshop-to-advance-development-of-ado-volume-2-on-digital-human-security/",
-      "relevance_score": 0.844,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4625,
-      "title": "New Instrument Used Antarctic Ice Sheet to Probe Extreme Universe",
-      "summary": "• New Instrument used Antarctic Ice sheet to ProbeExtreme Universe, researchers say.\n• NEW: Scientists say new instrument used to study Extreme Universe will help find out more about the universe's origin and evolution.\n• New: Scientists will use instrument to study Earth's climate, ice sheet, and climate change.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/new-instrument-used-antarctic-ice-sheet-to-probe-extreme-universe/",
-      "relevance_score": 0.8408,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4633,
-      "title": "Andhra Pradesh launches initiative to clear water hyacinth and revive water bodies",
-      "summary": "• Andhra Pradesh has been hit by floods in recent months.\n• The state has been struggling to clean its water bodies and bodies of water.\n• The initiative aims to clean water bodies in the state by clearing water hycinth and restoring water bodies to their natural state.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-launches-initiative-to-clear-water-hyacinth-and-revive-water-bodies/article71026160.ece",
-      "relevance_score": 0.8382,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4583,
-      "title": "Adani Green Energy commissions 3.37 GWh battery-energy storage system in Gujarat’s Khavda",
-      "summary": "• Adani says it will be used to store energy from solar panels and windmills.\n• The system will be operational by the end of the year, Adani said in a statement on Monday.\n• It will be deployed in the state of Gujarat, which has a population of 1.2 million.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/Industry/adani-green-energy-commissions-337-gwh-battery-energy-storage-system-in-gujarats-khavda/article71024032.ece",
-      "relevance_score": 0.8381,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4644,
-      "title": "New IIP series to track rare earth, PNG, water supply",
-      "summary": "• New IIP will track rare Earth, PNG's water supply for first time in history.\n• New series will be available in English, French, German, Spanish, and Arabic.\n• Watch IIP on CNN.com/IIP on Monday, Tuesday and Wednesday at 9 p.m.\n• For more information on IIP, go to www.iip.com.",
-      "category": "Science & Technology",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/new-iip-series-to-track-rare-earth-png-water-supply/articleshow/131338759.cms",
-      "relevance_score": 0.8345,
-      "published_date": "2026-05-26"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-15T17:26:23.830251Z"
+  "updated_at": "2026-07-16T02:54:49.833083Z"
 }
