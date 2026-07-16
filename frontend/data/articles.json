@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 7404,
+      "title": "Sophos launches unified, AI-native defense system to counter next wave of cyber attacks",
+      "summary": "• Sophos says system will be able to detect and respond to cyber attacks in real-time.\n• The system is designed to protect against cyber-attacks using a combination of human and artificial intelligence.\n• The company says it will be available by the end of the year and cost $1.5 billion.",
+      "category": "Science & Technology",
+      "source": "Indian Express - Technology",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/sophos-fusion-ai-native-defense-system-cyber-attacks-10789186/",
+      "relevance_score": 0.9114,
+      "published_date": "2026-07-16"
+    },
+    {
+      "id": 7407,
+      "title": "40-gram, palm-sized AI micro-drone kills a flying insect autonomously in mid-air for the first time. Now it could eradicate mosquitoes and save thousands of lives",
+      "summary": "• Now it could eradicate mosquitoes and save thousands of lives.\n• It could also be used to eradicate malaria and other diseases in the future.\n• It is the first of its kind to kill an insect in midair and could be used in a variety of ways.",
+      "category": "Science & Technology",
+      "source": "Times of India - World",
+      "url": "https://timesofindia.indiatimes.com/science/40-gram-palm-sized-ai-micro-drone-kills-a-flying-insect-autonomously-in-mid-air-for-the-first-time-now-it-could-eradicate-mosquitoes-and-save-thousands-of-lives/articleshow/132431254.cms",
+      "relevance_score": 0.8894,
+      "published_date": "2026-07-16"
+    },
+    {
+      "id": 7406,
+      "title": "India's first hydrogen train set for launch: All you need to know",
+      "summary": "• The train will be the first of its kind in the country.\n• It will be powered by hydrogen fuel cells, which will be stored in the train's tankers.\n• It is expected to be fully operational by the end of the year.\n• The project is being funded by the Indian Railways and the Indian National Rail Corporation.",
+      "category": "Science & Technology",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-first-hydrogen-train-set-for-july-17-launch-route-features-inside-look-and-faqs/articleshow/132431994.cms",
+      "relevance_score": 0.8765,
+      "published_date": "2026-07-16"
+    },
+    {
       "id": 7402,
       "title": "Congress is fighting for power while we`re working to empower people: CM Bhagwant Singh Mann",
       "summary": "• Mann: We are working to empowering people, not to bring in any political party to power.\n• He says Congress is trying to win power through fear, not through power.\n• Singh: We want to empower the people by giving them the power to make their dreams come true.\n• He adds: We will not allow Congress to rule through fear.",
@@ -28,6 +58,16 @@
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/pm-modi-to-launch-indias-first-hydrogen-powered-train-between-jind-and-sonipat-on-july-17-11777885#publisher=newsstand",
       "relevance_score": 0.8344,
+      "published_date": "2026-07-16"
+    },
+    {
+      "id": 7405,
+      "title": "'Swastika connects India and Azerbaijan': Indian diplomat invokes ancient symbol amid strained ties",
+      "summary": "• 'Swastikas are a symbol of friendship between the two countries,' Indian diplomat says.\n• 'It's a very important symbol for both of us,' he adds.\n• 'We have a long history of friendship with both of these countries,' he says.\n• \"It's very important for us to show that we are in each other's hearts and minds,\" Indian diplomat adds.",
+      "category": "International Relations",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/swastika-connects-india-and-azerbaijan-indian-diplomat-abhay-kumar-invokes-ancient-symbol-amid-strained-ties-101784186209262.html",
+      "relevance_score": 0.8013,
       "published_date": "2026-07-16"
     },
     {
@@ -91,22 +131,22 @@
       "published_date": "2026-07-15"
     },
     {
-      "id": 7356,
-      "title": "ICC announces major revamp of ODI and T20 World Cup formats",
-      "summary": "• ODI, T20 formats to be changed for 2015 and 2016 World Cups.\n• ICC will also introduce a Cricket World Cup for the first time in 20 years.\n• ICC to hold first ever Cricket World Cups in South Africa and India in 2015.\n• ICC also plans to host Cricket World Championships in 2015 and 2026 in Australia and New Zealand.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/odi-t20-world-cup-formats-major-revamp-icc-announcement-10787768/",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-15"
-    },
-    {
       "id": 7341,
       "title": "Parliament Monsoon Session: BJP wooing NCP (SP), DMK for Constitution Amendment Bill, alleges Chidambaram",
       "summary": "• Parliaments will be in session for three weeks from August 15 to September 14.\n• The session is expected to be the longest in the history of the country's parliament.\n• It will be the first session to be held during the monsoon session of the Parliament.",
       "category": "Polity & Governance",
       "source": "LiveMint - Politics",
       "url": "https://www.livemint.com/politics/news/parliament-monsoon-session-bjp-wooing-ncp-sp-dmk-for-constitution-amendment-bill-alleges-chidambaram-11784076584570.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-15"
+    },
+    {
+      "id": 7356,
+      "title": "ICC announces major revamp of ODI and T20 World Cup formats",
+      "summary": "• ODI, T20 formats to be changed for 2015 and 2016 World Cups.\n• ICC will also introduce a Cricket World Cup for the first time in 20 years.\n• ICC to hold first ever Cricket World Cups in South Africa and India in 2015.\n• ICC also plans to host Cricket World Championships in 2015 and 2026 in Australia and New Zealand.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/cricket/odi-t20-world-cup-formats-major-revamp-icc-announcement-10787768/",
       "relevance_score": 0.91,
       "published_date": "2026-07-15"
     },
@@ -19959,48 +19999,8 @@
       "url": "https://www.ndtv.com/world-news/quad-to-launch-fuel-security-forum-to-protect-energy-flow-in-indo-pacific-11549294#publisher=newsstand",
       "relevance_score": 0.8616,
       "published_date": "2026-05-26"
-    },
-    {
-      "id": 4595,
-      "title": "China just sent human artificial embryos into space, and the results could change humanity’s future",
-      "summary": "• The results could also change the way we look at the world, and how we interact with the rest of the world.\n• It's the first time a country has sent an artificial embryo into space.\n• It was also the first attempt at creating a human embryo in a lab.\n• It could be the first step toward creating human embryos in the future.",
-      "category": "Science & Technology",
-      "source": "Times of India - World",
-      "url": "https://timesofindia.indiatimes.com/science/china-just-sent-human-artificial-embryos-into-space-and-the-results-could-change-humanitys-future/articleshow/131308488.cms",
-      "relevance_score": 0.8572,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4587,
-      "title": "Pakistan rejects Trump push to recognise Israel under Abraham Accords",
-      "summary": "• Pakistan rejects Trump push to recognise Israel underraham Accords, says it is in line with UN Security Council resolution.\n• Pakistan says it will not recognise Israel if it recognises Palestine.\n• Pakistan: We are not in a position to recognise Palestine under the UN resolution.\n• We are in the process of reaching an agreement with Israel, which is in accordance with the UN charter.",
-      "category": "International Relations",
-      "source": "Indian Express - World",
-      "url": "https://indianexpress.com/article/world/pakistan-rejects-trumps-invitation-to-normalize-relations-with-israel-says-report-10708212/",
-      "relevance_score": 0.8571,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4620,
-      "title": "PM Modi completes 12 years in office; BJP, Union ministers hail his leadership",
-      "summary": "• PM Modi completed 12 years as Prime Minister of India on Thursday.\n• Modi was first elected to office in May 2008.\n• He was re-elected in May 2014 after a series of high-profile corruption scandals.\n• Modi is the first Indian prime minister to complete a 12-year term in office.\n• He took office again in May 2015 after a gap of three years.",
-      "category": "National News",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-completes-12-years-in-office-bjp-union-ministers-hail-his-leadership-101779810721183.html",
-      "relevance_score": 0.8545,
-      "published_date": "2026-05-26"
-    },
-    {
-      "id": 4616,
-      "title": "IPL 2026 Eliminator | Reading situations key for RR middle-order: Shanaka",
-      "summary": "• IPL 2024 Eliminator: RR vs Kolkata Knight Riders.\n• IPP 2026: RR v Kolkota Knight Riders, IPP vs KKR, IPL2026: Rajasthan vs Mumbai Indians, KKR vs Rajastham.\n• IPK 2026 eliminator: Rajeswariya vs Mumbai, IPK vs Rajeswar Pujara, IPKK vs Rajoswara.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-eliminator-reading-situations-key-for-rr-middle-order-shanaka/article71025933.ece",
-      "relevance_score": 0.8514,
-      "published_date": "2026-05-26"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-16T06:33:14.133025Z"
+  "updated_at": "2026-07-16T08:57:38.672944Z"
 }
