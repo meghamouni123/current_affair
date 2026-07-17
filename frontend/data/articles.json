@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 7463,
+      "title": "India's Agnikul joins global space race for reusable rockets, unveils Mission 02",
+      "summary": "• Mission 02 will be India's first reusable space rocket.\n• Mission 2 will be launched in 2018 from Sriharikota in the southern part of the state of Tamil Nadu.\n• The mission is scheduled to take off in 2023 and land in 2028.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/science/story/agnikul-announces-mission-2-to-attempt-landing-rocket-falling-from-space-2949779-2026-07-17?utm_source=rss",
+      "relevance_score": 0.965,
+      "published_date": "2026-07-17"
+    },
+    {
       "id": 7445,
       "title": "How drones reduced TB testing costs from Rs 9,451 to just Rs 91: ICMR study",
       "summary": "• ICMR study: Drones reduced TB test costs from £9,451, to £91, to save Rs 91 per TB test.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or see www.samaritans.org.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
@@ -8,6 +18,16 @@
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/health/story/how-drones-reduced-tb-testing-costs-from-rs-9451-to-just-rs-91-icmr-study-2949746-2026-07-17?utm_source=rss",
       "relevance_score": 0.9617,
+      "published_date": "2026-07-17"
+    },
+    {
+      "id": 7465,
+      "title": "Vande Mataram to Get Legal Protection? Centre's Big Move Explained | Legal Protection Proposal",
+      "summary": "• The Centre is reportedly considering statutory legal protection for India's National Song, Vande Mataram.\n• The proposal has sparked discussions on constitutional provisions, national symbols, freedom of expression and the legal implications of such legislation.\n• Supreme Court Advocate Ashwani Dubey shares his legal perspective on what statutory protection would mean, whether Parliament can enact such a law, and whether any new obligations or penalties may follow if legislation is introduced.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/vande-mataram-to-get-legal-protection-centre-s-big-move-explained-legal-protection-proposal-10218173.html",
+      "relevance_score": 0.94,
       "published_date": "2026-07-17"
     },
     {
@@ -41,6 +61,26 @@
       "published_date": "2026-07-17"
     },
     {
+      "id": 7466,
+      "title": "World Cricketers’ Association questions ICC over ODI World Cup format change",
+      "summary": "• World Cricketer’s Association question ICC's decision to change the format of the World Cup.\n• ICC says it is trying to make the tournament more accessible to young players.\n• ICC also wants to make it easier for teams to qualify for the next World Cup in 2015.\n• ICC will announce a new format for the 2015 World Cup later this year.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/world-cricketers-association-questions-icc-odi-world-cup-format-change/article71233594.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-17"
+    },
+    {
+      "id": 7464,
+      "title": "Parliament Monsoon Session 2026: BJP vs Congress Showdown Over Key Bills | Monsoon Session News",
+      "summary": "• The NDA government and the Opposition are preparing for an intense legislative battle.\n• The session is expected to witness heated exchanges over proposed legislation, national security, the economy, governance, and other pressing political issues.\n• CNN-News18's Pallavi Ghosh and Shivani Gupta decode the government's legislative agenda, the Opposition's strategy, and the political significance of one of the most crucial Parliament sessions of the year.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/parliament-monsoon-session-2026-bjp-vs-congress-showdown-over-key-bills-monsoon-session-news-10218174.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-17"
+    },
+    {
       "id": 7453,
       "title": "PM Modi on India's First Hydrogen Train | Jind & Sonipat Create History in Green Mobility | News18",
       "summary": "• Jind & Sonipat Create History in Green Mobility.\n• PM Modi on the India's first Hydrogen train.\n• Prime Minister Narendra Modi: Hydrogen trains are a step in the right direction for India.\n• Modi: We are committed to making India a hydrogen-rich nation.",
@@ -58,6 +98,46 @@
       "source": "Indian Express - Business",
       "url": "https://indianexpress.com/article/business/india-semiconductor-mission-2-tech-transfer-land-subsidy-chip-scheme-10790376/",
       "relevance_score": 0.8749,
+      "published_date": "2026-07-17"
+    },
+    {
+      "id": 7459,
+      "title": "China’s Moonshot AI Releases Model to Challenge Top U.S. Systems",
+      "summary": "• China's MoonshotAI releases model to challenge top U.N.\n• China’S moonshot AI releases models to challenge U.K. systems and other countries.\n• China has been developing its own AI system for years.\n• It has been dubbed ‘Moonshot AI’ and is based in Beijing.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/chinas-moonshot-ai-releases-model-to-challenge-top-u-s-systems-101784279793760.html",
+      "relevance_score": 0.8686,
+      "published_date": "2026-07-17"
+    },
+    {
+      "id": 7460,
+      "title": "Niti Aayog's roadmap to turn India into $691 billion bioeconomy",
+      "summary": "• India is one of the fastest growing economies in the world.\n• The country has a population of 1.2 billion people.\n• It is the second largest economy in the country after the U.S. It has a GDP of $1.2 trillion and an annual growth rate of 7.2 per cent.",
+      "category": "Science & Technology",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/six-biomissions-rs-50000-crore-fund-and-more-niti-aayogs-roadmap-to-turn-india-into-691-billion-bioeconomy/articleshow/132456250.cms",
+      "relevance_score": 0.8646,
+      "published_date": "2026-07-17"
+    },
+    {
+      "id": 7456,
+      "title": "Parliamentary panel on bill to remove PM, CMs defers adoption of report",
+      "summary": "• CMs say they will wait for the report before deciding whether to adopt it.\n• PM has been in office since 2007, serving as prime minister for two terms.\n• He is expected to be replaced by a new prime minister by the end of the year.\n• For more on this story, go to CNN.com/politics.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/parliamentary-panel-on-bill-to-remove-pm-cms-defers-adoption-of-report/article71233399.ece",
+      "relevance_score": 0.8597,
+      "published_date": "2026-07-17"
+    },
+    {
+      "id": 7461,
+      "title": "A Spanish company built a bladeless wind turbine that sways instead of spinning, turning the vibrations caused by wind into electricity",
+      "summary": "• A Spanish company built a bladeless wind turbine that sways instead of spinning.\n• The vibrations caused by wind are turned into electricity by the turbine.\n• The turbine is called a Bladeless Wind Turbine and costs around $1 million to $2 million to build.\n• In the U.S., go to the Wind Energy Institute at the University of Washington.",
+      "category": "Science & Technology",
+      "source": "Times of India - World",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-spanish-company-built-a-bladeless-wind-turbine-that-sways-instead-of-spinning-turning-the-vibrations-caused-by-wind-into-electricity/articleshow/132455961.cms",
+      "relevance_score": 0.8595,
       "published_date": "2026-07-17"
     },
     {
@@ -108,6 +188,16 @@
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/breaking-news/pm-modi-india-s-hydrogen-train-signals-green-growth-amid-global-uncertainty-green-future-news18-10218050.html",
       "relevance_score": 0.819,
+      "published_date": "2026-07-17"
+    },
+    {
+      "id": 7455,
+      "title": "Watch: Census 2027 | Your Questions Answered: Inside Tamil Nadu’s Biggest Count",
+      "summary": "• Census 2027 will take place in Tamil Nadu.\n• Tamil Nadu is one of the most populous states in the country.\n• The state has a population of more than 100 million.\n• The population is expected to grow by 1.2 million by 2027.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/videos/census-2027-your-questions-answered-inside-tamil-nadus-biggest-count/article71233124.ece",
+      "relevance_score": 0.8181,
       "published_date": "2026-07-17"
     },
     {
@@ -371,22 +461,22 @@
       "published_date": "2026-07-16"
     },
     {
-      "id": 7426,
-      "title": "Old playbook that made Channi Punjab CM in 2021 is back in action. Why Congress may not blink this time",
-      "summary": "• Old playbook that made Channi Punjab CM in 2021 is back in action.\n• Why Congress may not blink this time this time.\n• Channi is the son of former Punjab CM Channi, who is now a member of the ruling Congress party.\n• He has been in Congress politics since the 1980s, and is now the leader of the Punjab Congress Party.\n• He is also a former member of Congress, which is in power in the state for the first time.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/old-playbook-that-made-channi-punjab-cm-in-2021-is-back-in-action-why-congress-may-not-blink-this-time/articleshow/132439889.cms",
-      "relevance_score": 0.8072,
-      "published_date": "2026-07-16"
-    },
-    {
       "id": 7420,
       "title": "PM Modi to launch India's first hydrogen train tomorrow: Check full Jind-Sonipat route, stations",
       "summary": "• PM Modi to launch India's first hydrogen train tomorrow.\n• PM Modi will be accompanied by his wife and other dignitaries at the launch.\n• The train will run from Jind to Sonipat, a journey of 1.5 hours.\n• It will be the first of its kind in the country and will run on hydrogen fuel.",
       "category": "Science & Technology",
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-to-launch-indias-first-hydrogen-train-tomorrow-check-full-jind-sonipat-route-stations-101784203056555.html",
+      "relevance_score": 0.8072,
+      "published_date": "2026-07-16"
+    },
+    {
+      "id": 7426,
+      "title": "Old playbook that made Channi Punjab CM in 2021 is back in action. Why Congress may not blink this time",
+      "summary": "• Old playbook that made Channi Punjab CM in 2021 is back in action.\n• Why Congress may not blink this time this time.\n• Channi is the son of former Punjab CM Channi, who is now a member of the ruling Congress party.\n• He has been in Congress politics since the 1980s, and is now the leader of the Punjab Congress Party.\n• He is also a former member of Congress, which is in power in the state for the first time.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/old-playbook-that-made-channi-punjab-cm-in-2021-is-back-in-action-why-congress-may-not-blink-this-time/articleshow/132439889.cms",
       "relevance_score": 0.8072,
       "published_date": "2026-07-16"
     },
@@ -19909,98 +19999,8 @@
       "url": "https://www.nasa.gov/wildland-fire-management/nasa-develops-sensor-to-improve-firefighter-safety/",
       "relevance_score": 0.9194,
       "published_date": "2026-05-27"
-    },
-    {
-      "id": 4641,
-      "title": "Pakistan's role as mediator problematic: U.S. senator",
-      "summary": "• Secretary-general calls for end to Pakistan's use of nuclear weapons.\n• Pakistan says it will not use nuclear weapons as a weapon of war.\n• Pakistan has been accused of using nuclear weapons in the past, a claim it denies.\n• The United Nations has called for an end to nuclear weapons use in the country.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/pakistans-role-as-mediator-problematic-us-senator/article71027487.ece",
-      "relevance_score": 0.9114,
-      "published_date": "2026-05-27"
-    },
-    {
-      "id": 4655,
-      "title": "Tamil Nadu Chief Minister Delhi Visit Live Updates: Vijay To Meet PM Modi, Congress Leaders In First Delhi Visit",
-      "summary": "• Vijay to meet PM Modi and Congress leaders in first Delhi visit.\n• Tamil Nadu chief minister to meet Prime Minister Narendra Modi, other leaders in Delhi.\n• Vijayan to meet Congress leaders, other politicians in Delhi on Tuesday.\n• Tamil Tamil Nadu Chief minister to visit Delhi on Wednesday.",
-      "category": "State News",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/tamil-nadu-chief-minister-c-joseph-vijay-delhi-visit-live-updates-tvk-chief-vijay-to-meet-pm-narendra-modi-congress-leaders-in-first-delhi-visit-11552846#publisher=newsstand",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-27"
-    },
-    {
-      "id": 4683,
-      "title": "Trump Aides To Visit India Monday For Talks On India-US Bilateral Trade Agreement",
-      "summary": "• India-U.S. Trade Agreement is a bilateral trade agreement between India and the United States.\n• The two countries have been at odds for years over trade issues.\n• The deal is expected to be expanded to include other countries in the region.",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/world/trump-aides-to-visit-india-monday-for-talks-on-india-us-bilateral-trade-agreement-ws-kl-10115882.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-27"
-    },
-    {
-      "id": 4643,
-      "title": "Texas election results: Who won the Senate, governor and attorney general primaries? Ken Paxton vs John Cornyn winner",
-      "summary": "• Ken Paxton vs John Cornyn winner for Senate.\n• Ted Cruz won the governor's race for the Republican Party.\n• Rick Perry won the Democratic Party's nomination for the Senate.\n• Rick Santorum won the Republican nomination for senator from Texas.",
-      "category": "Polity & Governance",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/us-news/texas-election-results-who-won-the-senate-governor-and-attorney-general-primaries-ken-paxton-vs-john-cornyn-winner-101779843025226.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-05-27"
-    },
-    {
-      "id": 4665,
-      "title": "Hyderabad firm BluJ Aerospace unveils prototype aircraft to scale up in eVTOL space",
-      "summary": "• BluJ is a subsidiary of India's state-run aerospace giant, Bharat Aeronautics.\n• The aircraft will be able to take off and land vertically from the ground and then soar into the air.\n• The company is also developing an e-VTOL system to fly in space.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-firm-bluj-aerospace-unveils-prototype-aircraft-to-scale-up-in-evtol-space/article71026247.ece",
-      "relevance_score": 0.9035,
-      "published_date": "2026-05-27"
-    },
-    {
-      "id": 4709,
-      "title": "Girl Scouts Event Brings Space Science to the Next Generation",
-      "summary": "• Girls Scouts event brings space science into the mainstream for the first time in the U.S. since the space shuttle Challenger disaster in 1986.\n• The event was held at the National Museum of Natural History in Washington, D.\n• And is open to girls and boys of all ages.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/learning-resources/science-activation/girl-scouts-event-brings-space-science-to-the-next-generation/",
-      "relevance_score": 0.889,
-      "published_date": "2026-05-27"
-    },
-    {
-      "id": 4652,
-      "title": "Murder of siblings and a police encounter that rocked Coimbatore 16 years ago",
-      "summary": "• Murder of siblings, police encounter rocked the city of Coimbatsore in 2002.\n• The murder of the siblings and the police encounter occurred in the early hours of the morning.\n• The siblings were killed by a group of men in a car.\n• The incident was caught on camera by a police officer in the city's police station.",
-      "category": "National News",
-      "source": "The Hindu - Tamil Nadu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/murder-of-siblings-and-a-police-encounter-that-rocked-coimbatore-16-years-ago/article71026847.ece",
-      "relevance_score": 0.8831,
-      "published_date": "2026-05-27"
-    },
-    {
-      "id": 4682,
-      "title": "NASA’s Webb Reveals Black Hole That Formed Before Its Galaxy",
-      "summary": "• Black Hole formed before its Galaxy, according to NASA.\n• Webb will be used to study the formation of the universe's early universe.\n• The Webb telescope will be based in Webb's home town of Webb Springs, Georgia.\n• It is expected to be operational by the end of the year, with the first images expected in 2015.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/missions/webb/nasas-webb-reveals-black-hole-that-formed-before-its-galaxy/",
-      "relevance_score": 0.8759,
-      "published_date": "2026-05-27"
-    },
-    {
-      "id": 4672,
-      "title": "Expert IIT team to submit report after ‘full check-up’ of CBSE’s tech ecosystem",
-      "summary": "• CBSE has been accused of not having a tech-savvy enough student body.\n• IIT says it has been working with CBSE to address the problem.\n• CBSe says it is working with IIT to improve its technology-savviness in the school.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/expert-iit-team-to-submit-report-after-full-check-up-of-cbses-tech-ecosystem/article71029978.ece",
-      "relevance_score": 0.8654,
-      "published_date": "2026-05-27"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-17T09:03:16.712284Z"
+  "updated_at": "2026-07-17T11:32:42.371327Z"
 }
