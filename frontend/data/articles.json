@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 7578,
+      "title": "The race for low Earth orbit: What the launch of Vikram-1 means for India",
+      "summary": "• The launch is part of India's bid to become a major player in the low earth orbit space race.\n• Vikram is the first Indian rocket to be launched into space.\n• It will carry the country's first satellite into orbit.\n• The mission is scheduled to take off from Sriharikota in the morning.",
+      "category": "Science & Technology",
+      "source": "Indian Express - Explained",
+      "url": "https://indianexpress.com/article/explained/vikram-1-launch-explained-india-private-space-10792833/",
+      "relevance_score": 0.9487,
+      "published_date": "2026-07-19"
+    },
+    {
+      "id": 7580,
+      "title": "'We should trust country's youth': Vikram-1 achieves India's first private orbital launch",
+      "summary": "• Vikram 1 is the first of its kind in India, and the first in the world.\n• The launch is part of India's bid to become an orbital space station.\n• Vikam-1 is the country's first privately-owned private space launch vehicle.\n• The mission is scheduled to take off from the Satish Dhawan Space Centre in Sriharikota.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/we-should-trust-countrys-youth-vikram-1-achieves-indias-first-private-orbital-launch-101784423695275.html",
+      "relevance_score": 0.9334,
+      "published_date": "2026-07-19"
+    },
+    {
+      "id": 7572,
+      "title": "What makes Skyroot’s Vikram-1 launch unique? | Explained",
+      "summary": "• Skyroot is the first of its kind to launch an all-in-one camera system in the U.S. and India.\n• The company is also the first in the world to launch a cloud-based video conferencing system.\n• The Skyroot Vikram will be available in both India and North America.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/sci-tech/science/what-makes-skyroots-vikram-1-launch-unique-explained/article71237592.ece",
+      "relevance_score": 0.8749,
+      "published_date": "2026-07-19"
+    },
+    {
       "id": 7551,
       "title": "Vikram-1 rocket successfully places tech payloads, postcards from astronauts, PM Modi into orbit",
       "summary": "• Vikr-1 launched from the spaceport in Sriharikota, Rajasthan, India.\n• The rocket will carry the Indian Prime Minister into space for the first time.\n• The launch is part of India's bid to become a low-cost producer of solar power.",
@@ -41,6 +71,16 @@
       "published_date": "2026-07-18"
     },
     {
+      "id": 7584,
+      "title": "Skyroot’s orbital launch: India’s own SpaceX is born, startup to give country another option to Isro for satellite launches",
+      "summary": "• Skyroot’s orbital launch will be India's first of its kind.\n• The launch will give the country another option to Isro for satellite launches.\n• Skyroot will launch its first satellite into space from Sriharikota in the southern Indian Ocean.\n• It will be followed by a second launch from the southern tip of the country.\n• The third launch will take place from Kailasa in the north of India.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/skyroots-orbital-launch-indias-own-spacex-is-born-startup-to-give-country-an-alternative-for-satellite-launches/articleshow/132486324.cms",
+      "relevance_score": 0.9494,
+      "published_date": "2026-07-18"
+    },
+    {
       "id": 7518,
       "title": "A Cab Ride To Orbit? How Skyroot’s Vikram-1 Could Be A Game Changer For Small Satellites",
       "summary": "• Skyroot's Vikram 1 could be a game-changer for small satellites, say analysts.\n• The Skyroot Vikram1 is a small satellite that could be used to launch small satellites into orbit.\n• The Vikram One could be launched in 2015.",
@@ -58,6 +98,16 @@
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/trends/watch-vikram-1-launch-live-indias-1st-privately-developed-orbital-class-rocket-sets-off-from-sriharikota-11784356448760.html",
       "relevance_score": 0.942,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": 7587,
+      "title": "Vikram-1 Launch Successful: India's First Private Orbital Rocket Enters Space | Skyroot Aerospace",
+      "summary": "• Vikram 1 is India's first private Orbital Rocket.\n• Skyroot is a subsidiary of India's state-run space agency, the Indian Space Research Organisation (ISRO) Vikram is the world's first privately-owned orbital rocket.\n• SkyRoot Aerospace is owned by India's richest man, Ravi Agrawal.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/vikram-1-launch-successful-india-s-first-private-orbital-rocket-enters-space-skyroot-aerospace-10220732.html",
+      "relevance_score": 0.9408,
       "published_date": "2026-07-18"
     },
     {
@@ -98,6 +148,16 @@
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/science/story/skyroot-vikram-1-launched-first-private-rocket-isro-satellite-deployment-space-mission-2950588-2026-07-18?utm_source=rss",
       "relevance_score": 0.9347,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": 7577,
+      "title": "Hyderabad’s Skyroot start-up: Vikram-1 India’s first private orbital rocket mission; defining moment, says PM Modi",
+      "summary": "• Vikram is a joint venture between Indian space agency and private firm Vikram Aerospace.\n• The two companies will work together to launch the Vikram rocket into space.\n• The mission is scheduled to take off in 2018.\n• The launch is expected to be followed by a series of test flights in 2019.",
+      "category": "Science & Technology",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/hyderabads-skyroot-start-up-vikram-1-indias-first-private-orbital-rocket-mission-defining-moment-says-pm-modi-10793011/",
+      "relevance_score": 0.9296,
       "published_date": "2026-07-18"
     },
     {
@@ -191,6 +251,16 @@
       "published_date": "2026-07-18"
     },
     {
+      "id": 7588,
+      "title": "France vs England HIGHLIGHTS — FIFA World Cup third-place playoff: FRA 4-6 ENG; Mbappe brace breaks Messi record but Saka hat-trick gets England bronze medal",
+      "summary": "• France beat England 4-6 in World Cup third-place playoff.\n• Mbappe brace breaks Messi record but Saka hat-trick gets England bronze medal.\n• Saka also scored a brace as England claimed bronze medal for the first time in their history.\n• France won the World Cup in Brazil with a total of 16 goals.\n• England won the tournament with 14 goals, while Brazil had 10.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/france-vs-england-fifa-world-cup-highlights-live-score-updates-third-place-playoff-mbappe-goals-saka-hattrick/article71239264.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-18"
+    },
+    {
       "id": 7500,
       "title": "PM Modi's \"Vande Mataram\" Message Set To Fly Into Space Today",
       "summary": "• The message will be sent from the Indian Space Agency's Vande Mataram space shuttle.\n• The launch is scheduled to take place at 11:30 a.m.\n• Local time (9:30 p.m., ET) in New Delhi.\n• For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",
@@ -228,6 +298,16 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/football/fifa-world-cup/emi-martinez-argentina-world-cup-success-tears-spain-final-history/article71236934.ece",
       "relevance_score": 0.8908,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": 7573,
+      "title": "HARMAN collaborates with city university on automobile tech",
+      "summary": "• Harman is a leading manufacturer of cars and other vehicles.\n• The company is based in New York City and has offices across the city.\n• It also has its own car-sharing service, called Harman Mobility, in the U.S. It is owned by German carmaker Daimler, which has its headquarters in Germany.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/harman-collaborates-with-city-university-on-automobile-tech/article71211570.ece",
+      "relevance_score": 0.8902,
       "published_date": "2026-07-18"
     },
     {
@@ -278,6 +358,16 @@
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/skyroot-s-vikram-1-set-for-maiden-launch-marking-india-s-private-space-milestone-news18-10219465.html",
       "relevance_score": 0.8813,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": 7586,
+      "title": "Meet Indian-origin tech leader Uday Ruddaraju, who has become OpenAI's CTO of Compute",
+      "summary": "• He is also the co-founder of the start-up OpenAI, which is part of Google's AI division.\n• He has also worked with Facebook, Twitter, Google and other tech giants.\n• He was born in India and is a graduate of prestigious Indian Institute of Technology, Delhi.",
+      "category": "Science & Technology",
+      "source": "Times of India - World",
+      "url": "https://timesofindia.indiatimes.com/world/us/meet-indian-origin-tech-leader-uday-ruddaraju-who-has-become-openais-cto-of-compute/articleshow/132486729.cms",
+      "relevance_score": 0.8776,
       "published_date": "2026-07-18"
     },
     {
@@ -351,6 +441,26 @@
       "published_date": "2026-07-18"
     },
     {
+      "id": 7574,
+      "title": "T.N. government implements e-Zero FIR system for faster action against cyber financial scams",
+      "summary": "• E-Zero will be used to help police catch cyber criminals in the act of fraud.\n• The system is expected to be in place by the end of the year.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/chennai/tn-government-implements-e-zero-fir-system-for-faster-action-against-cyber-financial-scams/article71238136.ece",
+      "relevance_score": 0.8621,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": 7579,
+      "title": "France vs England FIFA World Cup 2026 Match Highlights: ENG beat FRA 6-4, win bronze in 10-goal epic",
+      "summary": "• England vs France FIFA World Cups 2026: Team news, probable line-ups, odds and more.\n• Click here for all the latest from the 2026 World Cup.\n• Click HERE for the team news and probable line ups.",
+      "category": "Sports",
+      "source": "Indian Express - Sports",
+      "url": "https://indianexpress.com/article/sports/football/france-vs-england-live-score-fifa-world-cup-2026-third-place-off-match-result-miami-updates-10792963/",
+      "relevance_score": 0.8583,
+      "published_date": "2026-07-18"
+    },
+    {
       "id": 7540,
       "title": "India Scripts New Space Milestone As Private Orbital Rocket Vikram-1 Lifts Off",
       "summary": "• India Scripts new Space Milestones As Privateorbital Rocket Vikam-1 lifts off.\n• Vikram 1 is India's first private rocket to launch from Earth's orbit.\n• The rocket will carry India to space in the next few years.\n• The launch will take place from Vandenberg Air Force Base in California.",
@@ -371,6 +481,16 @@
       "published_date": "2026-07-18"
     },
     {
+      "id": 7583,
+      "title": "Skyroot puts first private rocket in orbit &amp; India in elite club; Vikram-1 delivers 6 payloads after 35-minute delay",
+      "summary": "• Skyroot is India's first private company to launch a private rocket into space.\n• India is the first country in the world to send a rocket into orbit and put a payload into orbit.\n• The launch was delayed by 35 minutes due to a problem with the launch system.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/skyroot-puts-first-private-rocket-in-orbit-india-in-elite-club-vikram-1-delivers-6-payloads-after-35-minute-delay/articleshow/132486763.cms",
+      "relevance_score": 0.8429,
+      "published_date": "2026-07-18"
+    },
+    {
       "id": 7513,
       "title": "PM Modi wishes Skyroot success ahead of Vikram-1's first orbital launch: ‘A historic new frontier for India’",
       "summary": "• ‘A historic new frontier for India’ says PM Modi.\n• Skyroot is a joint venture between Skyroot and India's state-run space agency, Indian Space Research Organisation (ISROC) Vikram will be the first Indian space station to orbit the Earth.\n• Vikram is scheduled to launch from Sriharikota in December.",
@@ -388,6 +508,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/asi-begins-scientific-conservation-of-mangalagiri-panakala-narasimha-swamy-temple/article71237711.ece",
       "relevance_score": 0.8368,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": 7585,
+      "title": "India rolls out 'White Rabbit' tech to secure Indian Standard Time network: What it means",
+      "summary": "• India rolls out White Rabbit technology to secure the country's time zone.\n• India has been using GMT for more than a decade.\n• It is the world's second-largest time zone after the United States.\n• India is the first country to roll out the system in the 1990s, and has since become a major time zone player.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/india-rolls-out-white-rabbit-tech-to-secure-indian-standard-time-network-what-it-means/articleshow/132485935.cms",
+      "relevance_score": 0.8364,
       "published_date": "2026-07-18"
     },
     {
@@ -511,6 +641,16 @@
       "published_date": "2026-07-18"
     },
     {
+      "id": 7582,
+      "title": "Sindhu in first final for two years at Japan Open",
+      "summary": "• She is the first Indian woman to reach a final in the event for more than two years.\n• She has won the tournament on three occasions in the past two years, including in 2011 and 2012.\n• Click here to read more from the Japan Open about the final.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/badminton/sindhu-in-first-final-for-two-years-at-japan-open-101784393631137.html",
+      "relevance_score": 0.8132,
+      "published_date": "2026-07-18"
+    },
+    {
       "id": 7514,
       "title": "\"Zero To Hero\": Space Regulator Chief On Skyroot's Historic Vikram-1 Launch",
       "summary": "• Skyroot will launch a rocket from Sriharikota's spaceport in Sri Lanka.\n• The launch is scheduled to take place on November 14.\n• The mission is scheduled for a two-hour launch window, with a planned two-minute delay.",
@@ -518,6 +658,16 @@
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/in-space-zero-to-hero-space-regulator-chief-dr-pawan-goenka-on-skyroots-historic-vikram-1-launch-11787292#publisher=newsstand",
       "relevance_score": 0.8066,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": 7589,
+      "title": "Wimbledon finalist Muchova out for ‘a few weeks’",
+      "summary": "• Muchova is expected to be back in action in a few weeks.\n• Click here for all the latest Wimbledon news and more from this year's final tournament.\n• For more from Wimbledon, visit the Wimbledon website here.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/tennis/karolina-muchova-out-for-weeks-injury-wimbledon-final-surgery/article71239042.ece",
+      "relevance_score": 0.8035,
       "published_date": "2026-07-18"
     },
     {
@@ -19849,158 +19999,8 @@
       "url": "https://www.thehindu.com/sport/football/alphonso-davies-in-canadas-world-cup-squad-despite-hamstring-injury/article71040358.ece",
       "relevance_score": 0.8955,
       "published_date": "2026-05-30"
-    },
-    {
-      "id": 4855,
-      "title": "How Bhuvi didn’t allow the young fearless batsmen to run away with this IPL",
-      "summary": "• Bhuvneshwar Kumar was the man of the match in the IPL final against Kolkata Knight Riders.\n• The Indian all-rounder was the star of the show for the KKR side.\n• He was also the most expensive bowler in the tournament with a profit of over $1.5 million.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/bhuvneshwar-kumar-under-appreciated-ipl-2026-slaying-young-batsmen-10715025/",
-      "relevance_score": 0.8927,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4820,
-      "title": "Sensex slides 1,097 points on sub-par monsoon forecast",
-      "summary": "• Sensex down more than 1,000 points on Tuesday.\n• India has been hit hard by bad monsoon in the past two months.\n• The monsoon is expected to continue for the rest of the year, forecasters say.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-slides-1097-points-on-sub-par-monsoon-forecast/articleshow/131403045.cms",
-      "relevance_score": 0.8898,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4864,
-      "title": "NIMS launches advanced cancer genomics centre, first in Telangana’s government sector",
-      "summary": "• NIMS is a government-run organisation based in Hyderabad, India.\n• The centre aims to provide advanced cancergenomics for cancer patients.\n• It is the first of its kind in the state and first in the country.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/nims-launches-advanced-cancer-genomics-centre-first-in-telanganas-government-sector/article71041805.ece",
-      "relevance_score": 0.8896,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4867,
-      "title": "India signs BrahMos missile deal with Vietnam, nears pact with Indonesia",
-      "summary": "• BrahMos is a version of the Russian-made S-400 missile system.\n• India has also signed a deal with Indonesia for BrahMos-equipped submarines.\n• India also has a deal to sell BrahMos missiles to South Korea, Malaysia and Brunei for $1.5 billion.\n• The deal is expected to be completed by end of the year.",
-      "category": "International Relations",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/india-signs-brahmos-missile-deal-with-vietnam-nears-pact-with-indonesia-11780154341177.html",
-      "relevance_score": 0.8891,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4848,
-      "title": "Karnataka: Amid hectic discussions, curiosity grows over new Cabinet formation",
-      "summary": "• Karnataka to form new Cabinet after Congress-led coalition government formed in Karnataka.\n• Ministers to be sworn-in on Friday, with a new Cabinet likely to be announced on Saturday.\n• The new Cabinet will be made up of ministers from the Congress and the JD(S) coalition.\n• The current Cabinet was formed on January 1, 2013.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-amid-hectic-discussions-curiosity-grows-over-new-cabinet-formation/article71041435.ece",
-      "relevance_score": 0.8875,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4837,
-      "title": "West Bengal set to implement National Health Mission, says CM Suvendu Adhikari",
-      "summary": "• West Bengal to be first state in India to take part in the scheme, he says.\n• He adds that the state will be able to provide free health care to all residents of the state.\n• He says the state is set to be the first state to join the scheme in the country.\n• The state is also set to become a part of the U.N.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-set-to-implement-national-health-mission-says-cm-suvendu-adhikari/article71040634.ece",
-      "relevance_score": 0.8771,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4870,
-      "title": "Ancelotti says Neymar fit for ‘first or second’ World Cup match",
-      "summary": "• Neymar is expected to play in Brazil's opening game against Costa Rica on June 14.\n• Click here for more from the World Cup 2014 in Brazil.\n• CLICK HERE for all the latest from Brazil 2014 and the 2014 World Cup with our live updates from the tournament on our live blog and social media.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/neymar-to-be-fit-for-brazil-fifa-world-cup-2026-ancelotti-news/article71042300.ece",
-      "relevance_score": 0.8761,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4823,
-      "title": "Secretary-General of ASEAN delivers remarks at the 23rd Shangri-La Dialogue",
-      "summary": "• We are in this for the long haul\" ASEan is a group of nations with more than 200 million people.\n• It is the largest region in the world and the largest economic bloc in the Asia-Pacific region.\n• The region is also the fastest growing in terms of GDP.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-delivers-remarks-at-the-23rd-shangri-la-dialogue/",
-      "relevance_score": 0.8737,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4828,
-      "title": "Sebi imposes penalty on Suzlon, executives for misstating financials",
-      "summary": "• Suzlon says it will appeal the decision to the European Court of Justice of the Supreme Court of Luxembourg.\n• Sebi says Suzlon's financial results have been misstated by the company's executives.\n• The company says it has taken steps to correct the misstatement of its financial results.\n• The court will rule on the appeal in a few weeks.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-imposes-penalty-on-suzlon-executives-for-misstating-financials/articleshow/131402942.cms",
-      "relevance_score": 0.8691,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4832,
-      "title": "International Peacekeepers Day: India underscores unflinching commitment to UN peacekeeping",
-      "summary": "• India is one of the biggest contributors to the UN's peacekeeping force in the world.\n• India has more than 1,000 peacekeepers in the force, including more than 2,000 women and children.\n• India's contribution to peacekeeping has been recognised by the United Nations since the 1950s and 1960s.",
-      "category": "International Relations",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/international-peacekeepers-day-india-underscores-unflinching-commitment-to-un-peacekeeping/article71040321.ece",
-      "relevance_score": 0.8624,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4834,
-      "title": "Meta eyes AI pendant as part of its ambitious new hardware strategy",
-      "summary": "• The company is working on a range of new products, including an AI-powered phone and a wearable device.\n• It is also working on its first self-driving car, which could be unveiled later this year.\n• The device will be powered by an artificial intelligence system, the company says.",
-      "category": "Science & Technology",
-      "source": "Indian Express - Technology",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/meta-eyes-ai-pendant-as-part-of-its-ambitious-new-hardware-strategy-10715123/",
-      "relevance_score": 0.8558,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4880,
-      "title": "Meta eyes AI pendant as part of its ambitious new hardware strategy",
-      "summary": "• The company is working on a range of new products, including an AI-powered phone and a wearable device.\n• It is also working on its first self-driving car, which could be unveiled later this year.\n• The device will be powered by an artificial intelligence system, the company says.",
-      "category": "Science & Technology",
-      "source": "Indian Express - Technology",
-      "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-eyes-ai-pendant-as-part-of-its-ambitious-new-hardware-strategy-10715123/",
-      "relevance_score": 0.8558,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4854,
-      "title": "Rajat Patidar on India comeback after strong IPL 2026: ‘Not looking forward’",
-      "summary": "• Rajat Patidar on India comeback after strong IPL 2026: ‘Not looking forward’ ‘I’m not looking forward to what’s coming next,’ he says.\n• ‘We’ve got a lot of work to do.\n• We’re not going to sit back and wait for things to happen.’‘I don’t think I’ll be able to play for India in the next IPL,” he adds.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/rajat-patidar-on-india-comeback-after-strong-ipl-2026-not-looking-forward-10715948/",
-      "relevance_score": 0.8527,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4818,
-      "title": "Adopt tree-based agriculture drive: Isha Foundation",
-      "summary": "• Isha is a non-profit organization based in the U.S. that promotes sustainable agriculture.\n• For more information, visit www.isha.org or call the foundation at 1-800-273-8255.\n• For confidential support, call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/adopt-tree-based-agriculture-drive-isha-foundation/articleshow/131402840.cms",
-      "relevance_score": 0.8413,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4815,
-      "title": "Supreme Court issues guidelines for protecting survivors of human trafficking",
-      "summary": "• The guidelines are intended to protect survivors from human trafficking in the U.S. and around the world.\n• For confidential support call the National Suicide Prevention Lifeline at 1-800-273-8255 or visit http://www.suicidepreventionlifeline.org/.\n• For support on suicide matters call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch or click here.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/supreme-court-judgment-issues-guidelines-to-protect-trafficked-victims/article71038866.ece",
-      "relevance_score": 0.8369,
-      "published_date": "2026-05-30"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-18T16:59:40.194489Z"
+  "updated_at": "2026-07-19T03:02:11.917924Z"
 }
