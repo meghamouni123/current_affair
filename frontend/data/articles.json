@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": 7628,
+      "title": "Sharad Pawar’s next move? The inside story of Maharashtra’s political drama | Pulse Maharashtra",
+      "summary": "• The political drama in Maharashtra refuses to die down!.\n• From secret late-night meetings between CM Devendra Fadnavis and NCP leaders to Eknath Shinde’s sudden Delhi visit, the state's political alignments are shifting fast.\n• In this episode of Pulse Maharashtra, Vinaya Deshpande Pandit breaks down the inside story.\n• Watch the full analysis to understand the unpredictable number game that could change the Parliament’s landscape.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/videos/sharad-pawars-next-move-the-inside-story-of-maharashtras-political-drama-pulse-maharashtra/article71237772.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7631,
+      "title": "Parliament monsoon session 2026 LIVE: Lok Sabha, Rajya Sabha adjourned till 12 noon amid opposition sloganeering",
+      "summary": "• Lok Sabha: Monsoon session will continue until 12 noon on Tuesday.\n• Rajya House: It will continue for the rest of the day.\n• Lok Lok: The session will go on until the end of the week.\n• Lok Raj: It is the last day of the monsoon.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/parliament-monsoon-session-2026-live-updates-delimitation-ram-temple-donation-neet-cjp-sonam-wangchuk-bjp-congress-tmc-101784510558967.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7633,
+      "title": "In a World Cup ruled by superstars, Spain proved the team still matters most: First Mbappe, then Messi, now the trophy",
+      "summary": "• In a World Cup ruled by superstars, Spain proved the team still matters most.\n• First Mbappe, then Messi, now the trophy for Spain.\n• Spain beat Argentina 1-0 in the final to win the World Cup for the first time since 1986.\n• Spain won the tournament for the third time in their history.\n• The last time was in 1986, when they also won the title.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/in-a-world-cup-ruled-by-superstars-spain-proved-the-team-still-matters-most-first-mbappe-then-messi-now-the-trophy-101784515129602.html",
+      "relevance_score": 0.8936,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7629,
+      "title": "Space Exploration Day| Meet the parts that make space exploration possible",
+      "summary": "• Learn more at Space Exploration Day on CNN.com/Heroes and @SpaceExplorationDay on Twitter and Facebook.\n• Share your stories of space exploration with CNN iReport.\n• Send your photos, videos and stories from space exploration to australia@dailymail.com.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Science",
+      "url": "https://www.thehindu.com/children/what-makes-space-exploration-possible/article71243820.ece",
+      "relevance_score": 0.8891,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7634,
+      "title": "Why is market falling today? Sensex drops 600 points, Nifty below 24,200. 6 factors behind the selloff",
+      "summary": "• Sensex down 600 points; Nifty down below 25,000.\n• Nivedit down more than 1,000 points, Sensex drops more than 600 points.\n• S&P 500 down over 1,200 points, BSE down 1,300 points, S&Ps down over 500 points.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-600-points-nifty-below-24200-6-factors-behind-the-selloff/articleshow/132302998.cms",
+      "relevance_score": 0.8778,
+      "published_date": "2026-07-20"
+    },
+    {
       "id": 7613,
       "title": "Crowd swells at CJP protest site ahead of Parliament march",
       "summary": "• CJP to march to Parliament in protest against the government's handling of gay marriage.\n• C JP to march in support of same-sex marriage for same sex couples.\n• The march will take place in front of the Houses of Parliament in London on Wednesday.\n• The CJP will also march to the House of Commons on Thursday.\n• The protest will be followed by a march to Westminster.",
@@ -8,6 +58,26 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/cjps-vigil-begins-crowds-camp-at-jantar-mantar-on-eve-of-parliament-march-call/article71242700.ece",
       "relevance_score": 0.8709,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7632,
+      "title": "Why the Russia sanctions bill could dent the US dollar: Explained",
+      "summary": "• The bill would impose new sanctions on Russia and other countries.\n• It would also impose new penalties on individuals involved in the sanctions.\n• The sanctions would also apply to companies doing business with the Russian government.\n• The US dollar has been hit hard by Russia sanctions in recent years.\n• The U.S. dollar has also been hit by the Russian sanctions bill in the past.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/us-news/why-the-russia-sanctions-bill-could-dent-the-us-dollar-explained-101784482740982.html",
+      "relevance_score": 0.867,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7630,
+      "title": "Govt has reached out for first time: CJP's big claim ahead of Parliament march",
+      "summary": "• CJP: Government reached out to us for the first time.\n• Government: We have been in touch with you for a long time, we are ready to work with you.\n• We want to help you in any way we can, says CJP.\n• We are in a position of power, and we want to use it.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/govt-reached-first-time-cjp-protest-big-claim-ahead-of-parliament-march-sonam-wangchuk-jantar-mantar-abhijeet-dipke-101784516131624.html",
+      "relevance_score": 0.8459,
       "published_date": "2026-07-20"
     },
     {
@@ -38,6 +108,16 @@
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/electric-air-taxi-prototype-eplane-company-uber-iitm-urban-mobility-startups-technology-aviation-11784432958226.html",
       "relevance_score": 0.8329,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7635,
+      "title": "Lottery Sambad Today, July 20, 2026: Nagaland, Punjab, Maharashtra Results",
+      "summary": "• Nagal and Punjab are in the north-eastern region of India.\n• Maharashtra is in the south-east region of the state.\n• The winner of the lottery will be announced on July 20th, 20 26.\n• The drawing will take place at 11am local time (9am GMT) in Mumbai.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/lottery-sambad-today-july-20-2026-nagaland-punjab-maharashtra-goa-manipur-sikkim-arunachal-pradesh-ws-e-10218116.html",
+      "relevance_score": 0.8231,
       "published_date": "2026-07-20"
     },
     {
@@ -541,22 +621,22 @@
       "published_date": "2026-07-18"
     },
     {
-      "id": 7524,
-      "title": "Vikram-1 lifts off: Skyroot launches India’s first private orbital-class rocket",
-      "summary": "• Skyroot: Vikram 1 is first of its kind in the world.\n• The rocket will be used to launch satellites and other payloads into space.\n• The launch is scheduled to take place on November 25 and 26.\n• The Vikram rocket will carry a payload of 2,500 tonnes.",
-      "category": "Science & Technology",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/skyroots-vikram-1-lift-off-maiden-orbital-mission-why-the-launch-matters-what-the-rocket-can-do-10791976/",
-      "relevance_score": 0.8902,
-      "published_date": "2026-07-18"
-    },
-    {
       "id": 7573,
       "title": "HARMAN collaborates with city university on automobile tech",
       "summary": "• Harman is a leading manufacturer of cars and other vehicles.\n• The company is based in New York City and has offices across the city.\n• It also has its own car-sharing service, called Harman Mobility, in the U.S. It is owned by German carmaker Daimler, which has its headquarters in Germany.",
       "category": "Science & Technology",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/karnataka/harman-collaborates-with-city-university-on-automobile-tech/article71211570.ece",
+      "relevance_score": 0.8902,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": 7524,
+      "title": "Vikram-1 lifts off: Skyroot launches India’s first private orbital-class rocket",
+      "summary": "• Skyroot: Vikram 1 is first of its kind in the world.\n• The rocket will be used to launch satellites and other payloads into space.\n• The launch is scheduled to take place on November 25 and 26.\n• The Vikram rocket will carry a payload of 2,500 tonnes.",
+      "category": "Science & Technology",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/skyroots-vikram-1-lift-off-maiden-orbital-mission-why-the-launch-matters-what-the-rocket-can-do-10791976/",
       "relevance_score": 0.8902,
       "published_date": "2026-07-18"
     },
@@ -611,22 +691,22 @@
       "published_date": "2026-07-18"
     },
     {
-      "id": 7568,
-      "title": "Why the Supreme Court questioned the two-child rule for panchayat elections",
-      "summary": "• The Supreme Court said the rule should not apply to children under the age of 12.\n• The court also said that the rule must be relaxed to allow children under 12 to run for local bodies.\n• The rule was introduced after a petition was filed by a local council member.\n• The case was heard by a three-judge bench of the high court.",
-      "category": "Polity & Governance",
-      "source": "Indian Express - Explained",
-      "url": "https://indianexpress.com/article/explained/explained-law/supreme-court-two-child-rule-panchayat-elections-10792797/",
-      "relevance_score": 0.8757,
-      "published_date": "2026-07-18"
-    },
-    {
       "id": 7502,
       "title": "D-Day for India's private space dreams: Skyroot's Vikram-1 to launch today",
       "summary": "• Skyroot is a joint venture between Skyroot and India's state-owned space exploration company, Indian Space Agency.\n• Vikram will be India's first privately-owned private space vehicle.\n• The launch is scheduled to take place on November 14.\n• The project is expected to cost around $1.5 billion.",
       "category": "Science & Technology",
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/science/story/skyroots-vikram-1-to-launch-today-indias-private-space-dream-faces-biggest-test-2950131-2026-07-18?utm_source=rss",
+      "relevance_score": 0.8757,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": 7568,
+      "title": "Why the Supreme Court questioned the two-child rule for panchayat elections",
+      "summary": "• The Supreme Court said the rule should not apply to children under the age of 12.\n• The court also said that the rule must be relaxed to allow children under 12 to run for local bodies.\n• The rule was introduced after a petition was filed by a local council member.\n• The case was heard by a three-judge bench of the high court.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - Explained",
+      "url": "https://indianexpress.com/article/explained/explained-law/supreme-court-two-child-rule-panchayat-elections-10792797/",
       "relevance_score": 0.8757,
       "published_date": "2026-07-18"
     },
@@ -19919,88 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/the-hindu-huddle-panel-to-throw-light-on-ai-and-its-impact/article71045452.ece",
       "relevance_score": 0.863,
       "published_date": "2026-05-31"
-    },
-    {
-      "id": 4916,
-      "title": "IPL Rollercoaster: Hazlewood’s counterpunch, Unsung Rasikh & King Kohli on a kill",
-      "summary": "• Virat Kohli is the star of this year's IPL season.\n• Kohli has scored more runs than any other player in the tournament so far.\n• He has also taken more wickets than anyone else in the IPL so far this year.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/ipl-rollercoaster-hazlewoods-counterpunch-unsung-rasikh-king-kohli-on-a-kill-10717434/",
-      "relevance_score": 0.8624,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4897,
-      "title": "New Navy chief focuses on readiness, technology, modernisation",
-      "summary": "• New Navy chief will be based in Portsmouth, Hampshire, and will be in charge of the Royal Navy for the next five years.\n• He will also be responsible for the Royal Marines, Royal Marines Helicopter Wing, and Royal Marines Air Force.\n• The Royal Navy is the Navy's largest helicopter carrier, with a fleet of more than 1,000 ships and submarines.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/new-navy-chief-admiral-krishna-swaminathan/article71043965.ece",
-      "relevance_score": 0.8589,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4888,
-      "title": "Trump says Iran has agreed to no nuclear weapons",
-      "summary": "• Trump says Iran agrees to no nuke weapons.\n• Iran has been accused of trying to develop nuclear weapons in the past.\n• Iran denies ever having nuclear weapons, says it has agreed not to do so in future talks with the West.\n• The U.S. has been negotiating with Iran for years over its nuclear program, but no deal has been reached.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/trump-says-iran-has-agreed-to-no-nuclear-weapons/article71044082.ece",
-      "relevance_score": 0.8538,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4895,
-      "title": "New battery policy favouring only Ambani and Adani groups: Kavitha",
-      "summary": "• Ambani, Adani are two of India's richest and most powerful families.\n• Kavitya is the daughter of billionaire industrialist Anil Ambani.\n• She has worked for the Adani group for more than a decade in India.\n• She is also a member of the board of directors of the Mumbai-based Adani Group.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/telangana/new-battery-policy-favouring-only-ambani-and-adani-groups-kavitha/article71044505.ece",
-      "relevance_score": 0.8487,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4910,
-      "title": "You Can Use OpenAI, Anthropic Shares To Pay For Rs 28 Crore Luxury Home In San Francisco",
-      "summary": "• You can Use Open AI, Anthropics Shares To pay For Rs28 Croreluxury Home in San Francisco, says OpenAI.\n• See the rest of the story in this week's Daily Discussion.\n• Follow the Daily Discussion on Facebook and Twitter.",
-      "category": "Science & Technology",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/world/you-can-use-openai-anthropic-shares-to-pay-for-rs-28-crore-luxury-home-in-san-francisco-ws-l-10122893.html",
-      "relevance_score": 0.8452,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4900,
-      "title": "Asian U-20 Athletics | Women’s relay gold caps India’s strong Asian U-20 campaign",
-      "summary": "• India won gold in the men’t compete in the 4x100m, 4x400m and 4x800m relay events.\n• India also won the 4X100m relay gold at the 2014 Asian Games in Incheon, South Korea.\n• The team also won a gold medal in the 3x400-metre relay.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/athletics/asian-u-20-athletics-womens-relay-gold-caps-indias-strong-asian-u-20-campaign/article71044782.ece",
-      "relevance_score": 0.8437,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4911,
-      "title": "Vaibhav Sooryavanshi wins IPL 2026 Orange Cap",
-      "summary": "• India's most successful player in IPL history wins his second title in a row.\n• He has also won the title three times in the last four seasons.\n• He is the first Indian player to win back-to-back titles in the IPL's 2026 edition.\n• He was also the first player to do so in three consecutive seasons.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/ipl/vaibhav-sooryavanshi-wins-orange-cap-ipl-2026-most-runs-batting-stats-performance/article71045176.ece",
-      "relevance_score": 0.8378,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4891,
-      "title": "‘Show the terrorists' faces!’: Rahul Gandhi meets Vedant, student at centre of CBSE row, mocks familiar insults",
-      "summary": "• Vedant is one of the students at the centre of the row.\n• Rahul Gandhi met Vedant after he was suspended from CBSE for a week.\n• He was also suspended from school for three months for a row over a word ‘f******’.",
-      "category": "National News",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/17yearold-anti-nationals-rahul-gandhi-meets-vedant-student-at-centre-of-cbse-class-12-marking-system-row-101780214986550.html",
-      "relevance_score": 0.8368,
-      "published_date": "2026-05-31"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-20T03:27:11.265186Z"
+  "updated_at": "2026-07-20T06:43:22.383221Z"
 }
