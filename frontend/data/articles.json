@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": 7613,
+      "title": "Crowd swells at CJP protest site ahead of Parliament march",
+      "summary": "• CJP to march to Parliament in protest against the government's handling of gay marriage.\n• C JP to march in support of same-sex marriage for same sex couples.\n• The march will take place in front of the Houses of Parliament in London on Wednesday.\n• The CJP will also march to the House of Commons on Thursday.\n• The protest will be followed by a march to Westminster.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/cjps-vigil-begins-crowds-camp-at-jantar-mantar-on-eve-of-parliament-march-call/article71242700.ece",
+      "relevance_score": 0.8709,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7624,
+      "title": "FIFA World Cup Reactions — Spain wins second title as Lionel Messi bows out with 1-0 defeat",
+      "summary": "• Spain win second title with Lionel Messi's Lionel Messi misses out on a place in the quarter-finals.\n• Spain beat Argentina to win the World Cup for the second time in their history.\n• Spain won the tournament for the first time in 1978 and the last time in 1986.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/spain-wins-fifa-world-cup-2026-live-reactions-social-media-esp-vs-arg/article71242895.ece",
+      "relevance_score": 0.8459,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7626,
+      "title": "Spain chokes Messi, Argentina to lift second FIFA World Cup title, rides on Torres’ winner",
+      "summary": "• Spain beat Argentina 2-1 in extra-time to win second World Cup in a row.\n• Spain had previously won the tournament in 1986 and 1990.\n• Argentina won the World Cup for the first time in 1986, and last time in 1990.\n• Spain won the title for the second time in 2002, and third time in 2006.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/spain-beats-lionel-messi-argentina-wins-fifa-world-cup-2026-ferran-torres-goal-in-1-0-victory/article71242959.ece",
+      "relevance_score": 0.8346,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7621,
+      "title": "India's first electric air taxi takes wings, preps for a 2028 launch",
+      "summary": "• It will be the first of its kind in the country, and will be powered by an electric battery.\n• The first flight is expected to take off from the outskirts of the capital, New Delhi, in 2028.\n• The second flight is scheduled to take place from the city's outskirts in 2029.\n• The third flight is planned for the city centre in 2031.",
+      "category": "Science & Technology",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/electric-air-taxi-prototype-eplane-company-uber-iitm-urban-mobility-startups-technology-aviation-11784432958226.html",
+      "relevance_score": 0.8329,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7622,
+      "title": "Heavy Rain, Flash Flood Risk In Many States As Monsoon Intensifies; Delhi, Mumbai, J&K On Weather Watch",
+      "summary": "• Heavy Rain, Flash Flood Risk In Many States As Monsoon Intensifies.\n• Delhi, Mumbai, J&K On Weather Watch; Mumbai, Delhi, J &K on Weather Watch.\n• Flood Risk in many States as Monoon Intensifying; Delhi,.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/heavy-rain-alert-imd-weather-forecast-states-delhi-mumbai-himachal-uttar-pradesh-northeast-rain-ws-l-10222239.html",
+      "relevance_score": 0.8062,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7614,
+      "title": "Curbing talent exodus: It’s deja vu for Indian Space Research Organisation",
+      "summary": "• Indian Space Research Organisation (ISRO) is one of the world's largest space research organisations.\n• The organisation has been trying to recruit more scientists and engineers for the past few years.\n• It has been accused of losing out on some of the best talent in the world to the likes of Nasa and the European Space Agency.\n• The agency is now trying to stem the flow of talent to the US and Europe.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/curbing-talent-exodus-its-deja-vu-for-indian-space-research-organisation/article71241329.ece",
+      "relevance_score": 0.8004,
+      "published_date": "2026-07-20"
+    },
+    {
       "id": 7578,
       "title": "The race for low Earth orbit: What the launch of Vikram-1 means for India",
       "summary": "• The launch is part of India's bid to become a major player in the low earth orbit space race.\n• Vikram is the first Indian rocket to be launched into space.\n• It will carry the country's first satellite into orbit.\n• The mission is scheduled to take off from Sriharikota in the morning.",
@@ -31,6 +91,16 @@
       "published_date": "2026-07-19"
     },
     {
+      "id": 7617,
+      "title": "APSRTC readies green transport ahead of Bhogapuram airport inauguration",
+      "summary": "• APSRTC is one of the leading transport companies in India.\n• The airport will be the first of its kind in the state.\n• It is expected to be operational by the end of the year at a cost of around $1.5 billion.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "National News",
+      "source": "The Hindu - Andhra Pradesh",
+      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/apsrtc-readies-green-transport-ahead-of-bhogapuram-airport-inauguration/article71241444.ece",
+      "relevance_score": 0.8984,
+      "published_date": "2026-07-19"
+    },
+    {
       "id": 7606,
       "title": "Environmental groups protest proposed data centres in Visakhapatnam",
       "summary": "• They say data centres could be used to store personal data of millions of people.\n• The data centres would also be used as a source of information for the government.\n• The centres will also help in the development of the country's information technology sector, the government says.",
@@ -38,6 +108,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/environmental-groups-protest-proposed-data-centres-in-visakhapatnam/article71242040.ece",
       "relevance_score": 0.8956,
+      "published_date": "2026-07-19"
+    },
+    {
+      "id": 7618,
+      "title": "Spain vs Argentina Highlights: Lionel Messi leaves in tears as Spain crowned 2026 FIFA World Champions",
+      "summary": "• Lionel Messi leaves in tears as Spain crowned World champions.\n• Spain beat Argentina 1-0 to win the World Cup for the first time in their history.\n• Spain are the first nation to win back-to-back World Cups.\n• Argentina were the first team to win a World Cup since 1986.\n• Spain won the last three World Cups in a row between 1986 and 1990.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/spain-vs-argentina-live-score-esp-vs-arg-fifa-world-cup-2026-final-today-20-july-latest-score-lionel-messi-yamal-101784478900371.html",
+      "relevance_score": 0.8822,
       "published_date": "2026-07-19"
     },
     {
@@ -128,6 +208,16 @@
       "source": "News18 - World",
       "url": "https://www.news18.com/videos/breaking-news/experts-debate-pakistan-s-role-asim-munir-and-israel-iran-peace-breakdown-world-news-news18-10221393.html",
       "relevance_score": 0.835,
+      "published_date": "2026-07-19"
+    },
+    {
+      "id": 7627,
+      "title": "Spain vs Argentina player ratings, FIFA World Cup 2026: La Roja secures second title after edging La Albiceleste",
+      "summary": "• Spain beat Argentina 1-0 to win their second World Cup title.\n• La Roja will host the tournament for the first time in 2026.\n• The tournament will be held in the United States, Canada and Mexico.\n• The World Cup will take place between June 15 and July 15, 2026 in New York City and Rio de Janeiro.\n• The final will be played at the Maracana.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/spain-vs-argentina-player-ratings-fifa-world-cup-2026-goals-stats-performance-ferran-torres/article71242881.ece",
+      "relevance_score": 0.834,
       "published_date": "2026-07-19"
     },
     {
@@ -451,22 +541,22 @@
       "published_date": "2026-07-18"
     },
     {
-      "id": 7573,
-      "title": "HARMAN collaborates with city university on automobile tech",
-      "summary": "• Harman is a leading manufacturer of cars and other vehicles.\n• The company is based in New York City and has offices across the city.\n• It also has its own car-sharing service, called Harman Mobility, in the U.S. It is owned by German carmaker Daimler, which has its headquarters in Germany.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/harman-collaborates-with-city-university-on-automobile-tech/article71211570.ece",
-      "relevance_score": 0.8902,
-      "published_date": "2026-07-18"
-    },
-    {
       "id": 7524,
       "title": "Vikram-1 lifts off: Skyroot launches India’s first private orbital-class rocket",
       "summary": "• Skyroot: Vikram 1 is first of its kind in the world.\n• The rocket will be used to launch satellites and other payloads into space.\n• The launch is scheduled to take place on November 25 and 26.\n• The Vikram rocket will carry a payload of 2,500 tonnes.",
       "category": "Science & Technology",
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/skyroots-vikram-1-lift-off-maiden-orbital-mission-why-the-launch-matters-what-the-rocket-can-do-10791976/",
+      "relevance_score": 0.8902,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": 7573,
+      "title": "HARMAN collaborates with city university on automobile tech",
+      "summary": "• Harman is a leading manufacturer of cars and other vehicles.\n• The company is based in New York City and has offices across the city.\n• It also has its own car-sharing service, called Harman Mobility, in the U.S. It is owned by German carmaker Daimler, which has its headquarters in Germany.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/harman-collaborates-with-city-university-on-automobile-tech/article71211570.ece",
       "relevance_score": 0.8902,
       "published_date": "2026-07-18"
     },
@@ -661,22 +751,22 @@
       "published_date": "2026-07-18"
     },
     {
-      "id": 7541,
-      "title": "'Historic New Frontier': PM Modi Hails Skyroot's Vikram-1 Ahead Of Maiden Launch",
-      "summary": "• Skyroot: Vikram will be the world's first self-driving car.\n• PM Modi hails Vikram as an 'historic new frontier' for India.\n• Vikram is a joint venture between Skyroot and India's state-run Air Force, the Air Force Reserve, and the Indian Air Force.",
-      "category": "Science & Technology",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/historic-new-frontier-pm-modi-hails-skyroots-vikram-1-ahead-of-maiden-launch-ws-l-10219430.html",
-      "relevance_score": 0.8364,
-      "published_date": "2026-07-18"
-    },
-    {
       "id": 7585,
       "title": "India rolls out 'White Rabbit' tech to secure Indian Standard Time network: What it means",
       "summary": "• India rolls out White Rabbit technology to secure the country's time zone.\n• India has been using GMT for more than a decade.\n• It is the world's second-largest time zone after the United States.\n• India is the first country to roll out the system in the 1990s, and has since become a major time zone player.",
       "category": "Science & Technology",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/india-rolls-out-white-rabbit-tech-to-secure-indian-standard-time-network-what-it-means/articleshow/132485935.cms",
+      "relevance_score": 0.8364,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": 7541,
+      "title": "'Historic New Frontier': PM Modi Hails Skyroot's Vikram-1 Ahead Of Maiden Launch",
+      "summary": "• Skyroot: Vikram will be the world's first self-driving car.\n• PM Modi hails Vikram as an 'historic new frontier' for India.\n• Vikram is a joint venture between Skyroot and India's state-run Air Force, the Air Force Reserve, and the Indian Air Force.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/historic-new-frontier-pm-modi-hails-skyroots-vikram-1-ahead-of-maiden-launch-ws-l-10219430.html",
       "relevance_score": 0.8364,
       "published_date": "2026-07-18"
     },
@@ -19909,98 +19999,8 @@
       "url": "https://www.hindustantimes.com/india-news/17yearold-anti-nationals-rahul-gandhi-meets-vedant-student-at-centre-of-cbse-class-12-marking-system-row-101780214986550.html",
       "relevance_score": 0.8368,
       "published_date": "2026-05-31"
-    },
-    {
-      "id": 4901,
-      "title": "Iran's top negotiator sets condition for peace deal: 'No agreement with US till...'",
-      "summary": "• Iran's top negotiator sets condition for peace deal: 'No agreement with US till...' Iran's president has said he will not sign a deal with the U.S. without a U.N.\n• Iran's supreme leader has also said he won't sign an agreement with the US without a congressional vote.\n• Iran has been at odds with the United States for years over its nuclear program.",
-      "category": "International Relations",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/iran-top-negotiator-bagher-ghalibaf-says-no-deal-with-us-till-rights-are-secured-as-talks-hit-deadlock-war-donald-trum-101780224078166.html",
-      "relevance_score": 0.8337,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4893,
-      "title": "U.K. Foreign Secretary to visit India, China for talks on global challenges",
-      "summary": "• U.S. Secretary of State for State John Kerry will also travel to India and China.\n• Kerry will be accompanied by British Foreign Secretary William Hague and Indian Foreign Minister Sushma Swaraj.\n• The visit is scheduled to take place over the course of two days in Delhi and Shanghai.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "International Relations",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/uk-foreign-secretary-to-visit-india-china-for-talks-on-global-challenges/article71044355.ece",
-      "relevance_score": 0.8313,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4908,
-      "title": "The short story: How RCB attack ran through Gujarat Titans in IPL final",
-      "summary": "• RCB attacked Gujarat Titans' defence to win the IPL title for the first time in their history.\n• Gujarat Titans lost to RCB for the second time in three years in the final.\n• The last time, Gujarat Titans beat RCB in the title match in 2010.\n• Gujarat won the final in 2010, but lost in the semi-final in 2011.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/the-short-story-how-rcb-attack-ran-through-gujarat-titans-in-ipl-final-10717340/",
-      "relevance_score": 0.8287,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4919,
-      "title": "Banks seek easing of guarantee curbs to draw more NRI funds",
-      "summary": "• NRI fund is one of the biggest single source of foreign investment in the United States.\n• Banks seek to attract more foreign investment by offering guarantees to NRIs.\n• They are also seeking to tap into the growing pool of NRI investment in U.S. and other developed economies.\n• The move is seen as a way to boost their NRI funding sources.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/banks-seek-easing-of-guarantee-curbs-to-draw-more-nri-funds/articleshow/131431564.cms",
-      "relevance_score": 0.8242,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4894,
-      "title": "Asian U20 Athletics Day 4: Women’s relay gold caps India’s strong Asian U20 campaign",
-      "summary": "• India won gold in the women's 4x100m and 4x400m relay events.\n• India also won the 4x200m relay gold at the 2014 Asian Games in Incheon, South Korea.\n• India have won three gold medals at the Asian Games so far this year.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/athletics/asian-u20-athletics-india-results-day-4-today-national-records-latest-updates/article71044392.ece",
-      "relevance_score": 0.8196,
-      "published_date": "2026-05-31"
-    },
-    {
-      "id": 4824,
-      "title": "RBI's Currency Makeover: Why Polymer Notes Are Important",
-      "summary": "• RBI to introduce polymer notes in place of gold and silver notes.\n• The new notes are expected to be introduced by the end of the year.\n• For more on the new notes, watch CNN.com's special coverage of India's currency makeover, \"India's New Notes\" on Thursday, Friday and Saturday at 8 p.m.",
-      "category": "Economy & Banking",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/reserve-bank-of-india-rbi-currency-makeover-why-polymer-notes-are-important-11566885#publisher=newsstand",
-      "relevance_score": 0.9677,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4850,
-      "title": "Chittoor SP launches QR-based auto safety initiative for public safety",
-      "summary": "• Chittoor is a state-run transport authority based in the Indian city of Chandigarh.\n• The initiative aims to improve road safety in the state.\n• It also aims to reduce road accidents and road accidents in the city.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-sp-launches-qr-based-auto-safety-initiative-for-public-safety/article71041252.ece",
-      "relevance_score": 0.9498,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4856,
-      "title": "Congress vs regional parties: Why assembly election results may not change INDIA bloc’s power dynamics",
-      "summary": "• Congress vs regional party: Why election results might not change India bloc�'s power dynamics, says CNN-IBN's Anil Mathur.\n• Mathur: Election results could not change the power dynamics of the Indian political system.\n• He says the results could be a setback for the ruling Congress party.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/congress-vs-regional-parties-why-assembly-election-results-may-not-change-india-blocs-power-dynamics/articleshow/131408676.cms",
-      "relevance_score": 0.94,
-      "published_date": "2026-05-30"
-    },
-    {
-      "id": 4844,
-      "title": "Defence secretary meets officials from Australia, EU, Netherlands in Singapore",
-      "summary": "• Defence secretary meets with officials from Australian, EU and Netherlands to discuss defence policy.\n• Defence Secretary Philip Hammond in Singapore for talks with foreign ministers from the EU, Australia, Netherlands and the UK.\n• He will also meet officials from the UK, Australia and New Zealand in the city-state later in the week.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "International Relations",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/defence-secretary-meets-officials-from-australia-eu-netherlands-in-singapore/article71041072.ece",
-      "relevance_score": 0.9377,
-      "published_date": "2026-05-30"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-19T16:59:47.974710Z"
+  "updated_at": "2026-07-20T03:27:11.265186Z"
 }
