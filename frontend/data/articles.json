@@ -61,12 +61,12 @@
       "published_date": "2026-07-21"
     },
     {
-      "id": 7706,
-      "title": "Haryana Police stop Punjab farmers at Khanauri border en route to Delhi",
-      "summary": "• Police say they were on their way to Haryana from Punjab.\n• Police: Farmers were on way to Delhi to sell their produce to a Delhi-based company.\n• They were stopped by police at the border for not paying taxes.\n• The farmers were later released by the police and returned to their home state of Punjab.",
-      "category": "State News",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/india/story/farmers-protest-in-delhi-live-updates-shambhu-border-india-us-trade-deal-2952512-2026-07-21?utm_source=rss",
+      "id": 7708,
+      "title": "Parliament Monsoon Session LIVE: Lok Sabha, Rajya Sabha Adjourned Till 12 PM Over Opposition Uproar",
+      "summary": "• Rajya Parliament Monsoonsession LIVE: Parliament adjourns until 12 PM.\n• Lok House MonsoonSession LIVE: See how the session unfolded here.\n• Lok Sankhya Sabha LIVE: Watch the session unfold here.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/parliament-monsoon-session-2026-live-updates-timings-lok-sabha-rajya-sabha-july-21-pm-modi-rahul-gandhi-liveblog-ws-l-10224115.html",
       "relevance_score": 0.91,
       "published_date": "2026-07-21"
     },
@@ -81,12 +81,22 @@
       "published_date": "2026-07-21"
     },
     {
-      "id": 7708,
-      "title": "Parliament Monsoon Session LIVE: Lok Sabha, Rajya Sabha Adjourned Till 12 PM Over Opposition Uproar",
-      "summary": "• Rajya Parliament Monsoonsession LIVE: Parliament adjourns until 12 PM.\n• Lok House MonsoonSession LIVE: See how the session unfolded here.\n• Lok Sankhya Sabha LIVE: Watch the session unfold here.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/parliament-monsoon-session-2026-live-updates-timings-lok-sabha-rajya-sabha-july-21-pm-modi-rahul-gandhi-liveblog-ws-l-10224115.html",
+      "id": 7743,
+      "title": "Delhi, Gujarat, Maharashtra to witness extreme rain Wednesday, South to stay dry",
+      "summary": "• South of Delhi expected to see the least amount of rain so far this year.\n• South India expected to get the most rain, followed by the north.\n• South is expected to be the driest part of the country.\n• South, north and east will be the rainiest.",
+      "category": "State News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/science/story/imd-rain-forecast-extreme-rain-gujarat-madhya-maharashtra-south-india-subdued-delhi-monsoon-2953047-2026-07-21?utm_source=rss",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7706,
+      "title": "Haryana Police stop Punjab farmers at Khanauri border en route to Delhi",
+      "summary": "• Police say they were on their way to Haryana from Punjab.\n• Police: Farmers were on way to Delhi to sell their produce to a Delhi-based company.\n• They were stopped by police at the border for not paying taxes.\n• The farmers were later released by the police and returned to their home state of Punjab.",
+      "category": "State News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/farmers-protest-in-delhi-live-updates-shambhu-border-india-us-trade-deal-2952512-2026-07-21?utm_source=rss",
       "relevance_score": 0.91,
       "published_date": "2026-07-21"
     },
@@ -121,6 +131,16 @@
       "published_date": "2026-07-21"
     },
     {
+      "id": 7735,
+      "title": "Roblox launches AI-powered Build tool, expands Hindi support across platform",
+      "summary": "• Roblox also rolls out Hindi support for the first time on the platform.\n• The tool is available in English, Hindi, Tamil and Kannada languages.\n• The company is also rolling out a Hindi version of its Build tool in English and Hindi.",
+      "category": "Science & Technology",
+      "source": "Indian Express - Technology",
+      "url": "https://indianexpress.com/article/technology/gaming/roblox-launches-ai-powered-build-tool-expands-hindi-support-across-platform-10796900/",
+      "relevance_score": 0.8977,
+      "published_date": "2026-07-21"
+    },
+    {
       "id": 7719,
       "title": "Engineering from Chaitanya Bharathi and no IIT, Uday Ruddarraju is now OpenAI CTO",
       "summary": "• He is also the co-founder and CTO of the start-up OpenAI.\n• He has worked for Google, Facebook, Twitter, and others.\n• He also has a PhD in computer science from the University of California, San Francisco.\n• He's also the founder and CEO of OpenAI, which was founded in 2012.",
@@ -141,6 +161,36 @@
       "published_date": "2026-07-21"
     },
     {
+      "id": 7732,
+      "title": "FIFA World Cup Final: Spain chokes Messi and Argentina to lift second title, rides on Torres’ winner",
+      "summary": "• Spain beat Argentina 1-0 to win the World Cup for the second time in their history.\n• Spain had previously won the tournament in 1986 and 1990.\n• Argentina had won the title in 1990 and 2002.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/spain-wins-fifa-world-cup-2026-with-ferran-torres-score/article71242924.ece",
+      "relevance_score": 0.8776,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7739,
+      "title": "A New Compact Instrument Enables High-Fidelity Measurements of Energetic Particles on CubeSats",
+      "summary": "• A New Compact instrument Enables high-fidelity Measurement of Eenergetic Particle on Cube Sats.\n• The CubeSat is a CubeSat with a built-in CubeSat payload.\n• It is the first CubeSat to be equipped with an onboard accelerometer.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/a-new-compact-instrument-enables-high-fidelity-measurements-of-energetic-particles-on-cubesats/",
+      "relevance_score": 0.8727,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7745,
+      "title": "Commonwealth Games 2026 Quiz — Set 2",
+      "summary": "• Quiz is part of a series of tests to prepare for the 2026 Commonwealth Games in Rio de Janeiro.\n• The quiz is set at the beginning of the Games, and the end of the games.\n• The questions are based on the events of the Commonwealth Games of 2026, which will take place in Brazil.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/commonwealth-games/quiz/commonwealth-games-2026-cwg-quiz-set-2-india-trivia-records-stats-facts/article71249796.ece",
+      "relevance_score": 0.8682,
+      "published_date": "2026-07-21"
+    },
+    {
       "id": 7701,
       "title": "A month of firsts, farewells & Ferran Torres: A Fifa World Cup 2026 recap",
       "summary": "• World Cup in 2026 will take place in South Africa, Brazil and Costa Rica.\n• The tournament will be the first to be held in South America.\n• It will also be hosted for the first time in the history of the tournament.\n• The first World Cup to be hosted by South Africa was in 1966.",
@@ -148,6 +198,16 @@
       "source": "Hindustan Times - Sports",
       "url": "https://www.hindustantimes.com/specials/fifa-world-cup-2026-ht-immersive-spain-argentina-messi-101784608453300.html",
       "relevance_score": 0.868,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7731,
+      "title": "FIFA World Cup 2026: A grand spectacle though not without flaws",
+      "summary": "• 2026 World Cup will be the first to be held in North and Central America and South America.\n• It will take place in the United States, Mexico, Canada and Costa Rica.\n• The tournament will be held from June 20 to July 20, 2026.\n• The cost of the tournament is estimated to be $150 billion.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-a-grand-spectacle-though-not-without-flaws/article71249621.ece",
+      "relevance_score": 0.8614,
       "published_date": "2026-07-21"
     },
     {
@@ -161,6 +221,16 @@
       "published_date": "2026-07-21"
     },
     {
+      "id": 7744,
+      "title": "Gujarat sets new benchmark in clean energy transition; cuts 49.79 million tonnes of carbon emissions in single year",
+      "summary": "• Gujarat set new benchmarks in clean power transition.\n• Gujarat: Clean energy transition in India is a big step forward for the country and the world.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here.",
+      "category": "Science & Technology",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/gujarat-cuts-record-49-79-million-tonnes-carbon-emissions-fy-2025-26-renewable-energy-100gw-target-2030-3062224.html",
+      "relevance_score": 0.8561,
+      "published_date": "2026-07-21"
+    },
+    {
       "id": 7702,
       "title": "Secretary-General of ASEAN meets with Minister for Foreign Affairs of Australia in Manila",
       "summary": "• Secretary-General and Australian Foreign Minister meet in Manila to discuss ASEan-ASEAN relations.\n• Meeting is first meeting between the two countries' foreign ministers in more than a decade.\n• Australia has been a key member of the group since it was formed in 1972.\n• ASEans are the largest group of nations in the world, followed by China and the United States.",
@@ -171,6 +241,16 @@
       "published_date": "2026-07-21"
     },
     {
+      "id": 7741,
+      "title": "RBI aims to simplify foreign investment rules, seeks comments by 31 August",
+      "summary": "• RBI seeks comments on proposed changes to rules on foreign investment in Indian banks, NBFCs, insurance companies, among others.\n• The comments are expected to be made on August 31 and September 1.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.",
+      "category": "Economy & Banking",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/rbi-aims-to-simplify-foreign-investment-rules-seeks-comments-by-31-august-11784634765124.html",
+      "relevance_score": 0.8541,
+      "published_date": "2026-07-21"
+    },
+    {
       "id": 7703,
       "title": "ASEAN Foreign Ministers’ Statement on the Evolving Situation in the Middle East",
       "summary": "• ASEAN foreign ministers’ statement on theevolving situation in the Mideast.\n• Asean foreign ministers' statement: The Middle East is a complex and complex region.\n• The situation is evolving in a number of ways, the statement says.",
@@ -178,6 +258,16 @@
       "source": "ASEAN Secretariat",
       "url": "https://asean.org/asean-foreign-ministers-statement-on-the-evolving-situation-in-the-middle-east/",
       "relevance_score": 0.8487,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7742,
+      "title": "Iran minister meets Sharif, Munir as Pakistan pushes US-Iran de-escalation",
+      "summary": "• Pakistan has been at odds with the U.S. over its nuclear program with Iran.\n• The two countries have a long-standing dispute over the Strait of Hormuz, a key Strait ofacca.\n• Iran is believed to be close to the Strait, which is a key chokepoint for the Strait.",
+      "category": "International Relations",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/world/story/iran-pakistan-talks-momeni-meets-shehbaz-sharif-asim-munir-amid-us-iran-tensions-ptag-2953069-2026-07-21?utm_source=rss",
+      "relevance_score": 0.8472,
       "published_date": "2026-07-21"
     },
     {
@@ -241,6 +331,16 @@
       "published_date": "2026-07-21"
     },
     {
+      "id": 7736,
+      "title": "Eastern states resolve to strengthen coordination against LWE, organized crime & other challenges",
+      "summary": "• Eastern states will work together to combat LWE and other challenges, officials say.\n• LWE is an acronym for the Latin American Word of War (LW) and is used to refer to a wide range of criminal activities in the region.\n• LW is also used as a tool to fight organized crime and other criminal activities.",
+      "category": "International Relations",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/eastern-states-resolve-to-strengthen-coordination-against-lwe-organized-crime-other-challenges-101784631734850.html",
+      "relevance_score": 0.8105,
+      "published_date": "2026-07-21"
+    },
+    {
       "id": 7717,
       "title": "'Voice of Mars for NASA' Applauds Skyroot On Maiden Success Of Vikram-1",
       "summary": "• Skyroot's Vikram is the first mission to land on Mars.\n• The mission is scheduled to begin operations in 2015.\n• Vikram will send a rover to the surface of the red planet in 2016.\n• It is expected to send back images of the Martian surface in 2017.\n• The project is a collaboration between Skyroot and NASA.",
@@ -248,6 +348,16 @@
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/mission-aagaman-voice-of-mars-for-nasa-applauds-skyroot-on-maiden-success-of-vikram-1-rocket-11800008#publisher=newsstand",
       "relevance_score": 0.8099,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7738,
+      "title": "Brazil's Vinicius Jr undergoes chin harmonisation procedure, looks unrecognisable post FIFA World Cup",
+      "summary": "• Brazil star has been undergoing the procedure since the World Cup in Brazil.\n• Brazil team-mate Neymar has also undergone the procedure.\n• Brazil's team-mates have also been undergoing chin-harmonisation procedures.\n• Click here for all the latest from the World cup 2014 in Brazil and beyond.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/brazils-vinicius-jr-undergoes-chin-harmonisation-procedure-looks-unrecognisable-post-fifa-world-cup-101784639002592.html",
+      "relevance_score": 0.8003,
       "published_date": "2026-07-21"
     },
     {
@@ -271,22 +381,22 @@
       "published_date": "2026-07-20"
     },
     {
-      "id": 7677,
-      "title": "Monsoon Session: PM Modi Urges Parliament to Engage In Respectful Debate As Opposition Protests| TRS",
-      "summary": "• The Monsoon Session of Parliament has begun amid disruptions, sloganeering, and protests by Opposition parties.\n• Prime Minister Narendra Modi appealed for constructive debate and urged lawmakers to make the session productive.\n• Opposition leaders intensified their protests, insisting on discussions over issues they say require immediate government accountability.\n• With crucial legislation expected to be introduced and political tensions running high, the Monsoon session is set to witness intense debates and dramatic confrontations in both the Lok Sabha and Rajya Sabha.\n• The Monsoon Session of Parliament has begun amid repeated disruptions, sloganeering, and protests by Opposition parties demanding accountability from the government on several key issues, including the NEET paper leak.Addressing the media ahead of the session, Prime Minister Narendra Modi appealed….",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/monsoon-session-pm-modi-urges-parliament-to-engage-in-respectful-debate-as-opposition-protests-trs-10223827.html",
-      "relevance_score": 0.95,
-      "published_date": "2026-07-20"
-    },
-    {
       "id": 7668,
       "title": "Can the Opposition Stay United? Delimitation Row Widens Congress-DMK Divide | 5PM Brief",
       "summary": "• The political battle over the Delimitation Bill has intensified ahead of the Monsoon Session of Parliament.\n• The issue has emerged as a key flashpoint within the Opposition, raising questions about the future of opposition unity.\n• The Centre has maintained that any decision on delimitation will follow constitutional provisions.\n• But opposition parties remain divided over its potential impact on political representation, particularly for southern states.",
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/can-the-opposition-stay-united-delimitation-row-widens-congress-dmk-divide-5pm-brief-10223512.html",
+      "relevance_score": 0.95,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7677,
+      "title": "Monsoon Session: PM Modi Urges Parliament to Engage In Respectful Debate As Opposition Protests| TRS",
+      "summary": "• The Monsoon Session of Parliament has begun amid disruptions, sloganeering, and protests by Opposition parties.\n• Prime Minister Narendra Modi appealed for constructive debate and urged lawmakers to make the session productive.\n• Opposition leaders intensified their protests, insisting on discussions over issues they say require immediate government accountability.\n• With crucial legislation expected to be introduced and political tensions running high, the Monsoon session is set to witness intense debates and dramatic confrontations in both the Lok Sabha and Rajya Sabha.\n• The Monsoon Session of Parliament has begun amid repeated disruptions, sloganeering, and protests by Opposition parties demanding accountability from the government on several key issues, including the NEET paper leak.Addressing the media ahead of the session, Prime Minister Narendra Modi appealed….",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/monsoon-session-pm-modi-urges-parliament-to-engage-in-respectful-debate-as-opposition-protests-trs-10223827.html",
       "relevance_score": 0.95,
       "published_date": "2026-07-20"
     },
@@ -308,16 +418,6 @@
       "source": "The Hindu - Tamil Nadu",
       "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/how-tamil-nadu-waited-for-assembly-election-results-over-the-decades/article70918095.ece",
       "relevance_score": 0.94,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7628,
-      "title": "Sharad Pawar’s next move? The inside story of Maharashtra’s political drama | Pulse Maharashtra",
-      "summary": "• The political drama in Maharashtra refuses to die down!.\n• From secret late-night meetings between CM Devendra Fadnavis and NCP leaders to Eknath Shinde’s sudden Delhi visit, the state's political alignments are shifting fast.\n• In this episode of Pulse Maharashtra, Vinaya Deshpande Pandit breaks down the inside story.\n• Watch the full analysis to understand the unpredictable number game that could change the Parliament’s landscape.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/videos/sharad-pawars-next-move-the-inside-story-of-maharashtras-political-drama-pulse-maharashtra/article71237772.ece",
-      "relevance_score": 0.91,
       "published_date": "2026-07-20"
     },
     {
@@ -347,6 +447,16 @@
       "category": "Polity & Governance",
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/parliament-monsoon-session-2026-live-updates-delimitation-ram-temple-donation-neet-cjp-sonam-wangchuk-bjp-congress-tmc-101784510558967.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7628,
+      "title": "Sharad Pawar’s next move? The inside story of Maharashtra’s political drama | Pulse Maharashtra",
+      "summary": "• The political drama in Maharashtra refuses to die down!.\n• From secret late-night meetings between CM Devendra Fadnavis and NCP leaders to Eknath Shinde’s sudden Delhi visit, the state's political alignments are shifting fast.\n• In this episode of Pulse Maharashtra, Vinaya Deshpande Pandit breaks down the inside story.\n• Watch the full analysis to understand the unpredictable number game that could change the Parliament’s landscape.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/videos/sharad-pawars-next-move-the-inside-story-of-maharashtras-political-drama-pulse-maharashtra/article71237772.ece",
       "relevance_score": 0.91,
       "published_date": "2026-07-20"
     },
@@ -531,22 +641,22 @@
       "published_date": "2026-07-20"
     },
     {
-      "id": 7624,
-      "title": "FIFA World Cup Reactions — Spain wins second title as Lionel Messi bows out with 1-0 defeat",
-      "summary": "• Spain win second title with Lionel Messi's Lionel Messi misses out on a place in the quarter-finals.\n• Spain beat Argentina to win the World Cup for the second time in their history.\n• Spain won the tournament for the first time in 1978 and the last time in 1986.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/spain-wins-fifa-world-cup-2026-live-reactions-social-media-esp-vs-arg/article71242895.ece",
-      "relevance_score": 0.8459,
-      "published_date": "2026-07-20"
-    },
-    {
       "id": 7630,
       "title": "Govt has reached out for first time: CJP's big claim ahead of Parliament march",
       "summary": "• CJP: Government reached out to us for the first time.\n• Government: We have been in touch with you for a long time, we are ready to work with you.\n• We want to help you in any way we can, says CJP.\n• We are in a position of power, and we want to use it.",
       "category": "Polity & Governance",
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/govt-reached-first-time-cjp-protest-big-claim-ahead-of-parliament-march-sonam-wangchuk-jantar-mantar-abhijeet-dipke-101784516131624.html",
+      "relevance_score": 0.8459,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7624,
+      "title": "FIFA World Cup Reactions — Spain wins second title as Lionel Messi bows out with 1-0 defeat",
+      "summary": "• Spain win second title with Lionel Messi's Lionel Messi misses out on a place in the quarter-finals.\n• Spain beat Argentina to win the World Cup for the second time in their history.\n• Spain won the tournament for the first time in 1978 and the last time in 1986.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/spain-wins-fifa-world-cup-2026-live-reactions-social-media-esp-vs-arg/article71242895.ece",
       "relevance_score": 0.8459,
       "published_date": "2026-07-20"
     },
@@ -651,22 +761,22 @@
       "published_date": "2026-07-20"
     },
     {
-      "id": 7635,
-      "title": "Lottery Sambad Today, July 20, 2026: Nagaland, Punjab, Maharashtra Results",
-      "summary": "• Nagal and Punjab are in the north-eastern region of India.\n• Maharashtra is in the south-east region of the state.\n• The winner of the lottery will be announced on July 20th, 20 26.\n• The drawing will take place at 11am local time (9am GMT) in Mumbai.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/lottery-sambad-today-july-20-2026-nagaland-punjab-maharashtra-goa-manipur-sikkim-arunachal-pradesh-ws-e-10218116.html",
-      "relevance_score": 0.8231,
-      "published_date": "2026-07-20"
-    },
-    {
       "id": 7715,
       "title": "WHO marks 25 years of Research4Life, advancing access to scientific knowledge in more than 120 countries",
       "summary": "• WHO is celebrating its 25th anniversary with a series of events across the world.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
       "category": "Science & Technology",
       "source": "WHO",
       "url": "https://www.who.int/news/item/21-07-2026-who-marks-25-years-of-research4life--advancing-access-to-scientific-knowledge-in-more-than-120-countries",
+      "relevance_score": 0.8231,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7635,
+      "title": "Lottery Sambad Today, July 20, 2026: Nagaland, Punjab, Maharashtra Results",
+      "summary": "• Nagal and Punjab are in the north-eastern region of India.\n• Maharashtra is in the south-east region of the state.\n• The winner of the lottery will be announced on July 20th, 20 26.\n• The drawing will take place at 11am local time (9am GMT) in Mumbai.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/lottery-sambad-today-july-20-2026-nagaland-punjab-maharashtra-goa-manipur-sikkim-arunachal-pradesh-ws-e-10218116.html",
       "relevance_score": 0.8231,
       "published_date": "2026-07-20"
     },
@@ -731,22 +841,22 @@
       "published_date": "2026-07-20"
     },
     {
-      "id": 7678,
-      "title": "Commonwealth Games 2026 – Full list of Indians participating in athletics and para athletics events",
-      "summary": "• Indians will take part in athletics, para athletics and para medicine events at the Games.\n• India will be competing at the Commonwealth Games for the first time in 2026 in Glasgow, Scotland.\n• The Games will be held in Glasgow from July 25 to August 4, 2026.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/commonwealth-games/commonwealth-games-2026-indians-in-athletics-full-squad-list-neeraj-tejaswin-murali/article71245541.ece",
-      "relevance_score": 0.8065,
-      "published_date": "2026-07-20"
-    },
-    {
       "id": 7645,
       "title": "Andhra Pradesh EAMCET Counselling 2026 Phase 1 Registration Begins: Check Application Process",
       "summary": "• Check Application Process for details on how to apply for a spot in the counselling program.\n• For more information on the counselling programme, visit www.eamcet.org.\n• In the U.S. call the National Suicide Prevention Lifeline at 1-800-273-8255.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
       "category": "Science & Technology",
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/education/andhra-pradesh-eamcet-counselling-2026-phase-1-registration-begins-check-application-process-11794848#publisher=newsstand",
+      "relevance_score": 0.8065,
+      "published_date": "2026-07-20"
+    },
+    {
+      "id": 7678,
+      "title": "Commonwealth Games 2026 – Full list of Indians participating in athletics and para athletics events",
+      "summary": "• Indians will take part in athletics, para athletics and para medicine events at the Games.\n• India will be competing at the Commonwealth Games for the first time in 2026 in Glasgow, Scotland.\n• The Games will be held in Glasgow from July 25 to August 4, 2026.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/commonwealth-games/commonwealth-games-2026-indians-in-athletics-full-squad-list-neeraj-tejaswin-murali/article71245541.ece",
       "relevance_score": 0.8065,
       "published_date": "2026-07-20"
     },
@@ -19889,118 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/india-rebukes-eu-pak-over-jk-reference-in-joint-statement/articleshow/131473780.cms",
       "relevance_score": 0.8166,
       "published_date": "2026-06-03"
-    },
-    {
-      "id": 5021,
-      "title": "DK Shivakumar dismisses cabinet speculation ahead of swearing-in today, says Congress high command to have final say",
-      "summary": "• DK Shivakumar dismisses cabinet speculation ahead of swearing-in today.\n• Says Congress high command to have final say on who will be sworn-in as new government.\n• Shivak Kumar: 'Congress high command will have final decision on who should be in cabinet.\n• Congress will decide who is to be PM and who to be vice-president.",
-      "category": "Polity & Governance",
-      "source": "LiveMint - Politics",
-      "url": "https://www.livemint.com/politics/news/bengaluru-news-dk-shivakumar-cabinet-speculation-swearing-in-today-congress-high-command-rahul-gandhi-final-say-11780447148144.html",
-      "relevance_score": 0.8044,
-      "published_date": "2026-06-03"
-    },
-    {
-      "id": 5011,
-      "title": "RBI to inject liquidity via Rs 50,000 crore repo auction ahead of MPC meeting",
-      "summary": "• RBI to inject cash via repo auction to boost liquidity in the banking system.\n• MPC will hold a meeting on Thursday to discuss the state of the Indian economy and the economy at the end of the month.\n• The MPC is expected to decide on whether to increase the central bank's lending to the banks.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-to-inject-liquidity-via-rs-50000-crore-repo-auction-ahead-of-mpc-meeting/articleshow/131469513.cms",
-      "relevance_score": 0.9298,
-      "published_date": "2026-06-02"
-    },
-    {
-      "id": 4963,
-      "title": "India AI Mission gets new CEO as Centre appoints IAS officer Saurabh Vijay",
-      "summary": "• Vijay will be the first woman to head India's AI mission.\n• He will be in charge for a period of three years, starting on January 1, 2015.\n• India's first AI mission was set up by the Indian government in 1992.\n• It is now run by a joint venture between the government and the Indian Institutes of Technology.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/india-ai-mission-gets-new-ceo-as-centre-appoints-ias-officer-saurabh-vijay-101780368378263.html",
-      "relevance_score": 0.9284,
-      "published_date": "2026-06-02"
-    },
-    {
-      "id": 4970,
-      "title": "Bellatrix Aerospace to help launch South Korean VLEO satellite mission",
-      "summary": "• Bellatrix will work with South Korean space agency to help with satellite launch.\n• South Korea will send VLEo satellite into space in 2018.\n• South Korean satellite will orbit Earth in 2020, with a two-year mission to Earth in 2023.\n• The mission will be part of a U.S.-South Korean joint venture.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/bellatrix-aerospace-to-help-launch-south-korean-vleo-satellite-mission/article71048623.ece",
-      "relevance_score": 0.9239,
-      "published_date": "2026-06-02"
-    },
-    {
-      "id": 4996,
-      "title": "Deputy Secretary-General of ASEAN for ASEAN Political-Security Community meets with Ambassador of the Republic of Korea to ASEAN",
-      "summary": "• Deputy Secretary- General meets with ambassador of theRepublic of Korean to ASEANN.\n• Deputy secretary-general meets with ambassadors of the republic of Korea and the United States.\n• The meeting took place in Seoul, the capital of South Korea, on Wednesday.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/deputy-secretary-general-of-asean-for-asean-political-security-community-meets-with-ambassador-of-the-republic-of-korea-to-asean/",
-      "relevance_score": 0.9156,
-      "published_date": "2026-06-02"
-    },
-    {
-      "id": 5006,
-      "title": "Secretary-General of ASEAN attends Working Dinner hosted by Ambassador of China to the Kingdom of Cambodia",
-      "summary": "• He is accompanied by ASEan leaders and heads of state from around the world.\n• The dinner was held at the Palace of King Norodom in Phnom Penh, the capital of the kingdom.\n• The event was also attended by the Prime Minister of Cambodia and his wife, the First Lady.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-attends-working-dinner-hosted-by-ambassador-of-china-to-the-kingdom-of-cambodia/",
-      "relevance_score": 0.9116,
-      "published_date": "2026-06-02"
-    },
-    {
-      "id": 4989,
-      "title": "Deputy Secretary-General of ASEAN Meets with Ambassador of Kuwait to ASEAN",
-      "summary": "• Kuwait is a member of the Association of Southeast Asian Nations (ASEAN) and has a good relationship with the region.\n• Kuwait has a long-standing diplomatic relationship with Asean and is keen to expand its influence in the region, especially in terms of economic and trade relations.\n• The Kuwaiti ambassador is also a strong supporter of the region's economic and political integration.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/deputy-secretary-general-of-asean-meets-with-ambassador-of-kuwait-to-asean/",
-      "relevance_score": 0.9007,
-      "published_date": "2026-06-02"
-    },
-    {
-      "id": 4968,
-      "title": "FIFA World Cup 2026 — Lukaku on the comeback trail, insists Belgium coach ahead of WC",
-      "summary": "• Lukaku: 'I want to be the best I can be for my country.\n• I want to win the World Cup for Belgium and my country' Belgium: 'Lukaku is a great player.\n• He has a long way to go before he can be considered for a World Cup place'.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup-2026-romelu-lukaku-injury-update-belgium-selection-coach-rudi-garcia-comments/article71051080.ece",
-      "relevance_score": 0.8956,
-      "published_date": "2026-06-02"
-    },
-    {
-      "id": 4998,
-      "title": "Redmi Turbo 5 launching soon in India, here is all we know so far",
-      "summary": "• Redmi Turbo will go on sale in India starting at Rs 2,999.\n• It will be available in Black, White and Gold colour options.\n• The phone is expected to be launched in India on November 14.\n• It has a claimed battery life of 6 hours and a price tag of Rs 7,000.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/technology/news/story/redmi-turbo-5-launching-soon-in-india-here-is-all-we-know-so-far-2920947-2026-06-02?utm_source=rss",
-      "relevance_score": 0.887,
-      "published_date": "2026-06-02"
-    },
-    {
-      "id": 4986,
-      "title": "Portugal will hold onto Diogo Jota’s memory for extra strength in 2026 World Cup: Ruben Neves",
-      "summary": "• Ruben Neves will play for Portugal in the 2026 tournament in South Africa.\n• Portugal are bidding to win the World Cup for the first time in their history.\n• The tournament will be held in South America and the Caribbean.\n• Portugal will be competing in their first World Cup since 1966.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/football/portugal-diogo-jota-memories-strength-fifa-world-cup-2026-neves-10720300/",
-      "relevance_score": 0.8867,
-      "published_date": "2026-06-02"
-    },
-    {
-      "id": 4988,
-      "title": "Philippine Senator Estrada Surrenders After Anti-graft Court Orders His Arrest",
-      "summary": "• Senator E strada is accused of accepting bribes in exchange for political favors.\n• He was accused of corruption in the Philippines and elsewhere in Asia.\n• He has been charged with corruption and money laundering in relation to his wife's death.",
-      "category": "International Relations",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/06/philippine-senator-estrada-surrenders-after-anti-graft-court-orders-his-arrest/",
-      "relevance_score": 0.8818,
-      "published_date": "2026-06-02"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-21T11:40:46.674469Z"
+  "updated_at": "2026-07-21T15:10:18.220902Z"
 }
