@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 7768,
+      "title": "RBI plans unified code for foreign investment in equity instruments",
+      "summary": "• It will be first time in history that a single code will be used for all foreign investment instruments.\n• The code will allow investors to invest in all types of equity instruments, including equity-linked securities.\n• It is expected to be in place by the end of the year, the central bank said on Monday.\n• The scheme will be rolled out across all Indian equity instruments and other financial instruments.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-plans-unified-code-for-foreign-investment-in-equity-instruments/articleshow/132549083.cms",
+      "relevance_score": 0.9272,
+      "published_date": "2026-07-22"
+    },
+    {
+      "id": 7766,
+      "title": "Google and India’s AI ambition, with an inkling of new beginnings",
+      "summary": "• Google is working with India to develop an artificial intelligence system called Google Assistant.\n• The two companies are working together on a project to develop a new type of AI system called ‘Google Assistant’.\n• The project is being led by Indian tech giant Google and is based in Bengaluru, India's Silicon Valley.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - Business",
+      "url": "https://www.hindustantimes.com/business/google-and-indias-ai-ambition-with-an-inkling-of-new-beginnings-101784665721514.html",
+      "relevance_score": 0.83,
+      "published_date": "2026-07-22"
+    },
+    {
+      "id": 7764,
+      "title": "New curriculum for Classes IV-XII to include subjects on emerging technologies",
+      "summary": "• New curriculum for classes IV- XII will include subjects in emerging technologies, including robotics and artificial intelligence.\n• Students will learn about emerging technologies as part of the new curriculum.\n• The new curriculum will be introduced in the fall of 2014 for all students in the state of New Jersey and New York.\n• It will be available to all students through the end of the year.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Tamil Nadu",
+      "url": "https://www.thehindu.com/news/cities/chennai/new-curriculum-for-classes-iv-xii-to-include-subjects-on-emerging-technologies/article71250047.ece",
+      "relevance_score": 0.9904,
+      "published_date": "2026-07-21"
+    },
+    {
       "id": 7729,
       "title": "One Launch A Month Our Next Goal After Vikram-1 Success: Skyroot CEO",
       "summary": "• One Launch A month is our next goal, says Skyroot's CEO.\n• Skyroot will launch one new product a month for a year, he says.\n• The company will also launch a new product every two months, he adds.",
@@ -71,22 +101,42 @@
       "published_date": "2026-07-21"
     },
     {
-      "id": 7706,
-      "title": "Haryana Police stop Punjab farmers at Khanauri border en route to Delhi",
-      "summary": "• Police say they were on their way to Haryana from Punjab.\n• Police: Farmers were on way to Delhi to sell their produce to a Delhi-based company.\n• They were stopped by police at the border for not paying taxes.\n• The farmers were later released by the police and returned to their home state of Punjab.",
-      "category": "State News",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/india/story/farmers-protest-in-delhi-live-updates-shambhu-border-india-us-trade-deal-2952512-2026-07-21?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-21"
-    },
-    {
       "id": 7708,
       "title": "Parliament Monsoon Session LIVE: Lok Sabha, Rajya Sabha Adjourned Till 12 PM Over Opposition Uproar",
       "summary": "• Rajya Parliament Monsoonsession LIVE: Parliament adjourns until 12 PM.\n• Lok House MonsoonSession LIVE: See how the session unfolded here.\n• Lok Sankhya Sabha LIVE: Watch the session unfold here.",
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/india/parliament-monsoon-session-2026-live-updates-timings-lok-sabha-rajya-sabha-july-21-pm-modi-rahul-gandhi-liveblog-ws-l-10224115.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7769,
+      "title": "IPL 2009 South Africa case: SAFEMA Tribunal sets aside most ED findings against BCCI, Lalit Modi",
+      "summary": "• SAFEMA tribunal sets asideMost ED found against BCCi, LalIT Modi, Lalita Modi.\n• IPL 2009: South Africa vs BCCI: All the facts and circumstances of the case as told by the SAFEMA.\n• CLICK HERE for all the latest IPL news.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/ipl-2009-south-africa-case-safema-tribunal-ed-findings-lalit-modi-latest-news/article71250834.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7765,
+      "title": "Government rescinds incorrect Rajya Sabha election results notification",
+      "summary": "• Government rescinded incorrect notification of election results for the first time in history of the country's parliament.\n• The notification was based on incorrect results from the 2011 general election.\n• The result was announced before the election was held on October 26.\n• The results were announced on October 25, 2011.\n• The election was for a five-year term of the Lok Sabha, the second largest party in the House.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/government-rescinds-incorrect-rajya-sabha-election-results-notification-10797423/",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7706,
+      "title": "Haryana Police stop Punjab farmers at Khanauri border en route to Delhi",
+      "summary": "• Police say they were on their way to Haryana from Punjab.\n• Police: Farmers were on way to Delhi to sell their produce to a Delhi-based company.\n• They were stopped by police at the border for not paying taxes.\n• The farmers were later released by the police and returned to their home state of Punjab.",
+      "category": "State News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/farmers-protest-in-delhi-live-updates-shambhu-border-india-us-trade-deal-2952512-2026-07-21?utm_source=rss",
       "relevance_score": 0.91,
       "published_date": "2026-07-21"
     },
@@ -101,22 +151,22 @@
       "published_date": "2026-07-21"
     },
     {
-      "id": 7743,
-      "title": "Delhi, Gujarat, Maharashtra to witness extreme rain Wednesday, South to stay dry",
-      "summary": "• South of Delhi expected to see the least amount of rain so far this year.\n• South India expected to get the most rain, followed by the north.\n• South is expected to be the driest part of the country.\n• South, north and east will be the rainiest.",
-      "category": "State News",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/science/story/imd-rain-forecast-extreme-rain-gujarat-madhya-maharashtra-south-india-subdued-delhi-monsoon-2953047-2026-07-21?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-21"
-    },
-    {
       "id": 7721,
       "title": "Farmers stopped at Punjab-Haryana border en route to Delhi rally against India-U.S. trade deal",
       "summary": "• They were on their way to a rally against the trade deal between India and the United States.\n• The rally was to be held at the border between Punjab and Haryana on the Punjab-Punjab border.\n• The farmers were protesting against the deal between the two countries.",
       "category": "State News",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/haryana-police-close-shambu-border-ahead-of-farmers-motorcycle-rally/article71248028.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7743,
+      "title": "Delhi, Gujarat, Maharashtra to witness extreme rain Wednesday, South to stay dry",
+      "summary": "• South of Delhi expected to see the least amount of rain so far this year.\n• South India expected to get the most rain, followed by the north.\n• South is expected to be the driest part of the country.\n• South, north and east will be the rainiest.",
+      "category": "State News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/science/story/imd-rain-forecast-extreme-rain-gujarat-madhya-maharashtra-south-india-subdued-delhi-monsoon-2953047-2026-07-21?utm_source=rss",
       "relevance_score": 0.91,
       "published_date": "2026-07-21"
     },
@@ -138,6 +188,26 @@
       "source": "ASEAN Secretariat",
       "url": "https://asean.org/secretary-general-of-asean-meets-with-minister-of-foreign-affairs-of-the-peoples-republic-of-china-2/",
       "relevance_score": 0.9008,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7759,
+      "title": "Clean energy push is India’s answer to transition challenges: UN climate chief",
+      "summary": "• India is one of the fastest-growing economies in the world, according to the World Bank.\n• The country is also the fastest growing economy in Asia, with more than 1.2 billion people.\n• India has the highest percentage of young people in the country, with a population of more than 800 million.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/clean-energy-push-is-indias-answer-to-transition-challenges-un-climate-chief/article71249549.ece",
+      "relevance_score": 0.9007,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7770,
+      "title": "Commonwealth Games 2026 Quiz — Set 3",
+      "summary": "• Quiz is part of a series of questions about the Commonwealth Games.\n• The first two questions are about the 2026 Commonwealth Games in London.\n• The third question is about the Games in Rio de Janeiro in 2026.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/commonwealth-games/quiz/commonwealth-games-2026-cwg-quiz-set-3-india-trivia-records-stats-facts/article71250062.ece",
+      "relevance_score": 0.8988,
       "published_date": "2026-07-21"
     },
     {
@@ -188,6 +258,16 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/commonwealth-games/quiz/commonwealth-games-2026-cwg-quiz-set-4-india-trivia-records-stats-facts/article71250541.ece",
       "relevance_score": 0.8893,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7763,
+      "title": "World champions Spain supplant Argentina to top FIFA rankings",
+      "summary": "• 1 in the world for the first time in 2010.\n• Spain are the first team to reach the top of the FIFA world rankings for the second time in three years.\n• 2 in 2010 after winning the World Cup in South Africa and finishing runners-up in 2010 in South America.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/football/world-champions-spain-supplant-argentina-to-top-fifa-rankings/article71251056.ece",
+      "relevance_score": 0.8795,
       "published_date": "2026-07-21"
     },
     {
@@ -337,6 +417,16 @@
       "category": "Science & Technology",
       "source": "Indian Express - Technology",
       "url": "https://indianexpress.com/article/technology/artificial-intelligence/google-plans-new-ai-server-chip-report-10795879/",
+      "relevance_score": 0.8347,
+      "published_date": "2026-07-21"
+    },
+    {
+      "id": 7762,
+      "title": "Anant Raj Board approves demerger of Data Centre & Cloud Services business",
+      "summary": "• Anant Raj to sell Data Centre and Cloud Services to Tata Consultancy Services for $1.2 billion.\n• The deal is expected to be completed by the end of the year.\n• For confidential support call the Samaritans on 08457 909090 or visit a local Samaritans branch, or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/anant-raj-board-approves-demerger-of-data-centre-cloud-services-business/article71250782.ece",
       "relevance_score": 0.8347,
       "published_date": "2026-07-21"
     },
@@ -19909,98 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/congress-asks-why-pm-protects-pradhan-despite-education-ministrys-incompetence-and-corruption/article71056540.ece",
       "relevance_score": 0.8935,
       "published_date": "2026-06-03"
-    },
-    {
-      "id": 5053,
-      "title": "Gujarat cabinet approves ‘wire-free city mission’; ₹500 crore allocated for first phase",
-      "summary": "• ‘ Wire-free City Mission’ is first phase of Gujarat’s ‘Wire-free Cities’ project.\n• First phase of the project will be implemented in Ahmedabad and Gandhinagar.\n• The second phase will take place in Kalyan and Vadnagar.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/gujarat/gujarat-cabinet-approves-wire-free-city-mission-500-crore-allocated-for-first-phase/article71057135.ece",
-      "relevance_score": 0.8791,
-      "published_date": "2026-06-03"
-    },
-    {
-      "id": 5042,
-      "title": "3rd cohort of AIC T-Hub SpaceTech accelerator Orbit takes off with 13 startups",
-      "summary": "• 3rd cohort includes 13 startups from around the world.\n• SpaceTech is a spin-off of the AIC's space tech incubator AIC SpaceHub.\n• SpaceHub is located in the heart of Berlin's T- Hub district, near the city's famous MUNICH.\n• The accelerator also has offices in Shanghai and Beijing.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/3rd-cohort-of-aic-t-hub-spacetech-accelerator-orbit-takes-off-with-13-startups/article71057225.ece",
-      "relevance_score": 0.8747,
-      "published_date": "2026-06-03"
-    },
-    {
-      "id": 5063,
-      "title": "Panchayats from 5 southern states bag 18 of 42 national awards",
-      "summary": "• Panchayat groups from five southern states win 18 out of 42 awards for their work in the region.\n• They are from five states: Tamil Nadu, Kerala, Karnataka, Maharashtra, Telangana and Andhra Pradesh.\n• They were awarded for their contributions to education, health, education and infrastructure.",
-      "category": "State News",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/panchayats-from-5-southern-states-bag-18-of-42-national-awards-10722955/",
-      "relevance_score": 0.8723,
-      "published_date": "2026-06-03"
-    },
-    {
-      "id": 5068,
-      "title": "Despite US Diplomatic Efforts, Israeli Army Says \"No Ceasefire\" In Lebanon",
-      "summary": "• Israeli Army says there is no ceasefire in place in Lebanon.\n• U.S. has been trying to broker a cease-fire between Israel and Hezbollah for over a week.\n• Israel says it is still in talks with the Lebanese government to reach an agreement on the situation in the country's south.",
-      "category": "International Relations",
-      "source": "NDTV - World",
-      "url": "https://www.ndtv.com/world-news/iran-war-israel-army-says-no-ceasefire-in-lebanon-despite-us-efforts-11588319#publisher=newsstand",
-      "relevance_score": 0.8716,
-      "published_date": "2026-06-03"
-    },
-    {
-      "id": 5028,
-      "title": "Semiconductor training fabrication facility at IISc Bengaluru inaugurated by President Droupadi Murmu",
-      "summary": "• President Droupadi Murmu was in attendance at the inauguration of the facility.\n• The facility will be used for semiconductor training and prototyping.\n• It is the first of its kind in the world of semiconductor manufacturing.\n• It will be based in Bengaluru and will be equipped with state-of-the-art facilities.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/semiconductor-training-fabrication-facility-at-iisc-bengaluru-inaugurated-by-president-droupadi-murmu/article71056243.ece",
-      "relevance_score": 0.8694,
-      "published_date": "2026-06-03"
-    },
-    {
-      "id": 5031,
-      "title": "Suvendu expands Ministry; 13 Cabinet Ministers, 22 Ministers of State take oath",
-      "summary": "• 13 Cabinet ministers, 22 ministers of state take oath at swearing-in ceremony on Monday.\n• Suvendus have been in power for more than a decade.\n• They were formed by Prime Minister Narasimhan and his Cabinet of Ministers.\n• The new Cabinet Ministers will be sworn-in on Tuesday.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cabinet-expansion-june-1-2026/article71047323.ece",
-      "relevance_score": 0.8652,
-      "published_date": "2026-06-03"
-    },
-    {
-      "id": 5039,
-      "title": "Mexico FIFA World Cup 2026 Preview: Mexico looks to rise above weight of expectations",
-      "summary": "• Mexico to host the tournament for the first time in 2026.\n• Mexico will be hosting the World Cup for the second time in their history.\n• Mexico have never hosted a World Cup before.\n• The last time Mexico hosted the tournament was in 1986.\n• Mexico won the tournament in 1986 with a 3-1 victory over South Africa.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/mexico-world-cup-2026-team-preview/article71056210.ece",
-      "relevance_score": 0.8594,
-      "published_date": "2026-06-03"
-    },
-    {
-      "id": 5033,
-      "title": "Application for BDes course can be submitted till June 4",
-      "summary": "• BDes is a bachelor course in business and technology.\n• It offers a range of courses, from business management to business management.\n• The course will be based at the University of Delhi.\n• For more information on the course, visit www.bdes.org.uk.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/kerala/application-for-bdes-course-can-be-submitted-till-june-4/article71053557.ece",
-      "relevance_score": 0.8573,
-      "published_date": "2026-06-03"
-    },
-    {
-      "id": 5046,
-      "title": "Benefits on EV purchase, fuel vouchers: Centre approves scheme to cut pollution levels in Delhi",
-      "summary": "• Scheme to be rolled out across Delhi and other major cities in the state.\n• It will provide vouchers for EV purchase and fuel vouchers for Delhi residents.\n• The scheme is expected to be in place for at least a year to cut down on pollution levels.\n• It is also expected to roll out in other cities across the country.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/union-cabinet-two-year-scheme-cut-delhi-pollution-bs-iv-vehicles-all-you-need-to-know-101780498222808.html",
-      "relevance_score": 0.8555,
-      "published_date": "2026-06-03"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-21T17:26:35.427652Z"
+  "updated_at": "2026-07-22T03:16:03.240308Z"
 }
