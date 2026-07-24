@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 7919,
+      "title": "How Solar Impulse 2 became the first aircraft to complete a 40,000 km fuel-free journey around the world",
+      "summary": "• How Solar Impulses 2 became a first in the world to fly without fuel for more than a decade.\n• How the solar-powered aircraft was the first to fly fuel free around the globe.\n• How it made a fuel- free journey of more than 40,00 km.",
+      "category": "Science & Technology",
+      "source": "Times of India - World",
+      "url": "https://timesofindia.indiatimes.com/science/how-solar-impulse-2-became-the-first-aircraft-to-complete-a-40000-km-fuel-free-journey-around-the-world/articleshow/132598587.cms",
+      "relevance_score": 0.9246,
+      "published_date": "2026-07-24"
+    },
+    {
+      "id": 7923,
+      "title": "Manpreet Singh chasing World Cup medal and LA Olympics podium finish before drawing curtains",
+      "summary": "• Manpreet finished on the podium at the 2014 Winter Olympics in Sochi, finishing on the second-to-last place in the women's individual event.\n• He also won a silver medal at the 2010 Vancouver Olympics.\n• Singh won two gold medals at the 2012 London Olympics in the individual and team events.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/hockey/manpreet-singh-chasing-world-cup-la-olympics-2028-dream-before-retirement/article71261532.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-24"
+    },
+    {
+      "id": 7917,
+      "title": "Parliament Monsoon Session 2026 Day 5 Live Updates: Both Houses adjourned after Rajya Sabha takes up National Honour Amendment Bill",
+      "summary": "• Both Houses will reconvene on Tuesday for the second day of the session.\n• Parliament will be in session for two weeks to mark the end of the monsoon season and start of the new year.\n• The session is expected to last until September 30, 2026.",
+      "category": "Polity & Governance",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/parliament-monsoon-session-2026-day-5-live-updates-parliament-set-for-fresh-showdown-between-opposition-and-ruling-party-today-10801018/",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-24"
+    },
+    {
       "id": 7909,
       "title": "Fate of ICC chief prosecutor heads to unprecedented vote as U.S. sanctions keep him out of New York",
       "summary": "• ICC will vote on whether or not to appoint a new chief prosecutor at the end of the year.\n• The vote is expected to be held in New York City on November 28.\n• Security Council will then hold a vote on appointing a new head of the International Criminal Court.",
@@ -8,6 +38,16 @@
       "source": "The Hindu - International",
       "url": "https://www.thehindu.com/news/international/fate-of-icc-chief-prosecutor-heads-to-unprecedented-vote-as-us-sanctions-keep-him-out-of-new-york/article71260792.ece",
       "relevance_score": 0.8909,
+      "published_date": "2026-07-24"
+    },
+    {
+      "id": 7920,
+      "title": "Secretary-General of ASEAN attends Ministerial-Level conference of High Contracting Parties marks the 50th anniversary of the Treaty of Amity and Cooperation in Southeast Asia",
+      "summary": "• Secretary-General will be accompanied by ASEan Heads of State and Government.\n• The conference will take place in Bangkok, Thailand, from September 26 to 28.\n• ASEAn is a group of seven countries, including Brunei, Singapore, Malaysia, Thailand and Vietnam.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-attends-ministerial-level-conference-of-high-contracting-parties-marks-the-50th-anniversary-of-the-treaty-of-amity-and-cooperation-in-southeast-asia/",
+      "relevance_score": 0.8898,
       "published_date": "2026-07-24"
     },
     {
@@ -61,6 +101,16 @@
       "published_date": "2026-07-24"
     },
     {
+      "id": 7916,
+      "title": "Brigade moves Madras High Court against revocation of environmental clearance for Pallikaranai project",
+      "summary": "• Pallikarai project is part of a larger project to build a dam on the banks of the River Ganga in Tamil Nadu.\n• The project has been approved by the Tamil Nadu High Court and the Supreme Court.\n• It is expected to be completed by 2018.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/brigade-moves-madras-high-court-against-revocation-of-environmental-clearance-for-pallikaranai-project/article71261160.ece",
+      "relevance_score": 0.8286,
+      "published_date": "2026-07-24"
+    },
+    {
       "id": 7910,
       "title": "Why the ED’s case against Lalit Modi was overturned and what it means for his return",
       "summary": "• Lalit's case against him was overturned by the Supreme Court of India.\n• Lalita Modi is a former member of the Indian National Lok Dal.\n• He was arrested by the Enforcement Directorate (ED) in 2010.\n• The case was later dismissed by the Bombay High Court and he was released on bail.",
@@ -68,6 +118,16 @@
       "source": "Indian Express - Explained",
       "url": "https://indianexpress.com/article/explained/explained-law/ed-case-lalit-modi-ipl-return-india-10801147/",
       "relevance_score": 0.826,
+      "published_date": "2026-07-24"
+    },
+    {
+      "id": 7921,
+      "title": "US-Iran war LIVE: Iran's Foreign Minister Abbas Araghchi warns countries against assisting in US attacks",
+      "summary": "• U.S. forces are closing in on Iran's nuclear facilities.\n• Iran's President Hassan Rouhani has warned of the consequences of a war with the United States.\n• Iran has threatened to strike back at the US if it attacks its nuclear sites.\n• Iran is also threatening to attack its nuclear facilities if the US attacks them.",
+      "category": "International Relations",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/world/us-iran-war-news-latest-updates-donald-trump-abbas-araghchi-middle-east-iranian-funds-us-military-strait-of-hormuz-irgc-11784849928126.html",
+      "relevance_score": 0.8241,
       "published_date": "2026-07-24"
     },
     {
@@ -19939,68 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/cbse-to-continue-using-coempt-eduteks-osm-system-for-class-12-re-evaluation-report/articleshow/131546893.cms",
       "relevance_score": 0.8088,
       "published_date": "2026-06-06"
-    },
-    {
-      "id": 5225,
-      "title": "‘Very happy for Shreyas’: Surya on Iyer succeeding him as India T20I captain",
-      "summary": "• ‘Very happy for Shreyas’, says former India captain.\n• Iyer will be India’s third T20 captain after Virat Kohli and Ravi Shastri.\n• India take on Sri Lanka in a one-day series starting on Sunday.\n• India have won the previous two T20Is against Sri Lanka.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/suryakumar-yadav-shreyas-iyer-reaction-india-t20-captain-10727533/",
-      "relevance_score": 0.8084,
-      "published_date": "2026-06-06"
-    },
-    {
-      "id": 5220,
-      "title": "BCCI to send Vaibhav Sooryavanshi’s parents on Ireland, England tour",
-      "summary": "• VaibHav to travel with his parents to Ireland and England in next few days.\n• Vaiberhav is a student of the prestigious Indian Institute of Technology, Delhi.\n• He is also a member of the All India Institute of Film and Sound Engineers (AIIFS) and the National Film Institute of India.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/vaibhav-sooryavanshi-parents-to-accompany-ireland-england-tour-debut-india-call-up-child-handling-fame/article71069754.ece",
-      "relevance_score": 0.8023,
-      "published_date": "2026-06-06"
-    },
-    {
-      "id": 5150,
-      "title": "Capital flow push: RBI eases foreign borrowing rules for PSUs, FCNR deposits of banks",
-      "summary": "• RBI also relaxes rules on foreign borrowing of PSUs and FCNRs.\n• The move is expected to boost capital flow into the Indian banking system.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
-      "category": "Economy & Banking",
-      "source": "Indian Express - Business",
-      "url": "https://indianexpress.com/article/business/rbi-foreign-borrowing-rules-psus-fcnr-deposits-banks-10725432/",
-      "relevance_score": 0.9688,
-      "published_date": "2026-06-05"
-    },
-    {
-      "id": 5199,
-      "title": "NASA Announces Winners of 2026 University Innovation Competition",
-      "summary": "• The competition was held at the University of California, San Diego.\n• The winners were selected by a panel of experts from across the world.\n• The winner was announced at a ceremony held at NASA's Johnson Space Center in Houston, Texas.\n• The event was part of NASA's 2026 University Innovation Competition.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-announces-winners-of-2026-university-innovation-competition/",
-      "relevance_score": 0.9588,
-      "published_date": "2026-06-05"
-    },
-    {
-      "id": 5156,
-      "title": "RBI, govt unveil measures to attract foreign inflows in bonds, equities",
-      "summary": "• They include measures to boost foreign investment in bonds and equities, among others.\n• The measures are aimed at attracting more foreign investment into the Indian stock market and bonds.\n• They are expected to boost inflows into the country's stock markets and bonds, among other things.",
-      "category": "Economy & Banking",
-      "source": "LiveMint - Economy",
-      "url": "https://www.livemint.com/economy/rbi-monetary-policy-fpi-investment-india-government-bonds-rupee-fall-11780641477054.html",
-      "relevance_score": 0.9543,
-      "published_date": "2026-06-05"
-    },
-    {
-      "id": 5165,
-      "title": "World's first AI-designed vaccine developed by UK scientists enters human trials",
-      "summary": "• Vaccine developed by scientists at Imperial College London is the first of its kind in the world.\n• It is being tested on humans for the first time in the UK.\n• The vaccine is being developed with the help of a team of researchers at Imperial and the University of Cambridge in the U.S. It will be tested on people in Britain and elsewhere in Europe.",
-      "category": "Science & Technology",
-      "source": "Times of India - World",
-      "url": "https://timesofindia.indiatimes.com/world/uk/worlds-first-ai-designed-vaccine-developed-by-uk-scientists-enters-human-trials/articleshow/131529767.cms",
-      "relevance_score": 0.9523,
-      "published_date": "2026-06-05"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-24T06:34:54.944553Z"
+  "updated_at": "2026-07-24T09:23:20.618713Z"
 }
