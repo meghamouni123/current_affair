@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 7943,
+      "title": "NASA Announces New Spacecraft Technology Demonstration Mission at Moon",
+      "summary": "• Spacecraft will explore the lunar surface with a variety of payloads.\n• The mission will be a demonstration of NASA's new spacecraft technology.\n• NASA will send the spacecraft to the moon to test the technology on the surface of the moon and in deep space.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/directorates/armd/nasa-announces-new-spacecraft-technology-demonstration-mission-at-moon/",
+      "relevance_score": 0.99,
+      "published_date": "2026-07-24"
+    },
+    {
+      "id": 7944,
+      "title": "NASA to Support Blue Origin New Glenn Rocket Testing, Advance Artemis",
+      "summary": "• Blue Origin to launch its first rocket into space on July 4th, 2017.\n• The rocket will take off from Kennedy Space Center in Florida and land on a sub-Antarctic island in the Pacific Ocean.\n• The launch is scheduled to take place on July 5th.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-to-support-blue-origin-new-glenn-rocket-testing-advance-artemis/",
+      "relevance_score": 0.9284,
+      "published_date": "2026-07-24"
+    },
+    {
       "id": 7919,
       "title": "How Solar Impulse 2 became the first aircraft to complete a 40,000 km fuel-free journey around the world",
       "summary": "• How Solar Impulses 2 became a first in the world to fly without fuel for more than a decade.\n• How the solar-powered aircraft was the first to fly fuel free around the globe.\n• How it made a fuel- free journey of more than 40,00 km.",
@@ -68,6 +88,16 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/pm-modi-promises-new-law-to-tackle-paper-leaks-amid-cjp-protest-cabinet-meet-today-101784855082794.html",
       "relevance_score": 0.8856,
+      "published_date": "2026-07-24"
+    },
+    {
+      "id": 7946,
+      "title": "Murmu receives honorary doctorate in Romania, highlights education and shared ties",
+      "summary": "• Murmu: Romania and the U.S. have a long history of cooperation and friendship.\n• He says the two countries share a love of education and history.\n• He adds: \"We have a lot of similarities in our shared love of learning and history\" He says: \"Romania and the United States share a common history and shared values\".",
+      "category": "International Relations",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/world/story/president-droupadi-murmu-honorary-doctorate-romania-education-india-romania-ties-ptag-2955642-2026-07-24?utm_source=rss",
+      "relevance_score": 0.8812,
       "published_date": "2026-07-24"
     },
     {
@@ -208,6 +238,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/traffic-management-is-currently-the-top-focus-of-cyberabad-police-cp/article71117869.ece",
       "relevance_score": 0.8149,
+      "published_date": "2026-07-24"
+    },
+    {
+      "id": 7945,
+      "title": "7 Missing In 2 Assam Districts, 25% Flood-Hit Areas Not Reachable",
+      "summary": "• 25% of Flood-hit Areas in Assam are not reachable due to lack of access to roads and bridges.\n• More than 1,000 people have been reported missing in the state since the floods began last week.\n• The state government has declared a state of emergency in the two districts of Assam and Jorhat.",
+      "category": "State News",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/7-missing-in-2-assam-districts-25-flood-hit-areas-not-reachable-11817500#publisher=newsstand",
+      "relevance_score": 0.8113,
       "published_date": "2026-07-24"
     },
     {
@@ -19959,48 +19999,8 @@
       "url": "https://indianexpress.com/article/technology/science/nasa-places-iss-astronauts-alert-during-russian-module-leak-investigation-10727150/",
       "relevance_score": 0.8903,
       "published_date": "2026-06-06"
-    },
-    {
-      "id": 5214,
-      "title": "The comeback nobody could ignore: Why Shreyas Iyer is India’s new T20I captain",
-      "summary": "• Iyer was named captain of India's ODI side against Sri Lanka.\n• He has also captained the ODI and T20 World Cup winning sides.\n• He is also India's T20 vice-captain and vice-skipper.\n• He was also the captain of the Indian ODI team that won the World Cup in 2010.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/shreyas-iyer-india-t20i-captain-comeback-ipl-success-kkr-punjab-kings-suryakumar-replacement/article71069307.ece",
-      "relevance_score": 0.8886,
-      "published_date": "2026-06-06"
-    },
-    {
-      "id": 5219,
-      "title": "French Open 2026 Final: Zverev bids to end Grand Slam near-misses against Cobolli",
-      "summary": "• Zvereva will play in the final for the first time in 2026 against Italian world No.\n• The final will take place in Paris on May 26, 2026.\n• The French Open will be held at the Roland Garros from May 26-28.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/tennis/french-open-2026-mens-singles-finals-preview-roland-garros-alexander-zverev-flavio-cobolli/article71069772.ece",
-      "relevance_score": 0.8857,
-      "published_date": "2026-06-06"
-    },
-    {
-      "id": 5211,
-      "title": "Adani Plants 1.6 Million Trees To Turn Chhattisgarh Coal Mine Green",
-      "summary": "• Adani plants 1.5 million trees to turn the mine into a green space.\n• The mine is located in the state of Chhatti, which is home to the state's largest coal reserves.\n• The coal mine is expected to be operational by 2018 at a cost of $2.5 billion.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/adani-enterprises-ltd-plants-1-6-million-trees-to-turn-chhattisgarh-coal-mine-green-11599618#publisher=newsstand",
-      "relevance_score": 0.8838,
-      "published_date": "2026-06-06"
-    },
-    {
-      "id": 5212,
-      "title": "To empty the Cancer Train, India has a plan to first vaccinate its soil",
-      "summary": "• India has plans to vaccinate all its soil to help fight cancer.\n• The country has been hit by a wave of cancer deaths in recent years.\n• India is one of the fastest-growing countries in the world in terms of cancer cases.\n• It has the highest number of cancer patients in India and the highest rate of deaths from the disease.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/science/story/india-cancer-train-biofertiliser-vaccinate-soil-chemical-fertiliser-microbes-farming-biopesticide-science-news-2922787-2026-06-06?utm_source=rss",
-      "relevance_score": 0.8569,
-      "published_date": "2026-06-06"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-24T14:52:53.303710Z"
+  "updated_at": "2026-07-24T17:38:35.170277Z"
 }
