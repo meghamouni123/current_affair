@@ -21,22 +21,22 @@
       "published_date": "2026-07-26"
     },
     {
-      "id": 8009,
-      "title": "Monsoon alert: IMD forecasts heavy rain & flash flood risk in Gujarat, Maharashtra & Odisha",
-      "summary": "• IMD: Heavy rain and flash floods expected in parts of Maharashtra, Gujarat, Odisha and Andhra Pradesh.\n• Floods could cause flash floods and mudslides in some parts of the state, IMD says.\n• Flooding could also cause problems in other parts of India such as Tamil Nadu, Kerala and Karnataka.",
-      "category": "State News",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/monsoon-mayhem-imd-issues-heavy-rainfall-flash-flood-alerts-for-gujarat-maharashtra-and-odisha-3063021.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-26"
-    },
-    {
       "id": 8026,
       "title": "IMD forecasts heavy rainfall in Delhi, Punjab, Himachal Pradesh; Odisha on red alert over Bay of Bengal depression",
       "summary": "• IMD forecasts heavy rainfall in Delhi, Punjab, Himachal Pradesh, Odisha.\n• Odisha on red alert over Bay of Bengal depression.\n• IMD: Heavy rain expected in parts of Delhi, Chandigarh, Kolkata, Mumbai, Bhopal, Chennai, Bangalore, Hyderabad, Chennai and Kolkatnagar.\n• Heavy rain forecast for parts of Punjab, Haryana, H1N1, H2 and H3.",
       "category": "State News",
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/india/imd-forecasts-heavy-rainfall-in-delhi-punjab-himachal-pradesh-odisha-on-red-alert-over-bay-of-bengal-depression-11785058353615.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-26"
+    },
+    {
+      "id": 8009,
+      "title": "Monsoon alert: IMD forecasts heavy rain & flash flood risk in Gujarat, Maharashtra & Odisha",
+      "summary": "• IMD: Heavy rain and flash floods expected in parts of Maharashtra, Gujarat, Odisha and Andhra Pradesh.\n• Floods could cause flash floods and mudslides in some parts of the state, IMD says.\n• Flooding could also cause problems in other parts of India such as Tamil Nadu, Kerala and Karnataka.",
+      "category": "State News",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/monsoon-mayhem-imd-issues-heavy-rainfall-flash-flood-alerts-for-gujarat-maharashtra-and-odisha-3063021.html",
       "relevance_score": 0.91,
       "published_date": "2026-07-26"
     },
@@ -48,6 +48,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-launches-ai-platform-to-forecast-urban-floods-vijayawada-first/article71269032.ece",
       "relevance_score": 0.8889,
+      "published_date": "2026-07-26"
+    },
+    {
+      "id": 8038,
+      "title": "CWG: Boxer Parveen Hooda eyes fresh start after whereabouts ban",
+      "summary": "• Hooda has been banned from all international boxing for two years.\n• He was banned from taking part in the Commonwealth Games in Glasgow in 2010.\n• He is also banned from competing in the Asian Games in Delhi in 2012 and 2013.\n• CLICK HERE for all the latest from the CWG in Glasgow and India.\n• Click here for the rest of the story.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/cwg-boxer-parveen-hooda-eyes-fresh-start-after-whereabouts-ban-101785082704664.html",
+      "relevance_score": 0.8764,
       "published_date": "2026-07-26"
     },
     {
@@ -91,6 +101,16 @@
       "published_date": "2026-07-26"
     },
     {
+      "id": 8035,
+      "title": "Kerala Agricultural University launches entrepreneurship programme, releases startup grants",
+      "summary": "• University also releases startup grants to start-ups in the state.\n• Kerala Agricultural University is a part of the Kerala University chain of higher education institutions.\n• The university is based in the city of Thiruvananthapuram in Kerala, the state's southernmost region.\n• It also has campuses in Ernakulam, Kozhikode, Malayaland and Kannur.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/kerala-agricultural-university-launches-entrepreneurship-programme-releases-startup-grants/article71269783.ece",
+      "relevance_score": 0.8463,
+      "published_date": "2026-07-26"
+    },
+    {
       "id": 8028,
       "title": "India’s first hydrogen-powered train saves 3,200 litres of diesel; Delhi route tests next",
       "summary": "• India's first hydrogen powered train saves 2,000 tonnes of diesel a year.\n• New Delhi route will be tested in 2015.\n• Delhi will be the first city in India to test the train in hydrogen.",
@@ -108,6 +128,36 @@
       "source": "Indian Express - India",
       "url": "https://indianexpress.com/article/india/elections-are-won-with-votes-respect-earned-through-public-service-v-p-c-p-radhakrishnan-10803801/",
       "relevance_score": 0.8365,
+      "published_date": "2026-07-26"
+    },
+    {
+      "id": 8039,
+      "title": "Infosys co-founder, Aadhaar architect: Who is Nandan Nilekani, set to lead high-powered exam reforms task force",
+      "summary": "• Nandan is the founder of Infosys, a software giant based in Bangalore.\n• He is also the chairman of the board of trustees of the Indian Institute of Technology, Hyderabad.\n• He was also the co-chairman of the National Council of Teachers of English (NCTE), which was set up by the government in 2007.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/infosys-co-founder-aadhaar-architect-who-is-nandan-nilekani-set-to-lead-govts-exam-reforms-task-force/articleshow/132642420.cms",
+      "relevance_score": 0.8337,
+      "published_date": "2026-07-26"
+    },
+    {
+      "id": 8034,
+      "title": "Rights panel directs Corpn. to prepare action plan for mosquito-control in Kochi",
+      "summary": "• To prepare action plan for mosquito-control in Kochi.\n• Kochi is one of India's most mosquito-infested cities.\n• It is home to some of the world's largest mosquito colonies.\n• The state has a population of more than 1.5 million, according to the 2011 census.\n• The number is expected to rise to 1.6 million by the end of the year.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/rights-panel-directs-corpn-to-prepare-action-plan-for-mosquito-control-in-kochi/article71267148.ece",
+      "relevance_score": 0.8319,
+      "published_date": "2026-07-26"
+    },
+    {
+      "id": 8040,
+      "title": "Mirabai Chanu powers India to 1st CWG 2026 gold with weightlifting three-peat",
+      "summary": "• Chanu is the first Indian woman to win a gold medal at a Commonwealth Games.\n• She also won gold at the Commonwealth Games in Glasgow in 2010.\n• She was part of India's gold-medal-winning team in the women's team event in Glasgow.\n• She won gold in the snatch and clean and jerk events in the 2026 Games.",
+      "category": "Sports",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/mirabai-chanu-commonwealth-games-2026-weightlifting-gold-glasgow-2956866-2026-07-26?utm_source=rss",
+      "relevance_score": 0.8209,
       "published_date": "2026-07-26"
     },
     {
@@ -19949,58 +19999,8 @@
       "url": "https://economictimes.indiatimes.com/markets/bonds/top-corporate-bonds-long-gilts-can-be-a-good-play-as-rbi-holds-rates/articleshow/131576301.cms",
       "relevance_score": 0.8688,
       "published_date": "2026-06-08"
-    },
-    {
-      "id": 5283,
-      "title": "INCOIS targets marine pollution with high-tech monitoring push",
-      "summary": "• InCOIS aims to reduce marine pollution by monitoring marine pollution in the Gulf of Mexico.\n• IncoIS is part of the U.S. National Oceanic and Atmospheric Administration (NOAA) and the International Agency for Research on Cancer (IARC).\n• In COIS, IARC is a non-profit organization that aims to combat marine pollution.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/incois-targets-marine-pollution-with-high-tech-monitoring-push/article71076774.ece",
-      "relevance_score": 0.868,
-      "published_date": "2026-06-08"
-    },
-    {
-      "id": 5305,
-      "title": "Germany’s standing in international order under scrutiny after UNSC loss",
-      "summary": "• Germany is a member of the UN Security Council, but not the Security Council.\n• Germany has been accused of being anti-Semitic, anti-Muslim and anti-Arab.\n• Germany also has a history of anti-Semitism and racism in its society.\n• Germany was also accused of supporting the Nazis in the 1930s and 1940s.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/germanys-standing-in-international-order-under-scrutiny-after-unsc-loss/article71077217.ece",
-      "relevance_score": 0.8654,
-      "published_date": "2026-06-08"
-    },
-    {
-      "id": 5293,
-      "title": "Digital fertiliser reform faces first test in kharif season",
-      "summary": "• Fertiliser reform will be put to the test in the first two months of the season.\n• It will be the first time fertiliser prices will be set on a digital basis in the Kharif harvest season.\n• The first test will be on the fertiliser price in the second two weeks of the year.\n• The second is on the price of fertiliser in the third and fourth months.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/digital-fertiliser-reform-faces-first-test-in-kharif-season/article71077139.ece",
-      "relevance_score": 0.8637,
-      "published_date": "2026-06-08"
-    },
-    {
-      "id": 5282,
-      "title": "Nehru's 2 Vs Modi's 30: What Foreign Honours Say About India's Changing Global Footprint",
-      "summary": "• Nehru: I am proud to have been awarded two of the world's most prestigious honours.\n• Modi: I'm proud to be awarded 30 of the most prestigious awards in the history of our country.\n• Nehru: The honour is a mark of respect for me and my family.",
-      "category": "International Relations",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/nehrus-2-vs-modis-30-what-foreign-honours-say-about-indias-changing-global-footprint-ws-l-10135848.html",
-      "relevance_score": 0.8631,
-      "published_date": "2026-06-08"
-    },
-    {
-      "id": 5280,
-      "title": "Rupee begins week at 95.35 against US dollar amid Middle East chaos",
-      "summary": "• Rupee has been trading at around 95.30 against the US dollar since the start of the year.\n• The rupee was trading at about 95.50 against the dollar on Monday.\n• It had been trading around 95 to 95.25 against the U.S. dollar on Friday.\n• It was at 95 to 96 against the euro on Monday morning.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-begins-week-at-95-35-against-us-dollar-amid-middle-east-chaos/articleshow/131578303.cms",
-      "relevance_score": 0.8612,
-      "published_date": "2026-06-08"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-26T14:23:37.990458Z"
+  "updated_at": "2026-07-26T16:57:48.628816Z"
 }
