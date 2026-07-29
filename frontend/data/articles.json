@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "id": 8181,
+      "title": "Anti-paper leak bill: Opposition brings 93 amendments, but why Modi govt may reject them all",
+      "summary": "• Modi government may reject all 93 amendments brought by the opposition to the bill.\n• The bill is expected to be passed by the end of the month.\n• It will be the first of its kind in India and could be used to crack down on paper leak.\n• The government is also expected to introduce a bill to ban electronic communication of sensitive information.",
+      "category": "Polity & Governance",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/anti-paper-leak-bill-opposition-brings-93-amendments-but-why-modi-govt-may-reject-them-all-3063599.html",
+      "relevance_score": 0.9104,
+      "published_date": "2026-07-29"
+    },
+    {
+      "id": 8169,
+      "title": "Chief Ministers and criminality: 45% of India’s CMs have cases pending against them",
+      "summary": "• 45% of India’s CMs have cases pending against them, according to a new report.\n• The report was compiled by the Centre for Policy Research and the Indian Institute of Public Policy Studies.\n• The study also found that 40% of Chief Ministers were found to be guilty of corruption.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/chief-ministersandcriminality-45-ofindiascms-have-casespending-against-them/article71277707.ece",
+      "relevance_score": 0.8418,
+      "published_date": "2026-07-29"
+    },
+    {
+      "id": 8177,
+      "title": "US envoy Gor to visit Bangladesh as Dhaka deepens ties with Beijing",
+      "summary": "• Gor will be accompanied by Bangladeshi President Sheikh Mujibur Rahman.\n• US envoy Gor will also visit China and the Maldives in a two-day trip starting Monday.\n• The trip is part of a larger initiative between the U.S. and China to improve ties.",
+      "category": "International Relations",
+      "source": "Times of India - World",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/us-envoy-gor-to-visit-bangladesh-as-dhaka-deepens-ties-with-beijing/articleshow/132697610.cms",
+      "relevance_score": 0.8366,
+      "published_date": "2026-07-29"
+    },
+    {
+      "id": 8173,
+      "title": "Maharashtra, Bengal, Assam: NDA-led states withdraw cases filed against students",
+      "summary": "• NDA led states have withdrawn cases against students in three states.\n• Maharashtra, West Bengal and Assam were among the states that had filed cases against the students.\n• The states were led by the BJP-led NDA in the NDA government in the states.",
+      "category": "State News",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/maharashtra-bengal-assam-nda-led-states-withdraw-cases-filed-against-students-during-cjp-protests-101785289263401.html",
+      "relevance_score": 0.8146,
+      "published_date": "2026-07-29"
+    },
+    {
       "id": 8121,
       "title": "China ready to build artificial Sun, completes world's largest magnet",
       "summary": "• China is building world's first artificial Sun to rival the sun in terms of power and light.\n• China also plans to build world's biggest solar farm in the next few years.\n• The project is expected to cost more than $1.5 billion and last for at least 20 years.\n• It is the largest project of its kind in the world, followed by China's moon project.",
@@ -81,22 +121,22 @@
       "published_date": "2026-07-28"
     },
     {
-      "id": 8111,
-      "title": "Parliament Monsoon Session Day 7 LIVE: Both Houses adjourned till 2 p.m.; Lok Sabha likely to take up Public Examinations Amendment Bill discussion",
-      "summary": "• Lok Sabha to discuss Public Exams Amendment Bill.\n• Both Houses will be back in session on Tuesday for the second day in a row.\n• Parliament will be adjourned for the day again on Tuesday at 2p.m.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/parliament-monsoon-lok-sabha-live-updates-2026-july-28-2026-exam-amendment-bill-news/article71275442.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-28"
-    },
-    {
       "id": 8128,
       "title": "Meeting with MPs in Delhi ‘major success’: Karnataka chief minister DK Shivakumar",
       "summary": "• Karnataka to hold a series of meetings with MPs across the country.\n• Shivak Kumar: ‘It’s a good way to build relations with the Indian people.’ Karnataka will also hold meetings with Indian Prime Minister Narendra Modi and other top leaders.\n• Shivkumar: “We’re going to make sure that we have a good relationship with India.”.",
       "category": "State News",
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/meeting-with-mps-in-delhi-major-success-karnataka-chief-minister-dk-shivakumar-101785224732274.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-28"
+    },
+    {
+      "id": 8111,
+      "title": "Parliament Monsoon Session Day 7 LIVE: Both Houses adjourned till 2 p.m.; Lok Sabha likely to take up Public Examinations Amendment Bill discussion",
+      "summary": "• Lok Sabha to discuss Public Exams Amendment Bill.\n• Both Houses will be back in session on Tuesday for the second day in a row.\n• Parliament will be adjourned for the day again on Tuesday at 2p.m.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/parliament-monsoon-lok-sabha-live-updates-2026-july-28-2026-exam-amendment-bill-news/article71275442.ece",
       "relevance_score": 0.91,
       "published_date": "2026-07-28"
     },
@@ -241,6 +281,26 @@
       "published_date": "2026-07-28"
     },
     {
+      "id": 8180,
+      "title": "Kuwait Eyes Saudi-Style Defence Pact With Pak. Islamabad Rules Out Troops",
+      "summary": "• Kuwait has been considering a joint defence pact with Pakistan for years.\n• Islamabad has ruled out sending troops to the region in the past.\n• The two countries have been at odds for years over sovereignty in the South Arabian Peninsula.\n• Click here to read more about the Kuwaiti defence deal with the Pakistanis in this article.",
+      "category": "International Relations",
+      "source": "NDTV - World",
+      "url": "https://www.ndtv.com/world-news/kuwait-eyes-saudi-style-defence-pact-with-pak-islamabad-rules-out-troops-11835100#publisher=newsstand",
+      "relevance_score": 0.8457,
+      "published_date": "2026-07-28"
+    },
+    {
+      "id": 8174,
+      "title": "CAQM directs Punjab, Haryana to get drones to track stubble fires in real time",
+      "summary": "• CAQM: Drones to be used to monitor fires in Punjab and HaryANA.\n• Drones will also be used in Uttar Pradesh and Uttarakhand to track fires in the state's hinterland.\n• The drones will be able to track the fires in a real-time manner.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/caqm-directs-punjab-haryana-to-get-drones-to-track-stubble-fires-in-real-time-air-pollution-101785267126658.html",
+      "relevance_score": 0.8419,
+      "published_date": "2026-07-28"
+    },
+    {
       "id": 8129,
       "title": "Nandita Sinha, IIT alumna and former Myntra head, named CEO of Swiggy's Instamart",
       "summary": "• Sinha is an IIT alumnus and a former member of the board of directors of the Indian Institute of Technology, Delhi.\n• She is also a co-founder and former CEO of fashion label, Mynta.\n• She was also the first woman to be appointed CEO of a major Indian fashion brand.",
@@ -321,6 +381,16 @@
       "published_date": "2026-07-28"
     },
     {
+      "id": 8176,
+      "title": "History on the track! Gulveer Singh wins India's first-ever CWG men's 10,000m medal with silver",
+      "summary": "• India has never won a medal in the event before.\n• Gulveer is the first Indian to win a medal at the Games.\n• He also won silver in the men's 1,500m and men's 5,000 metres.\n• He won gold in the 4x100m relay at the 2010 Commonwealth Games.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/history-on-the-track-gulveer-singh-wins-indias-first-ever-cwg-mens-10-000m-medal-with-silver-101785268786005.html",
+      "relevance_score": 0.8169,
+      "published_date": "2026-07-28"
+    },
+    {
       "id": 8151,
       "title": "Swiggy Instamart CEO Amitesh Kumar Jha resigns; Myntra's Nandita Sinha to take charge",
       "summary": "• Jha was in charge of Swiggy's Indian arm for the past three years.\n• Mynta's Sinha will take over as CEO for the rest of the year.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
@@ -391,6 +461,16 @@
       "published_date": "2026-07-28"
     },
     {
+      "id": 8170,
+      "title": "SEBI did not penalise most finfluencers: CFA study",
+      "summary": "• CFA: SEBI should have penalised more for overcharging.\n• SEBI: Most finfluencer overpaid by up to 10 per cent in 2013-14.\n• SEBS: Most overcharged by 1 per cent or less in 2013 - CFA.SEBI: More overcharging by 1 to 2 per cent was not a problem.",
+      "category": "Economy & Banking",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/Industry/sebi-did-not-penalise-958-of-fiinfluencers/article71277855.ece",
+      "relevance_score": 0.805,
+      "published_date": "2026-07-28"
+    },
+    {
       "id": 8168,
       "title": "Commonwealth Games 2026 LIVE Updates Day 6: No medal for Nirupama Devi, boxer Preeti Pawar has chance to secure bronze",
       "summary": "• Commonwealth Games 2026 LIVE Updates Day 6: No medal for Nirupama Devi.\n• Boxer Preeti Pawar has chance to secure bronze in women's boxing.\n• Commonwealth Games 20 26 LIVE Updates: Day 6 in Rio de Janeiro, Brazil.\n• Click here for all the latest Commonwealth Games news.\n• The Commonwealth Games are taking place in Brazil from July 16 to August 4, 2016.",
@@ -451,22 +531,22 @@
       "published_date": "2026-07-27"
     },
     {
-      "id": 8070,
-      "title": "CJP calls for release of protestors arrested in Assam, West Bengal, Bihar; warns of legal action if promises are not met",
-      "summary": "• CJP calls for release of protestors arrested in Assam, West Bengal, Bihar.\n• He warns of legal action if promises are not met.\n• CJP: We will take legal action against those who have been arrested in the name of democracy.\n• We will also take action against the leaders who have broken the law.\n• We are committed to the rule of law, justice and equality for all, says the CJP.",
-      "category": "State News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/cjp-calls-for-release-of-protestors-arrested-in-assam-west-bengal-bihar-warns-of-legal-action-if-promises-are-not-met-11785134229204.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-27"
-    },
-    {
       "id": 8064,
       "title": "RBI Governor says special forex drive raised $32 billion so far",
       "summary": "• RBI Governor: Special Forex drive raises $32billion so far this year, including $32bn from special foreign exchange sales.\n• He says it will continue for the rest of the year as well as in 2015 and 2016.\n• He said it will be used to boost the country's economy and create jobs.",
       "category": "Economy & Banking",
       "source": "Indian Express - Business",
       "url": "https://indianexpress.com/article/business/rbi-foreign-inflows-fcnr-swap-scheme-sanjay-malhotra-rupee-outlook-sbi-10805676/",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-27"
+    },
+    {
+      "id": 8070,
+      "title": "CJP calls for release of protestors arrested in Assam, West Bengal, Bihar; warns of legal action if promises are not met",
+      "summary": "• CJP calls for release of protestors arrested in Assam, West Bengal, Bihar.\n• He warns of legal action if promises are not met.\n• CJP: We will take legal action against those who have been arrested in the name of democracy.\n• We will also take action against the leaders who have broken the law.\n• We are committed to the rule of law, justice and equality for all, says the CJP.",
+      "category": "State News",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/cjp-calls-for-release-of-protestors-arrested-in-assam-west-bengal-bihar-warns-of-legal-action-if-promises-are-not-met-11785134229204.html",
       "relevance_score": 0.91,
       "published_date": "2026-07-27"
     },
@@ -488,6 +568,16 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-workers-fan-attendance-food-sales-stats-organising-tournament/article71274305.ece",
       "relevance_score": 0.8883,
+      "published_date": "2026-07-27"
+    },
+    {
+      "id": 8179,
+      "title": "RIMPAC 2026 and the Future of Multinational Maritime Operations in the Indo-Pacific",
+      "summary": "• RIMPAC is a multi-national maritime operation based in the Indian Ocean.\n• The event will take place in the months of July and August of 2026.\n• It will be hosted by the U.S. Navy and the Royal Australian Navy.\n• The conference will be held in Sydney, Australia, from July 26 to August 7.",
+      "category": "International Relations",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/07/rimpac-2026-and-the-future-of-multinational-maritime-operations-in-the-indo-pacific/",
+      "relevance_score": 0.888,
       "published_date": "2026-07-27"
     },
     {
@@ -19909,98 +19999,8 @@
       "url": "https://sportstar.thehindu.com/football/fifa-world-cup/iraq-fifa-world-cup-2026-preview-team-players-analysis/article71085219.ece",
       "relevance_score": 0.8744,
       "published_date": "2026-06-10"
-    },
-    {
-      "id": 5398,
-      "title": "Reliance Industries to develop data centre project for Meta in Gujarat",
-      "summary": "• The data centre will be located in the state's capital, Gandhinagar.\n• The project is expected to be completed by the end of the year at a cost of around $1.5 billion.\n• It will be the first data centre of its kind in the Indian state, Reliance says.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/reliance-industries-to-develop-data-centre-project-for-meta-in-gujarat/article71083443.ece",
-      "relevance_score": 0.8731,
-      "published_date": "2026-06-10"
-    },
-    {
-      "id": 5423,
-      "title": "Why Anthropic has edge over OpenAI in IPO race",
-      "summary": "• Anthropic is a company that uses AI technology to create artificially intelligent systems.\n• The company has raised more than $1 billion in funding since it went public last year.\n• It is now looking to raise $100 million in an IPO to raise more money for its AI project, called Anthropic.\n• For more on Anthropic's IPO, go to www.anthropic.com.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - Business",
-      "url": "https://www.hindustantimes.com/business/why-anthropic-has-edge-over-openai-in-ipo-race-101781065323000.html",
-      "relevance_score": 0.8718,
-      "published_date": "2026-06-10"
-    },
-    {
-      "id": 5379,
-      "title": "AI agents to match physical workforce at TCS soon: Chairman N Chandrasekaran",
-      "summary": "• TCS to use AI to match virtual workforce with physical workforce soon, he says.\n• T CS is one of India's largest IT companies.\n• Tcs is based in Bangalore, India's second-largest city, with offices in New Delhi, Bangalore and Hyderabad.\n• The company has more than 100,000 employees across the globe.",
-      "category": "Science & Technology",
-      "source": "Indian Express - Business",
-      "url": "https://indianexpress.com/article/business/companies/ai-agents-to-match-physical-workforce-at-tcs-soon-chairman-n-chandrasekaran-10732210/",
-      "relevance_score": 0.8682,
-      "published_date": "2026-06-10"
-    },
-    {
-      "id": 5427,
-      "title": "Union Cabinet hails Modi as longest-serving PM in 7-point resolution, praises him for 'protecting India's interest",
-      "summary": "• Union Cabinet hails Modi as longest-serving PM in 7-point resolution.\n• It praises him for 'protecting India's interest' and 'protects the nation's sovereignty' Modi has been in office for more than four years, making him the longest serving PM in India's history.\n• He was sworn in as Prime Minister on May 24, 2013.\n• He is the first Indian PM to serve more than three terms as PM.",
-      "category": "Polity & Governance",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/union-cabinet-hails-modi-as-longest-serving-pm-in-7-point-resolution-praises-him-for-protecting-indias-interest-11781083617289.html",
-      "relevance_score": 0.8653,
-      "published_date": "2026-06-10"
-    },
-    {
-      "id": 5447,
-      "title": "FIFA World Cup 2026: Top 5 defenders to watch out for",
-      "summary": "• Top 5 players to look out for in Brazil.\n• Top five players to watch in Brazil in 2026.\n• Click here for more FIFA World Cup 2022 news.\n• Click HERE for the full list of players towatch out for at the 2026 World Cup in South Africa.\n• CLICK HERE for all the latest FIFA 2026 news.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/football/fifa-world-cup-2026-top-5-defenders-van-djik-mendes-hakimi-saliba-10733297/",
-      "relevance_score": 0.8645,
-      "published_date": "2026-06-10"
-    },
-    {
-      "id": 5375,
-      "title": "West Asia war LIVE: U.S. military says 'completed' strikes against Iran; 'will leave no attack or threat unanswered', says Iran",
-      "summary": "• Iran: 'We will not leave any threat unanswered.\n• We will not allow any attack to be made against our country' Iran: We are ready to defend ourselves against any attack.\n• Iran says it is prepared to defend its sovereignty and territorial integrity.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/iran-us-israel-war-live-updates-donald-trump-benjamin-netanyahu-mojtaba-khamenei-ceasefire-strait-of-hormuz-oil-prices-june-10-2026/article71083282.ece",
-      "relevance_score": 0.8642,
-      "published_date": "2026-06-10"
-    },
-    {
-      "id": 5452,
-      "title": "Party time for PM Modi, ‘longest-serving prime minister’ munches jhalmuri at Bharat Mandapam: VIDEO",
-      "summary": "• PM Modi is the longest-serving Prime Minister in India's history.\n• He has been in office for more than three decades.\n• He was sworn in as prime minister on May 24, 2012.",
-      "category": "Polity & Governance",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/party-time-for-pm-modi-longest-serving-prime-minister-munches-jhalmuri-at-bharat-mandapam-video-11781098072043.html",
-      "relevance_score": 0.8613,
-      "published_date": "2026-06-10"
-    },
-    {
-      "id": 5425,
-      "title": "Deputy Secretary-General of ASEAN for Community and Corporate Affairs delivers remarks at the 2026 Liaoning International Friendship Cities Conference",
-      "summary": "• He is also the head of the ASEan-China Joint Commission on Economic and Social Cooperation.\n• He was also the chairman of the China-ASEAN Joint Commission for Economic and Economic Co-operation in 2010 and 2011.\n• In 2012, he was the chairman and chief of the joint commission for economic and social co-operation between the two countries.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/deputy-secretary-general-of-asean-for-community-and-corporate-affairs-delivers-remarks-at-the-2026-liaoning-international-friendship-cities-conference/",
-      "relevance_score": 0.8593,
-      "published_date": "2026-06-10"
-    },
-    {
-      "id": 5408,
-      "title": "PM Modi celebrates 4,399 days in office as Prime Minister: ‘Devoted by nature, a king with….’",
-      "summary": "• ‘Devoted by nature, a king with….’ he says.\n• PM Modi has been Prime Minister of India for four years and four months.\n• He has been in office since May 2014 and is the longest serving Prime Minister in India's history.\n• He is the first Indian Prime Minister to reach 4,400 days.",
-      "category": "Polity & Governance",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/pm-modi-celebrates-4-399-days-in-office-as-prime-minister-devoted-by-nature-a-king-with-11781069874934.html",
-      "relevance_score": 0.8585,
-      "published_date": "2026-06-10"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-28T17:14:48.928297Z"
+  "updated_at": "2026-07-29T03:07:40.859157Z"
 }
