@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": 8297,
+      "title": "Meet Devendra Chaplot, IIT-B graduate who may help Sarvam challenge OpenAI and Anthropic",
+      "summary": "• Chaplot is a co-founder of the startup that developed the open-source software.\n• He is also the co-creator of the project's open source version of the code, called OpenAI.\n• He also co-founded the startup Anthropic, which developed its own version of OpenAI, which is open source.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/technology/features/story/meet-devendra-chaplot-iit-b-graduate-who-may-help-sarvam-challenge-openai-and-anthropic-2960249-2026-07-31?utm_source=rss",
+      "relevance_score": 0.9789,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8296,
+      "title": "RBI changes the rules on bank deposit rates: What it means for you from October 1",
+      "summary": "• The changes will take effect on October 1 and will affect all banks across the country.\n• The new rates will be based on the rate at which the central bank lends to banks.\n• The rates will not be set by the Reserve Bank of India itself but by a panel of five independent banks.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Economy & Banking",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/business/personal-finance/story/rbi-bank-deposit-rates-rules-bulk-deposit-rates-public-10-am-october-1-2026-2960259-2026-07-31?utm_source=rss",
+      "relevance_score": 0.9691,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8294,
+      "title": "xAI sues US state over law banning 'nudification' tech",
+      "summary": "• XAI is a social network that lets users post photos of themselves without clothes on.\n• The company also has its own app, called xAI, which lets users upload photos of their bodies without clothes.\n• Click here to read more about xAI's lawsuit against the state of New Jersey over the 'nude tech' law.",
+      "category": "Science & Technology",
+      "source": "Times of India - World",
+      "url": "https://timesofindia.indiatimes.com/world/us/xai-sues-us-state-over-law-banning-nudification-tech/articleshow/132753187.cms",
+      "relevance_score": 0.9029,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8290,
+      "title": "Parliament clears Vande Mataram bill, to be sent to President for assent",
+      "summary": "• Bill is expected to be signed into law by the President on Friday.\n• It will be the first anti-corruption bill in the country's history.\n• The bill was passed with a majority of votes in both houses of parliament.\n• It is now expected to receive the President's assent by the end of the month.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/parliament-clears-vande-mataram-bill-to-be-sent-to-president-for-assent-parliament-monsoon-session-lok-sabha-rajya-sabha-101785462995479.html",
+      "relevance_score": 0.804,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8288,
+      "title": "ISRO & Japanese scientists review mission Chandrayaan-5 preparation",
+      "summary": "• Chandrayaan-5 is a joint mission between India and Japan.\n• The mission is scheduled to take off in 2018 and reach Earth in 2023.\n• It is expected to reach the Earth's orbit in 2028 and land in 2029.\n• It will be the fifth mission for the Indian space agency.",
+      "category": "Science & Technology",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/isro-japanese-scientists-review-mission-chandrayaan-5-preparation-10811283/",
+      "relevance_score": 0.9755,
+      "published_date": "2026-07-30"
+    },
+    {
       "id": 8256,
       "title": "‘How Can An Unelected Minister Continue?’ SC Asks Bihar Govt Over Deepak Prakash's Tenure",
       "summary": "• ‘How can an Uneelected Minister Continue?' asks Bihar SC.\n• “How can An Utelected Minister continue?” asks Bihar Supreme Court over Deepak prakash’s tenure.\n• The Bihar government has been accused of ‘cronyism’ and ‘frivolous practices’.",
@@ -41,6 +91,16 @@
       "published_date": "2026-07-30"
     },
     {
+      "id": 8302,
+      "title": "Twin gold medals for India at Commonwealth Table Tennis Championships",
+      "summary": "• India won two golds at the 2014 Commonwealth Games in Glasgow.\n• India also won gold at the Commonwealth Games back in 2010.\n• India have won four gold medals at Commonwealth Games since the event began in Glasgow in 1992.\n• The team has won a total of six gold medals in the event.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/table-tennis/commonwealth-table-tennis-championships-india-men-women-win-gold-medal-final-score-tt-news/article71287650.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-30"
+    },
+    {
       "id": 8250,
       "title": "6 Months, 2 Stints: Supreme Court Asks Bihar How Unelected Minister Can Continue",
       "summary": "• Supreme Court asks Bihar how Uneelected Minister can continue.\n• Bihar has been in the grip of a political crisis since the Bihar Assembly elections in April.\n• The Bihar government has been accused of misrule, corruption and nepotism.\n• The Supreme Court has asked the Bihar government to find a solution to the crisis.",
@@ -61,6 +121,16 @@
       "published_date": "2026-07-30"
     },
     {
+      "id": 8293,
+      "title": "Space department and Isro begins hiring for 746 posts, 92 will be scientist/engineers",
+      "summary": "• Space department and isro begin hiring for746 posts.\n• 92 of the posts will go to scientists and engineers.\n• Isro will be based in India's spaceport in Andhra Pradesh, India's first space station, in Sriharikota, in the Indian Space Agency's new spaceport.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/space-department-and-isro-begins-hiring-for-746-posts-92-will-be-scientist/engineers/articleshow/132749809.cms",
+      "relevance_score": 0.8888,
+      "published_date": "2026-07-30"
+    },
+    {
       "id": 8277,
       "title": "Can’t PM be trusted on appointing CEC, government asks Supreme Court",
       "summary": "• CEC is the highest-ranking official in the Cabinet.\n• The CEC has a five-year term and is responsible for appointing the prime minister.\n• The prime minister appoints the CEC at the Prime Minister’s request.\n• The current CEC was appointed by Prime Minister David Cameron in 2010.",
@@ -68,6 +138,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/cant-pm-be-trusted-on-appointing-cec-government-asks-supreme-court/article71286537.ece",
       "relevance_score": 0.8862,
+      "published_date": "2026-07-30"
+    },
+    {
+      "id": 8299,
+      "title": "CWG 2026: Parul Chaudhary finishes 13th in 5000m final",
+      "summary": "• Parul finished ahead of compatriot and Olympic gold medallist Yusra Mokbel in the women's 5,000m final in Rio de Janeiro in July 2013.\n• She also won gold in the 4x5m relay event in Rio in July 2014.\n• In Rio in 2012, Parul was the first woman to win gold in both the men's and women's 5000m events at the Olympics.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/commonwealth-games/news/cwg-2026-parul-chaudhary-finishes-13th-womens-5000m-final-timing/article71287842.ece",
+      "relevance_score": 0.8816,
       "published_date": "2026-07-30"
     },
     {
@@ -98,6 +178,16 @@
       "source": "NDTV - World",
       "url": "https://www.ndtv.com/world-news/not-fight-between-stree-sautan-bangladesh-on-ties-with-us-india-china-11844122#publisher=newsstand",
       "relevance_score": 0.8753,
+      "published_date": "2026-07-30"
+    },
+    {
+      "id": 8286,
+      "title": "T.N. in the process of identifying site to build AI City: IT Minister",
+      "summary": "• It will be the first of its kind in the world, the minister says.\n• The city will be built on the site of an old railway station.\n• It is expected to be completed by the end of the year, according to the minister.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-in-the-process-of-identifying-site-to-build-ai-city-around-chennai-it-minister/article71286685.ece",
+      "relevance_score": 0.8729,
       "published_date": "2026-07-30"
     },
     {
@@ -211,6 +301,16 @@
       "published_date": "2026-07-30"
     },
     {
+      "id": 8295,
+      "title": "Students Take on Airborne Field Research with NASA",
+      "summary": "• Students take part in research with NASA to learn more about the Earth-observation program.\n• Students learn how to conduct airborne field research in the U.S. and around the world with the help of NASA's Jet Propulsion Laboratory.\n• Students also learn about airborne field research with the Airborne Airborne Research Experiential Research Program.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/earth/students-take-on-airborne-field-research-with-nasa/",
+      "relevance_score": 0.8295,
+      "published_date": "2026-07-30"
+    },
+    {
       "id": 8276,
       "title": "Olympic bronze medallist Gagan Narang launches initiative Avsar dedicating project to mother",
       "summary": "• Narang: \"I want to be a better person.\n• I want to give back to my mother.\n• I love her so much\" Narang is the daughter of former Olympic gold medalist and current IOC member GaganNarang.\n• He is also the son of former IOC member and Olympic bronze medalist, Gagan narang.",
@@ -231,6 +331,26 @@
       "published_date": "2026-07-30"
     },
     {
+      "id": 8301,
+      "title": "CWG 2026: Animesh Kujur fails to qualify for men’s 200m final",
+      "summary": "• Animee Kujuran fails to make men�'s 200m at the Commonwealth Games in 2026.\n• Animese fails to reach the final of the 200m in Rio de Janeiro in 2016.\n• She also missed out on a place in the men's 100m final in Rio in 2016 and 2017.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/commonwealth-games/news/cwg-2026-animesh-kujur-fails-to-qualify-for-mens-200m-final-semifinal-timing/article71287685.ece",
+      "relevance_score": 0.8181,
+      "published_date": "2026-07-30"
+    },
+    {
+      "id": 8298,
+      "title": "US Sanctions Iran's Mahan Air Support Network, Targets Entities In India, China And Russia",
+      "summary": "• U.S. Sanctions Aimed at Entities in India, Chinese, Russian and Indian Air Force.\n• Iran has been accused of supporting terror groups in the past, including the Islamic State.\n• Iran denies the allegations and says it is committed to freedom of speech and freedom of the press.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/world/us-sanctions-irans-mahan-air-support-network-targets-entities-in-india-china-and-russia-ws-l-10243759.html",
+      "relevance_score": 0.8176,
+      "published_date": "2026-07-30"
+    },
+    {
       "id": 8262,
       "title": "Vikram-1 launch reflects strength of India’s public-private partnership in space sector: ISRO Chairperson V. Narayanan",
       "summary": "• ISRO chairperson: Vikram launch shows India's commitment to space exploration and development.\n• He adds that the launch is part of a larger plan to develop India's space infrastructure.\n• The launch is expected to take place in the next few months.",
@@ -238,6 +358,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/kerala/vikram-1-launch-reflects-strength-of-indias-public-private-partnership-in-space-sector-isro-chairperson-v-narayanan/article71286141.ece",
       "relevance_score": 0.8148,
+      "published_date": "2026-07-30"
+    },
+    {
+      "id": 8292,
+      "title": "Kody Clemens rips walk-off grand slam, Twins stun Royals 4-3",
+      "summary": "• Twins beat Royals for the first time in six games.\n• Twins lead Royals 3-1 after three innings at Kauffman Stadium.\n• Twins win series for first time since July 31, 2011.\n• Twins have won three of last four games against Royals, who have won six in a row in the series.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/kody-clemens-rips-walk-off-grand-slam-twins-stun-royals-43-101785443455348.html",
+      "relevance_score": 0.8146,
       "published_date": "2026-07-30"
     },
     {
@@ -311,22 +441,22 @@
       "published_date": "2026-07-29"
     },
     {
-      "id": 8236,
-      "title": "FIFA opens disciplinary case over Argentina Falklands banner at World Cup 2026",
-      "summary": "• Argentina will be hosting the World Cup for the first time in 2026 in South Africa.\n• FIFA will decide on the fate of the banner at the end of the tournament in Rio de Janeiro in 2018.\n• The Argentina Falkland Islands banner will be displayed at the stadium in Rio.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-opens-disciplinary-case-argentina-falklands-banner-war-england-world-cup-2026/article71283081.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-29"
-    },
-    {
       "id": 8207,
       "title": "Parliament Monsoon Session 2026 LIVE Updates: Lok Sabha Passes Anti-Paper Leak Amendment Bill By Voice Vote",
       "summary": "• Lok Sabha passes anti- paper leak amendment Bill By voice Vote.\n• Parliament Monsoon session 2026 live updates: Follow here for all the latest updates from the Parliament.\n• Click here to follow the LIVE updates from Lok Sabha 2026 here.",
       "category": "Polity & Governance",
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-neet-paper-leak-row-anti-paper-leak-bill-lok-sabha-rajya-sabha-proceedings-rahul-gandhi-pm-modi-cjp-prote-11835603#publisher=newsstand",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-29"
+    },
+    {
+      "id": 8236,
+      "title": "FIFA opens disciplinary case over Argentina Falklands banner at World Cup 2026",
+      "summary": "• Argentina will be hosting the World Cup for the first time in 2026 in South Africa.\n• FIFA will decide on the fate of the banner at the end of the tournament in Rio de Janeiro in 2018.\n• The Argentina Falkland Islands banner will be displayed at the stadium in Rio.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-opens-disciplinary-case-argentina-falklands-banner-war-england-world-cup-2026/article71283081.ece",
       "relevance_score": 0.91,
       "published_date": "2026-07-29"
     },
@@ -19869,138 +19999,8 @@
       "url": "https://asean.org/secretary-general-of-asean-attends-as-guest-of-honour-at-the-celebration-of-the-250th-anniversary-of-the-independence-of-the-united-states-of-america/",
       "relevance_score": 0.9165,
       "published_date": "2026-06-11"
-    },
-    {
-      "id": 5479,
-      "title": "2 Bengaluru firms, 1 from Hyderabad, picked for IN-SPACe Tech adoption fund support",
-      "summary": "• In-SPace Tech is an adoption fund supporting start-ups in the tech sector.\n• The fund has been set up by Bengaluru-based tech incubator, IN- SPACe.\n• For more information, visit the IN-SpACe tech website.\n• For confidential support, call the National Suicide Prevention Lifeline at 1-800-273-8255.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/2-bengaluru-firms-1-from-hyderabad-picked-for-in-space-tech-adoption-fund-support/articleshow/131650431.cms",
-      "relevance_score": 0.9151,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5475,
-      "title": "Scientists develop smart bandage that detects infections and releases antibiotics when needed",
-      "summary": "• The bandage is fitted with sensors that detect infections and release antibiotics when they are needed.\n• It is also fitted with a camera to monitor the wearer's blood pressure and other vital signs.\n• For more information on the bandage, go to www.cnn.com/smartbandage and www.sickbandage.com.",
-      "category": "Science & Technology",
-      "source": "Indian Express - Technology",
-      "url": "https://indianexpress.com/article/technology/science/scientists-create-smart-bandage-dressing-detects-infection-10733538/",
-      "relevance_score": 0.9151,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5523,
-      "title": "Tinkering laboratory at school campus in Ranipet inaugurated",
-      "summary": "• Tinkering lab is first of its kind in the country.\n• It will be used for science, technology, engineering and math classes.\n• The school will also use the lab to test students' knowledge of science and math.\n• The lab will be open to the public for the duration of the school year.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tinkering-laboratory-at-school-campus-in-ranipet-inaugurated/article71089178.ece",
-      "relevance_score": 0.915,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5522,
-      "title": "BJP’s Rajya Sabha candidates in Madhya Pradesh elected unopposed; Election Commission yet to decide on Congress plea",
-      "summary": "• BJP’s Rajya Sabha candidates in Madhya Pradesh elected unopposed.\n• Election Commission yet to decide on Congress plea to stop them from contesting elections.\n• BJP has won all the seats in the state since the last election in 2008.\n• The Congress has won two seats and the Samajwadi Party has one in Bhopal and one in Chhattisgarh.\n• Congress has one seat in the Lok Sabha and two in Vidhan Sabha.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/rajya-sabha-elections-bjp-wins-three-seats-from-madhya-pradesh/article71089440.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5462,
-      "title": "Orange, yellow alert every in Kerala, Karnataka as monsoon advances; storm likely in Delhi",
-      "summary": "• Storm likely in Delhi; storm likely to be in Delhi, according to weather forecasters.\n• Kerala and Karnataka on high alert for monsoon as storm is expected to make landfall in Delhi.\n• Kerala on yellow alert; Karnataka is on orange alert.\n• Delhi on red alert; storm expected to hit Delhi, weather forecaster says.",
-      "category": "State News",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/weather-monsoon-rain-thunderstorm-delhi-imd-10733966/",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5509,
-      "title": "Modi Factor Is Still Powering BJP After 4,400 Days: Vote Share, Neutral Voters & Youth Challenge",
-      "summary": "• Prime Minister Narendra Modi’s influence is remaining central to the BJP's electoral success.\n• Analysts point to the Modi factor as a key reason behind the party's continued strength.\n• Some perceptions are showing signs of slight decline, but his ability to attract neutral voters is continuing to give the BJP an electoral edge.\n• As new elections are approaching, the party is focusing on maintaining relevance among younger voters.\n• As new elections are approaching, the party’s challenge is now focusing on maintaining relevance among younger voters, sustaining enthusiasm and converting personal popularity into votes across regions.The discussion is examining how Modi’s leadership, governance record, welfare politics, national….",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/modi-factor-is-still-powering-bjp-after-4-400-days-vote-share-neutral-voters-youth-challenge-10144004.html",
-      "relevance_score": 0.9068,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5499,
-      "title": "IIT Bhubaneswar develops hand-held device to detect arsenic",
-      "summary": "• The device can be used to check for traces of arsenic in food and drink.\n• It can also detect traces of other chemicals such as lead and chromium in food or drink.\n• The project is funded by the Indian government and the Indian Institute of Technology, Bhubanewar.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Science",
-      "url": "https://www.thehindu.com/sci-tech/science/iit-bhubaneswar-develops-hand-held-device-to-detect-arsenic/article71089117.ece",
-      "relevance_score": 0.9059,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5465,
-      "title": "Cabinet passes resolution, congratulates Modi for becoming longest-serving elected PM",
-      "summary": "• Modi has been in power since May 2014.\n• He is India's longest- serving PM and has been prime minister since 2004.\n• Modi is also the country's second longest serving PM after Indira Gandhi.\n• He was first elected to office in May 2004 and served as PM for three terms.",
-      "category": "Polity & Governance",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/cabinet-passes-resolution-congratulates-modi-101781119889341.html",
-      "relevance_score": 0.9032,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5508,
-      "title": "People Cannot Think About BJP Without Modi, PM Brought Stability: Anand Ranganathan | News18",
-      "summary": "• Author Anand Ranganathan is saying that people cannot think about the BJP without Prime Minister Narendra Modi.\n• His remarks are coming as PM Modi’s influence is remaining central to the BJP's electoral success even after nearly 4,400 days in power.\n• Analysts are linking a significant share of the BJP’S vote base to the Modi factor, with his leadership continuing to attract neutral voters and strengthen the party's national appeal.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/people-cannot-think-about-bjp-without-modi-pm-brought-stability-anand-ranganathan-news18-10144027.html",
-      "relevance_score": 0.9025,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5476,
-      "title": "0/3 in 2 overs: Australia off to record poor start to an ODI as Bangladesh run riot",
-      "summary": "• Australia are bowled out for just 0.0 in their first two overs of the ODI against Bangladesh.\n• Australia have a poor record in ODI matches against Bangladesh, winning just one of their last seven.\n• Australia's last ODI win over Bangladesh came in a five-wicket win back in November in Dhaka.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/australia-0-runs-for-3-wickets-record-poor-start-2nd-odi-bangladesh-mustafizur-rahman-taskin-ahmed-10734262/",
-      "relevance_score": 0.8996,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5512,
-      "title": "FIFA World Cup 2026: German players to pay for 600 fans’ stadium trip amid soaring transport costs",
-      "summary": "• German players will pay to take 600 fans to the World Cup in 2026.\n• Germany will pay for the 600 fans' stadium trip at a cost of more than $1.5 million.\n• The cost of the trip is in excess of $1 million per person.\n• The World Cup will be held in 2028 in Brazil and 2026 in Morocco.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup-2026-germany-players-pay-for-fans-stadium-trip-big-costs-travel-stay-usa-canada-mexico/article71090214.ece",
-      "relevance_score": 0.8926,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5466,
-      "title": "NABL says MVVNL lab not accredited for smart meter testing",
-      "summary": "• NABL says lab is not accredited to test for smart meters.\n• NBL says lab has not been given accreditation to test smart meters in the U.S. since 2009.\n• N ABL says it is working with lab to get accreditation for testing in the United States.\n• For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or see www.samaritans.org.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/nabl-says-mvvnl-lab-not-accredited-for-smart-meter-testing/articleshow/131646763.cms",
-      "relevance_score": 0.8919,
-      "published_date": "2026-06-11"
-    },
-    {
-      "id": 5487,
-      "title": "FIFA World Cup 2026: Gordon stars in England’s warm-up win over Costa Rica after storm delay",
-      "summary": "• England beat Costa Rica 1-0 in a friendly at Wembley Stadium.\n• Gordon was named man of the match in the win over the Central Americans.\n• England won the game 2-0 thanks to goals from Danny Welbeck and Raheem Sterling.\n• Gordon also scored a brace in the game against Costa Rica.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-gordon-stars-in-englands-warm-up-win-over-costa-rica-after-storm-delay/article71088541.ece",
-      "relevance_score": 0.887,
-      "published_date": "2026-06-11"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-30T17:34:48.321620Z"
+  "updated_at": "2026-07-31T03:27:18.561602Z"
 }
