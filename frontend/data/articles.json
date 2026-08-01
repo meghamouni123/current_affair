@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8340,
+      "title": "'Since when is abusing a crime?': What CJP said on FIR over girl's remarks against PM Modi",
+      "summary": "• 'Since when does abusing a child make you a criminal?': CJP on FIR against girl who allegedly abused PM Narendra Modi.\n• CJP: 'If she is a child, she should not have made such a statement.\n• If she is an adult, she must not have abused a child'.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/since-when-is-abusing-a-crime-what-cjp-said-on-fir-over-girls-remarks-against-pm-modi-101785547296681.html",
+      "relevance_score": 0.8071,
+      "published_date": "2026-08-01"
+    },
+    {
       "id": 8297,
       "title": "Meet Devendra Chaplot, IIT-B graduate who may help Sarvam challenge OpenAI and Anthropic",
       "summary": "• Chaplot is a co-founder of the startup that developed the open-source software.\n• He is also the co-creator of the project's open source version of the code, called OpenAI.\n• He also co-founded the startup Anthropic, which developed its own version of OpenAI, which is open source.",
@@ -31,13 +41,13 @@
       "published_date": "2026-07-31"
     },
     {
-      "id": 8312,
-      "title": "PM Modi congratulates Lovepreet Singh for silver medal win at CWG 2026 — ‘His dedication, determination are admirable’",
-      "summary": "• ‘His dedication, determination and admirable’ says PM Modi.\n• LovePreet Singh won silver medal for India in the women’s individual pursuit event at CWg 2026 in Rio de Janeiro.\n• Singh won the silver medal with a total score of 19-16.\n• She also won the gold medal with 19-15.",
-      "category": "Sports",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/pm-modi-congratulates-lovepreet-singh-for-silver-medal-win-at-cwg-2026-his-dedication-determination-are-admirable-11785486917792.html",
-      "relevance_score": 0.91,
+      "id": 8336,
+      "title": "ISRO calls for stronger academia-industry partnership to power future space missions",
+      "summary": "• ISRO: We need to work together to achieve our goals in space.\n• We need a partnership between academia and industry.\n• We must work together for a better future of space exploration.\n• We are committed to working together for the betterment of our planet.\n• We will continue to explore space in a sustainable and cost-effective way.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/isro-calls-for-stronger-academia-industry-partnership-to-power-future-space-missions/article71290722.ece",
+      "relevance_score": 0.9314,
       "published_date": "2026-07-31"
     },
     {
@@ -57,6 +67,16 @@
       "category": "Polity & Governance",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/supreme-court-stays-delhi-high-court-order-declaring-nsei-public-authority-under-rti-act/article71290108.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8312,
+      "title": "PM Modi congratulates Lovepreet Singh for silver medal win at CWG 2026 — ‘His dedication, determination are admirable’",
+      "summary": "• ‘His dedication, determination and admirable’ says PM Modi.\n• LovePreet Singh won silver medal for India in the women’s individual pursuit event at CWg 2026 in Rio de Janeiro.\n• Singh won the silver medal with a total score of 19-16.\n• She also won the gold medal with 19-15.",
+      "category": "Sports",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/pm-modi-congratulates-lovepreet-singh-for-silver-medal-win-at-cwg-2026-his-dedication-determination-are-admirable-11785486917792.html",
       "relevance_score": 0.91,
       "published_date": "2026-07-31"
     },
@@ -88,6 +108,16 @@
       "source": "Times of India - World",
       "url": "https://timesofindia.indiatimes.com/world/us/xai-sues-us-state-over-law-banning-nudification-tech/articleshow/132753187.cms",
       "relevance_score": 0.9029,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8344,
+      "title": "Floating solar plants get Rs 5,000cr push",
+      "summary": "• They will be used to generate electricity from solar panels and other renewable energy sources.\n• The plants are expected to be operational by 2018.\n• The first one will be set up in the state of Haryana, with a second one planned for the state's east coast.\n• The total cost of the plants will be around Rs 10,000 to Rs 12,000.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/floating-solar-plants-get-rs-5000cr-push/articleshow/132778146.cms",
+      "relevance_score": 0.9026,
       "published_date": "2026-07-31"
     },
     {
@@ -131,6 +161,16 @@
       "published_date": "2026-07-31"
     },
     {
+      "id": 8345,
+      "title": "Samudra Manthan gets Cabinet nod",
+      "summary": "• Manthan is a former chief minister of Tamil Nadu.\n• Samudra is also a former minister of state for health and family welfare.\n• He was a member of the ruling Tamil Nadu Janata Dal (United) party.\n• He served as health minister from 2003 to 2007.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/samudra-manthan-gets-cabinet-nod/articleshow/132777747.cms",
+      "relevance_score": 0.8655,
+      "published_date": "2026-07-31"
+    },
+    {
       "id": 8309,
       "title": "Rooftop solar on 36,963 buildings in APSPDCL area, generating 128 MW",
       "summary": "• Rooftops on buildings in area generate 128 MW of solar power, according to company's website.\n• The area is home to more than 36,000 buildings, many of which have rooftop solar panels.\n• The solar power system is expected to generate 128MW of energy, the company says.",
@@ -158,6 +198,16 @@
       "source": "BBC Business",
       "url": "https://www.bbc.co.uk/news/articles/cjd4yz35x8go?at_medium=RSS&at_campaign=rss",
       "relevance_score": 0.8499,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8337,
+      "title": "In a first, India’s High Commissioner to Bangladesh meets U.S. Ambassador to India in Dhaka",
+      "summary": "• The meeting took place in front of a crowd of thousands of people in the Bangladeshi capital.\n• The two countries have been at odds for years over a number of issues, including Kashmir and Kashmiris in the Himalayas.\n• The visit is the first of its kind between India and the United States.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/national/in-a-first-indias-high-commissioner-to-bangladesh-meets-us-ambassador-to-india-in-dhaka/article71291620.ece",
+      "relevance_score": 0.8472,
       "published_date": "2026-07-31"
     },
     {
@@ -228,6 +278,26 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/pm-surya-sarovar-yojana-cabinet-approves-rs-5070-crore-scheme-for-floating-solar-projects/articleshow/132764917.cms",
       "relevance_score": 0.8136,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8335,
+      "title": "Triumph of justice vs Hussain a BJP man: parties trade barbs after Tahir Hussain verdict",
+      "summary": "• Hussain was found guilty of corruption and sentenced to five years in prison.\n• He was released on bail and is now serving his sentence.\n• Hussain is a former member of the Uttar Pradesh Legislative Assembly.\n• He has served in the Lok Sabha since 2002.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/Delhi/triumph-of-justice-vs-hussain-a-bjp-man-parties-trade-barbs-after-tahir-hussain-verdict/article71291345.ece",
+      "relevance_score": 0.8057,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8343,
+      "title": "Historic judo golds, Neeraj-Yashvir double podium and boxers' show lift India at CWG",
+      "summary": "• India's gold medal haul at the CWG includes two golds in judo and a silver in the men's team event.\n• India also won a silver medal in the women's team competition.\n• India won a gold medal in men's judo at the 2014 Commonwealth Games in Glasgow.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/historic-judo-golds-neeraj-yashvir-double-podium-and-boxers-show-lift-india-at-cwg-101785531711422.html",
+      "relevance_score": 0.8045,
       "published_date": "2026-07-31"
     },
     {
@@ -458,6 +528,16 @@
       "source": "Indian Express - Sports",
       "url": "https://indianexpress.com/article/sports/hockey/india-hockey-team-saffron-tamasha-wont-inspired-watch-10810242/",
       "relevance_score": 0.8428,
+      "published_date": "2026-07-30"
+    },
+    {
+      "id": 8360,
+      "title": "Mongolia Signs Fuel Deal With South Korea",
+      "summary": "• South Korea is the world's second-largest producer of crude oil.\n• The deal is expected to save millions of barrels of oil from being used for export to the U.S. and Europe.\n• It is also expected to reduce the country's reliance on Russian oil for its energy needs.\n• The two countries have been at odds over oil since the 1990s.",
+      "category": "International Relations",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/07/mongolia-signs-fuel-deal-with-south-korea/",
+      "relevance_score": 0.842,
       "published_date": "2026-07-30"
     },
     {
@@ -19919,88 +19999,8 @@
       "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-space-startups-among-three-selected-for-funding-under-technology-adoption-fund/article71092872.ece",
       "relevance_score": 0.8587,
       "published_date": "2026-06-12"
-    },
-    {
-      "id": 5544,
-      "title": "Bengaluru space startups among three selected for funding under Technology Adoption Fund",
-      "summary": "• Bengaluru space startup to raise $1.5 million in funding from India's first space accelerator fund.\n• The fund will provide funding for space startups in Bengaluru, Hyderabad, Kolkata and Bengaluru-Silicon Valley.\n• The funding will be spread over three years, with a total of $10 million.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/sci-tech/science/bengaluru-space-startups-among-three-selected-for-funding-under-technology-adoption-fund/article71092872.ece",
-      "relevance_score": 0.8587,
-      "published_date": "2026-06-12"
-    },
-    {
-      "id": 5535,
-      "title": "Two-layer security cover sought for NEET-UG retest papers, answer sheets",
-      "summary": "• Two- layer security cover is sought for retesting papers and answer sheets for the National Institutes of Health's NEet-UG test.\n• The test is part of the National Institute of Allergy and Infectious Diseases' National Center for Immunization and Testing program.\n• For confidential support, call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
-      "category": "Science & Technology",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/neet-ug-re-exam-centre-layer-crpf-cisf-security-cover-material-10736120/",
-      "relevance_score": 0.8583,
-      "published_date": "2026-06-12"
-    },
-    {
-      "id": 5521,
-      "title": "Vizag steel plant explosion | Data reveals major lacunae in reporting industrial accidents",
-      "summary": "• Vizag has one of the highest rates of industrial accidents in the U.S., according to a new report.\n• The report was compiled by the National Transportation Safety Board.\n• It was released to coincide with the 10th anniversary of the blast at the steel plant.\n• The blast killed 11 people and injured more than 200.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/data/vizag-steel-plant-explosion-data-reveals-major-lacunae-in-reporting-industrial-accidents/article71088836.ece",
-      "relevance_score": 0.8524,
-      "published_date": "2026-06-12"
-    },
-    {
-      "id": 5568,
-      "title": "US, Iran may sign Geneva memorandum by Sunday as Hormuz reopening nears",
-      "summary": "• U.S., Iran to sign memorandum to ease tensions over Strait of Hormiz.\n• Hormuss is a key shipping lane between the Persian Gulf and the Red Sea.\n• The Strait has been closed since the 1979 Islamic Revolution in Iran.\n• The United States and Iran have been at odds over the Strait for decades.",
-      "category": "International Relations",
-      "source": "Indian Express - World",
-      "url": "https://indianexpress.com/article/world/us-iran-may-sign-geneva-memorandum-by-sunday-as-hormuz-reopening-nears-10736628/",
-      "relevance_score": 0.8511,
-      "published_date": "2026-06-12"
-    },
-    {
-      "id": 5538,
-      "title": "Raul Jimenez back from the dead after scoring in Mexico’s win in 2026 FIFA World Cup opener — in a manner of speaking",
-      "summary": "• Jimenez scored in the 2-1 win over Honduras in the opening game of the 2026 World Cup.\n• He also scored in Mexico's 2-0 win over El Salvador in the second game.\n• He scored in both of Mexico's other games in the tournament.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/football/raul-jimenez-back-from-the-dead-after-scoring-in-mexico-s-win-in-2026-fifa-world-cup-opener-in-a-manner-of-speaking-101781243910548.html",
-      "relevance_score": 0.8437,
-      "published_date": "2026-06-12"
-    },
-    {
-      "id": 5536,
-      "title": "Why national anthem routines were different at 2026 FIFA World Cup opening games",
-      "summary": "• Why national anthem routine was different for 2026 World Cup opener in South Africa.\n• The changes were made to reflect the changing nature of the games.\n• The games will be held in Rio de Janeiro, Brazil, and Sao Paulo, Brazil.\n• They will be the first to host the World Cup in South America in 2026.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/football/fifa-world-cup-2026-pre-match-national-anthem-routine-gianni-infantino-alessandro-del-piero-italy-10735856/",
-      "relevance_score": 0.841,
-      "published_date": "2026-06-12"
-    },
-    {
-      "id": 5540,
-      "title": "IIT Kanpur Announces Bachelor Of Cybersecurity Programme, Check Eligibility And Course Structure",
-      "summary": "• IIT-Kanpur will offer a Bachelor of Cybersecurity programme.\n• Check eligibility and course structure for the programme.\n• For more information, visit the programme's official website at: http://www.iit-kanpur.com/cybersecurity-programme.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/iit-kanpur-announces-bachelor-of-cybersecurity-programme-check-eligibility-and-course-structure-11625560#publisher=newsstand",
-      "relevance_score": 0.8405,
-      "published_date": "2026-06-12"
-    },
-    {
-      "id": 5569,
-      "title": "\"The Problem Is They Are Not Modi!\" | Anand Ranganathan Brutally Exposes Congress | News18",
-      "summary": "• Anand Ranganathan and Sanjay Jha go head-to-head over the Congress party's political strategy.\n• The scientist argues that while the BJP under PM Modi continues to deliver structural results on the ground, the Congress has completely lost its edge due to internal stagnation and a failure to adapt to a changing India.\n• Watch the full debate on CNN-IBN at 10pm tonight.\n• Watch as scientist and author Dr. Anand Ranganathan goes head-to-head with political analyst Sanjay Jha in a high-octane debate over Prime Minister Narendra Modi's governance record versus the Congress party's political strategy.Anand Ranganathan pulls no punches, launching a scathing critique….\n• The problem is that they are not Modi.\" n18oc_indian18oc_breaking-newsNews18 Mobile App - https://onelink.to/desc-youtube.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/the-problem-is-they-are-not-modi-anand-ranganathan-brutally-exposes-congress-news18-10146437.html",
-      "relevance_score": 0.8339,
-      "published_date": "2026-06-12"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-07-31T17:28:45.504254Z"
+  "updated_at": "2026-08-01T03:08:38.807110Z"
 }
