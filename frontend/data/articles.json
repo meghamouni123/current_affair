@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 8369,
+      "title": "IIT Kanpur Launches 6-Month Online Data Science And Machine Learning Course",
+      "summary": "• Course will focus on data science, machine learning and data analysis.\n• It will be available in English, Hindi, Urdu and Punjabi.\n• For more information, visit the course's website at: http://www.iitkanpur.com/online-data-science-and-machine-learning-course.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/education/iit-kanpur-launches-6-month-online-data-science-and-machine-learning-course-11851183#publisher=newsstand",
+      "relevance_score": 0.9725,
+      "published_date": "2026-08-01"
+    },
+    {
+      "id": 8367,
+      "title": "Govt clears floating solar capacity boost, PM-Kisan extension",
+      "summary": "• Prime Minister Narendra Modi has extended his tenure in office by two years.\n• The PM is also expected to sign a bill to boost the country's floating solar power capacity.\n• The bill is expected to be passed by the end of the year.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/govt-clears-floating-solar-capacity-boost-pm-kisan-extension-101785524222839.html",
+      "relevance_score": 0.8466,
+      "published_date": "2026-08-01"
+    },
+    {
+      "id": 8371,
+      "title": "AFC chief welcomes decision to scrap FIFA’s World Cup sell-off plan",
+      "summary": "• FIFA to scrap plans to sell off rights to host the tournament in Brazil in 2026.\n• World Cup will be hosted by Brazil in Brazil for the first time in 2028.\n• Brazil is hosting the World Cup for the third time in its history, having won the tournament four times in 1990, 1998 and 2002.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/international-football/fifa-world-cup-private-sale-plans-infantino-asian-football-confederation-president-reaction-quotest-latest-news/article71293542.ece",
+      "relevance_score": 0.8418,
+      "published_date": "2026-08-01"
+    },
+    {
       "id": 8340,
       "title": "'Since when is abusing a crime?': What CJP said on FIR over girl's remarks against PM Modi",
       "summary": "• 'Since when does abusing a child make you a criminal?': CJP on FIR against girl who allegedly abused PM Narendra Modi.\n• CJP: 'If she is a child, she should not have made such a statement.\n• If she is an adult, she must not have abused a child'.",
@@ -51,22 +81,22 @@
       "published_date": "2026-07-31"
     },
     {
-      "id": 8315,
-      "title": "Parliament Monsoon Session 2026 Highlights: Lok Sabha, Rajya Sabha Adjourned Till Monday Amid Opposition Ruckus",
-      "summary": "• Parliament Monsoon session 2026 highlights: Lok Parliament, Rajaya Sabha Adjudicated Till Monday amid Opposition Rucksus.\n• Lok Sabha: MonsoonSession 2026: Lok and Rajya Sats Adjudication Till Monday.\n• RajyaSats: Lok-Rajya Sabha: Rajya-Parliament Joint Sitting Till Monday, Monday-Tuesday.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/parliament-monsoon-session-2026-live-updates-rahul-gandhi-sharpens-attack-on-centre-over-police-action-against-students-liveblog-ws-l-10244176.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-31"
-    },
-    {
       "id": 8316,
       "title": "Supreme Court stays Delhi High Court order declaring NSEI ‘public authority’ under RTI Act",
       "summary": "• NSEi was declared a public authority by the High Court in April this year.\n• The High Court had ruled that N SEI was a 'public authority' under the RTI act.\n• The Supreme Court has now stayed the decision and will hear the case again next week.",
       "category": "Polity & Governance",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/supreme-court-stays-delhi-high-court-order-declaring-nsei-public-authority-under-rti-act/article71290108.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8315,
+      "title": "Parliament Monsoon Session 2026 Highlights: Lok Sabha, Rajya Sabha Adjourned Till Monday Amid Opposition Ruckus",
+      "summary": "• Parliament Monsoon session 2026 highlights: Lok Parliament, Rajaya Sabha Adjudicated Till Monday amid Opposition Rucksus.\n• Lok Sabha: MonsoonSession 2026: Lok and Rajya Sats Adjudication Till Monday.\n• RajyaSats: Lok-Rajya Sabha: Rajya-Parliament Joint Sitting Till Monday, Monday-Tuesday.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/parliament-monsoon-session-2026-live-updates-rahul-gandhi-sharpens-attack-on-centre-over-police-action-against-students-liveblog-ws-l-10244176.html",
       "relevance_score": 0.91,
       "published_date": "2026-07-31"
     },
@@ -248,6 +278,26 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/cabinet-approves-scheme-to-promote-floating-solar-plants/article71291478.ece",
       "relevance_score": 0.8258,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8373,
+      "title": "Who is Yash Vir Singh, the Indian javelin thrower who won bronze at CWG 2026",
+      "summary": "• Yash Vir Singh is an Indian javelin thrower.\n• He won bronze at the CWG 2026 in the men's Javelin Throw.\n• He also won bronze in the women's javeline throw at the same event.\n• He is the son of former Indian cricket captain Yashvir Singh.\n• He was born in Delhi and has two older brothers, Yash Vir and Yashvir Singh.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/commonwealth-games/news/cwg-2026-who-is-yash-vir-singh-story-career-mens-javelin-throw-final-bronze-medal/article71292255.ece",
+      "relevance_score": 0.8242,
+      "published_date": "2026-07-31"
+    },
+    {
+      "id": 8372,
+      "title": "Rumesh Pathirage wins gold in javelin throw at CWG 2026",
+      "summary": "• He will compete in the men's Javelin Throw at the Games in Rio de Janeiro next year.\n• Pathirag will also compete in men's 100m and men's 200m events in Rio.\n• He is expected to compete in Rio for the first time in 2026 at the World Games.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/commonwealth-games/news/rumesh-pathirage-wins-gold-javelin-throw-final-cwg-2026-sri-lanka-medal-commonwealth-games/article71292142.ece",
+      "relevance_score": 0.822,
       "published_date": "2026-07-31"
     },
     {
@@ -19949,58 +19999,8 @@
       "url": "https://www.thehindu.com/news/international/deal-with-the-us-has-never-been-closer-says-iran/article71094747.ece",
       "relevance_score": 0.8731,
       "published_date": "2026-06-12"
-    },
-    {
-      "id": 5532,
-      "title": "Iran Has Not Yet Approved Any Deal With US: Report",
-      "summary": "• Iran has been accused of trying to buy time to reach an agreement with the U.S. on its nuclear program.\n• Iran is believed to be trying to get a nuclear deal with world powers to curb its nuclear ambitions.\n• Iran's nuclear program has been a source of tension with the West for years.",
-      "category": "International Relations",
-      "source": "NDTV - World",
-      "url": "https://www.ndtv.com/world-news/iran-has-not-yet-approved-any-deal-with-us-report-11624930#publisher=newsstand",
-      "relevance_score": 0.8709,
-      "published_date": "2026-06-12"
-    },
-    {
-      "id": 5561,
-      "title": "Cristiano Ronaldo feeling ‘very positive’ as Portugal gears up for FIFA World Cup 2026 charge",
-      "summary": "• Portugal are bidding to host the World Cup for the first time in 2026.\n• Ronaldo is hoping to lead Portugal to their first ever World Cup victory.\n• Portugal have never won a World Cup in South Africa or South America.\n• They have also never won the European Championship in their history.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/cristiano-ronaldo-joins-portugal-squad-fifa-world-cup-2026-quotes-latest-news/article71094131.ece",
-      "relevance_score": 0.8704,
-      "published_date": "2026-06-12"
-    },
-    {
-      "id": 5552,
-      "title": "Why Supreme Court-appointed taskforce framed student suicides as not just a mental health issue",
-      "summary": "• Supreme Court taskforce: Student suicides not just mental health issues, but a social problem.\n• The taskforce's goal was to find a way to prevent student suicides in the U.S. and around the world.\n• Taskforce found no evidence of a link between mental health and student suicides.",
-      "category": "Polity & Governance",
-      "source": "Indian Express - Explained",
-      "url": "https://indianexpress.com/article/explained/explained-law/supreme-court-ntf-report-student-suicides-mental-health-10736658/",
-      "relevance_score": 0.8643,
-      "published_date": "2026-06-12"
-    },
-    {
-      "id": 5551,
-      "title": "Consumer inflation rises to 3.93% in May, higher costs from West Asia war get passed on to households",
-      "summary": "• In May, consumer prices rose by 0.3%, up from 0.2% in April.\n• In April, inflation was 0.4%, down from 1.0% in March.\n• In April and May, it had risen 0.5%, down 0.0%.",
-      "category": "Economy & Banking",
-      "source": "Indian Express - Business",
-      "url": "https://indianexpress.com/article/business/economy/india-inflation-rate-may-cpi-rise-2026-10736601/",
-      "relevance_score": 0.8639,
-      "published_date": "2026-06-12"
-    },
-    {
-      "id": 5558,
-      "title": "Bengaluru space startups among three selected for funding under Technology Adoption Fund",
-      "summary": "• Bengaluru space startup to raise $1.5 million in funding from India's first space accelerator fund.\n• The fund will provide funding for space startups in Bengaluru, Hyderabad, Kolkata and Bengaluru-Silicon Valley.\n• The funding will be spread over three years, with a total of $10 million.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-space-startups-among-three-selected-for-funding-under-technology-adoption-fund/article71092872.ece",
-      "relevance_score": 0.8587,
-      "published_date": "2026-06-12"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-01T03:08:38.807110Z"
+  "updated_at": "2026-08-01T06:31:56.568174Z"
 }
