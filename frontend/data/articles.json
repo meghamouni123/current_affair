@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 8421,
+      "title": "The best states to do business in India? Check the investment-friendly list here",
+      "summary": "• The best states in India for business are listed in the state-by-state list.\n• See the full list of states for more information on how to find out more about each state and its investment friendly laws here.\n• Click here to see the state by state list.",
+      "category": "State News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/information/story/best-states-to-do-business-in-india-investment-friendly-states-list-2961719-2026-08-02?utm_source=rss",
+      "relevance_score": 0.9387,
+      "published_date": "2026-08-02"
+    },
+    {
+      "id": 8418,
+      "title": "RBI updates deposit rules: From differential rates to daily disclosures, here's what's changing",
+      "summary": "• RBS changes deposit rules to make it easier for banks to make daily disclosures on deposits.\n• The changes will take effect from January 1, 2015.\n• The new rules will be effective from April 1, 2016, with immediate effect.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-updates-deposit-rules-from-differential-rates-to-daily-disclosures-heres-whats-changing/articleshow/132804857.cms",
+      "relevance_score": 0.9178,
+      "published_date": "2026-08-02"
+    },
+    {
+      "id": 8420,
+      "title": "Dalal Street outlook: RBI policy, earnings and other cues to drive market this week",
+      "summary": "• Bank of India to announce its monetary policy on Friday.\n• FTSE-100 index to open up 0.3 per cent on Monday.\n• Bank shares to open 0.4 per cent higher on Monday after strong close on Friday, Friday.\n• Bank stocks to rise 0.7 per cent after strong finish on Friday; down 0.2 per cent last week.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-outlook-rbi-policy-earnings-and-middle-east-tensions-to-set-dalal-street-mood-this-week/articleshow/132804366.cms",
+      "relevance_score": 0.8832,
+      "published_date": "2026-08-02"
+    },
+    {
       "id": 8403,
       "title": "Former Bihar minister, husband to serve 7-year term in Arms Act case",
       "summary": "• Ex-Bihar minister, Husband sentenced to seven years in arms act case.\n• Former Bihar minister and husband were married in Bihar in 2007.\n• The couple have been married for more than a decade.\n• The case is being investigated by the National Crime Records Bureau (NCRB).",
@@ -61,16 +91,6 @@
       "published_date": "2026-08-01"
     },
     {
-      "id": 8382,
-      "title": "Top news of the day: Preeti, Jaismine win boxing gold medals at CWG 2026; PM Modi inaugurates ASR International Airport at Bhogapuram; and more",
-      "summary": "• Top news of the day: Preeti, Jaismine win boxing gold medals at CWG 2026.\n• PM Modi inaugurates ASR International Airport at Bhogapuram; and more.\n• Also, PM Modi takes part in an event to mark the launch of the ASR-Bhogapuran International Airport in Amritsar.",
-      "category": "Sports",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/the-hindu-top-news-of-the-day-august-1-2026/article71294475.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-01"
-    },
-    {
       "id": 8395,
       "title": "Commonwealth Table Tennis Championships — 16-year-old Syndrela upsets top seed as India completes podium clean sweep",
       "summary": "• India completes podium clean sweep as India completes medals clean sweep.\n• India complete podium clean sweeps as India complete medal clean sweep at the Commonwealth Table Tennis Championship in Glasgow.\n• India completed a clean sweep in the men's and women's singles events.\n• India also won the women's team event in Glasgow, beating Australia in the final.",
@@ -81,12 +101,12 @@
       "published_date": "2026-08-01"
     },
     {
-      "id": 8392,
-      "title": "Flood Fury Across India: Assam Death Toll Rises To 82, Kerala Reports 6 Deaths, Odisha On High Alert",
-      "summary": "• Odisha On High Alert, Odisha on High Alert after heavy rains in recent days.\n• Floods have claimed the lives of more than 100 people in Assam, Kerala, and Odisha so far this week.\n• The death toll is expected to rise as more rain is forecast in the coming days.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/flood-fury-across-india-assam-death-toll-rises-to-82-kerala-reports-6-deaths-odisha-on-high-alert-ws-l-10246953.html",
+      "id": 8382,
+      "title": "Top news of the day: Preeti, Jaismine win boxing gold medals at CWG 2026; PM Modi inaugurates ASR International Airport at Bhogapuram; and more",
+      "summary": "• Top news of the day: Preeti, Jaismine win boxing gold medals at CWG 2026.\n• PM Modi inaugurates ASR International Airport at Bhogapuram; and more.\n• Also, PM Modi takes part in an event to mark the launch of the ASR-Bhogapuran International Airport in Amritsar.",
+      "category": "Sports",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/the-hindu-top-news-of-the-day-august-1-2026/article71294475.ece",
       "relevance_score": 0.91,
       "published_date": "2026-08-01"
     },
@@ -97,6 +117,16 @@
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/commonwealth-games/cwg-2026-triple-jump-praveen-chithravel-selva-prabhu-silver-bronze-commonwealth-games-win-news/article71294275.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-01"
+    },
+    {
+      "id": 8392,
+      "title": "Flood Fury Across India: Assam Death Toll Rises To 82, Kerala Reports 6 Deaths, Odisha On High Alert",
+      "summary": "• Odisha On High Alert, Odisha on High Alert after heavy rains in recent days.\n• Floods have claimed the lives of more than 100 people in Assam, Kerala, and Odisha so far this week.\n• The death toll is expected to rise as more rain is forecast in the coming days.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/flood-fury-across-india-assam-death-toll-rises-to-82-kerala-reports-6-deaths-odisha-on-high-alert-ws-l-10246953.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-01"
     },
@@ -341,6 +371,16 @@
       "published_date": "2026-07-31"
     },
     {
+      "id": 8312,
+      "title": "PM Modi congratulates Lovepreet Singh for silver medal win at CWG 2026 — ‘His dedication, determination are admirable’",
+      "summary": "• ‘His dedication, determination and admirable’ says PM Modi.\n• LovePreet Singh won silver medal for India in the women’s individual pursuit event at CWg 2026 in Rio de Janeiro.\n• Singh won the silver medal with a total score of 19-16.\n• She also won the gold medal with 19-15.",
+      "category": "Sports",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/pm-modi-congratulates-lovepreet-singh-for-silver-medal-win-at-cwg-2026-his-dedication-determination-are-admirable-11785486917792.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-07-31"
+    },
+    {
       "id": 8316,
       "title": "Supreme Court stays Delhi High Court order declaring NSEI ‘public authority’ under RTI Act",
       "summary": "• NSEi was declared a public authority by the High Court in April this year.\n• The High Court had ruled that N SEI was a 'public authority' under the RTI act.\n• The Supreme Court has now stayed the decision and will hear the case again next week.",
@@ -357,16 +397,6 @@
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/india/parliament-monsoon-session-2026-live-updates-rahul-gandhi-sharpens-attack-on-centre-over-police-action-against-students-liveblog-ws-l-10244176.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-31"
-    },
-    {
-      "id": 8312,
-      "title": "PM Modi congratulates Lovepreet Singh for silver medal win at CWG 2026 — ‘His dedication, determination are admirable’",
-      "summary": "• ‘His dedication, determination and admirable’ says PM Modi.\n• LovePreet Singh won silver medal for India in the women’s individual pursuit event at CWg 2026 in Rio de Janeiro.\n• Singh won the silver medal with a total score of 19-16.\n• She also won the gold medal with 19-15.",
-      "category": "Sports",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/pm-modi-congratulates-lovepreet-singh-for-silver-medal-win-at-cwg-2026-his-dedication-determination-are-admirable-11785486917792.html",
       "relevance_score": 0.91,
       "published_date": "2026-07-31"
     },
@@ -19969,38 +19999,8 @@
       "url": "https://sportstar.thehindu.com/cricket/ind-vs-afg-live-score-india-v-afghanistan-1st-odi-score-updates-highlights-scorecard-streaming-info/article71096792.ece",
       "relevance_score": 0.8491,
       "published_date": "2026-06-13"
-    },
-    {
-      "id": 5608,
-      "title": "Signing of Islamabad memorandum will not take place on Sunday, says Iran after Pak PM's ‘peace deal in 24 hours’ comment",
-      "summary": "• Signing of memorandum will be held on Monday, says Iranian foreign minister.\n• Iran says it will not sign the memorandum on Sunday as it is not in line with Islamic Republic's constitution.\n• Pakistan's prime minister has said he will sign a peace deal in the next 24 hours.",
-      "category": "International Relations",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/world/usiran-peace-deal-within-24-hours-says-pakistan-prime-minister-shehbaz-sharif-11781350211928.html",
-      "relevance_score": 0.8486,
-      "published_date": "2026-06-13"
-    },
-    {
-      "id": 5622,
-      "title": "FIFA World Cup 2026: Ivory Coast, Ecuador look to shape their American dream in Group E clash",
-      "summary": "• Ivory Coast and Ecuador play each other in the opening game of the tournament on June 14, 2026.\n• The Ivory Coast play Ecuador in the final game of Group E on June 16, 2046.\n• The game will be played in the Estadio Olimpico Nacional in Cuenca.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-ivory-coast-vs-ecuador-preview-team-news-civ-v-ecu-soccer-wc-team-news-latest/article71098454.ece",
-      "relevance_score": 0.846,
-      "published_date": "2026-06-13"
-    },
-    {
-      "id": 5630,
-      "title": "Japan coach sorry for 'hurt' after ending Endo's World Cup dream",
-      "summary": "• Endo had been hoping to lead his country to World Cup glory in Brazil.\n• Japan lost to South Korea 1-0 in the quarter-finals and lost 2-1 to Italy in the last 16.\n• Japan have qualified for the 2014 World Cup in Brazil for the first time since 1986.\n• Japan are bidding to win their first World Cup since 1990 in South Africa.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/others/japan-coach-sorry-for-hurt-after-ending-endo-s-world-cup-dream-101781387800359.html",
-      "relevance_score": 0.8459,
-      "published_date": "2026-06-13"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-02T09:18:40.431649Z"
+  "updated_at": "2026-08-02T11:19:08.034144Z"
 }
