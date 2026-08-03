@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8448,
+      "title": "Science must become priority of space missions, we need more money for it: ISRO chief Somanath",
+      "summary": "• We need more money for it, he says.\n• We are committed to space exploration, says Somanatha.\n• We will not back down on our commitments, he adds.\n• We have a long way to go, says the chief of the Indian Space Research Organisation.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/sci-tech/science/science-must-become-the-priority-in-future-isro-chairman-somanath/article66056657.ece",
+      "relevance_score": 0.9797,
+      "published_date": "2026-08-03"
+    },
+    {
       "id": 8443,
       "title": "Secretary-General of ASEAN delivers remarks at the 37th Annual International Military Laws and Operations Conference",
       "summary": "• Secretary-General: We are committed to a peaceful, prosperous, stable and stable world.\n• ASEan is committed to promoting peace and security in the region and the world at all costs.\n• We will not tolerate acts of war that threaten peace and stability in our region and beyond our borders.",
@@ -58,6 +68,16 @@
       "source": "ASEAN Secretariat",
       "url": "https://asean.org/secretary-general-of-asean-meets-with-the-minister-of-defence-of-malaysia-2/",
       "relevance_score": 0.8427,
+      "published_date": "2026-08-03"
+    },
+    {
+      "id": 8452,
+      "title": "Wales withdraws support for Infantino re-election after FIFA stake plan collapses",
+      "summary": "• FIFA share plan to buy a controlling stake in the sport's governing body collapses.\n• Infantsino is set to be re-elected as FIFA president on a four-year term.\n• He is expected to win a second term with a majority of votes from FIFA's 211 member nations.\n• FIFA will also hold elections for a new executive committee.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/wales-withdraws-support-infantino-reelection-fifa-president-stake-plan-collapse-news/article71300423.ece",
+      "relevance_score": 0.8338,
       "published_date": "2026-08-03"
     },
     {
@@ -241,16 +261,6 @@
       "published_date": "2026-08-01"
     },
     {
-      "id": 8392,
-      "title": "Flood Fury Across India: Assam Death Toll Rises To 82, Kerala Reports 6 Deaths, Odisha On High Alert",
-      "summary": "• Odisha On High Alert, Odisha on High Alert after heavy rains in recent days.\n• Floods have claimed the lives of more than 100 people in Assam, Kerala, and Odisha so far this week.\n• The death toll is expected to rise as more rain is forecast in the coming days.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/flood-fury-across-india-assam-death-toll-rises-to-82-kerala-reports-6-deaths-odisha-on-high-alert-ws-l-10246953.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-01"
-    },
-    {
       "id": 8395,
       "title": "Commonwealth Table Tennis Championships — 16-year-old Syndrela upsets top seed as India completes podium clean sweep",
       "summary": "• India completes podium clean sweep as India completes medals clean sweep.\n• India complete podium clean sweeps as India complete medal clean sweep at the Commonwealth Table Tennis Championship in Glasgow.\n• India completed a clean sweep in the men's and women's singles events.\n• India also won the women's team event in Glasgow, beating Australia in the final.",
@@ -277,6 +287,16 @@
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/commonwealth-games/cwg-2026-triple-jump-praveen-chithravel-selva-prabhu-silver-bronze-commonwealth-games-win-news/article71294275.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-01"
+    },
+    {
+      "id": 8392,
+      "title": "Flood Fury Across India: Assam Death Toll Rises To 82, Kerala Reports 6 Deaths, Odisha On High Alert",
+      "summary": "• Odisha On High Alert, Odisha on High Alert after heavy rains in recent days.\n• Floods have claimed the lives of more than 100 people in Assam, Kerala, and Odisha so far this week.\n• The death toll is expected to rise as more rain is forecast in the coming days.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/flood-fury-across-india-assam-death-toll-rises-to-82-kerala-reports-6-deaths-odisha-on-high-alert-ws-l-10246953.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-01"
     },
@@ -19979,28 +19999,8 @@
       "url": "https://www.ndtv.com/india-news/mission-sudarshan-chakra-set-to-become-multi-level-missile-defence-system-rajnath-singh-11629418#publisher=newsstand",
       "relevance_score": 0.8801,
       "published_date": "2026-06-13"
-    },
-    {
-      "id": 5636,
-      "title": "PM Modi’s France visit: How trust has underpinned India-France ties",
-      "summary": "• India and France have been at odds for decades over Kashmir issue.\n• PM Modi is the first Indian prime minister to visit France in more than 30 years.\n• He is expected to meet French President Nicolas Sarkozy and other top French officials during his visit.",
-      "category": "International Relations",
-      "source": "Indian Express - Explained",
-      "url": "https://indianexpress.com/article/explained/modi-heads-to-france-today-how-trust-has-underpinned-india-france-ties-10737070/",
-      "relevance_score": 0.8735,
-      "published_date": "2026-06-13"
-    },
-    {
-      "id": 5613,
-      "title": "FIFA World Cup 2026: Qatar vs Switzerland head-to-head, form guide, predicted XI",
-      "summary": "• Qatar play Switzerland in the opening game of the World Cup in Doha, Qatar.\n• Switzerland play Qatar in the second match of the group stage.\n• Qatar host the final game in the group stages of the 2026 World Cup.\n• Qatar will also play in the quarter-finals and the semi-finals.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/qatar-vs-switzerland-fifa-world-cup-match-form-guide-h2h-head-to-head-predicted-xi/article71096950.ece",
-      "relevance_score": 0.8722,
-      "published_date": "2026-06-13"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-03T06:55:29.367559Z"
+  "updated_at": "2026-08-03T10:34:49.771295Z"
 }
