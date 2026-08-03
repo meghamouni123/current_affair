@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8463,
+      "title": "IIT-Hyderabad, Crimson Energy launch nuclear technology orientation programme",
+      "summary": "• Crimson Energy is a subsidiary of Indian state-run energy giant IIT Hyderabad.\n• IIT and Crimson Energy will work together to develop nuclear energy technology in the future.\n• For more information, visit IIT-hyderabad's website at: www.iit- Hyderderabad.com.\n• For confidential support, call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/iit-hyderabad-crimson-energy-launch-nuclear-technology-orientation-programme/article71301928.ece",
+      "relevance_score": 0.9902,
+      "published_date": "2026-08-03"
+    },
+    {
       "id": 8448,
       "title": "Science must become priority of space missions, we need more money for it: ISRO chief Somanath",
       "summary": "• We need more money for it, he says.\n• We are committed to space exploration, says Somanatha.\n• We will not back down on our commitments, he adds.\n• We have a long way to go, says the chief of the Indian Space Research Organisation.",
@@ -158,6 +168,16 @@
       "source": "LiveMint - Economy",
       "url": "https://www.livemint.com/economy/rbi-monetary-policy-august-2026-repo-rate-unchanged-inflation-gdp-growth-outlook-11785650989998.html",
       "relevance_score": 0.8208,
+      "published_date": "2026-08-03"
+    },
+    {
+      "id": 8462,
+      "title": "Karnataka High Court stays SIT formed to probe allegations of land encroachment against Art of Living",
+      "summary": "• SIT will investigate allegations of encroachment on land in Karnataka state.\n• Art of living has been accused of encroaching on land for past 50 years.\n• Art is a popular art form in India and has won numerous awards and accolades for its innovative designs and artworks.\n• It was founded by Bimal Roy, who is also the founder of Bollywood film company Vimal Roy.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-stays-sit-formed-to-probe-allegations-of-land-encroachment-against-art-of-living/article71302450.ece",
+      "relevance_score": 0.8167,
       "published_date": "2026-08-03"
     },
     {
@@ -19979,28 +19999,8 @@
       "url": "https://www.indiatoday.in/science/story/this-startup-red-balloon-aerospace-wants-to-drop-indian-gaganyaan-astronauts-from-edge-of-space-on-a-balloon-2925647-2026-06-13?utm_source=rss",
       "relevance_score": 0.9751,
       "published_date": "2026-06-13"
-    },
-    {
-      "id": 5600,
-      "title": "NTA launches digital training programme for examination officials",
-      "summary": "• NTA launches new training programme to help exam officials prepare for digital test.\n• The programme will be available on the NTA's website and on its mobile app.\n• For more information on the programme, visit www.nafta.org.uk or go to the website of the National Testing Agency (NTA) at www.nta.com.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/nta-launches-digital-training-programme-for-examination-officials/article71097176.ece",
-      "relevance_score": 0.9537,
-      "published_date": "2026-06-13"
-    },
-    {
-      "id": 5606,
-      "title": "NTA launches digital training programme for examination officials",
-      "summary": "• NTA launches new training programme to help exam officials prepare for digital test.\n• The programme will be available on the NTA's website and on its mobile app.\n• For more information on the programme, visit www.nafta.org.uk or go to the website of the National Testing Agency (NTA) at www.nta.com.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/nta-launches-digital-training-programme-for-examination-officials/articleshow/131702243.cms",
-      "relevance_score": 0.9537,
-      "published_date": "2026-06-13"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-03T15:52:16.526250Z"
+  "updated_at": "2026-08-03T17:52:38.187729Z"
 }
