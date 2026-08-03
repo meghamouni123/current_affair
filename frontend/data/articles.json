@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8443,
+      "title": "Secretary-General of ASEAN delivers remarks at the 37th Annual International Military Laws and Operations Conference",
+      "summary": "• Secretary-General: We are committed to a peaceful, prosperous, stable and stable world.\n• ASEan is committed to promoting peace and security in the region and the world at all costs.\n• We will not tolerate acts of war that threaten peace and stability in our region and beyond our borders.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-delivers-remarks-at-the-37th-annual-international-military-laws-and-operations-conference/",
+      "relevance_score": 0.9231,
+      "published_date": "2026-08-03"
+    },
+    {
       "id": 8438,
       "title": "Out of Neeraj's shadow: What India's CWG 2026 athletics haul really tells us",
       "summary": "• India will be competing at the CWG in Rio de Janeiro in 2026.\n• India have never won a gold medal at the Olympics in the men's or women's 4x400m relay events.\n• India also won gold in the 4x100m relay at the 2010 Commonwealth Games in Delhi.",
@@ -8,6 +18,66 @@
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-who-won-india-medals-neeraj-chopra-gulveer-athletics-2961998-2026-08-03?utm_source=rss",
       "relevance_score": 0.8899,
+      "published_date": "2026-08-03"
+    },
+    {
+      "id": 8444,
+      "title": "Secretary-General of ASEAN joins breakfast session hosted by the Assistant Secretary of State of the United States for East Asian and Pacific Affairs",
+      "summary": "• Secretary-General joined by U.S. Deputy Secretary of state for East Asia and Pacific, Anne-Marie Slaughter.\n• The session was held at the Four Seasons Hotel in Washington, D.C.\n• It was the first time ASEan leaders had been to the hotel.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-joins-breakfast-session-hosted-by-the-assistant-secretary-of-state-of-the-united-states-for-east-asian-and-pacific-affairs/",
+      "relevance_score": 0.8736,
+      "published_date": "2026-08-03"
+    },
+    {
+      "id": 8440,
+      "title": "This medal is as much my father's as it is mine: Judoka Asmita Dey after historic gold at the Commonwealth Games 2026",
+      "summary": "• Dey won gold in the women's Judo at the 2026 Commonwealth Games in Glasgow.\n• She said: 'It's as much a part of me as I am of my family.\n• It's a very special moment for me and my family'.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/htcity/leisure/this-medal-is-as-much-my-fathers-as-it-is-mine-judoka-asmita-dey-after-historic-gold-at-the-commonwealth-games-2026-101785733760589.html",
+      "relevance_score": 0.8661,
+      "published_date": "2026-08-03"
+    },
+    {
+      "id": 8445,
+      "title": "Live: BJP trails in Bankipur and Datia, leads in Gujarat's Manjalpur",
+      "summary": "• BJP leads in Manjarpur, but trails in other seats in the state.\n• Modi's party trailing in several other states, including Rajasthan, Madhya Pradesh and Chhattisgarh.\n• BJP trailing in many other states as well, including Uttar Pradesh, Bihar and Uttarakhand.",
+      "category": "State News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/by-election-result-2026-live-updates-bankipur-datia-manjalpur-assembly-bypolls-bihar-madhya-pradesh-gujarat-2961995-2026-08-03?utm_source=rss",
+      "relevance_score": 0.8517,
+      "published_date": "2026-08-03"
+    },
+    {
+      "id": 8442,
+      "title": "Secretary-General of ASEAN meets with the Minister of Defence of Malaysia",
+      "summary": "• Secretary-General meets with Malaysia's Defence Minister to discuss defence cooperation with the rest of the region.\n• Malaysia is a key member of the Association of Southeast Asian Nations (ASEAN) and has a strong military presence in the region, particularly in the South China Sea and South East Asia.\n• Malaysia's defence minister is also a key component of the ASEan Defence Council.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-meets-with-the-minister-of-defence-of-malaysia-2/",
+      "relevance_score": 0.8427,
+      "published_date": "2026-08-03"
+    },
+    {
+      "id": 8446,
+      "title": "JioTag 2 launched in India with Android and iPhone support, up to 2 years battery life",
+      "summary": "• JioTag has been designed to run on both Android and iOS devices.\n• It has been developed with the aim of giving users up to two years of battery life on a single charge.\n• It also has a built-in camera to take pictures of users' photos.\n• JIOTag 2 will be available on Android, iPhone and Samsung Galaxy devices.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/technology/news/story/jiotag-2-launched-in-india-with-android-and-iphone-support-up-to-2-years-battery-life-2962167-2026-08-03?utm_source=rss",
+      "relevance_score": 0.8334,
+      "published_date": "2026-08-03"
+    },
+    {
+      "id": 8441,
+      "title": "My PhD on positive self-talk is helping me perform better: CWG discus bronze medallist Seema",
+      "summary": "• CWG discus bronze medallist Seema says she has learnt to be more positive.\n• Seema is a member of the Indian women's team at the Commonwealth Games.\n• She won a bronze medal in the women's discus at the 2014 Games in Glasgow.\n• She also won a silver medal at the 2010 Commonwealth Games in Delhi.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/my-phd-on-positive-self-talk-is-helping-me-perform-better-cwg-discus-bronze-medallist-seema-101785734641983.html",
+      "relevance_score": 0.8228,
       "published_date": "2026-08-03"
     },
     {
@@ -171,6 +241,26 @@
       "published_date": "2026-08-01"
     },
     {
+      "id": 8392,
+      "title": "Flood Fury Across India: Assam Death Toll Rises To 82, Kerala Reports 6 Deaths, Odisha On High Alert",
+      "summary": "• Odisha On High Alert, Odisha on High Alert after heavy rains in recent days.\n• Floods have claimed the lives of more than 100 people in Assam, Kerala, and Odisha so far this week.\n• The death toll is expected to rise as more rain is forecast in the coming days.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/flood-fury-across-india-assam-death-toll-rises-to-82-kerala-reports-6-deaths-odisha-on-high-alert-ws-l-10246953.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-01"
+    },
+    {
+      "id": 8395,
+      "title": "Commonwealth Table Tennis Championships — 16-year-old Syndrela upsets top seed as India completes podium clean sweep",
+      "summary": "• India completes podium clean sweep as India completes medals clean sweep.\n• India complete podium clean sweeps as India complete medal clean sweep at the Commonwealth Table Tennis Championship in Glasgow.\n• India completed a clean sweep in the men's and women's singles events.\n• India also won the women's team event in Glasgow, beating Australia in the final.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/table-tennis/syndrela-das-commonwealth-table-tennis-india-results-men-women-singles-doubles-tt-news/article71295381.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-01"
+    },
+    {
       "id": 8382,
       "title": "Top news of the day: Preeti, Jaismine win boxing gold medals at CWG 2026; PM Modi inaugurates ASR International Airport at Bhogapuram; and more",
       "summary": "• Top news of the day: Preeti, Jaismine win boxing gold medals at CWG 2026.\n• PM Modi inaugurates ASR International Airport at Bhogapuram; and more.\n• Also, PM Modi takes part in an event to mark the launch of the ASR-Bhogapuran International Airport in Amritsar.",
@@ -187,26 +277,6 @@
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/commonwealth-games/cwg-2026-triple-jump-praveen-chithravel-selva-prabhu-silver-bronze-commonwealth-games-win-news/article71294275.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-01"
-    },
-    {
-      "id": 8395,
-      "title": "Commonwealth Table Tennis Championships — 16-year-old Syndrela upsets top seed as India completes podium clean sweep",
-      "summary": "• India completes podium clean sweep as India completes medals clean sweep.\n• India complete podium clean sweeps as India complete medal clean sweep at the Commonwealth Table Tennis Championship in Glasgow.\n• India completed a clean sweep in the men's and women's singles events.\n• India also won the women's team event in Glasgow, beating Australia in the final.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/table-tennis/syndrela-das-commonwealth-table-tennis-india-results-men-women-singles-doubles-tt-news/article71295381.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-01"
-    },
-    {
-      "id": 8392,
-      "title": "Flood Fury Across India: Assam Death Toll Rises To 82, Kerala Reports 6 Deaths, Odisha On High Alert",
-      "summary": "• Odisha On High Alert, Odisha on High Alert after heavy rains in recent days.\n• Floods have claimed the lives of more than 100 people in Assam, Kerala, and Odisha so far this week.\n• The death toll is expected to rise as more rain is forecast in the coming days.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/flood-fury-across-india-assam-death-toll-rises-to-82-kerala-reports-6-deaths-odisha-on-high-alert-ws-l-10246953.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-01"
     },
@@ -19929,78 +19999,8 @@
       "url": "https://sportstar.thehindu.com/football/fifa-world-cup/qatar-vs-switzerland-fifa-world-cup-match-form-guide-h2h-head-to-head-predicted-xi/article71096950.ece",
       "relevance_score": 0.8722,
       "published_date": "2026-06-13"
-    },
-    {
-      "id": 5615,
-      "title": "Trump to meet Modi on the sidelines of the G-7 summit, U.S. officials say",
-      "summary": "• Trump to meet with India's prime minister on the eve of the summit in Canada and the United States.\n• The meeting is expected to take place on the day before the summit begins in Canada.\n• Security Council is also expected to hold talks with the leaders of India and Canada.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/trump-to-meet-modi-onthe-sidelines-of-the-g-7-summit-us-officials-say/article71098389.ece",
-      "relevance_score": 0.8718,
-      "published_date": "2026-06-13"
-    },
-    {
-      "id": 5571,
-      "title": "US, Iran likely to finalise draft agreement to end war: ‘Deal never closer’",
-      "summary": "• ‘Deal never closer’ says US President Barack Obama.\n• US and Iran have been at odds for years over Iran’s nuclear program.\n• US, Iran are close to finalising a deal to end the war, according to reports in the U.S. and Iran.\n• The deal is expected to be announced later this week.",
-      "category": "International Relations",
-      "source": "Indian Express - World",
-      "url": "https://indianexpress.com/article/world/us-iran-draft-deal-to-end-war-araghchi-pakistan-10737172/",
-      "relevance_score": 0.8703,
-      "published_date": "2026-06-13"
-    },
-    {
-      "id": 5625,
-      "title": "U.P. eyes ensuring zero discharge into rivers, implements multi-layered approach including drone survey",
-      "summary": "• U.S. Army Corps of Engineers says it will use drones to monitor water levels in rivers and streams.\n• Agency says it is committed to ensuring the safety of the nation's water supply and the environment.\n• It will use a range of methods, including drone surveys, to make sure the water is safe.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/uttar-pradesh/up-eyes-ensuring-zero-discharge-into-rivers-implements-multi-layered-approach-including-drone-survey/article71098354.ece",
-      "relevance_score": 0.8691,
-      "published_date": "2026-06-13"
-    },
-    {
-      "id": 5618,
-      "title": "PM Modi, Trump Will Meet In France, Confirms White House",
-      "summary": "• PM Narendra Modi, President Donald Trump to meet at White House in Paris on June 12.\n• Modi and Trump will also meet in New York City on June 13 and 14.\n• The meeting will take place at the White House at the request of the Indian Prime Minister.",
-      "category": "International Relations",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/world-news/pm-modi-trump-will-meet-in-france-confirms-white-house-11632469#publisher=newsstand",
-      "relevance_score": 0.865,
-      "published_date": "2026-06-13"
-    },
-    {
-      "id": 5585,
-      "title": "FIFA World Cup 2026: Bosnia coach rues passive approach in Canada draw, but satisfied with result",
-      "summary": "• Bosnia and Herzegovina are bidding to host the tournament in 2026.\n• The tournament will be held in Canada, the United States, Mexico and Costa Rica.\n• Bosnia will be hosting the tournament for the first time in the 2026 edition of the World Cup.\n• Bosnia have never been to a World Cup before.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/bosnia-coach-reacts-to-canada-draw-fifa-world-cup-2026/article71096423.ece",
-      "relevance_score": 0.8639,
-      "published_date": "2026-06-13"
-    },
-    {
-      "id": 5593,
-      "title": "Emerging tech has altered definition of warfare: Defence Minister Rajnath Singh",
-      "summary": "• Defence Minister: 'Technology has changed the way we fight.\n• It has changed our definition of what it means to be a soldier' Singh: 'It has altered the way in which we think about warfare.\n• It's changed our way of thinking about how we fight and what we can do in the future'.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/emerging-tech-has-altered-definition-of-warfare-defence-minister-rajnath-singh-101781333196008.html",
-      "relevance_score": 0.8619,
-      "published_date": "2026-06-13"
-    },
-    {
-      "id": 5587,
-      "title": "Will Neymar play? Brazil head coach Ancelotti provides update ahead of FIFA World Cup 2026 opener",
-      "summary": "• Neymar will play for Brazil in the 2026 World Cup in South Africa.\n• Brazil will host the tournament for the first time in 2026.\n• The tournament will be held in the South American nation of São Paulo.\n• Brazil is hosting the World Cup for the second time in its history.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/neymar-injury-update-brazil-fifa-world-cup-2026-ancelotti-morocco-group-c-squad-news/article71096361.ece",
-      "relevance_score": 0.8613,
-      "published_date": "2026-06-13"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-03T03:06:10.660673Z"
+  "updated_at": "2026-08-03T06:55:29.367559Z"
 }
