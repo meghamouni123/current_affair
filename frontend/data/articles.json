@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 8478,
+      "title": "IIT Hyderabad And Crimson Energy Launch 'ANUGYAN' To Boost India's Nuclear Talent",
+      "summary": "• Crimson Energy is a subsidiary of Indian state-run energy giant IIT.\n• IIT is a premier institution in the field of nuclear power.\n• The two companies will work together to develop India's next generation of nuclear reactors.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/education/iit-hyderabad-and-crimson-energy-launch-anugyan-to-boost-indias-nuclear-talent-11862264#publisher=newsstand",
+      "relevance_score": 0.948,
+      "published_date": "2026-08-04"
+    },
+    {
+      "id": 8476,
+      "title": "Donald Trump steps in to save Gianni Infantino as FIFA chief faces unprecedented removal campaign: Report",
+      "summary": "• FIFA chief under unprecedented pressure to step down, according to a report.\n• FIFA president has been accused of being a 'showman' and a 'cheat' by some of the world's most powerful men.\n• Infantsino has denied any wrongdoing and says he is committed to the cause of FIFA.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/donald-trump-steps-in-to-save-gianni-infantino-as-fifa-chief-faces-unprecedented-removal-campaign-101785813322665.html",
+      "relevance_score": 0.8662,
+      "published_date": "2026-08-04"
+    },
+    {
       "id": 8474,
       "title": "FPI inflows into Indian G-Secs dry up as US rate hike looms",
       "summary": "• U.S. Federal Reserve is expected to raise its benchmark rate to a record-high of 4.75 percent on Thursday.\n• FPI inflows have been drying up in recent months.\n• FDI is a key source of funding for India's G-secs and other emerging market economies.\n• The FDI fund is based in New York and flows into India through London.",
@@ -19979,28 +19999,8 @@
       "url": "https://www.thehindu.com/sport/races/margarettashows-her-class-in-the-zavarayspoonawallafillies-championship-stakes/article71101557.ece",
       "relevance_score": 0.8219,
       "published_date": "2026-06-14"
-    },
-    {
-      "id": 5639,
-      "title": "Jemi Rodrigues: ‘When you win one World Cup, you are addicted to winning and want another one’",
-      "summary": "• ‘You want to be the best player in the world.\n• You want to do everything you can to win it.’‘When we win, we feel like we have won the World Cup.\n• We want to go on and win the next one.”.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/india-women-t20-world-cup-2026-jemimah-rodrigues-winning-addict-10738597/",
-      "relevance_score": 0.8216,
-      "published_date": "2026-06-14"
-    },
-    {
-      "id": 5640,
-      "title": "150 billion litres water a year: India wants to be AI superpower, but it comes with a bill",
-      "summary": "• India's water bill is estimated to be around $1.5 billion a year.\n• India is the world's second-largest user of water, after the United States.\n• It is the largest water user in the world, followed by China, and the third is the U.S.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/science/story/ai-water-consumption-india-data-centres-water-crisis-artificial-intelligence-explained-2925704-2026-06-14?utm_source=rss",
-      "relevance_score": 0.8211,
-      "published_date": "2026-06-14"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-04T02:54:29.371931Z"
+  "updated_at": "2026-08-04T06:34:36.471834Z"
 }
