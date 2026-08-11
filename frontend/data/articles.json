@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8838,
+      "title": "CESC unit to buy six solar projects from ReNew",
+      "summary": "• ReNew to build solar projects in China, India and South America.\n• CESC to buy projects for $1.2 billion from Re new.\n• Re new to build projects in Asia, South America and Africa.",
+      "category": "Science & Technology",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/cesc-unit-to-buy-six-solar-projects-from-renew/articleshow/133139964.cms",
+      "relevance_score": 0.8001,
+      "published_date": "2026-08-11"
+    },
+    {
       "id": 8806,
       "title": "Secretary-General of ASEAN meets with Ambassador of China to ASEAN",
       "summary": "• China is the largest economy in the region, with more than 1.3 billion people.\n• China has the largest number of people in the world, followed by the U.S. and Japan.\n• China's economy is the second largest in the Asia-Pacific region, after Japan.",
@@ -31,12 +41,12 @@
       "published_date": "2026-08-10"
     },
     {
-      "id": 8811,
-      "title": "CWG Champion Recalls 2015 ‘Narendra vs Pakistan’ Moment While Speaking To PM Modi",
-      "summary": "• PM Narendra Modi was speaking to the Commonwealth Games champions.\n• One of the winning athletes recalled a memorable incident from 2015.\n• The story became more amusing with the realisation that the player was Narendra, the coach was Narendra — and now the Prime Minister was Narendra too.\n• The anecdote brought a lighter moment to the interaction between PM Modi and the victorious athletes, highlighting the pressure, humour and memories surrounding India-Pakistan sporting encounters.\n• A light-hearted moment unfolded during Prime Minister Narendra Modi’s interaction with the Commonwealth Games champions, when one of the winning athletes recalled a memorable incident from 2015.Speaking directly to PM Modi, the champion recounted how, ahead of a Pakistan clash, the player Narendra….\n• N18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
-      "category": "Sports",
+      "id": 8815,
+      "title": "FCRA Amendment Bill: Government Seeks Consensus With Opposition | Monsoon Session Showdown",
+      "summary": "• The government is stepping up efforts to build consensus on the proposed FCRA Amendment Bill.\n• It is seeking to address concerns raised by opposition parties and other stakeholders before moving ahead with the legislation.\n• The proposed amendments have triggered political debate, with the Opposition raising questions over the scope and implications of the changes.\n• The government's latest consensus push could be aimed at preventing the FCRA Bill from becoming another major political flashpoint during the session.\n• The government is stepping up efforts to build consensus on the proposed FCRA Amendment Bill, seeking to address concerns raised by opposition parties and other stakeholders before moving ahead with the legislation.With the Monsoon Session of Parliament nearing its end, the government faces a….\n• Discussions with Opposition parties and stakeholders are expected to focus on concerns surrounding transparency, regulation, foreign funding and the functioning of organisations covered by the law.",
+      "category": "Polity & Governance",
       "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/cwg-champion-recalls-2015-narendra-vs-pakistan-moment-while-speaking-to-pm-modi-10263241.html",
+      "url": "https://www.news18.com/videos/india/fcra-amendment-bill-government-seeks-consensus-with-opposition-monsoon-session-showdown-10263957.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-10"
     },
@@ -47,26 +57,6 @@
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/cricket/scotland-netherlands-criticise-icc-odi-world-cup-2027-format-change/article71328144.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-10"
-    },
-    {
-      "id": 8810,
-      "title": "FCRA Bill Row: Opposition Unites Against Proposed Changes | Political Battle Escalates",
-      "summary": "• The proposed changes to the FCRA have triggered a fresh political confrontation.\n• Opposition leaders have raised concerns over their potential impact on organisations receiving foreign contributions.\n• The debate has also drawn attention beyond Parliament, with questions surrounding foreign funding, regulation, transparency and the functioning of NGOs and charitable organisations.\n• Stay with CNN-News18 for LIVE updates, political reactions and the latest developments from Parliament and New Delhi.\n• | The political battle over the proposed Foreign Contribution Regulation Act (FCRA) amendments is intensifying, with opposition parties coming together to voice their concerns over the controversial bill.The proposed changes to the FCRA have triggered a fresh political confrontation, with….",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/fcra-bill-row-opposition-unites-against-proposed-changes-political-battle-escalates-10263286.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-10"
-    },
-    {
-      "id": 8815,
-      "title": "FCRA Amendment Bill: Government Seeks Consensus With Opposition | Monsoon Session Showdown",
-      "summary": "• The government is stepping up efforts to build consensus on the proposed FCRA Amendment Bill.\n• It is seeking to address concerns raised by opposition parties and other stakeholders before moving ahead with the legislation.\n• The proposed amendments have triggered political debate, with the Opposition raising questions over the scope and implications of the changes.\n• The government's latest consensus push could be aimed at preventing the FCRA Bill from becoming another major political flashpoint during the session.\n• The government is stepping up efforts to build consensus on the proposed FCRA Amendment Bill, seeking to address concerns raised by opposition parties and other stakeholders before moving ahead with the legislation.With the Monsoon Session of Parliament nearing its end, the government faces a….\n• Discussions with Opposition parties and stakeholders are expected to focus on concerns surrounding transparency, regulation, foreign funding and the functioning of organisations covered by the law.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/fcra-amendment-bill-government-seeks-consensus-with-opposition-monsoon-session-showdown-10263957.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-10"
     },
@@ -87,6 +77,26 @@
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/india/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-proceedings-today-opposition-protest-news-reforms-bill-2026-kerala-name-change-bill-fcra-row-liveblog-ws-kl-10263044.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-10"
+    },
+    {
+      "id": 8811,
+      "title": "CWG Champion Recalls 2015 ‘Narendra vs Pakistan’ Moment While Speaking To PM Modi",
+      "summary": "• PM Narendra Modi was speaking to the Commonwealth Games champions.\n• One of the winning athletes recalled a memorable incident from 2015.\n• The story became more amusing with the realisation that the player was Narendra, the coach was Narendra — and now the Prime Minister was Narendra too.\n• The anecdote brought a lighter moment to the interaction between PM Modi and the victorious athletes, highlighting the pressure, humour and memories surrounding India-Pakistan sporting encounters.\n• A light-hearted moment unfolded during Prime Minister Narendra Modi’s interaction with the Commonwealth Games champions, when one of the winning athletes recalled a memorable incident from 2015.Speaking directly to PM Modi, the champion recounted how, ahead of a Pakistan clash, the player Narendra….\n• N18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
+      "category": "Sports",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/cwg-champion-recalls-2015-narendra-vs-pakistan-moment-while-speaking-to-pm-modi-10263241.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-10"
+    },
+    {
+      "id": 8810,
+      "title": "FCRA Bill Row: Opposition Unites Against Proposed Changes | Political Battle Escalates",
+      "summary": "• The proposed changes to the FCRA have triggered a fresh political confrontation.\n• Opposition leaders have raised concerns over their potential impact on organisations receiving foreign contributions.\n• The debate has also drawn attention beyond Parliament, with questions surrounding foreign funding, regulation, transparency and the functioning of NGOs and charitable organisations.\n• Stay with CNN-News18 for LIVE updates, political reactions and the latest developments from Parliament and New Delhi.\n• | The political battle over the proposed Foreign Contribution Regulation Act (FCRA) amendments is intensifying, with opposition parties coming together to voice their concerns over the controversial bill.The proposed changes to the FCRA have triggered a fresh political confrontation, with….",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/fcra-bill-row-opposition-unites-against-proposed-changes-political-battle-escalates-10263286.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-10"
     },
@@ -331,22 +341,22 @@
       "published_date": "2026-08-09"
     },
     {
-      "id": 8754,
-      "title": "PM Modi & JD Vance Speak Amid Global Tensions | India-US Strategic Partnership in Focus | News18",
-      "summary": "• Prime Minister Narendra Modi and U.S. Vice President J.D.\n• Vance held an important phone conversation amid rising global tensions.\n• Modi also congratulated Vance on the birth of his newborn son, adding a personal note to the high-level diplomatic exchange.\n• The conversation reportedly covered broader bilateral cooperation and the evolving international situation.\n• The two leaders discussed ways to further strengthen the India-U.K. strategic partnership.\n• Vance held an important phone conversation amid rising global tensions, with the two leaders discussing ways to further strengthen the India-U.S. strategic partnership.The conversation reportedly covered broader bilateral cooperation and the evolving international situation.",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/videos/breaking-news/pm-modi-jd-vance-speak-amid-global-tensions-india-us-strategic-partnership-in-focus-news18-10261653.html",
-      "relevance_score": 0.94,
-      "published_date": "2026-08-09"
-    },
-    {
       "id": 8780,
       "title": "Delhi students allege police harassment follows them home to Tamil Nadu, Karnataka, Odisha long after protests",
       "summary": "• Delhi students say police harassed them after protests in Tamil Nadu and Karnataka.\n• Students say they were followed home by police in Karnataka and Odisha.\n• They also allege police harassed students in Odisha and Tamil Nadu.",
       "category": "State News",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/cities/Delhi/delhi-students-allege-police-harassment-follows-them-to-their-homes-in-other-states-long-after-protests-are-over/article71324954.ece",
+      "relevance_score": 0.94,
+      "published_date": "2026-08-09"
+    },
+    {
+      "id": 8754,
+      "title": "PM Modi & JD Vance Speak Amid Global Tensions | India-US Strategic Partnership in Focus | News18",
+      "summary": "• Prime Minister Narendra Modi and U.S. Vice President J.D.\n• Vance held an important phone conversation amid rising global tensions.\n• Modi also congratulated Vance on the birth of his newborn son, adding a personal note to the high-level diplomatic exchange.\n• The conversation reportedly covered broader bilateral cooperation and the evolving international situation.\n• The two leaders discussed ways to further strengthen the India-U.K. strategic partnership.\n• Vance held an important phone conversation amid rising global tensions, with the two leaders discussing ways to further strengthen the India-U.S. strategic partnership.The conversation reportedly covered broader bilateral cooperation and the evolving international situation.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/videos/breaking-news/pm-modi-jd-vance-speak-amid-global-tensions-india-us-strategic-partnership-in-focus-news18-10261653.html",
       "relevance_score": 0.94,
       "published_date": "2026-08-09"
     },
@@ -421,12 +431,22 @@
       "published_date": "2026-08-09"
     },
     {
-      "id": 8752,
-      "title": "Basant Kumar Meghwal Wins World U20 Silver Medal | India High-Jump Star Clears 2.21m | News18",
-      "summary": "• Basant Kumar Meghwal wins silver medal in the men's high jump at World Athletics Under-20 Championships.\n• The achievement marks another major milestone in the young Indian athlete's rapidly developing career.\n• He had already announced his arrival on the international stage by winning gold at the Asian U-20 Championship.\n• His latest performance shows that India's next generation of track-and-field athletes can compete against the world's best.\n• N18oc_breaking-newsn18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
-      "category": "Sports",
+      "id": 8761,
+      "title": "PM Modi & JD Vance Hold Key Call | India-US Strategic Ties, Trade & West Asia in Focus | News18",
+      "summary": "• Prime Minister Narendra Modi and U.S. Vice President J.D.\n• Vance held a significant telephonic conversation amid continuing tensions in West Asia.\n• The conversation focused on issues including trade, defence and energy security, highlighting the importance of close coordination between New Delhi and Washington.\n• CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
+      "category": "International Relations",
       "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/basant-kumar-meghwal-wins-world-u20-silver-medal-india-high-jump-star-clears-2-21m-news18-10261761.html",
+      "url": "https://www.news18.com/videos/breaking-news/pm-modi-jd-vance-hold-key-call-india-us-strategic-ties-trade-west-asia-in-focus-news18-10261863.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-09"
+    },
+    {
+      "id": 8773,
+      "title": "DK Shivakumar Heads to Delhi | Crucial Congress Talks Over Karnataka Cabinet Crisis | News18",
+      "summary": "• Shivakumar is set to travel to Delhi at 5 p.m.\n• Today for crucial discussions with the Congress High Command.\n• The meeting comes amid unresolved issues surrounding cabinet allocation and growing discontent among some senior MLAs within the Karnataka Congress.\n• With competing interests and expectations creating tensions, the leadership faces the challenge of maintaining unity while balancing the demands of different factions.\n• N18oc_breaking-newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/dk-shivakumar-heads-to-delhi-crucial-congress-talks-over-karnataka-cabinet-crisis-news18-10262065.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-09"
     },
@@ -451,22 +471,12 @@
       "published_date": "2026-08-09"
     },
     {
-      "id": 8773,
-      "title": "DK Shivakumar Heads to Delhi | Crucial Congress Talks Over Karnataka Cabinet Crisis | News18",
-      "summary": "• Shivakumar is set to travel to Delhi at 5 p.m.\n• Today for crucial discussions with the Congress High Command.\n• The meeting comes amid unresolved issues surrounding cabinet allocation and growing discontent among some senior MLAs within the Karnataka Congress.\n• With competing interests and expectations creating tensions, the leadership faces the challenge of maintaining unity while balancing the demands of different factions.\n• N18oc_breaking-newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
-      "category": "State News",
+      "id": 8752,
+      "title": "Basant Kumar Meghwal Wins World U20 Silver Medal | India High-Jump Star Clears 2.21m | News18",
+      "summary": "• Basant Kumar Meghwal wins silver medal in the men's high jump at World Athletics Under-20 Championships.\n• The achievement marks another major milestone in the young Indian athlete's rapidly developing career.\n• He had already announced his arrival on the international stage by winning gold at the Asian U-20 Championship.\n• His latest performance shows that India's next generation of track-and-field athletes can compete against the world's best.\n• N18oc_breaking-newsn18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
+      "category": "Sports",
       "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/dk-shivakumar-heads-to-delhi-crucial-congress-talks-over-karnataka-cabinet-crisis-news18-10262065.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-09"
-    },
-    {
-      "id": 8761,
-      "title": "PM Modi & JD Vance Hold Key Call | India-US Strategic Ties, Trade & West Asia in Focus | News18",
-      "summary": "• Prime Minister Narendra Modi and U.S. Vice President J.D.\n• Vance held a significant telephonic conversation amid continuing tensions in West Asia.\n• The conversation focused on issues including trade, defence and energy security, highlighting the importance of close coordination between New Delhi and Washington.\n• CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
-      "category": "International Relations",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/pm-modi-jd-vance-hold-key-call-india-us-strategic-ties-trade-west-asia-in-focus-news18-10261863.html",
+      "url": "https://www.news18.com/videos/breaking-news/basant-kumar-meghwal-wins-world-u20-silver-medal-india-high-jump-star-clears-2-21m-news18-10261761.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-09"
     },
@@ -19989,18 +19999,8 @@
       "url": "https://www.news18.com/cities/new-delhi-news/delhi-air-pollution-winter-action-plan-ws-el-10161193.html",
       "relevance_score": 0.8727,
       "published_date": "2026-06-19"
-    },
-    {
-      "id": 6023,
-      "title": "DPI’s next challenge is delivering public value: Experts at IIIT-B workshop",
-      "summary": "• DPI is working with the World Health Organization to develop new tools to deliver value to the public.\n• The goal is to improve the quality of health care across the world, including in the U.S. and Europe.\n• For more information, visit the DPI website or go to: http://www.dpi.org/.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/dpis-next-challenge-is-delivering-public-value-experts-at-iiit-b-workshop/article71123056.ece",
-      "relevance_score": 0.8667,
-      "published_date": "2026-06-19"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-10T16:38:54.678708Z"
+  "updated_at": "2026-08-11T01:58:15.477292Z"
 }
