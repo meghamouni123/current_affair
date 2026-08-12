@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 8884,
+      "title": "Airtel ropes in ITI Limited to fast-track digital transformation for enterprises",
+      "summary": "• Airtel is a subsidiary of India's state-owned telecom giant Bharti Infratel.\n• The two companies have been working together for more than a decade to develop ITI's cloud-based services.\n• The deal is expected to be worth an estimated $1.5 billion to $2.2 billion.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/airtel-ropes-in-iti-limited-to-fast-track-digital-transformation-for-enterprises/article71328527.ece",
+      "relevance_score": 0.9635,
+      "published_date": "2026-08-12"
+    },
+    {
       "id": 8879,
       "title": "AI can do to lending, what UPI did to payments: RBI governor Sanjay Malhotra",
       "summary": "• AI can also do to banking, what the UPI has done to payments, he says.\n• He adds: \"It can be a game changer.\n• It can change the way people interact with the banking system.\n• It has the potential to do a lot of good for the economy\".",
@@ -19989,18 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-shocked-over-valuation-of-plantation-property-worth-crores-at-a-pittance-of-its-value-for-bank-auction/article71126040.ece",
       "relevance_score": 0.8735,
       "published_date": "2026-06-20"
-    },
-    {
-      "id": 6066,
-      "title": "FIFA World Cup 2026: Dalot hits back at Portugal critics, defends Ronaldo",
-      "summary": "• Dalot: 'I don't want to be a scapegoat.\n• I want to help Portugal win the World Cup in 2026' Ronaldo: 'If we win, we'll be the best team in the world.\n• If we don't, we're going to be the worst team in history'.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/cristiano-ronaldo-fifa-world-cup-2026-portugal-performance-criticism-diogo-dalot/article71126998.ece",
-      "relevance_score": 0.8661,
-      "published_date": "2026-06-20"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-12T02:21:01.915262Z"
+  "updated_at": "2026-08-12T05:23:46.004614Z"
 }
