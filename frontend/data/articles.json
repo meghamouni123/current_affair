@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": 9018,
+      "title": "Govt plans to introduce bill on public property in assembly",
+      "summary": "• Govt wants to ban use of public property for personal use.\n• The bill is expected to be introduced in the next session of the assembly.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/govt-plans-to-introduce-bill-on-public-property-in-assembly-101786734052345.html",
+      "relevance_score": 0.9177,
+      "published_date": "2026-08-15"
+    },
+    {
+      "id": 9019,
+      "title": "N-plants, rare earths, gas exploration: PM Modi's big pitch for energy security",
+      "summary": "• PM Modi made the pitch for India's energy security in a speech in New Delhi on Wednesday.\n• He said the country needs to be able to rely on its natural gas resources for decades to come.\n• The speech was expected to be followed by a series of energy-related events in the coming days.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-independence-day-speech-nuclear-power-energy-security-modi-oil-supply-solar-2971708-2026-08-15?utm_source=rss",
+      "relevance_score": 0.8805,
+      "published_date": "2026-08-15"
+    },
+    {
+      "id": 9021,
+      "title": "Reforms, Women Reservation, Youth: What PM Modi's Independence Day Speech Signals For The Year Ahead",
+      "summary": "• PM Modi: India will be a better country for women and children.\n• India will lead the world in science and technology, says PM Modi.\n• India is a nation of innovators and entrepreneurs, PM Modi says.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/pm-modi-independence-day-speech-2026-government-roadmap-next-12-months-ws-l-10274489.html",
+      "relevance_score": 0.8406,
+      "published_date": "2026-08-15"
+    },
+    {
+      "id": 9020,
+      "title": "Made our mark: PM praises India's first hydrogen train as clean-energy milestone",
+      "summary": "• India's hydrogen train is the first of its kind in the world.\n• The train will be used to transport hydrogen to other parts of the country.\n• It will also be used as part of a long-term hydrogen storage facility in the state of Haryana.\n• The project is expected to be completed by the end of the year.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/pm-modi-independence-day-speech-india-first-hydrogen-train-railway-electrification-energy-security-self-reliance-2971729-2026-08-15?utm_source=rss",
+      "relevance_score": 0.8228,
+      "published_date": "2026-08-15"
+    },
+    {
+      "id": 9022,
+      "title": "PM Modi's Independence Day Speech | India's Nuclear Power Mega Plan: 100GW By 2047 | Big Energy Push",
+      "summary": "• India is aiming to increase its nuclear power capacity to 100 GW by 2047.\n• The target marks a major shift in India's energy strategy.\n• Nuclear energy is being positioned as a reliable, round-the-clock source of electricity.\n• The nuclear push also comes as India seeks greater energy security, reduced dependence on imported fossil fuels and a stronger electricity base to support industries, cities and emerging technologies.\n• INDIA'S 100 GW NUCLEAR POWER PLANIndia is setting an ambitious long-term target for nuclear energy, aiming to increase its nuclear power capacity to 100 GW by 2047.The target marks a major shift in India's energy strategy as the country looks to meet rapidly rising electricity demand while also….\n• Nuclear energy is being positioned as a reliable, round-the-clock source of electricity that can complement India's expanding renewable energy capacity.India's nuclear capacity is projected to rise significantly in the coming years, reaching around 22.38 GW by 2031–32, before the much larger 2047….",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/pm-modi-s-independence-day-speech-india-s-nuclear-power-mega-plan-100gw-by-2047-big-energy-push-10274472.html",
+      "relevance_score": 0.8179,
+      "published_date": "2026-08-15"
+    },
+    {
       "id": 9002,
       "title": "SCCL CMD inaugurates rooftop solar plants at Corporate Area in Kothagudem",
       "summary": "• SCCL is one of the largest employers in the state with more than 100,000 employees.\n• The company is based in the capital city of Hyderabad, capital of Telangana and one of India's fastest-growing regions.\n• The state-owned company has a turnover of more than $1.2 billion.",
@@ -261,22 +311,22 @@
       "published_date": "2026-08-14"
     },
     {
-      "id": 8993,
-      "title": "How Indonesia Can Get Ahead in the Artificial Intelligence Race",
-      "summary": "• Indonesia is one of the fastest-growing Asian countries in the world.\n• The country has the world's highest rate of artificial intelligence, according to a report by the International Institute for Policy Studies.\n• Indonesia has the highest level of Artificial Intelligence in the country, the report says.",
-      "category": "Science & Technology",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/08/how-indonesia-can-get-ahead-in-the-artificial-intelligence-race/",
-      "relevance_score": 0.8055,
-      "published_date": "2026-08-14"
-    },
-    {
       "id": 8978,
       "title": "Indian solar mission's new findings throw light on enduring Sun mysteries",
       "summary": "• India's solar mission is the first mission to explore the sun from the Earth's perspective.\n• The mission is based on data from the Indian space agency's Chandrasekhar mission.\n• It is based in Bangalore, India's capital, and is part of the Indian Space Research Organisation (ISRO) The mission's goal is to find out more about the solar system.",
       "category": "Science & Technology",
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c934wqpd74xo?at_medium=RSS&at_campaign=rss",
+      "relevance_score": 0.8055,
+      "published_date": "2026-08-14"
+    },
+    {
+      "id": 8993,
+      "title": "How Indonesia Can Get Ahead in the Artificial Intelligence Race",
+      "summary": "• Indonesia is one of the fastest-growing Asian countries in the world.\n• The country has the world's highest rate of artificial intelligence, according to a report by the International Institute for Policy Studies.\n• Indonesia has the highest level of Artificial Intelligence in the country, the report says.",
+      "category": "Science & Technology",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/08/how-indonesia-can-get-ahead-in-the-artificial-intelligence-race/",
       "relevance_score": 0.8055,
       "published_date": "2026-08-14"
     },
@@ -301,22 +351,22 @@
       "published_date": "2026-08-13"
     },
     {
-      "id": 8932,
-      "title": "Parliament Monsoon Session: Rijiju Slams Oppn, Says “Running Away From Debate” | News18",
-      "summary": "• Rijiju said 12 Bills were passed during the session, calling the legislative business fruitful.\n• He highlighted productivity of 19% in the Lok Sabha and 39% in Rajya Sabha in terms of discussions.\n• He also criticised Congress MPs over protests and sloganeering, saying Parliament should focus on debate and discussion.\n• On delimitation, he said the government was focused on discussing issues concerning the present rather than the future.\n• Parliamentary Affairs Minister Kiren Rijiju hits out at the Opposition over the functioning of Parliament, saying the government was ready for discussion but the Opposition was “running away” from debate.Rijiju said 12 Bills were passed during the session, calling the legislative business fruitful,….",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/parliament-monsoon-session-rijiju-slams-oppn-says-running-away-from-debate-news18-10270604.html",
-      "relevance_score": 0.94,
-      "published_date": "2026-08-13"
-    },
-    {
       "id": 8934,
       "title": "Opposition Skips Tea Meet: Om Birla’s Chai Meeting Snub | Parliament Monsoon Session Today | News18",
       "summary": "• Opposition MPs reportedly skipped the ceremonial tea meeting hosted by Lok Sabha Speaker Om Birla.\n• The traditional tea meeting is usually an informal opportunity for members across party lines to interact with the Speaker and each other after the conclusion of a parliamentary session.\n• The tea meeting snub has now become a symbolic final chapter to a session marked by sharp political differences.\n• Or was it simply a continuation of the disagreements witnessed throughout the session?Watch our LIVE coverage for the latest developments, reactions from political leaders and the final wrap-up of Parliament's Monsoon Session.\n• N18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• But this time, the Opposition's absence has drawn attention, particularly after weeks of heated exchanges, protests and repeated disruptions inside Parliament.The Lok Sabha has now been adjourned sine die, bringing the Monsoon Session to an end.",
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/opposition-skips-tea-meet-om-birla-s-chai-meeting-snub-parliament-monsoon-session-today-news18-10270456.html",
+      "relevance_score": 0.94,
+      "published_date": "2026-08-13"
+    },
+    {
+      "id": 8932,
+      "title": "Parliament Monsoon Session: Rijiju Slams Oppn, Says “Running Away From Debate” | News18",
+      "summary": "• Rijiju said 12 Bills were passed during the session, calling the legislative business fruitful.\n• He highlighted productivity of 19% in the Lok Sabha and 39% in Rajya Sabha in terms of discussions.\n• He also criticised Congress MPs over protests and sloganeering, saying Parliament should focus on debate and discussion.\n• On delimitation, he said the government was focused on discussing issues concerning the present rather than the future.\n• Parliamentary Affairs Minister Kiren Rijiju hits out at the Opposition over the functioning of Parliament, saying the government was ready for discussion but the Opposition was “running away” from debate.Rijiju said 12 Bills were passed during the session, calling the legislative business fruitful,….",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/parliament-monsoon-session-rijiju-slams-oppn-says-running-away-from-debate-news18-10270604.html",
       "relevance_score": 0.94,
       "published_date": "2026-08-13"
     },
@@ -361,16 +411,6 @@
       "published_date": "2026-08-13"
     },
     {
-      "id": 8939,
-      "title": "Parliament Monsoon Session: How Productive Was It? FCRA | Pellet Gun | News18",
-      "summary": "• Parliamentary Affairs Minister Kiren Rijiju said the session saw 12 Bills passed, but highlighted low productivity in terms of parliamentary functioning and discussion.\n• Lok Sabha recorded 19% productivity, while Rajya Sabha recorded 39%.\n• The session concluded on August 13 amid repeated disruptions and a sharp government-Opposition face-off.\n• -News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/parliament-monsoon-session-how-productive-was-it-fcra-pellet-gun-news18-10270735.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-13"
-    },
-    {
       "id": 8938,
       "title": "Parliament Monsoon Session: Lok Sabha, Rajya Sabha adjourned sine die after days of deadlock",
       "summary": "• Lok Sabha and Rajya House were adjourned on Tuesday.\n• Parliament is currently in its second week of the session.\n• The session was adjourned after a series of adjournment motions by the two Houses of Parliament.\n• The adjourned session was called on Tuesday after a number of adjournments by both Houses.",
@@ -381,12 +421,12 @@
       "published_date": "2026-08-13"
     },
     {
-      "id": 8929,
-      "title": "Parliament Monsoon Session ends amid disruptions; Lok Sabha, Rajya Sabha adjourned sine die",
-      "summary": "• Lok Sabha and Rajya Gandhi Sabha adjourns sine death.\n• Parliament monsoon session was due to end on September 25, but ended on September 26.\n• The session was adjourned on September 27, September 28, September 29, and September 30, respectively.",
+      "id": 8973,
+      "title": "Parliament Protest Row: Is Street Politics Replacing Democratic Debate? | The Hard Facts",
+      "summary": "• Opposition parties have increasingly turned to street protests and public demonstrations to voice their demands.\n• Supporters argue that protests are an essential democratic tool, especially when opposition parties feel their concerns are not being adequately heard inside the House.\n• As India moves toward its 80th year of Independence, a fresh political battle is unfolding inside and outside Parliament.\n• CNN-News18 is your trusted source for breaking news, updates and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
       "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/parliament-monsoon-session-ends-amid-disruptions-lok-sabha-rajya-sabha-adjourned-sine-die/articleshow/133203214.cms",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/the-hard-facts/parliament-protest-row-is-street-politics-replacing-democratic-debate-the-hard-facts-10271940.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-13"
     },
@@ -401,12 +441,22 @@
       "published_date": "2026-08-13"
     },
     {
-      "id": 8973,
-      "title": "Parliament Protest Row: Is Street Politics Replacing Democratic Debate? | The Hard Facts",
-      "summary": "• Opposition parties have increasingly turned to street protests and public demonstrations to voice their demands.\n• Supporters argue that protests are an essential democratic tool, especially when opposition parties feel their concerns are not being adequately heard inside the House.\n• As India moves toward its 80th year of Independence, a fresh political battle is unfolding inside and outside Parliament.\n• CNN-News18 is your trusted source for breaking news, updates and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
+      "id": 8929,
+      "title": "Parliament Monsoon Session ends amid disruptions; Lok Sabha, Rajya Sabha adjourned sine die",
+      "summary": "• Lok Sabha and Rajya Gandhi Sabha adjourns sine death.\n• Parliament monsoon session was due to end on September 25, but ended on September 26.\n• The session was adjourned on September 27, September 28, September 29, and September 30, respectively.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/parliament-monsoon-session-ends-amid-disruptions-lok-sabha-rajya-sabha-adjourned-sine-die/articleshow/133203214.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-13"
+    },
+    {
+      "id": 8939,
+      "title": "Parliament Monsoon Session: How Productive Was It? FCRA | Pellet Gun | News18",
+      "summary": "• Parliamentary Affairs Minister Kiren Rijiju said the session saw 12 Bills passed, but highlighted low productivity in terms of parliamentary functioning and discussion.\n• Lok Sabha recorded 19% productivity, while Rajya Sabha recorded 39%.\n• The session concluded on August 13 amid repeated disruptions and a sharp government-Opposition face-off.\n• -News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
       "category": "Polity & Governance",
       "source": "News18 - India",
-      "url": "https://www.news18.com/videos/the-hard-facts/parliament-protest-row-is-street-politics-replacing-democratic-debate-the-hard-facts-10271940.html",
+      "url": "https://www.news18.com/videos/india/parliament-monsoon-session-how-productive-was-it-fcra-pellet-gun-news18-10270735.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-13"
     },
@@ -19949,58 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/telangana/brs-urges-eci-to-ensure-safeguards-in-roll-revision/article71138236.ece",
       "relevance_score": 0.8198,
       "published_date": "2026-06-23"
-    },
-    {
-      "id": 6181,
-      "title": "Delhi HC upholds AITA General Body’s power over constitutional amendments",
-      "summary": "• AITa General Body has the power to amend India's constitution.\n• The court also ruled that the general body had the right to propose amendments to the Constitution.\n• The ruling was upheld by the Delhi High Court on Friday.\n• The HC was adjourned until Monday at 10am.",
-      "category": "Polity & Governance",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/tennis/delhi-high-court-aita-constitution-amendments-general-body-vote/article71136484.ece",
-      "relevance_score": 0.8192,
-      "published_date": "2026-06-23"
-    },
-    {
-      "id": 6185,
-      "title": "Pulse Polio drive on June 28 to cover 1.89 lakh children in Visakhapatnam",
-      "summary": "• The drive is expected to last for three days.\n• It will be followed by a follow-up drive on July 1.\n• It is being planned to cover all the children in the district by the end of the month.\n• For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/pulse-polio-drive-on-june-28-to-cover-189-lakh-children-in-visakhapatnam/article71136288.ece",
-      "relevance_score": 0.8159,
-      "published_date": "2026-06-23"
-    },
-    {
-      "id": 6215,
-      "title": "'Not having an IIT-IIM tag': WhatsApp's new boss Kunal Shah's academia has Internet talking",
-      "summary": "• WhatsApp is a mobile messaging app that was set up in September 2013.\n• It was co-founded by billionaire founder and CEO of messaging app Facebook.\n• Shah is also the co-founder and former CEO of the messaging app's parent company, Bharti Airtel.",
-      "category": "Science & Technology",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/trends/not-having-an-iit-iim-tag-whatsapps-new-boss-kunal-shahs-academia-has-internet-talking-11782217385609.html",
-      "relevance_score": 0.8137,
-      "published_date": "2026-06-23"
-    },
-    {
-      "id": 6204,
-      "title": "Kadapa Collector urges farmers to choose horticultural crops",
-      "summary": "• He says it is better for the environment and for farmers' livelihoods.\n• He urges them to grow vegetables, fruits and vegetables in horticulture-rich areas.\n• He also urges them not to grow crops that are too hot or too cold for farmers to grow in the summer.\n• He asks them to choose crops that can be easily grown in the winter.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kadapa-collector-urges-farmers-to-choose-horticultural-crops/article71137610.ece",
-      "relevance_score": 0.8113,
-      "published_date": "2026-06-23"
-    },
-    {
-      "id": 6201,
-      "title": "Portugal vs Uzbekistan, FIFA World Cup 2026: Predicted line-ups, Head-to-head, form guide",
-      "summary": "• Portugal play Uzbekistan in a friendly at the Estadio Mineirao in Porto, Portugal.\n• Portugal face Uzbekistan at the World Cup in 2026 in Brazil.\n• Click here to read the team news and probable line-up for the match.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/portugal-vs-uzbekistan-head-to-head-record-h2h-form-predicted-lineups-xi-fifa-world-cup-2026-stats-news/article71136356.ece",
-      "relevance_score": 0.8096,
-      "published_date": "2026-06-23"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-15T01:29:46.277441Z"
+  "updated_at": "2026-08-15T04:20:02.068816Z"
 }
