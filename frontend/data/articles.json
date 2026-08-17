@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 9080,
+      "title": "West Asia war LIVE: Trump welcomes defence pact between Saudi Arabia, Turkey and Pakistan",
+      "summary": "• Trump welcomes agreement between Saudi, Turkey, Pakistan, UAE and Saudi Arabia.\n• West Asia War LIVE: Follow all the latest news from the region here.\n• Click here for more from the West Asia war live blog.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-donald-trump-live-updates-on-august-17-2026/article71354691.ece",
+      "relevance_score": 0.9049,
+      "published_date": "2026-08-17"
+    },
+    {
       "id": 9072,
       "title": "Kawa UAV achieves key milestone with successful maiden flight of the jet-powered `Divyastra Mk3`",
       "summary": "• Kawa's UAV is the first of its kind in the world.\n• It is powered by a jet engine that can take off and land like a conventional aircraft.\n• The UAV has a range of more than 100 miles and can carry a crew of up to four people.",
@@ -138,6 +148,16 @@
       "source": "Hindustan Times - Sports",
       "url": "https://www.hindustantimes.com/sports/badminton/pv-sindhu-has-nothing-to-lose-as-she-looks-beyond-pressure-at-world-championships-but-tough-draw-awaits-101786863505442.html",
       "relevance_score": 0.8065,
+      "published_date": "2026-08-16"
+    },
+    {
+      "id": 9081,
+      "title": "NBFCs seek RBI rethink on revolving credit curb",
+      "summary": "• NBFCs have been hit hard by the RBI's revolving credit curbs.\n• The curbs have been imposed to curb the rise in bad debts and bad loans.\n• The move has led to a sharp drop in the value of some of the NBFC's.\n• The NBOs have also been hit by the curbs on their borrowings.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nbfcs-seek-rbi-rethink-on-revolving-credit-curb/articleshow/133284292.cms",
+      "relevance_score": 0.8064,
       "published_date": "2026-08-16"
     },
     {
@@ -19979,28 +19999,8 @@
       "url": "https://science.nasa.gov/photojournal/nasas-hirise-captures-perseverance-marking-a-milestone-on-mars/",
       "relevance_score": 0.8285,
       "published_date": "2026-06-24"
-    },
-    {
-      "id": 6305,
-      "title": "NASA at the Ion: Orion Lessons from Artemis II Shape NASA’s Moon to Mars Path",
-      "summary": "• Orion is the spacecraft that will lead the U.S. mission to the moon and Mars.\n• The mission is scheduled to launch in 2018 and land on the moon in 2023.\n• It will be followed by a mission to Mars in 2028.\n• The Orion spacecraft will be the first vehicle to carry humans to the red planet.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/nasa-at-the-ion-orion-lessons-from-artemis-ii-shape-nasas-moon-to-mars-path/",
-      "relevance_score": 0.8246,
-      "published_date": "2026-06-24"
-    },
-    {
-      "id": 6266,
-      "title": "Angel One, CAMS and ICICI AMC among JP Morgan's preferred bets on India's SIP boom",
-      "summary": "• JP Morgan: Angel One and CAMS are among the best-known SIP firms in India.\n• ICICi AMC is one of the best known SIP companies in the country, the bank says.\n• The SIP industry is booming in India, according to a report by JP Morgan.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/angel-one-cams-and-icici-amc-among-jp-morgans-preferred-bets-on-indias-sip-boom/articleshow/131954978.cms",
-      "relevance_score": 0.824,
-      "published_date": "2026-06-24"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-16T16:03:23.069677Z"
+  "updated_at": "2026-08-17T01:28:51.631283Z"
 }
