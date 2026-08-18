@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 9132,
+      "title": "FIFA confirms departure of senior official Lamour after Infantino criticism",
+      "summary": "• Lamour was one of the most senior officials at the governing body.\n• He was also a member of FIFA's executive committee.\n• He will be replaced by another senior official, according to reports in the UK.\n• Click here to read more about the departure of Lamour and other high-ranking FIFA officials in a report by Sportsmail.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/fifa-coo-kevin-lamour-departure-gianni-infantino-criticism-latest-news/article71358751.ece",
+      "relevance_score": 0.8677,
+      "published_date": "2026-08-18"
+    },
+    {
+      "id": 9128,
+      "title": "U.S. FDA classifies Aurobindo arm’s North Carolina plant VAI",
+      "summary": "• VAI is a joint venture between the Japanese drugmaker and a U.S.-based company.\n• The company says VAI will continue to operate as a separate company.\n• VAi says it has no immediate plans to close the VAI plant in North Carolina, where VAI has its headquarters.",
+      "category": "Science & Technology",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/business/Industry/us-fda-classifies-aurobindo-arms-north-carolina-plant-vai/article71357096.ece",
+      "relevance_score": 0.8069,
+      "published_date": "2026-08-18"
+    },
+    {
       "id": 9103,
       "title": "Currency in circulation, ATM withdrawals, 10 countries, hinterland India… How UPI made a dent in the financial universe",
       "summary": "• Currency in circulation, ATM withdrawals, 10 countries, hinterland India.\n• How UPI made a dent in the financial universe.\n• UPI: The story of India's currency revolution from start to finish.\n• The story behind the story: UPI and the rise of the Indian rupee in the 1980s and 1990s.\n• The Story behind the Story: U PI and the Rise of India’s Currency.",
@@ -71,22 +91,22 @@
       "published_date": "2026-08-17"
     },
     {
-      "id": 9105,
-      "title": "Rahul Gandhi disproportionate assets case: Supreme Court stays Allahabad High Court proceedings, restrains CBI and ED",
-      "summary": "• Supreme Court restrains CBI and ED from taking action against Rahul Gandhi.\n• Rahul Gandhi has been charged with disproportionate assets and criminal breach of trust.\n• The case is being heard by the Supreme Court of India and the High Court of Uttar Pradesh.\n• The trial is expected to last at least two weeks.\n• The verdict is expected in the next few days.",
-      "category": "Polity & Governance",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/supreme-court-halts-rahul-gandhi-assets-case-cbi-ed-allahabad-hc-3066908.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-17"
-    },
-    {
       "id": 9093,
       "title": "3 Dead In Karnataka Forest Firing; Annamalai’s ‘Audio Proof’ Corruption Claim | TN CM Demands Probe",
       "summary": "• Three Tamil men were killed in a forest shooting incident in Karnataka’s Chamarajanagar district.\n• Karnataka Forest Department has maintained that the incident was linked to an anti-poaching operation.\n• Tamil Nadu Chief Minister Vijay has called the explanation unacceptable and demanded a high-level probe.\n• Former Tamil Nadu BJP chief K Annamalai has launched another political attack on the Tamil Nadu government, levelling corruption allegations.\n• And will the Tamil Nadu government respond?Stay with CNN-News18 for the latest political reactions, investigation updates and developments from Tamil Nadu and Karnataka.\n• A major political and inter-state flashpoint is developing between Tamil Nadu and Karnataka after three Tamil men were killed in a forest shooting incident in Karnataka’s Chamarajanagar district.The Karnataka Forest Department has maintained that the incident was linked to an anti-poaching….",
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/breaking-news/3-dead-in-karnataka-forest-firing-annamalai-s-audio-proof-corruption-claim-tn-cm-demands-probe-10277263.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-17"
+    },
+    {
+      "id": 9105,
+      "title": "Rahul Gandhi disproportionate assets case: Supreme Court stays Allahabad High Court proceedings, restrains CBI and ED",
+      "summary": "• Supreme Court restrains CBI and ED from taking action against Rahul Gandhi.\n• Rahul Gandhi has been charged with disproportionate assets and criminal breach of trust.\n• The case is being heard by the Supreme Court of India and the High Court of Uttar Pradesh.\n• The trial is expected to last at least two weeks.\n• The verdict is expected in the next few days.",
+      "category": "Polity & Governance",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/supreme-court-halts-rahul-gandhi-assets-case-cbi-ed-allahabad-hc-3066908.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-17"
     },
@@ -111,6 +131,16 @@
       "published_date": "2026-08-17"
     },
     {
+      "id": 9101,
+      "title": "Rooftop solar in Tamil Nadu gets a fresh boost",
+      "summary": "• Tamil Nadu is home to one of the largest solar power projects in the world.\n• The state is also home to the largest number of rooftop solar panels in the U.S. and Europe.\n• It also has the highest rate of solar power in the country, according to the state's solar power commission.\n• It is the second largest state in the state after Kerala.",
+      "category": "Science & Technology",
+      "source": "The Hindu - States",
+      "url": "https://www.thehindu.com/news/states/rooftop-solar-gets-a-fresh-boost/article71354967.ece",
+      "relevance_score": 0.899,
+      "published_date": "2026-08-17"
+    },
+    {
       "id": 9089,
       "title": "Rooftop solar in Tamil Nadu gets a fresh boost",
       "summary": "• Tamil Nadu is home to one of the largest solar power projects in the world.\n• The state is also home to the largest number of rooftop solar panels in the U.S. and Europe.\n• It also has the highest rate of solar power in the country, according to the state's solar power commission.\n• It is the second largest state in the state after Kerala.",
@@ -121,13 +151,13 @@
       "published_date": "2026-08-17"
     },
     {
-      "id": 9101,
-      "title": "Rooftop solar in Tamil Nadu gets a fresh boost",
-      "summary": "• Tamil Nadu is home to one of the largest solar power projects in the world.\n• The state is also home to the largest number of rooftop solar panels in the U.S. and Europe.\n• It also has the highest rate of solar power in the country, according to the state's solar power commission.\n• It is the second largest state in the state after Kerala.",
-      "category": "Science & Technology",
-      "source": "The Hindu - States",
-      "url": "https://www.thehindu.com/news/states/rooftop-solar-gets-a-fresh-boost/article71354967.ece",
-      "relevance_score": 0.899,
+      "id": 9130,
+      "title": "Iran, Tajikistan Finalizing Fuel Export Agreement",
+      "summary": "• Iran to export fuel to Tajik Republic of Tashkent.\n• Tajik republic to sell fuel to Iran, Turkmenistan, Uzbekistan, Azerbaijan, Iraq, Kazakhstan.\n• Iran and Tajikstan to sell oil to each other through Iran-Tajikistan deal.",
+      "category": "International Relations",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/08/iran-tajikistan-finalizing-fuel-export-agreement/",
+      "relevance_score": 0.8917,
       "published_date": "2026-08-17"
     },
     {
@@ -19969,38 +19999,8 @@
       "url": "https://asean.org/ambassador-of-the-hellenic-republic-to-asean-present-letter-of-credence-to-secretary-general-of-asean/",
       "relevance_score": 0.9162,
       "published_date": "2026-06-24"
-    },
-    {
-      "id": 6282,
-      "title": "SRM University-AP, Haruka partner on green hydrogen project",
-      "summary": "• SRM and Haruka will work together to create a hydrogen fuel cell in Japan.\n• The project will help develop green hydrogen in Japan and the rest of the world.\n• For more information on the project, visit www.SRMUniversity-AP.com and www.haruka.com/ hydrogen-fuel-cell.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/srm-university-ap-haruka-partner-on-green-hydrogen-project/article71142729.ece",
-      "relevance_score": 0.9106,
-      "published_date": "2026-06-24"
-    },
-    {
-      "id": 6245,
-      "title": "Kerala CM proposes inter-State collaboration with Karnataka, Tamil Nadu, Puducherry to combat drug smuggling",
-      "summary": "• Karnataka and Tamil Nadu are key states in the state's drug-smuggling problem.\n• Kerala is home to a large number of drug smugglers, especially in the coastal states of Kerala and neighbouring Tamil Nadu.\n• Kerala also has a large population of drug users and sellers.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-cm-proposes-inter-state-collaboration-with-karnataka-tamil-nadu-puducherry-to-combat-drug-smuggling/article71140733.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-24"
-    },
-    {
-      "id": 6290,
-      "title": "After Starlink, Meet Starmind: Musk's Plan To Launch One Million AI Satellites In Orbit",
-      "summary": "• Musk also plans to launch a Mars-style colony of super-intelligent robots in space.\n• The project is called StarmIND and will be led by an artificial intelligence team.\n• Musk is also planning to launch the Mars-like colony of robots in orbit in 2018.",
-      "category": "Science & Technology",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/tech/after-starlink-meet-starmind-musks-plan-to-launch-one-million-ai-satellites-in-orbit-ws-l-10171510.html",
-      "relevance_score": 0.9099,
-      "published_date": "2026-06-24"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-18T01:37:42.697799Z"
+  "updated_at": "2026-08-18T04:17:57.310934Z"
 }
