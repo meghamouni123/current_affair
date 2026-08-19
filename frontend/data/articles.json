@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 9184,
+      "title": "NASA releases first images of crater left by SpaceX rocket that crashed into the moon",
+      "summary": "• SpaceX rocket crashed into moon after taking off from Kennedy Space Center in Florida.\n• SpaceX is now working on a second rocket that will take off from Cape Canaveral in Florida and land on the moon in 2018.\n• The mission is scheduled to take off in July and land in August.\n• It is expected to take three months to complete the mission.",
+      "category": "Science & Technology",
+      "source": "LiveMint - Science",
+      "url": "https://www.livemint.com/science/news/nasa-releases-first-images-of-crater-left-by-spacex-rocket-that-crashed-into-the-moon-11787103051114.html",
+      "relevance_score": 0.8804,
+      "published_date": "2026-08-19"
+    },
+    {
       "id": 9175,
       "title": "Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets",
       "summary": "• Nifty down 0.7 per cent to close at 8,827.50.\n• NSE down 0,817.50 to close in same range as Nifty.\n• BSE down 1,816.50, C BSE up 1,715.50; S&P up 0,4 per cent.",
@@ -8,6 +18,36 @@
       "source": "Economic Times - Top",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-indian-markets-continue-their-six-day-losing-streak-as-oil-prices-and-geopolitical-tensions-rise/articleshow/133334664.cms",
       "relevance_score": 0.858,
+      "published_date": "2026-08-19"
+    },
+    {
+      "id": 9178,
+      "title": "U.S. sanctions ICC chief Tomoko Akane of Japan",
+      "summary": "• Akane is the head of the International Criminal Court in the United States.\n• She is also the chief of the Court of Human Rights in the International Court of Justice in The Hague.\n• She was named by the U.S., which imposed the sanctions on her on Tuesday.\n• She has been banned from traveling to the ICC for a year and a half.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/us-sanctions-icc-chief-tomoko-akane-of-japan/article71363112.ece",
+      "relevance_score": 0.8574,
+      "published_date": "2026-08-19"
+    },
+    {
+      "id": 9183,
+      "title": "Secretary-General of ASEAN Exchange Views with Minister of Foreign Affairs of Brazil",
+      "summary": "• Secretary-General and Brazilian Foreign Minister exchange views on the state of the region's relations with the rest of the world.\n• The meeting took place at the Foreign Ministry of Brazil in Rio de Janeiro, Brazil.\n• It was the first ever meeting between the two countries' foreign ministers in the South American region.\n• The event was attended by the Secretary-general of Asean and Brazil's Foreign Minister.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-exchange-views-with-minister-of-foreign-affairs-of-brazil/",
+      "relevance_score": 0.822,
+      "published_date": "2026-08-19"
+    },
+    {
+      "id": 9181,
+      "title": "Secretary-General of ASEAN meets with President of Brazil-ASEAN Parliamentary Front",
+      "summary": "• Secretary-General meets with Brazilian President to discuss ASEan-Brazilian Parliamentary Front relations.\n• Meeting takes place at the Presidential Palace of the Brazilian-ASEan Parliamentary Front in Rio de Janeiro, Brazil.\n• The two leaders also discuss the future of the ASEANN Parliamentary Front with Brazil's President.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-meets-with-president-of-brazil-asean-parliamentary-front/",
+      "relevance_score": 0.8132,
       "published_date": "2026-08-19"
     },
     {
@@ -361,22 +401,22 @@
       "published_date": "2026-08-17"
     },
     {
-      "id": 9105,
-      "title": "Rahul Gandhi disproportionate assets case: Supreme Court stays Allahabad High Court proceedings, restrains CBI and ED",
-      "summary": "• Supreme Court restrains CBI and ED from taking action against Rahul Gandhi.\n• Rahul Gandhi has been charged with disproportionate assets and criminal breach of trust.\n• The case is being heard by the Supreme Court of India and the High Court of Uttar Pradesh.\n• The trial is expected to last at least two weeks.\n• The verdict is expected in the next few days.",
-      "category": "Polity & Governance",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/supreme-court-halts-rahul-gandhi-assets-case-cbi-ed-allahabad-hc-3066908.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-17"
-    },
-    {
       "id": 9093,
       "title": "3 Dead In Karnataka Forest Firing; Annamalai’s ‘Audio Proof’ Corruption Claim | TN CM Demands Probe",
       "summary": "• Three Tamil men were killed in a forest shooting incident in Karnataka’s Chamarajanagar district.\n• Karnataka Forest Department has maintained that the incident was linked to an anti-poaching operation.\n• Tamil Nadu Chief Minister Vijay has called the explanation unacceptable and demanded a high-level probe.\n• Former Tamil Nadu BJP chief K Annamalai has launched another political attack on the Tamil Nadu government, levelling corruption allegations.\n• And will the Tamil Nadu government respond?Stay with CNN-News18 for the latest political reactions, investigation updates and developments from Tamil Nadu and Karnataka.\n• A major political and inter-state flashpoint is developing between Tamil Nadu and Karnataka after three Tamil men were killed in a forest shooting incident in Karnataka’s Chamarajanagar district.The Karnataka Forest Department has maintained that the incident was linked to an anti-poaching….",
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/breaking-news/3-dead-in-karnataka-forest-firing-annamalai-s-audio-proof-corruption-claim-tn-cm-demands-probe-10277263.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-17"
+    },
+    {
+      "id": 9105,
+      "title": "Rahul Gandhi disproportionate assets case: Supreme Court stays Allahabad High Court proceedings, restrains CBI and ED",
+      "summary": "• Supreme Court restrains CBI and ED from taking action against Rahul Gandhi.\n• Rahul Gandhi has been charged with disproportionate assets and criminal breach of trust.\n• The case is being heard by the Supreme Court of India and the High Court of Uttar Pradesh.\n• The trial is expected to last at least two weeks.\n• The verdict is expected in the next few days.",
+      "category": "Polity & Governance",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/supreme-court-halts-rahul-gandhi-assets-case-cbi-ed-allahabad-hc-3066908.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-17"
     },
@@ -1321,22 +1361,22 @@
       "published_date": "2026-08-13"
     },
     {
-      "id": 8932,
-      "title": "Parliament Monsoon Session: Rijiju Slams Oppn, Says “Running Away From Debate” | News18",
-      "summary": "• Rijiju said 12 Bills were passed during the session, calling the legislative business fruitful.\n• He highlighted productivity of 19% in the Lok Sabha and 39% in Rajya Sabha in terms of discussions.\n• He also criticised Congress MPs over protests and sloganeering, saying Parliament should focus on debate and discussion.\n• On delimitation, he said the government was focused on discussing issues concerning the present rather than the future.\n• Parliamentary Affairs Minister Kiren Rijiju hits out at the Opposition over the functioning of Parliament, saying the government was ready for discussion but the Opposition was “running away” from debate.Rijiju said 12 Bills were passed during the session, calling the legislative business fruitful,….",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/parliament-monsoon-session-rijiju-slams-oppn-says-running-away-from-debate-news18-10270604.html",
-      "relevance_score": 0.94,
-      "published_date": "2026-08-13"
-    },
-    {
       "id": 8934,
       "title": "Opposition Skips Tea Meet: Om Birla’s Chai Meeting Snub | Parliament Monsoon Session Today | News18",
       "summary": "• Opposition MPs reportedly skipped the ceremonial tea meeting hosted by Lok Sabha Speaker Om Birla.\n• The traditional tea meeting is usually an informal opportunity for members across party lines to interact with the Speaker and each other after the conclusion of a parliamentary session.\n• The tea meeting snub has now become a symbolic final chapter to a session marked by sharp political differences.\n• Or was it simply a continuation of the disagreements witnessed throughout the session?Watch our LIVE coverage for the latest developments, reactions from political leaders and the final wrap-up of Parliament's Monsoon Session.\n• N18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• But this time, the Opposition's absence has drawn attention, particularly after weeks of heated exchanges, protests and repeated disruptions inside Parliament.The Lok Sabha has now been adjourned sine die, bringing the Monsoon Session to an end.",
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/opposition-skips-tea-meet-om-birla-s-chai-meeting-snub-parliament-monsoon-session-today-news18-10270456.html",
+      "relevance_score": 0.94,
+      "published_date": "2026-08-13"
+    },
+    {
+      "id": 8932,
+      "title": "Parliament Monsoon Session: Rijiju Slams Oppn, Says “Running Away From Debate” | News18",
+      "summary": "• Rijiju said 12 Bills were passed during the session, calling the legislative business fruitful.\n• He highlighted productivity of 19% in the Lok Sabha and 39% in Rajya Sabha in terms of discussions.\n• He also criticised Congress MPs over protests and sloganeering, saying Parliament should focus on debate and discussion.\n• On delimitation, he said the government was focused on discussing issues concerning the present rather than the future.\n• Parliamentary Affairs Minister Kiren Rijiju hits out at the Opposition over the functioning of Parliament, saying the government was ready for discussion but the Opposition was “running away” from debate.Rijiju said 12 Bills were passed during the session, calling the legislative business fruitful,….",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/parliament-monsoon-session-rijiju-slams-oppn-says-running-away-from-debate-news18-10270604.html",
       "relevance_score": 0.94,
       "published_date": "2026-08-13"
     },
@@ -19959,48 +19999,8 @@
       "url": "https://www.thehindu.com/sport/cricket/george-dockrell-excited-to-test-himself-against-the-best/article71147662.ece",
       "relevance_score": 0.8998,
       "published_date": "2026-06-25"
-    },
-    {
-      "id": 6326,
-      "title": "Welfare is the focus of government, says Deputy CM",
-      "summary": "• He says the government is focused on the welfare of the people of the state.\n• The government is also focusing on the economy and the economy of the province.\n• The economy is the biggest source of revenue for the state, he says.\n• The state is also the largest employer of women in the province, he adds.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/telangana/welfare-is-the-focus-of-government-says-deputy-cm/article71147118.ece",
-      "relevance_score": 0.8704,
-      "published_date": "2026-06-25"
-    },
-    {
-      "id": 6309,
-      "title": "“Emergency Was a Direct Assault on Our Constitution”: PM Modi Pays Tribute to Democracy Defenders",
-      "summary": "• “Emergency was a direct assault on our Constitution,” PM Modi said.\n• PM Modi: “It was a clear violation of the Indian Constitution.” “We are a nation of freedom fighters,’’ he said.\n• ‘We are committed to the rule of law.’.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/emergency-was-a-direct-assault-on-our-constitution-pm-modi-pays-tribute-to-democracy-defenders-10172331.html",
-      "relevance_score": 0.8686,
-      "published_date": "2026-06-25"
-    },
-    {
-      "id": 6304,
-      "title": "Premature to talk of rate hike: RBI governor Sanjay Malhotra",
-      "summary": "• RBI governor: It's too soon to talk about a possible rate hike in the near future.\n• MalHotra: It would be a mistake for the central bank to raise interest rates too soon.\n• He says it's too early to discuss the possibility of a rate hike now.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/premature-to-talk-of-rate-hike-rbi-governor-sanjay-malhotra/articleshow/131980867.cms",
-      "relevance_score": 0.8608,
-      "published_date": "2026-06-25"
-    },
-    {
-      "id": 6320,
-      "title": "Thunderous World Cup farewell as Guillermo Ochoa enters late in Mexico's 3-0 win",
-      "summary": "• Mexico's record World Cup goalscoring record now stands at 12.\n• Mexico have won all three of their World Cup games.\n• Mexico won the tournament in Brazil in 1990, 2002 and 2006.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/football/thunderous-world-cup-farewell-as-guillermo-ochoa-enters-late-in-mexicos-3-0-win/article71145785.ece",
-      "relevance_score": 0.8576,
-      "published_date": "2026-06-25"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-19T01:36:10.840767Z"
+  "updated_at": "2026-08-19T04:31:34.620683Z"
 }
