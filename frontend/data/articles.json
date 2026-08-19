@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 9175,
+      "title": "Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets",
+      "summary": "• Nifty down 0.7 per cent to close at 8,827.50.\n• NSE down 0,817.50 to close in same range as Nifty.\n• BSE down 1,816.50, C BSE up 1,715.50; S&P up 0,4 per cent.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-indian-markets-continue-their-six-day-losing-streak-as-oil-prices-and-geopolitical-tensions-rise/articleshow/133334664.cms",
+      "relevance_score": 0.858,
+      "published_date": "2026-08-19"
+    },
+    {
       "id": 9157,
       "title": "Bengaluru space start-up unveils AI-powered optical sensor network for monitoring objects in Low Earth Orbit",
       "summary": "• The network will be used to monitor objects in low Earth orbit.\n• It will be able to detect objects in the Earth's atmosphere using a combination of cameras and sensors.\n• For more information, visit the company's website at: www.spacestartup.com.",
@@ -51,6 +61,16 @@
       "published_date": "2026-08-18"
     },
     {
+      "id": 9171,
+      "title": "On his first visit to J&amp;K, US envoy Sergio Gor to meet Omar today",
+      "summary": "• U.S. President Barack Obama to visit the region later this month.\n• Obama's visit will be his first to the region since taking office in 2009.\n• Obama will be accompanied by Secretary of State John Kerry and State Department officials.\n• The trip will also include a stop at the UN in New York.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/on-his-first-visit-to-jk-us-envoy-sergio-gor-to-meet-omar-today/articleshow/133330848.cms",
+      "relevance_score": 0.9009,
+      "published_date": "2026-08-18"
+    },
+    {
       "id": 9161,
       "title": "India records its biggest win in Women’s Hockey World Cup history",
       "summary": "• India beat Australia by a record margin of 17 points.\n• India have won all three of their games so far in the tournament.\n• India will play Australia in the quarter-finals and the semi-finals on Sunday.\n• India also won the gold medal in the 2014 edition of the World Cup in South Africa.",
@@ -68,6 +88,16 @@
       "source": "The Hindu - Andhra Pradesh",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/the-hindu-fic-srm-university-ap-to-organise-seminar-on-careers-in-management-and-sciences-on-august-20/article71360913.ece",
       "relevance_score": 0.8856,
+      "published_date": "2026-08-18"
+    },
+    {
+      "id": 9165,
+      "title": "Ready to drop FIRs against student protesters, says Supreme Court",
+      "summary": "• Supreme Court says it will drop cases against students protesting against the government's handling of student protests.\n• The Supreme Court is set to hear the case on Thursday.\n• The case will be heard by a three-judge panel of the Supreme Court of India's High Court.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/sc-ready-to-quash-firs-filed-against-students-for-neet-protests/article71360889.ece",
+      "relevance_score": 0.8842,
       "published_date": "2026-08-18"
     },
     {
@@ -161,6 +191,16 @@
       "published_date": "2026-08-18"
     },
     {
+      "id": 9173,
+      "title": "Kyrgyzstan Liquidates More Companies Over Sanctions Risks",
+      "summary": "• More than a dozen companies have been liquidated in the past week.\n• The move is in response to sanctions imposed by the West.\n• The sanctions are believed to be related to Russia's support for pro-Russian separatists in the country's breakaway canton of Dzhemgazakh.\n• More companies are expected to be liquidated over the coming days.",
+      "category": "International Relations",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/08/kyrgyzstan-liquidates-more-companies-over-sanctions-risks/",
+      "relevance_score": 0.8431,
+      "published_date": "2026-08-18"
+    },
+    {
       "id": 9136,
       "title": "Meet 17-year-old Tiya Aggarwal, who built a smart watering system for 150+ plant species",
       "summary": "• She built the system for her home in Delhi, India.\n• She says it can help her care for more than 150 different plant species in her garden.\n• She also uses it to water other plants in the garden.",
@@ -208,6 +248,16 @@
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/world/story/us-universities-audit-china-linked-partnerships-pentagon-funding-warning-ptag-2974303-2026-08-18?utm_source=rss",
       "relevance_score": 0.8192,
+      "published_date": "2026-08-18"
+    },
+    {
+      "id": 9172,
+      "title": "Global borrowing costs hit fresh highs on oil, AI and inflation",
+      "summary": "• Global borrowing costs reach fresh highs in wake of global economic slowdown.\n• FTSE-100 index of leading global banks hits new record high of 7.8 percent.\n• BTSI index hits new high of 6.9 percent.",
+      "category": "Economy & Banking",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss",
+      "relevance_score": 0.8123,
       "published_date": "2026-08-18"
     },
     {
@@ -311,22 +361,22 @@
       "published_date": "2026-08-17"
     },
     {
-      "id": 9093,
-      "title": "3 Dead In Karnataka Forest Firing; Annamalai’s ‘Audio Proof’ Corruption Claim | TN CM Demands Probe",
-      "summary": "• Three Tamil men were killed in a forest shooting incident in Karnataka’s Chamarajanagar district.\n• Karnataka Forest Department has maintained that the incident was linked to an anti-poaching operation.\n• Tamil Nadu Chief Minister Vijay has called the explanation unacceptable and demanded a high-level probe.\n• Former Tamil Nadu BJP chief K Annamalai has launched another political attack on the Tamil Nadu government, levelling corruption allegations.\n• And will the Tamil Nadu government respond?Stay with CNN-News18 for the latest political reactions, investigation updates and developments from Tamil Nadu and Karnataka.\n• A major political and inter-state flashpoint is developing between Tamil Nadu and Karnataka after three Tamil men were killed in a forest shooting incident in Karnataka’s Chamarajanagar district.The Karnataka Forest Department has maintained that the incident was linked to an anti-poaching….",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/3-dead-in-karnataka-forest-firing-annamalai-s-audio-proof-corruption-claim-tn-cm-demands-probe-10277263.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-17"
-    },
-    {
       "id": 9105,
       "title": "Rahul Gandhi disproportionate assets case: Supreme Court stays Allahabad High Court proceedings, restrains CBI and ED",
       "summary": "• Supreme Court restrains CBI and ED from taking action against Rahul Gandhi.\n• Rahul Gandhi has been charged with disproportionate assets and criminal breach of trust.\n• The case is being heard by the Supreme Court of India and the High Court of Uttar Pradesh.\n• The trial is expected to last at least two weeks.\n• The verdict is expected in the next few days.",
       "category": "Polity & Governance",
       "source": "Zee News - India",
       "url": "https://zeenews.india.com/india/supreme-court-halts-rahul-gandhi-assets-case-cbi-ed-allahabad-hc-3066908.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-17"
+    },
+    {
+      "id": 9093,
+      "title": "3 Dead In Karnataka Forest Firing; Annamalai’s ‘Audio Proof’ Corruption Claim | TN CM Demands Probe",
+      "summary": "• Three Tamil men were killed in a forest shooting incident in Karnataka’s Chamarajanagar district.\n• Karnataka Forest Department has maintained that the incident was linked to an anti-poaching operation.\n• Tamil Nadu Chief Minister Vijay has called the explanation unacceptable and demanded a high-level probe.\n• Former Tamil Nadu BJP chief K Annamalai has launched another political attack on the Tamil Nadu government, levelling corruption allegations.\n• And will the Tamil Nadu government respond?Stay with CNN-News18 for the latest political reactions, investigation updates and developments from Tamil Nadu and Karnataka.\n• A major political and inter-state flashpoint is developing between Tamil Nadu and Karnataka after three Tamil men were killed in a forest shooting incident in Karnataka’s Chamarajanagar district.The Karnataka Forest Department has maintained that the incident was linked to an anti-poaching….",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/3-dead-in-karnataka-forest-firing-annamalai-s-audio-proof-corruption-claim-tn-cm-demands-probe-10277263.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-17"
     },
@@ -19949,58 +19999,8 @@
       "url": "https://www.thehindu.com/sport/football/thunderous-world-cup-farewell-as-guillermo-ochoa-enters-late-in-mexicos-3-0-win/article71145785.ece",
       "relevance_score": 0.8576,
       "published_date": "2026-06-25"
-    },
-    {
-      "id": 6352,
-      "title": "Ivory Coast beats Curacao to seal FIFA World Cup 2026 knockout spot; CUR vs CIV player ratings",
-      "summary": "• Ivory Coast will play in 2026 World Cup in South Africa, Morocco, and Costa Rica.\n• CIV will play at the 2014 World Cup, which will be hosted by South Africa and hosted by Brazil.\n• CUR will host the 2015 World Cup and the 2016 World Cup.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/ivory-coast-vs-curacao-fifa-world-cup-2026-match-report-highlights-qualification-knockout-news/article71147919.ece",
-      "relevance_score": 0.8527,
-      "published_date": "2026-06-25"
-    },
-    {
-      "id": 6297,
-      "title": "BJP demands FIR against Punjab CM Bhagwant Mann under new law",
-      "summary": "• Mann is the son of former Punjab chief minister and a member of the Indian National Congress.\n• Mann has been in charge of Punjab since 2003.\n• He is also a former chief minister of Haryana and an ex-chairman of the Punjab Pradesh Congress Party (PPP) The PPP is the largest party in the Punjab assembly.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/bjp-demands-fir-against-punjab-cm-bhagwant-mann-under-new-law/articleshow/131980175.cms",
-      "relevance_score": 0.852,
-      "published_date": "2026-06-25"
-    },
-    {
-      "id": 6302,
-      "title": "FIFA World Cup recap: South Africa make history, Neymar plays at last",
-      "summary": "• South Africa win their first ever World Cup, beating Argentina in the final.\n• Brazil beat Argentina 1-0 to win the World Cup for the first time in their history.\n• Brazil's first-ever World Cup win came in their opening game against Costa Rica.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/football/fifa-world-cup-recap-neymar-returns-morocco-messi-birthday-10756136/",
-      "relevance_score": 0.8501,
-      "published_date": "2026-06-25"
-    },
-    {
-      "id": 6313,
-      "title": "RBI’s digital scam compensation pilot | Explained",
-      "summary": "• The pilot is designed to help victims of digital scams get compensation for their losses.\n• The scheme is called the Digital Scam Compensation Pilot (DSCP) and is funded by the Reserve Bank of India.\n• For more information, visit the DSCP website at: http://www.rbi.com/digital-scam-compensation.",
-      "category": "Economy & Banking",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/Economy/rbis-digital-scam-compensation-pilot-explained/article71145018.ece",
-      "relevance_score": 0.847,
-      "published_date": "2026-06-25"
-    },
-    {
-      "id": 6322,
-      "title": "The Harvard Data Nerd Defending America’s Goal at the World Cup",
-      "summary": "• The World Cup is taking place in Brazil this summer.\n• The U.S. team is expected to win the tournament and qualify for the quarter-finals.\n• The goal is to win a place in the semi-finals and the final.\n• The team is also expected to reach the final, where it would win a gold medal.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/football/the-harvard-data-nerd-defending-america-s-goal-at-the-world-cup-101782381211132.html",
-      "relevance_score": 0.8461,
-      "published_date": "2026-06-25"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-18T16:16:27.423198Z"
+  "updated_at": "2026-08-19T01:36:10.840767Z"
 }
