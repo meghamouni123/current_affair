@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 9186,
+      "title": "RBI’s restrictions on revolving credit | Explained",
+      "summary": "• RBI has imposed strict restrictions on the use of revolving credit by banks and NBFCs.\n• The restrictions include a ban on using revolving credit for more than three months.\n• The ban also applies to banks with more than $1 billion in revolving credit.\n• The limit is set by the Reserve Bank of India (RBI) and the Bank of Canada (BOI).",
+      "category": "Economy & Banking",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/Economy/rbis-restrictions-on-revolving-credit-explained/article71363657.ece",
+      "relevance_score": 0.9651,
+      "published_date": "2026-08-19"
+    },
+    {
+      "id": 9190,
+      "title": "RBI’s New 3-Month Reset Proposal: How Your Home, Personal Loan EMIs Could Change From 2027",
+      "summary": "• The proposal is part of the U.S. Federal Reserve's effort to revamp the way the government borrows and lends money.\n• It is also known as the 3-month reset proposal, and was first put forward by the Fed in 2008.\n• The 3- month reset proposal is intended to give the Fed more time to work with borrowers.",
+      "category": "Economy & Banking",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/business/banking-finance/rbis-new-3-month-reset-proposal-how-your-home-personal-loan-emis-could-change-from-2027-ws-l-10281249.html",
+      "relevance_score": 0.938,
+      "published_date": "2026-08-19"
+    },
+    {
+      "id": 9188,
+      "title": "₹28 crore bonanza for MLAs and no debate: The power behind TN Assembly's Rule 110 invoked by CM Vijay | Explained",
+      "summary": "• Rule 110 is a rule of the Tamil Nadu Assembly that allows the assembly to pass laws without a vote.\n• The rule was invoked by the state's Chief Minister Vijay as part of his rule-making process.\n• Vijay is the son of former Tamil Nadu Chief Minister Jayalalitha.",
+      "category": "Polity & Governance",
+      "source": "LiveMint - Politics",
+      "url": "https://www.livemint.com/politics/news/rs-28-crore-bonanza-for-mlas-and-no-debate-the-power-behind-tn-assemblys-rule-110-invoked-by-cm-vijay-explained-11787117824141.html",
+      "relevance_score": 0.9047,
+      "published_date": "2026-08-19"
+    },
+    {
       "id": 9184,
       "title": "NASA releases first images of crater left by SpaceX rocket that crashed into the moon",
       "summary": "• SpaceX rocket crashed into moon after taking off from Kennedy Space Center in Florida.\n• SpaceX is now working on a second rocket that will take off from Cape Canaveral in Florida and land on the moon in 2018.\n• The mission is scheduled to take off in July and land in August.\n• It is expected to take three months to complete the mission.",
@@ -38,6 +68,16 @@
       "source": "ASEAN Secretariat",
       "url": "https://asean.org/secretary-general-of-asean-exchange-views-with-minister-of-foreign-affairs-of-brazil/",
       "relevance_score": 0.822,
+      "published_date": "2026-08-19"
+    },
+    {
+      "id": 9189,
+      "title": "167 Tamil Nadu engineering colleges fill under 10% seats, 23 have zero admissions",
+      "summary": "• 23 of the colleges have no admissions at all.\n• Tamil Nadu has one of the highest engineering enrollment rates in the country.\n• The state has more than 1,000 engineering colleges.\n• The number of engineering students in Tamil Nadu is at an all-time high of 1.2 million.",
+      "category": "State News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/education-today/news/story/tnea-2026-over-1-lakh-engineering-seats-vacant-after-round-2-in-tamil-nadu-2974655-2026-08-19?utm_source=rss",
+      "relevance_score": 0.8211,
       "published_date": "2026-08-19"
     },
     {
@@ -19959,48 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/amit-shah-to-launch-drive-to-destroy-2-lakh-kg-of-drugs/articleshow/131980040.cms",
       "relevance_score": 0.9381,
       "published_date": "2026-06-25"
-    },
-    {
-      "id": 6341,
-      "title": "LIVE: From conflict to stability, how the UN is supporting peacebuilding around the world",
-      "summary": "• LIVE: How the UN supports peacebuilding in Africa, the Middle East, and beyond.\n• We'll be on the ground in Africa and in the U.S. throughout the week.\n• Join us for live coverage of the UN's peacebuilding efforts in Africa on CNN.com and the CNN iReport app.",
-      "category": "International Relations",
-      "source": "UN News",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167800",
-      "relevance_score": 0.9308,
-      "published_date": "2026-06-25"
-    },
-    {
-      "id": 6336,
-      "title": "Smart traffic system set to be launched by August, says official",
-      "summary": "• Smart traffic system will be in place by the end of the year, officials say.\n• It will be used to help ease traffic congestion in the city's roads and highways.\n• The system is expected to be fully operational by the start of next year, they say.\n• For confidential support call the National Suicide Prevention Lifeline on 1-800-273-8255 or go to www.suicidepreventionlifeline.org.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/smart-traffic-system-set-to-be-launched-by-august-says-official/article71145865.ece",
-      "relevance_score": 0.9252,
-      "published_date": "2026-06-25"
-    },
-    {
-      "id": 6308,
-      "title": "This Indian company rolls out one millionth unit of its popular electric scooter",
-      "summary": "• The scooter is one of the most popular in the country.\n• It is made by a company based in the city of Pune, in the state of Haryana.\n• It costs around Rs. 10,000 to Rs. 12,000 and is powered by an electric motor.\n• It can reach speeds of up to 30 kmph.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/auto/bikes/story/tvs-rolls-out-one-millionth-iqube-electric-scooter-2933793-2026-06-25?utm_source=rss",
-      "relevance_score": 0.9089,
-      "published_date": "2026-06-25"
-    },
-    {
-      "id": 6338,
-      "title": "Ireland-India cricket | George Dockrell excited to test himself against ‘the best’",
-      "summary": "• Ireland face India in a one-day international at Dublin's Croke Park.\n• George Dockrell is set to make his debut for Ireland against India.\n• Dockrell has previously played for Ireland in the World Cup and World Cup warm-ups.\n• He has also played in the Cricket World Cup for England and the Cricket Australia World Cup finals in Australia and New Zealand.\n• He is a former captain of Ireland's national cricket team.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/cricket/george-dockrell-excited-to-test-himself-against-the-best/article71147662.ece",
-      "relevance_score": 0.8998,
-      "published_date": "2026-06-25"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-19T04:31:34.620683Z"
+  "updated_at": "2026-08-19T07:35:23.647404Z"
 }
