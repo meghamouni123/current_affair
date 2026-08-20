@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 9274,
+      "title": "NASA offers up to $500,000 to develop technology for tracking atmospheric drag",
+      "summary": "• NASA offers to help develop technology to track atmospheric drag in space.\n• NASA also offers $1.5 million for research into how drag affects the Earth's atmosphere.\n• NASA says technology could be used to track the Earth from space in the 2030s and 2070s.\n• The technology could also be used for space exploration in the future.",
+      "category": "Science & Technology",
+      "source": "Times of India - World",
+      "url": "https://timesofindia.indiatimes.com/science/nasa-is-offering-up-to-500000-for-new-technology-to-measure-earths-extremely-thin-upper-atmosphere-and-improve-predictions-of-how-space-weather-changes-satellite-orbits/articleshow/133378539.cms",
+      "relevance_score": 0.9674,
+      "published_date": "2026-08-20"
+    },
+    {
       "id": 9257,
       "title": "AI helps create Moderna cancer vaccine",
       "summary": "• AI helps create Moderna cancer vaccine, which is being developed by Novartis and GlaxoSmithKline.\n• The vaccine is part of a global effort to develop a cancer vaccine for women and children.\n• It will be called Moderna, and will be available in the U.S. and Europe by the end of the year.\n• For more information on Moderna and the vaccine, visit the company's website.",
@@ -31,6 +41,16 @@
       "published_date": "2026-08-20"
     },
     {
+      "id": 9273,
+      "title": "New 'smart cancer drug' designed to 'switch on' may replace chemotherapy, says govt",
+      "summary": "• New 'smart' cancer drug to be launched in U.S. later this year.\n• 'Smart' drug could be used to replace chemotherapy for some cancer patients, says U.K. government.\n• New drug could also be used for other types of cancer, such as lung, breast and prostate.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/new-smart-cancer-drug-designed-to-switch-on-may-replace-chemotherapy-says-govt-101787230975466.html",
+      "relevance_score": 0.8914,
+      "published_date": "2026-08-20"
+    },
+    {
       "id": 9247,
       "title": "Premier League CEO calls for new FIFA president candidate who can unite confederations",
       "summary": "• Premier League CEO: FIFA president must be someone who can unify confederation.\n• FIFA president should be a man who has been around the world for a long time, says David Blatter.\n• Blatter: FIFA needs a president who has the ability to unite the world's football confederates.\n• FIFA must also be a leader who has a vision for the future of the game.",
@@ -48,6 +68,26 @@
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/education-today/news/story/iit-kanpur-hindi-cybersecurity-vocational-course-launched-3-lakh-students-across-570-colleges-2975740-2026-08-20?utm_source=rss",
       "relevance_score": 0.8639,
+      "published_date": "2026-08-20"
+    },
+    {
+      "id": 9275,
+      "title": "For the first time in history, astronauts use portable X-ray technology in space",
+      "summary": "• Astronauts will be using the technology to get a better view of the Earth from space.\n• They will also be using it to help them prepare for a mission to the moon.\n• The mission is scheduled to take place in 2018 and will last three months.",
+      "category": "Science & Technology",
+      "source": "Times of India - World",
+      "url": "https://timesofindia.indiatimes.com/science/for-the-first-time-in-history-astronauts-use-portable-x-ray-technology-in-space-that-could-pave-the-way-for-future-moon-and-mars-missions/articleshow/133373001.cms",
+      "relevance_score": 0.8595,
+      "published_date": "2026-08-20"
+    },
+    {
+      "id": 9270,
+      "title": "Gadchiroli mining project: Bombay HC asks petitioner to approach National Tiger Conservation Authority",
+      "summary": "• Maharashtra government wants to mine land for gold, copper, zinc, lead, zinc and other minerals.\n• Petitioners say the project will harm the state's tiger population.\n• Bombay HC: Petitioners should approach the National Tiger conservation Authority.\n• The project is set to be completed by the end of the year.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/maharashtra/bombay-hc-asks-petitioner-to-approach-ntca-over-gadchiroli-mining-project/article71368646.ece",
+      "relevance_score": 0.855,
       "published_date": "2026-08-20"
     },
     {
@@ -98,6 +138,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/go-issued-on-3333-quota-for-backward-classes-in-ulb-elections-in-andhra-pradesh/article71365844.ece",
       "relevance_score": 0.8377,
+      "published_date": "2026-08-20"
+    },
+    {
+      "id": 9272,
+      "title": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
+      "summary": "• RSS has been accused of being anti-Semitic, anti-American, and anti-Muslim.\n• RSS says it is committed to freedom of speech and freedom of assembly.\n• RSS also says it has no anti-Semitism or anti-Islam views.\n• The group says it does not have any anti-Islamic views.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/us-religious-freedom-body-seeks-sanctions-against-rss-no-high-level-meetings-with-its-leaders/article71368052.ece",
+      "relevance_score": 0.837,
       "published_date": "2026-08-20"
     },
     {
@@ -19949,58 +19999,8 @@
       "url": "https://asean.org/asean-and-japan-reaffirm-commitment-to-strengthening-comprehensive-strategic-partnership/",
       "relevance_score": 0.9332,
       "published_date": "2026-06-26"
-    },
-    {
-      "id": 6372,
-      "title": "Clare Taylor on playing multiple World Cups, ICC Anti-Corruption Unit, and Test match batting",
-      "summary": "• Clare Taylor: 'I've been lucky to play in a number of World Cups and Test matches.\n• I've also been involved in a lot of ICC anti-corruption units' 'I'm a bit of a cricketing snob,' she says.\n• 'I don't think I've ever seen a bowler get away with anything like what I've done in my career'.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/womens-cricket/clare-taylor-womens-world-cup-2026-football-cricket-anti-corruption-unit-hyderabad-test-interview-latest/article71151251.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-26"
-    },
-    {
-      "id": 6362,
-      "title": "What are fire-hunting satellites? Greece turns to space technology against wildfires. How it works",
-      "summary": "• How it works and why it's being used in the country's firefighting efforts.\n• Share your thoughts in the comments below or post a video on CNN iReport.\n• Follow CNN Living on Facebook and Twitter and share your photos of Greece's wildfires on Instagram and Twitter.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/what-are-fire-hunting-satellites-greece-turns-to-space-technology-against-wildfires-101782468240138.html",
-      "relevance_score": 0.9059,
-      "published_date": "2026-06-26"
-    },
-    {
-      "id": 6393,
-      "title": "Partners, NASA Ready for June Launch of Swift Boost Mission",
-      "summary": "• Swift Boost mission will launch in June from Vandenberg Air Force Base in California.\n• The mission will be the first shuttle mission to orbit the Earth.\n• It will also be the second mission to the International Space Station, which launched in 1986.\n• The shuttle is scheduled to land on the ISS in July 2015, with a scheduled to return in September 2015.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/missions/swift/swift-boost-mission/partners-nasa-ready-for-june-launch-of-swift-boost-mission/",
-      "relevance_score": 0.9,
-      "published_date": "2026-06-26"
-    },
-    {
-      "id": 6356,
-      "title": "Forex measures yield results! FPIs buy record $4.2 billion Indian government bonds in June; reserves may get a boost",
-      "summary": "• FPIs buy record $4.2 billion Indian government bonds in June.\n• India's reserves may get a boost from foreign investors buying government bonds.\n• Indian rupee hit a record high against the dollar in June, up 0.3% on the day.\n• The rupee was down 0.4% against the U.S. dollar on the same day.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/forex-measures-yield-results-fpis-buy-record-4-2-billion-indian-government-bonds-in-june-reserves-may-get-a-boost/articleshow/132008341.cms",
-      "relevance_score": 0.8978,
-      "published_date": "2026-06-26"
-    },
-    {
-      "id": 6385,
-      "title": "Serena Williams draws 20-year-old Maya Joint in first Wimbledon singles match in four years",
-      "summary": "• Williams will play her first match against Joint since 2010.\n• Williams has not won a Wimbledon title since she won the title in 2004.\n• Williams is bidding to win her fourth Wimbledon crown and first since 2009.\n• She has won three grand slam titles and one Olympic gold medal in women's singles.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/tennis/serena-williams-draws-20-year-old-maya-joint-in-first-wimbledon-singles-match-in-four-years/article71151891.ece",
-      "relevance_score": 0.8974,
-      "published_date": "2026-06-26"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-20T10:29:54.788927Z"
+  "updated_at": "2026-08-20T13:54:55.644641Z"
 }
