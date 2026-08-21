@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 9308,
+      "title": "Congress-ruled Karnataka, Kerala, Telangana to challenge new mining law in Supreme Court",
+      "summary": "• Karnataka and Kerala among states that will challenge mining law at Supreme Court in India's highest court.\n• The case is expected to be heard by the Supreme Court by the end of the month.\n• The mining law was passed by the Karnataka assembly in May this year.\n• The state has been ruled by the Congress since the 1980s.",
+      "category": "State News",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/congress-ruled-karnataka-kerala-telangana-to-challenge-new-mining-law-in-supreme-court-101787277583830.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-21"
+    },
+    {
       "id": 9295,
       "title": "GDP may grow beyond projected 6.7%: RBI DG",
       "summary": "• India's economy may grow faster than expected in the second half of the year, RBI DG says.\n• The economy is expected to grow at a rate of 6.6% in the third quarter.\n• The economy grew at a pace of 5.7% last year.",
@@ -18,6 +28,16 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/government-makes-it-easier-for-exporters-to-get-paid-in-rupee/articleshow/133390326.cms",
       "relevance_score": 0.8544,
+      "published_date": "2026-08-21"
+    },
+    {
+      "id": 9307,
+      "title": "West Asia LIVE: U.S. says it will impose 'toughest sanctions in history' on Iran",
+      "summary": "• Security Council to vote on whether to impose new sanctions on Iran on Thursday.\n• Iran has been accused of trying to develop nuclear weapons in recent years.\n• Iran denies allegations, says it is committed to non-proliferation of nuclear weapons.\n• Iran's nuclear program has been a source of tension in the region since the 1980s.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/iran-us-war-live-updates-donald-trump-economic-sanctions-strait-of-hormuz-ceasefire-deal/article71372035.ece",
+      "relevance_score": 0.8401,
       "published_date": "2026-08-21"
     },
     {
@@ -91,22 +111,22 @@
       "published_date": "2026-08-20"
     },
     {
-      "id": 9280,
-      "title": "India, Japan sign agreement to deepen maritime security ties",
-      "summary": "• India, Japan agree to strengthen cooperation on maritime security.\n• India and Japan have been at odds over maritime security since the Second World War.\n• The two countries have signed an agreement to strengthen their maritime security cooperation.\n• The agreement includes a number of other areas of cooperation, including air, sea and air security, among others.\n• The deal is expected to be extended to land, air and sea.",
-      "category": "International Relations",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/india-japan-sign-agreement-to-deepen-maritime-security-ties-101787236169020.html",
-      "relevance_score": 0.8988,
-      "published_date": "2026-08-20"
-    },
-    {
       "id": 9290,
       "title": "India, Japan sign agreement to deepen maritime security ties",
       "summary": "• India, Japan agree to strengthen cooperation on maritime security.\n• India and Japan have been at odds over maritime security since the Second World War.\n• The two countries have signed an agreement to strengthen their maritime security cooperation.\n• The agreement includes a number of other areas of cooperation, including air, sea and air security, among others.\n• The deal is expected to be extended to land, air and sea.",
       "category": "International Relations",
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/india-japan-sign-agreement-to-deepen-maritime-security-ties-101787250932148.html",
+      "relevance_score": 0.8988,
+      "published_date": "2026-08-20"
+    },
+    {
+      "id": 9280,
+      "title": "India, Japan sign agreement to deepen maritime security ties",
+      "summary": "• India, Japan agree to strengthen cooperation on maritime security.\n• India and Japan have been at odds over maritime security since the Second World War.\n• The two countries have signed an agreement to strengthen their maritime security cooperation.\n• The agreement includes a number of other areas of cooperation, including air, sea and air security, among others.\n• The deal is expected to be extended to land, air and sea.",
+      "category": "International Relations",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/india-japan-sign-agreement-to-deepen-maritime-security-ties-101787236169020.html",
       "relevance_score": 0.8988,
       "published_date": "2026-08-20"
     },
@@ -138,6 +158,16 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/new-smart-cancer-drug-designed-to-switch-on-may-replace-chemotherapy-says-govt-101787230975466.html",
       "relevance_score": 0.8914,
+      "published_date": "2026-08-20"
+    },
+    {
+      "id": 9306,
+      "title": "DPR for Calicut varsity’s ASCENT project to be ready soon",
+      "summary": "• Calicut students will be able to take part in the project through the school's ASCENT program.\n• The project is part of the Calicut College of Arts and Sciences’ ASCENT initiative.\n• The program is a partnership between the school and the city of Calicut and the state of Connecticut.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/dpr-for-calicut-varsitys-ascent-project-to-be-ready-soon/article71365583.ece",
+      "relevance_score": 0.8811,
       "published_date": "2026-08-20"
     },
     {
@@ -19969,38 +19999,8 @@
       "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fernando-muslera-uruguay-vs-spain-goal-mistake-substitution-half-time-bielsa-news/article71153185.ece",
       "relevance_score": 0.8466,
       "published_date": "2026-06-27"
-    },
-    {
-      "id": 6428,
-      "title": "India makes hydrogen from nuclear heat, not electricity. Why scientists are thrilled",
-      "summary": "• It's a big step for the country, which has been plagued by a power crisis.\n• It is the first time the country has ever used nuclear power to make hydrogen.\n• It has been a huge step for India, and for the rest of the world, it's a major development.\n• It could be a game-changer for the world.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/science/story/nuclear-energy-india-hydrogen-heat-electricity-world-first-kalpakkam-fast-breeder-reactor-indira-gandhi-centre-for-atomic-research-2935677-2026-06-27?utm_source=rss",
-      "relevance_score": 0.8462,
-      "published_date": "2026-06-27"
-    },
-    {
-      "id": 6414,
-      "title": "US Open Badminton: Devika upsets Gunji, Srikanth and Chouhan march into last four",
-      "summary": "• Devika wins 6-2, 7-6, 6-4 to reach US Open final.\n• Devik wins first US Open title in her professional career.\n• She also won the Australian Open in 2011 and 2012.\n• She is a two-time champion at the US Open, winning in 2008 and 2010.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/badminton/us-open-2026-badminton-india-semifinalists-srikanth-devika-chouhan/article71153583.ece",
-      "relevance_score": 0.8444,
-      "published_date": "2026-06-27"
-    },
-    {
-      "id": 6389,
-      "title": "FIFA refused France’s request to wear black armband for Didier Deschamps’ mom",
-      "summary": "• FIFA refused France's request to wearing black armpand for Deschamp's mom during World Cup.\n• FIFA also refused to wear white armbands for France players during the 2014 World Cup in Brazil.\n• France lost 2-1 to Germany in the quarter-finals.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/football/fifa-refused-frances-request-to-wear-black-armband-for-didier-deschamps-mom-10759750/",
-      "relevance_score": 0.8441,
-      "published_date": "2026-06-27"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-21T01:46:52.913635Z"
+  "updated_at": "2026-08-21T04:26:52.761227Z"
 }
