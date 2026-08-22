@@ -1,6 +1,46 @@
 {
   "articles": [
     {
+      "id": 9365,
+      "title": "Bangladesh Eyes ‘Islamic NATO’: Why Dhaka Is Looking At Pakistan-Saudi-Turkey Defence Pact",
+      "summary": "• Dhaka is looking at Pakistan, Saudi-Turkey and Turkey defence pact.\n• Bangladesh is also looking at an alliance with the United Arab Emirates (UAE) and the United States (U.S).\n• Bangladesh is looking to join the U.S.-led anti-terror coalition in Afghanistan.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/world/bangladesh-eyes-islamic-nato-why-dhaka-is-looking-at-pakistan-saudi-turkey-defence-pact-10287423.html",
+      "relevance_score": 0.9352,
+      "published_date": "2026-08-22"
+    },
+    {
+      "id": 9366,
+      "title": "India’s unbroken BWF World Championships medal run since 2011: Full list of medallists",
+      "summary": "• India have won more medals than any other team in the history of the event.\n• The last time India won more than one medal was in 2010.\n• India won four medals in 2010, five in 2011, six in 2012 and seven in 2013.\n• The team has won a total of 12 medals since 2011, including five golds.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/badminton/bwf-world-championships-2026-india-medal-streak-since-2011-treesa-gayatri-full-list/article71376786.ece",
+      "relevance_score": 0.9101,
+      "published_date": "2026-08-22"
+    },
+    {
+      "id": 9364,
+      "title": "Imran Khan Health Update: PIMS Treatment Sparks Fresh Political Storm in Pakistan | News18",
+      "summary": "• Former Pakistan Prime Minister Imran Khan is currently receiving medical care at PIMS Islamabad.\n• Eye specialists from Shifa International reportedly involved in his treatment.\n• Latest development comes amid growing concern over Khan’s health and renewed political tensions surrounding his prolonged imprisonment.\n• His Pakistan Tehreek-e-Insaf (PTI) lawyers have raised questions over his medical treatment and alleged non-compliance with a Supreme Court order concerning his care.\n• N18oc_breaking-newsn18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/imran-khan-health-update-pims-treatment-sparks-fresh-political-storm-in-pakistan-news18-10287287.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-22"
+    },
+    {
+      "id": 9363,
+      "title": "Nitin Nabin’s First Big BJP Meeting: 2027 Assembly & 2029 Lok Sabha Strategy Takes Shape | News18",
+      "summary": "• BJP president Nitin Nabin has chaired his first major meeting with the party’s newly assembled team.\n• The meeting brings together leaders with diverse organisational and political responsibilities.\n• The party is focusing on strengthening its grassroots network and sharpening its electoral strategy.\n• Key states including Uttar Pradesh and Punjab are expected to remain important areas of attention as the BJP prepares for the next round of major electoral contests.\n• N18oc_breaking-newsn18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/nitin-nabin-s-first-big-bjp-meeting-2027-assembly-2029-lok-sabha-strategy-takes-shape-news18-10287328.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-22"
+    },
+    {
       "id": 9353,
       "title": "Assam citizens’ forum calls for scientific solution to flood problem",
       "summary": "• Assam has been hit by floods in recent months.\n• The state has been struggling to cope with the flood waters since the floods in April and May.\n• The floods have claimed the lives of more than 1,000 people.\n• The flood has also displaced more than 100,000 from their homes in the state.\n• The Indian Army has been deployed to the state to help with relief efforts.",
@@ -8,6 +48,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/assam/assam-citizens-forum-calls-for-scientific-solution-to-flood-problem/article71374036.ece",
       "relevance_score": 0.896,
+      "published_date": "2026-08-22"
+    },
+    {
+      "id": 9361,
+      "title": "U.S., Iran keep up hostile rhetoric ahead of new sanctions",
+      "summary": "• U.S. and Iran have been at odds for years over Iran's nuclear program.\n• New sanctions are expected to be imposed on Iran's oil industry and finance sector.\n• Iran has been accused of enriching uranium at a cost of up to $100 billion a year.\n• Iran denies the accusation, saying it has been cooperating with the United States in the past.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/us-iran-keep-up-hostile-rhetoric-ahead-of-new-sanctions/article71376751.ece",
+      "relevance_score": 0.852,
       "published_date": "2026-08-22"
     },
     {
@@ -28,6 +78,16 @@
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/exclusive-interview-shashi-tharoor-get-over-shashi-tharoor-s-message-to-congress-congress-10287192.html",
       "relevance_score": 0.8237,
+      "published_date": "2026-08-22"
+    },
+    {
+      "id": 9360,
+      "title": "Assam elephant habitat recovery hope rides on biochar from invasive plants",
+      "summary": "• Assam elephant conservationists hope to use biochar to help elephants in their natural habitat.\n• They hope to create a habitat for the animals in the area that is home to more than 1,000 elephants.\n• The project is called Assam Elephants Project, which aims to protect the endangered species from habitat loss.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/assam/assam-elephant-habitat-recovery-hope-rides-on-biochar-from-invasive-plants/article71376729.ece",
+      "relevance_score": 0.8028,
       "published_date": "2026-08-22"
     },
     {
@@ -71,12 +131,12 @@
       "published_date": "2026-08-21"
     },
     {
-      "id": 9328,
-      "title": "Can Sonia Gandhi throw Parliament's law in dustbin? Smriti Irani on Vande Mataram",
-      "summary": "• She says it's not a law, it's a way of life.\n• Irani: It's time for a change in the way Parliament is run.\n• She also says it is time to change the way the country is governed.\n• She adds that it's time to make the country a more democratic place.",
+      "id": 9313,
+      "title": "Rahul Gandhi Reaches Police Station To File A Complaint Over Pellet Gun Use | CJP Studnet Protests",
+      "summary": "• Rahul Gandhi steps up his challenge over allegations of pellet-gun use during the CJP-led student protests.\n• The controversy centres on the July 20 protest march towards Parliament, where protesters alleged that security personnel used pellet guns and batons.\n• The issue has since become a major political flashpoint, with the Opposition demanding answers over who authorised the alleged use of force and the government maintaining its position on the police response.\n• Delhi Police, however, has denied that pellet guns were used against protesters during the demonstration.The issue has since become a major political flashpoint, with the Opposition demanding answers over who authorised the alleged use of force and the government maintaining its position on the….\n• Rahul Gandhi has repeatedly questioned the government and security agencies over the alleged firing, including publicly highlighting the injuries of a student protester.",
       "category": "Polity & Governance",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/india/story/can-sonia-gandhi-throw-parliaments-law-in-dustbin-smriti-irani-hits-out-at-congress-over-vande-mataram-row-2976747-2026-08-21?utm_source=rss",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/rahul-gandhi-reaches-police-station-to-file-a-complaint-over-pellet-gun-use-cjp-studnet-protests-10285787.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-21"
     },
@@ -91,22 +151,22 @@
       "published_date": "2026-08-21"
     },
     {
+      "id": 9328,
+      "title": "Can Sonia Gandhi throw Parliament's law in dustbin? Smriti Irani on Vande Mataram",
+      "summary": "• She says it's not a law, it's a way of life.\n• Irani: It's time for a change in the way Parliament is run.\n• She also says it is time to change the way the country is governed.\n• She adds that it's time to make the country a more democratic place.",
+      "category": "Polity & Governance",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/can-sonia-gandhi-throw-parliaments-law-in-dustbin-smriti-irani-hits-out-at-congress-over-vande-mataram-row-2976747-2026-08-21?utm_source=rss",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-21"
+    },
+    {
       "id": 9308,
       "title": "Congress-ruled Karnataka, Kerala, Telangana to challenge new mining law in Supreme Court",
       "summary": "• Karnataka and Kerala among states that will challenge mining law at Supreme Court in India's highest court.\n• The case is expected to be heard by the Supreme Court by the end of the month.\n• The mining law was passed by the Karnataka assembly in May this year.\n• The state has been ruled by the Congress since the 1980s.",
       "category": "State News",
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/congress-ruled-karnataka-kerala-telangana-to-challenge-new-mining-law-in-supreme-court-101787277583830.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-21"
-    },
-    {
-      "id": 9313,
-      "title": "Rahul Gandhi Reaches Police Station To File A Complaint Over Pellet Gun Use | CJP Studnet Protests",
-      "summary": "• Rahul Gandhi steps up his challenge over allegations of pellet-gun use during the CJP-led student protests.\n• The controversy centres on the July 20 protest march towards Parliament, where protesters alleged that security personnel used pellet guns and batons.\n• The issue has since become a major political flashpoint, with the Opposition demanding answers over who authorised the alleged use of force and the government maintaining its position on the police response.\n• Delhi Police, however, has denied that pellet guns were used against protesters during the demonstration.The issue has since become a major political flashpoint, with the Opposition demanding answers over who authorised the alleged use of force and the government maintaining its position on the….\n• Rahul Gandhi has repeatedly questioned the government and security agencies over the alleged firing, including publicly highlighting the injuries of a student protester.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/rahul-gandhi-reaches-police-station-to-file-a-complaint-over-pellet-gun-use-cjp-studnet-protests-10285787.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-21"
     },
@@ -551,22 +611,22 @@
       "published_date": "2026-08-20"
     },
     {
-      "id": 9260,
-      "title": "Bengal, J&K, Ladakh and five other State Collectors empowered to grant citizenship under CAA",
-      "summary": "• CAA will grant citizenship to those born in India, Pakistan, Bangladesh, India, Nepal, Bhutan, Sri Lanka, Myanmar and Bhutan.\n• The first citizenship will be granted to the children born in these states.\n• The second will be given citizenship to the citizens of these states under the third.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/district-collectors-in-eight-states-uts-empowered-to-grant-citizenship-under-caa-bjp-bengal-win/article71367931.ece",
-      "relevance_score": 0.838,
-      "published_date": "2026-08-20"
-    },
-    {
       "id": 9287,
       "title": "Congress will return to power at Centre in 2029, says K.C. Venugopal",
       "summary": "• He says Congress will be in power for the first time in 30 years if it wins the next general election.\n• He predicts that Congress will win at least 50 per cent of the seats in the Lok Sabha in the next election.\n• The next Lok Sabha elections will be held on May 25, 2015.",
       "category": "Polity & Governance",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/congress-will-return-to-power-at-centre-in-2029-says-kc-venugopal/article71370061.ece",
+      "relevance_score": 0.838,
+      "published_date": "2026-08-20"
+    },
+    {
+      "id": 9260,
+      "title": "Bengal, J&K, Ladakh and five other State Collectors empowered to grant citizenship under CAA",
+      "summary": "• CAA will grant citizenship to those born in India, Pakistan, Bangladesh, India, Nepal, Bhutan, Sri Lanka, Myanmar and Bhutan.\n• The first citizenship will be granted to the children born in these states.\n• The second will be given citizenship to the citizens of these states under the third.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/district-collectors-in-eight-states-uts-empowered-to-grant-citizenship-under-caa-bjp-bengal-win/article71367931.ece",
       "relevance_score": 0.838,
       "published_date": "2026-08-20"
     },
@@ -19939,68 +19999,8 @@
       "url": "https://www.livemint.com/economy/northeast-floods-raise-power-logistics-and-inflation-risks-11782645575976.html",
       "relevance_score": 0.8566,
       "published_date": "2026-06-28"
-    },
-    {
-      "id": 6435,
-      "title": "FIFA World Cup 2026 highlights: Colombia vs Portugal final Group K both sides battle to goalless draw",
-      "summary": "• Colombia and Portugal play out 0-0 draw in 2026 World Cup Group K final.\n• Colombia lead Group K with four points from two games.\n• Portugal lead group with two points from one game.\n• Colombia have won one and lost one of their two World Cup games so far.\n• Portugal have failed to win a single game at the World Cup since 1966.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/football/colombia-vs-portugal-fifa-world-cup-match-live-score-updates-june-28-2026/article71155753.ece",
-      "relevance_score": 0.8561,
-      "published_date": "2026-06-28"
-    },
-    {
-      "id": 6472,
-      "title": "India clinches historic AVC Men’s Volleyball Cup bronze after unbeaten pool run",
-      "summary": "• India beat China and Russia to win the bronze medal.\n• India also won the silver medal in the 2010 edition of the tournament.\n• The team also won a silver medal at the 2010 Commonwealth Games in Delhi.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/volleyball/indian-volleyball-team-unbeaten-run-avc-cup-third-place-bronze-latest-scores-results/article71158455.ece",
-      "relevance_score": 0.8535,
-      "published_date": "2026-06-28"
-    },
-    {
-      "id": 6460,
-      "title": "Has India's anti-defection law become biggest weapon in battle for political power? Interview with Dushyant Dave",
-      "summary": "• Interview with Dushyant Dave answers your questions on the issue.\n• Share your views with CNN iReport in the comments section below or email us at editorial@dailymail.co.uk.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Polity & Governance",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/has-indias-anti-defection-law-become-biggest-weapon-in-battle-for-political-power-interview-with-dushyant-dave-101782649867135.html",
-      "relevance_score": 0.8491,
-      "published_date": "2026-06-28"
-    },
-    {
-      "id": 6456,
-      "title": "BHU Opens Admissions For MSc In Life Sciences; Apply By July 10",
-      "summary": "• BHU is a private university based in New York City.\n• The school is part of the prestigious New York University system.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/bhu-opens-admissions-for-msc-in-life-sciences-apply-by-july-10-11697868#publisher=newsstand",
-      "relevance_score": 0.8414,
-      "published_date": "2026-06-28"
-    },
-    {
-      "id": 6451,
-      "title": "Messi comes on from bench, equals World Cup free-kick goals record in Jordan match",
-      "summary": "• Messi equals the record for most goals scored from free-kicks in a single World Cup match with four goals.\n• He has scored four goals in four games at the World Cup, one more than any other player in history.\n• He also has the most assists in a World Cup game, with four in the tournament.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/football/messi-from-bench-freekick-world-cup-goals-record-argentina-vs-jordan-10760985/",
-      "relevance_score": 0.8398,
-      "published_date": "2026-06-28"
-    },
-    {
-      "id": 6490,
-      "title": "We need to rethink our T20 game: India head coach Muzumdar after World Cup exit",
-      "summary": "• India crashed out of the T20 World Cup at the group stage.\n• India lost all three of their matches at the tournament in South Africa.\n• CLICK HERE for all the latest Cricket World Cup 2015 news.\n• Click here for the latest from the World Cup 2014 in Sri Lanka and the Caribbean.\n• The World Cup runs until the end of September.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/womens-cricket/we-need-to-rethink-our-t20-game-says-india-coach-amol-muzumdar-after-women-world-cup-2026-exit/article71158839.ece",
-      "relevance_score": 0.8341,
-      "published_date": "2026-06-28"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-22T04:23:16.873580Z"
+  "updated_at": "2026-08-22T07:29:59.935645Z"
 }
