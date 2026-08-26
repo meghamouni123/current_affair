@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 9522,
+      "title": "Rupee strengthens to 95.41 after oil cools",
+      "summary": "• Rupee was trading at 95.36 to the dollar earlier in the day, down from 95.40 on Monday.\n• The rupee has risen more than 1 per cent against the US dollar this year so far.\n• It has risen over 10 per cent since the start of the year on the back of a strong dollar.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-strengthens-to-95-41-after-oil-cools/articleshow/133526951.cms",
+      "relevance_score": 0.821,
+      "published_date": "2026-08-26"
+    },
+    {
+      "id": 9517,
+      "title": "RBI turns net buyer of dollars in June",
+      "summary": "• RBI says it was a net seller of dollars to the government in the first half of the year.\n• The central bank says it has been a net buyer in the past two months.\n• It was a big buyer of U.S. dollars in April and May, and a big seller of Indian rupee dollars in May and June.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-turns-net-buyer-of-dollars-in-june/articleshow/133526606.cms",
+      "relevance_score": 0.961,
+      "published_date": "2026-08-25"
+    },
+    {
       "id": 9495,
       "title": "Ajit Doval Meets Wang Yi In Beijing | India-China Border Talks, LAC Stability In Focus | Border News",
       "summary": "• India's National Security Adviser Ajit Doval is in Beijing for high-level talks with Chinese Foreign Minister Wang Yi.\n• Doval and Wang Yi are holding the 25th round of Special Representatives' talks on the India-China boundary question.\n• Border peace, LAC stability and preventing fresh friction expected to remain key areas of discussion.\n• Visit comes ahead of the BRICS Summit in India, where Chinese President Xi Jinping is expected to participate.\n• AJIT DOVAL IN BEIJING | INDIA-CHINA BORDER TALKSIndia's National Security Adviser Ajit Doval is in Beijing for high-level talks with Chinese Foreign Minister Wang Yi, as New Delhi and Beijing step up diplomatic engagement on the long-running boundary issue.Doval and Wang Yi are holding the 25th….\n• Doval also met Chinese Vice President Han Zheng in Beijing, with discussions covering border peace as well as economic, political and multilateral engagement.The high-level diplomatic push also comes ahead of the BRICS Summit in India, where Chinese President Xi Jinping is expected to participate,….",
@@ -8,6 +28,16 @@
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/ajit-doval-meets-wang-yi-in-beijing-india-china-border-talks-lac-stability-in-focus-border-news-10292109.html",
       "relevance_score": 0.95,
+      "published_date": "2026-08-25"
+    },
+    {
+      "id": 9515,
+      "title": "Escape velocity: On what India’s space sector must focus on",
+      "summary": "• India's space sector needs to focus on safety and security, say experts.\n• India needs to make sure its space programme is safe and secure, they say.\n• The country needs to ensure that its space program is secure and secure for future generations.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Science",
+      "url": "https://www.thehindu.com/opinion/editorial/escape-velocity-on-what-indias-space-sector-must-focus-on/article71389175.ece",
+      "relevance_score": 0.943,
       "published_date": "2026-08-25"
     },
     {
@@ -31,13 +61,13 @@
       "published_date": "2026-08-25"
     },
     {
-      "id": 9491,
-      "title": "IIT Delhi Sets Up External Panel To Probe Into MSc Physics Student Rishikesh Kumar's Death",
-      "summary": "• MSc student died after being involved in a car accident in May.\n• Msc student was studying for his MSc in physics.\n• M Sc student was involved in an accident while studying for a MSc.",
+      "id": 9520,
+      "title": "Madhya Pradesh Forest Department To Launch Snake-Catcher App Soon",
+      "summary": "• The app will be available on Android and iOS platforms.\n• It will also be available in Hindi and Bhoj languages.\n• For more information, visit the official website at: http://www.madhya Pradesh forest department.gov.in/ snake-catcher-app-launched-soon-in-madhya- Pradesh.",
       "category": "Science & Technology",
       "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/iit-delhi-sets-up-external-panel-to-probe-into-msc-physics-student-rishikesh-kumars-death-11955393#publisher=newsstand",
-      "relevance_score": 0.9148,
+      "url": "https://www.ndtv.com/india-news/madhya-pradesh-forest-department-to-launch-snake-catcher-app-soon-11958728#publisher=newsstand",
+      "relevance_score": 0.9157,
       "published_date": "2026-08-25"
     },
     {
@@ -47,6 +77,16 @@
       "category": "Science & Technology",
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/education/iit-madrass-new-cybersecurity-degree-has-a-2-2-model-heres-how-it-works-11954857#publisher=newsstand",
+      "relevance_score": 0.9148,
+      "published_date": "2026-08-25"
+    },
+    {
+      "id": 9491,
+      "title": "IIT Delhi Sets Up External Panel To Probe Into MSc Physics Student Rishikesh Kumar's Death",
+      "summary": "• MSc student died after being involved in a car accident in May.\n• Msc student was studying for his MSc in physics.\n• M Sc student was involved in an accident while studying for a MSc.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/education/iit-delhi-sets-up-external-panel-to-probe-into-msc-physics-student-rishikesh-kumars-death-11955393#publisher=newsstand",
       "relevance_score": 0.9148,
       "published_date": "2026-08-25"
     },
@@ -138,6 +178,26 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/cities/bangalore/opposition-to-amend-park-act-grows-as-writers-urge-repeal-karandlaje-writes-to-governor/article71388858.ece",
       "relevance_score": 0.8821,
+      "published_date": "2026-08-25"
+    },
+    {
+      "id": 9518,
+      "title": "BIS, comm min will work to support high-tech industries",
+      "summary": "• BIS to work with government to support tech companies in the U.S. and around the world.\n• It will also work with the White House and other government agencies to promote high- tech industries.\n• For confidential support call the National Suicide Prevention Lifeline at 1-800-273-8255 or visit http://www.suicidepreventionlifeline.org.",
+      "category": "Science & Technology",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/bis-comm-min-will-work-to-support-high-tech-industries/articleshow/133526607.cms",
+      "relevance_score": 0.8741,
+      "published_date": "2026-08-25"
+    },
+    {
+      "id": 9516,
+      "title": "India, China discuss peace along LAC, border delimitation: ‘Met in keeping with guidance from Modi, Xi Jinping’",
+      "summary": "• India, China discuss peace along LAC, border delimitation.\n• ‘Met in keeping with guidance from Modi, Xi Jinping’ says India's foreign minister.\n• India and China have been at odds for decades over the LAC and other disputed territories in the South China Sea.\n• The two countries have agreed to work together on a number of issues, including the future of the region's borders.",
+      "category": "International Relations",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/india-china-discuss-peace-along-line-of-actual-control-progress-in-border-delimitation-in-ajit-doval-wang-yi-talks-101787675826095.html",
+      "relevance_score": 0.8673,
       "published_date": "2026-08-25"
     },
     {
@@ -321,16 +381,6 @@
       "published_date": "2026-08-24"
     },
     {
-      "id": 9453,
-      "title": "MK Stalin Challenges TVK Candidate V.S. Babu’s Kolathur Victory in Madras High Court | BREAKING",
-      "summary": "• DMK chief and Tamil Nadu Chief Minister M.K.\n• Stalin has moved the Madras High Court challenging the election victory of TVK candidate V.S.\n• In his election petition, Stalin has alleged voting machine malfunctions and irregularities involving VVPAT machines.\n• The petition seeks a recount of votes and asks the court to declare Babu’s election void.\n• N18oc_indian18oc_politicsCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/mk-stalin-challenges-tvk-candidate-v-s-babu-s-kolathur-victory-in-madras-high-court-breaking-10290652.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-24"
-    },
-    {
       "id": 9445,
       "title": "Tamil Nadu Politics Heats Up: Vijay Offers 3 Free LPG Cylinders, BJP Slams Government | News18",
       "summary": "• Tamil Nadu's Chief Minister Vijay announces a welfare package that includes three free LPG cylinders and expanded bus travel benefits for transgender citizens.\n• The announcement has quickly triggered a political confrontation, with the BJP criticizing the government over what it says is a shortfall from an earlier promise of six free L gas cylinders.\n• CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….\n• Subscribe Now and join our community of informed and engaged viewers.",
@@ -357,6 +407,16 @@
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/tamil-nadu-govt-abandons-parandur-airport-project-eyes-new-site-dmk-opposes-move-plain-speak-10291104.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-24"
+    },
+    {
+      "id": 9453,
+      "title": "MK Stalin Challenges TVK Candidate V.S. Babu’s Kolathur Victory in Madras High Court | BREAKING",
+      "summary": "• DMK chief and Tamil Nadu Chief Minister M.K.\n• Stalin has moved the Madras High Court challenging the election victory of TVK candidate V.S.\n• In his election petition, Stalin has alleged voting machine malfunctions and irregularities involving VVPAT machines.\n• The petition seeks a recount of votes and asks the court to declare Babu’s election void.\n• N18oc_indian18oc_politicsCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/mk-stalin-challenges-tvk-candidate-v-s-babu-s-kolathur-victory-in-madras-high-court-breaking-10290652.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-24"
     },
@@ -458,6 +518,16 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/fm-nirmala-sitharaman-to-leave-for-8-day-official-trip-to-canada-us-focus-on-deepening-bilateral-ties-101787572727744.html",
       "relevance_score": 0.8763,
+      "published_date": "2026-08-24"
+    },
+    {
+      "id": 9523,
+      "title": "No truck engine needed: IIT Delhi engineer creates a new kind of fridge",
+      "summary": "• The fridge has a built-in freezer, freezer, fridge and freezer.\n• It can be used as a fridge, freezer or even as a coffee maker.\n• It is made out of glass, plastic, metal and glass panels.\n• It was developed by a team of engineers at the IIT, Delhi and the Indian Institute of Technology, Delhi.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/education-today/news/story/meet-shaivee-malik-iit-delhi-engineer-behind-a-fridge-that-saves-trucks-75-on-cooling-costs-2978406-2026-08-24?utm_source=rss",
+      "relevance_score": 0.8694,
       "published_date": "2026-08-24"
     },
     {
@@ -1171,12 +1241,12 @@
       "published_date": "2026-08-21"
     },
     {
-      "id": 9328,
-      "title": "Can Sonia Gandhi throw Parliament's law in dustbin? Smriti Irani on Vande Mataram",
-      "summary": "• She says it's not a law, it's a way of life.\n• Irani: It's time for a change in the way Parliament is run.\n• She also says it is time to change the way the country is governed.\n• She adds that it's time to make the country a more democratic place.",
+      "id": 9313,
+      "title": "Rahul Gandhi Reaches Police Station To File A Complaint Over Pellet Gun Use | CJP Studnet Protests",
+      "summary": "• Rahul Gandhi steps up his challenge over allegations of pellet-gun use during the CJP-led student protests.\n• The controversy centres on the July 20 protest march towards Parliament, where protesters alleged that security personnel used pellet guns and batons.\n• The issue has since become a major political flashpoint, with the Opposition demanding answers over who authorised the alleged use of force and the government maintaining its position on the police response.\n• Delhi Police, however, has denied that pellet guns were used against protesters during the demonstration.The issue has since become a major political flashpoint, with the Opposition demanding answers over who authorised the alleged use of force and the government maintaining its position on the….\n• Rahul Gandhi has repeatedly questioned the government and security agencies over the alleged firing, including publicly highlighting the injuries of a student protester.",
       "category": "Polity & Governance",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/india/story/can-sonia-gandhi-throw-parliaments-law-in-dustbin-smriti-irani-hits-out-at-congress-over-vande-mataram-row-2976747-2026-08-21?utm_source=rss",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/rahul-gandhi-reaches-police-station-to-file-a-complaint-over-pellet-gun-use-cjp-studnet-protests-10285787.html",
       "relevance_score": 0.91,
       "published_date": "2026-08-21"
     },
@@ -1191,12 +1261,12 @@
       "published_date": "2026-08-21"
     },
     {
-      "id": 9313,
-      "title": "Rahul Gandhi Reaches Police Station To File A Complaint Over Pellet Gun Use | CJP Studnet Protests",
-      "summary": "• Rahul Gandhi steps up his challenge over allegations of pellet-gun use during the CJP-led student protests.\n• The controversy centres on the July 20 protest march towards Parliament, where protesters alleged that security personnel used pellet guns and batons.\n• The issue has since become a major political flashpoint, with the Opposition demanding answers over who authorised the alleged use of force and the government maintaining its position on the police response.\n• Delhi Police, however, has denied that pellet guns were used against protesters during the demonstration.The issue has since become a major political flashpoint, with the Opposition demanding answers over who authorised the alleged use of force and the government maintaining its position on the….\n• Rahul Gandhi has repeatedly questioned the government and security agencies over the alleged firing, including publicly highlighting the injuries of a student protester.",
+      "id": 9328,
+      "title": "Can Sonia Gandhi throw Parliament's law in dustbin? Smriti Irani on Vande Mataram",
+      "summary": "• She says it's not a law, it's a way of life.\n• Irani: It's time for a change in the way Parliament is run.\n• She also says it is time to change the way the country is governed.\n• She adds that it's time to make the country a more democratic place.",
       "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/rahul-gandhi-reaches-police-station-to-file-a-complaint-over-pellet-gun-use-cjp-studnet-protests-10285787.html",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/can-sonia-gandhi-throw-parliaments-law-in-dustbin-smriti-irani-hits-out-at-congress-over-vande-mataram-row-2976747-2026-08-21?utm_source=rss",
       "relevance_score": 0.91,
       "published_date": "2026-08-21"
     },
@@ -19929,78 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/us-doesnt-honour-its-agreements-and-signatures-says-iran-envoy-amid-fresh-ceasefire-row/articleshow/132093190.cms",
       "relevance_score": 0.933,
       "published_date": "2026-06-30"
-    },
-    {
-      "id": 6614,
-      "title": "Cybersecurity rules proposed for smart vehicles to prevent malware risks",
-      "summary": "• Smart vehicles could be used in cars, trucks, buses and other vehicles.\n• They could be fitted with sensors to detect and respond to malicious software.\n• The rules would apply to all vehicles, not just smart cars, according to the U.S. Department of Transportation.\n• For more information on the rules, go to: http://www.cnn.com/2013/01/23/technology/cybersecurity-rules-for-smart-vehicles.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/cybersecurity-rules-proposed-for-smart-vehicles-to-prevent-malware-risks/articleshow/132098976.cms",
-      "relevance_score": 0.9281,
-      "published_date": "2026-06-30"
-    },
-    {
-      "id": 6620,
-      "title": "Don't worry, banks have shock absorbers: RBI",
-      "summary": "• Don't worry about banks' losses, says the Reserve Bank of India.\n• Banks have 'shock absorbers' to deal with bad news, says RBI chief Raghuram Raghunath.\n• Rangunath: Don't be worried about bad news; banks have 'shocks' to cope with it.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dont-worry-banks-have-shock-absorbers-rbi/articleshow/132103497.cms",
-      "relevance_score": 0.917,
-      "published_date": "2026-06-30"
-    },
-    {
-      "id": 6553,
-      "title": "Asian Games 2026: No transition in sight as India back T20 World Cup core",
-      "summary": "• Asian Games 2022: India will host the Games in New Delhi.Asian Games 2024: India to host the games in Tokyo, Sapporo and Sapporo.\n• Asian Olympic Games 2028: Will be held in Sapporo, Tokyo and Sappur, Japan.\n• Asian Paralympic Games 2024: Will take place in Sappur in Japan.",
-      "category": "Sports",
-      "source": "Indian Express - Sports",
-      "url": "https://indianexpress.com/article/sports/cricket/asian-games-2026-india-women-no-transition-harmanpreet-captain-10764047/",
-      "relevance_score": 0.91,
-      "published_date": "2026-06-30"
-    },
-    {
-      "id": 6594,
-      "title": "Tata Sierra EV launched at Rs 18.79 lakh, offers up to 665km claimed range",
-      "summary": "• Tata Sierra EV has a top speed of 100kmph and can go from 0-60kmph in just 10 minutes.\n• It is powered by an electric motor that can reach speeds of up to 80kmph.\n• It has a claimed range of 665 km and can reach up to 100km on a single charge.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/auto/cars/story/tata-sierra-ev-launched-at-rs-1879-lakh-offers-up-to-665km-claimed-range-2937624-2026-06-30?utm_source=rss",
-      "relevance_score": 0.9039,
-      "published_date": "2026-06-30"
-    },
-    {
-      "id": 6585,
-      "title": "SpiceJet temporarily suspends services from Chennai airport",
-      "summary": "• SpiceJet has been operating from Chennai since 2007.\n• SpiceJet is a low-cost carrier based in Chennai, Tamil Nadu, India.\n• The airline has been flying to and from the Indian city since 2007, with a fleet of more than 100 aircraft.\n• It also operates flights to other Indian cities such as Delhi, Mumbai, Bangalore and Hyderabad.",
-      "category": "National News",
-      "source": "The Hindu - Tamil Nadu",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/spicejet-temporarily-suspends-flight-services-from-chennai-airport/article71166179.ece",
-      "relevance_score": 0.8986,
-      "published_date": "2026-06-30"
-    },
-    {
-      "id": 6624,
-      "title": "FIFA World Cup 2026: Norway rows into round of 16 with late winner from Haaland against Ivory Coast",
-      "summary": "• Norway beat Ivory Coast 1-0 to reach the last 16 of the 2026 World Cup.\n• Norway will be hosting the World Cup for the first time in 2026.\n• The tournament will be held in Oslo and Bergen in Norway and in Bergen and Oslo in Norway.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-norway-beats-ivory-coast-2-1-round-of-32-haaland-winning-goal-civ-vs-nor-highlights/article71167467.ece",
-      "relevance_score": 0.8969,
-      "published_date": "2026-06-30"
-    },
-    {
-      "id": 6560,
-      "title": "Tata Sierra EV to launch today: Range, price, features and all you need to know",
-      "summary": "• Tata Sierra EV will go on sale in India and Europe in the first half of 2015.\n• Tata will sell the vehicle through its own e-tailer, Tata Mobiles, in the U.S. and Europe.\n• Tata is also developing a version of the vehicle in India called the Tata Phoenix.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/auto/cars/story/tata-sierra-ev-to-launch-today-range-price-features-and-all-you-need-to-know-2937231-2026-06-30?utm_source=rss",
-      "relevance_score": 0.8943,
-      "published_date": "2026-06-30"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-25T16:40:09.504879Z"
+  "updated_at": "2026-08-26T01:34:31.516533Z"
 }
