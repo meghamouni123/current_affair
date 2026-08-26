@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 9535,
+      "title": "North Korea to ‘bring joy’ to Kim with 100 athletes at Asian Games",
+      "summary": "• North Korea will send 100 athletes to the Asian Games in South Korea.\n• Kim Jong-un will be accompanied by his wife Kim Yo-jong and other high-ranking officials.\n• The North Korean leader is expected to attend the Games with his wife and other senior officials.\n• He is also expected to take part in the opening ceremony and closing ceremony.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/asian-games/north-korea-kim-jong-un-asian-games-2026-aichi-nagoya-contingent/article71391560.ece",
+      "relevance_score": 0.8676,
+      "published_date": "2026-08-26"
+    },
+    {
+      "id": 9526,
+      "title": "Six militants involved in extortion, kidnapping arrested in Manipur",
+      "summary": "• They were allegedly involved in kidnapping and extortion in the state.\n• They have been charged with kidnapping, extortion and other crimes.\n• They are also accused of involvement in the murder of a police officer in 2012.\n• They also allegedly took part in the kidnapping of a schoolgirl in 2012 in the Manipur state.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/manipur/six-militants-involved-in-extortion-kidnapping-arrested-in-manipur/article71391473.ece",
+      "relevance_score": 0.8598,
+      "published_date": "2026-08-26"
+    },
+    {
+      "id": 9532,
+      "title": "Adani Energy Solutions Wins Rs 4,700 Crore Transmission Project In Maharashtra",
+      "summary": "• Adani Energy Solution wins project to build a new transmission line in Maharashtra.\n• The project is part of Adani's ambitious Rs 4.7 billion renewable energy portfolio.\n• The new line will be built in the state's Konkan region.\n• It is expected to be completed by the end of this year at a cost of around Rs 3.5 billion.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/adani-energy-solutions-wins-rs-4-700-crore-transmission-project-in-maharashtra-11959832#publisher=newsstand",
+      "relevance_score": 0.8477,
+      "published_date": "2026-08-26"
+    },
+    {
       "id": 9522,
       "title": "Rupee strengthens to 95.41 after oil cools",
       "summary": "• Rupee was trading at 95.36 to the dollar earlier in the day, down from 95.40 on Monday.\n• The rupee has risen more than 1 per cent against the US dollar this year so far.\n• It has risen over 10 per cent since the start of the year on the back of a strong dollar.",
@@ -8,6 +38,46 @@
       "source": "Economic Times - Top",
       "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-strengthens-to-95-41-after-oil-cools/articleshow/133526951.cms",
       "relevance_score": 0.821,
+      "published_date": "2026-08-26"
+    },
+    {
+      "id": 9536,
+      "title": "Asian Games chiefs hold talks as participant numbers balloon",
+      "summary": "• Asian Games will be held in Jakarta and Palembang, South Korea, from September 26 to October 14.\n• The Games will also take place in Guangzhou, Guangdong, Hainan and Hangzhou, China.\n• The games will be the biggest ever Asian Games, with more than 100 million people expected to take part in the event.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/asian-games/asian-games-organisers-oca-talks-aichi-nagoya-2026-participants-accommodation-athletes-village/article71391526.ece",
+      "relevance_score": 0.8208,
+      "published_date": "2026-08-26"
+    },
+    {
+      "id": 9527,
+      "title": "India, Canada could sign investment protection pact by end of year: Sitharaman",
+      "summary": "• India, Canada to sign investment Protection Agreement by the end of the year.\n• India and Canada have been at loggerheads over trade and investment in recent years.\n• India has been seeking to improve trade ties with Canada.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/india-canada-to-sign-investment-protection-pact-by-end-of-yearsitharaman-101787720532129.html",
+      "relevance_score": 0.8159,
+      "published_date": "2026-08-26"
+    },
+    {
+      "id": 9534,
+      "title": "The bullet train is coming: Maharashtra section hits high gear with major engineering breakthroughs | VIDEO",
+      "summary": "• The train is expected to be fully operational by 2018.\n• It will run from Mumbai to Pune and then on to Mumbai-Ahmedabad.\n• The bullet train will have a total capacity of more than 300 million passengers.\n• It is the world's first high-speed bullet train and is set to cost $1.5 billion.",
+      "category": "Science & Technology",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/mumbai-ahmedabad-bullet-train-maharashtra-progress-3068459.html",
+      "relevance_score": 0.8143,
+      "published_date": "2026-08-26"
+    },
+    {
+      "id": 9533,
+      "title": "Avaada Electro files updated draft papers with Sebi for Rs 7,600-cr IPO",
+      "summary": "• Avaada Electro to go for IPO of up to $1.2 billion.\n• IPO could be one of India's biggest ever.\n• IPO is expected to raise up to Rs 7.6 billion.\n• The IPO is set to be valued at around $1 billion.\n• It will be India's second-biggest IPO in recent years.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/avaada-electro-files-updated-draft-papers-with-sebi-for-rs-7600-cr-ipo/articleshow/133528857.cms",
+      "relevance_score": 0.8117,
       "published_date": "2026-08-26"
     },
     {
@@ -81,22 +151,22 @@
       "published_date": "2026-08-25"
     },
     {
-      "id": 9485,
-      "title": "IIT Madras's New Cybersecurity Degree Has A 2+2 Model. Here's How It Works",
-      "summary": "• IITMadras's new Cybersecurity degree has a 2-2 model.\n• The degree will be offered at the Madras Institute of Technology, Madras, India.\n• It will be available to students in batches of two to four.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/iit-madrass-new-cybersecurity-degree-has-a-2-2-model-heres-how-it-works-11954857#publisher=newsstand",
-      "relevance_score": 0.9148,
-      "published_date": "2026-08-25"
-    },
-    {
       "id": 9491,
       "title": "IIT Delhi Sets Up External Panel To Probe Into MSc Physics Student Rishikesh Kumar's Death",
       "summary": "• MSc student died after being involved in a car accident in May.\n• Msc student was studying for his MSc in physics.\n• M Sc student was involved in an accident while studying for a MSc.",
       "category": "Science & Technology",
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/education/iit-delhi-sets-up-external-panel-to-probe-into-msc-physics-student-rishikesh-kumars-death-11955393#publisher=newsstand",
+      "relevance_score": 0.9148,
+      "published_date": "2026-08-25"
+    },
+    {
+      "id": 9485,
+      "title": "IIT Madras's New Cybersecurity Degree Has A 2+2 Model. Here's How It Works",
+      "summary": "• IITMadras's new Cybersecurity degree has a 2-2 model.\n• The degree will be offered at the Madras Institute of Technology, Madras, India.\n• It will be available to students in batches of two to four.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/education/iit-madrass-new-cybersecurity-degree-has-a-2-2-model-heres-how-it-works-11954857#publisher=newsstand",
       "relevance_score": 0.9148,
       "published_date": "2026-08-25"
     },
@@ -291,6 +361,16 @@
       "published_date": "2026-08-25"
     },
     {
+      "id": 9530,
+      "title": "NASA Invites Media to LunaRecycle Challenge Finale Event in Alabama",
+      "summary": "• NASA Invites media to Luna Recycling Challenge Finales Event inAlabama.\n• NASA invites media to attend LunaRecycling Challenges in Alabama, Georgia, Florida, and Georgia.\n• NASA also inviting media to the Luna Recycle Challenge Finals in Georgia, Alabama, and Florida.\n• NASA invited media to be part of the Luna recycling challenges in Alabama and Georgia, Georgia and Louisiana.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-lunarecycle-challenge-finale-event-in-alabama/",
+      "relevance_score": 0.8371,
+      "published_date": "2026-08-25"
+    },
+    {
       "id": 9493,
       "title": "VD Satheesan Government Completes 100 Days: Big Claims, Welfare Push & Controversies | Kerala News",
       "summary": "• It is the first major milestone for the Congress-led UDF government after its return to power.\n• The government has highlighted measures including free KSRTC travel for women and increased honorariums for ASHA workers.\n• At the same time, the government has faced political attacks and criticism over several issues.\n• Satheesan’s government completes 100 days in office, marking the first major milestone for the Congress-led UDF government after its return to power.In this CNN-News18 LIVE, we take a closer look at the Satheesan government’s first 100 days — its welfare measures, development agenda, governance….\n• What does the next phase hold for the UDF government?Watch the LIVE coverage and join the conversation.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
@@ -358,6 +438,16 @@
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "relevance_score": 0.81,
+      "published_date": "2026-08-25"
+    },
+    {
+      "id": 9529,
+      "title": "New Next-Gen Dish Adds Muscle to NASA’s Deep Space Network",
+      "summary": "• The Dish is the first of its kind in the U.S. and the second in the world.\n• The dish will be used to send data to the ISS, the ISS and other destinations in the solar system.\n• It will also send data back to Earth from the ISS for the first time.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/technology/space-comms/deep-space-network/new-next-gen-dish-adds-muscle-to-nasas-deep-space-network/",
+      "relevance_score": 0.8089,
       "published_date": "2026-08-25"
     },
     {
@@ -19909,98 +19999,8 @@
       "url": "https://www.ndtv.com/artificial-intelligence/anthropic-launches-claude-science-ai-platform-to-streamline-scientific-research-and-data-analysis-11711579#publisher=newsstand",
       "relevance_score": 0.831,
       "published_date": "2026-07-01"
-    },
-    {
-      "id": 6649,
-      "title": "541 projects to be completed in 100 days, says Chief Minister V.D. Satheesan",
-      "summary": "• Chief Minister: \"We are working on a number of projects that will take 100 days to complete.\n• We are not going to let anything stand in the way of our progress,\" he said.\n• He added that the government is working on more than 1,000 projects across the state.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/kerala/541-projects-to-be-completed-in-100-days-says-chief-minister-vd-satheesan/article71170371.ece",
-      "relevance_score": 0.8307,
-      "published_date": "2026-07-01"
-    },
-    {
-      "id": 6645,
-      "title": "UPI transactions ease from record high to ₹28.9 lakh crore in June",
-      "summary": "• UpI transactions eased from record highs to record low in June, says UPI chief.\n• Upi transactions eased by 1.3% in June compared to last year.\n• Up I transactions eased 1.4% in May, 1.7% in April, says UPI chief.\n• UPI transactions eased 2% in March, 1% in February, 0.9% in January.",
-      "category": "Economy & Banking",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/upi-transactions-ease-from-record-high-to-289-lakh-crore-in-june/article71169659.ece",
-      "relevance_score": 0.8283,
-      "published_date": "2026-07-01"
-    },
-    {
-      "id": 6652,
-      "title": "₹100-crore AMRUT 2.0 project launched to boost Penukonda’s water supply",
-      "summary": "• The project is expected to be completed by the end of the year.\n• It will cost an estimated Rs. 2,000 crore to complete the project.\n• It is being funded by the Indian government.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/100-crore-amrut-20-project-launched-to-boost-penukondas-water-supply/article71170174.ece",
-      "relevance_score": 0.8202,
-      "published_date": "2026-07-01"
-    },
-    {
-      "id": 6675,
-      "title": "Parliament panel to adopt report on bill to sack PM, CMs on July 17",
-      "summary": "• Report will be presented to the full parliament on July 18.\n• The vote is expected to be followed by a vote on whether to sack the PM and CMs.\n• The current PM, David Cameron, is facing a no-confidence vote in the Parliament on July 16.\n• The PM's office says he will step down if the report is approved.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/panel-to-adopt-report-on-bill-to-sack-pm-cms-on-july-17/articleshow/132123996.cms",
-      "relevance_score": 0.816,
-      "published_date": "2026-07-01"
-    },
-    {
-      "id": 6628,
-      "title": "Anthropic unveils 'Claude Science' for scientific research",
-      "summary": "• The project is a collaboration between anthropologists and scientists from around the world.\n• It aims to improve understanding of the human body through the study of animals and the environment.\n• For more information, visit anthropic.org and the Claude Science Foundation on Facebook and Twitter.\n• For confidential support, call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/anthropic-unveils-claude-science-for-scientific-research/article71168539.ece",
-      "relevance_score": 0.8153,
-      "published_date": "2026-07-01"
-    },
-    {
-      "id": 6607,
-      "title": "Mexico vs Ecuador, FIFA World Cup LIVE updates: Mexico 2-0 as second half begins",
-      "summary": "• Mexico take on Ecuador in Group F clash at the 2014 World Cup in Brazil.\n• Click here for all the latest Mexico vs Ecuador World Cup 2014 news.\n• Mexico vsEcuador: Team news, probable line ups, odds and more.\n• CLICK HERE to follow all the action as the World Cup kicks off.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/football/mexico-vs-ecuador-fifa-world-cup-2026-knockout-match-live-score-updates/article71168275.ece",
-      "relevance_score": 0.8113,
-      "published_date": "2026-07-01"
-    },
-    {
-      "id": 6670,
-      "title": "Enterprise application software spend of $234 bn will be at risk from Agentic AI",
-      "summary": "• Agentic is a company that uses AI to improve the performance of computer programs.\n• The company is based in San Francisco and has offices in London and New York.\n• It has raised over $100 million in venture capital in the past three years.\n• It is also developing its own artificial intelligence system, called Agentic.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/enterprise-application-software-spendof-234-bn-will-be-at-risk-from-agentic-ai/article71170674.ece",
-      "relevance_score": 0.8088,
-      "published_date": "2026-07-01"
-    },
-    {
-      "id": 6653,
-      "title": "Deepening strategic ties with India amid global uncertainty: Japan’s Takaichi",
-      "summary": "• Japan to increase military exercises with India in wake of U.S.-China military exercises in South Korea.\n• Japan will also increase military drills with South Korea and Australia in South Asia.\n• India will also be increasing military operations in South America and the Middle East.",
-      "category": "International Relations",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/japan-pm-sanae-takaichi-new-delhi-india-visit-narendra-modi-10766869/",
-      "relevance_score": 0.804,
-      "published_date": "2026-07-01"
-    },
-    {
-      "id": 6584,
-      "title": "Andhra University invites applications for Food Science and Technology programme",
-      "summary": "• Andhra University is based in the state of Andhra Pradesh in southern India.\n• The programme is aimed at developing food science and technology skills in the region.\n• For more information, visit the university's website: http://www.andhrauniversity.org/food-science-and-technology.html.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-university-invites-applications-for-food-science-and-technology-programme/article71166201.ece",
-      "relevance_score": 0.9331,
-      "published_date": "2026-06-30"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-26T04:30:29.066551Z"
+  "updated_at": "2026-08-26T07:41:13.844580Z"
 }
