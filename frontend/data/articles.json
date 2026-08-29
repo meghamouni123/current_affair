@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 9690,
+      "title": "Harmanpreet underlines defensive issues after India’s Hockey World Cup exit, eyes Asian Games gold",
+      "summary": "• India are looking to win gold at the Asian Games for the first time in their history.\n• India have failed to win a single gold medal in their last five Asian Games appearances.\n• They have won two gold medals at the Commonwealth Games and two silver medals in the previous two editions of the Games in Australia and New Zealand.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/hockey/harmanpreet-singh-on-india-mens-hockey-world-cup-2026-exit-defence-issues-asian-games-gold/article71405001.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-08-29"
+    },
+    {
       "id": 9678,
       "title": "Assam youth suspected in woman’s murder in Tamil Nadu arrested in Manipur",
       "summary": "• He was allegedly involved in the murder of a woman in the state of Tamil Nadu.\n• He has been charged with murder and attempted murder.\n• He is also accused of attempted murder of another woman in a separate case.\n• He had been arrested in connection with a murder in the same state last month.\n• He faces charges of murder and attempt murder in both cases.",
@@ -58,6 +68,16 @@
       "source": "Zee News - India",
       "url": "https://zeenews.india.com/india/pm-modi-uzbekistan-visit-central-asia-sco-summit-2026-3068834.html",
       "relevance_score": 0.858,
+      "published_date": "2026-08-29"
+    },
+    {
+      "id": 9688,
+      "title": "Keralam tribal girl’s MBBS dream brought to fruition, courtesy a STEM education initiative",
+      "summary": "• She was part of a group of tribal girls who wanted to be MBBS doctors.\n• The initiative was funded by the Indian Council of Medical Education and Research (ICME), an organisation based in Chennai.\n• The girls were also part of an Indian Science and Technology Academy (ISTC), based in the city.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/keralam-tribal-girls-mbbs-dream-brought-to-fruition-courtesy-a-stem-education-initiative/article71404647.ece",
+      "relevance_score": 0.8563,
       "published_date": "2026-08-29"
     },
     {
@@ -19979,28 +19999,8 @@
       "url": "https://sportstar.thehindu.com/tennis/fonseca-auger-aliassime-medvedev-wimbledon-2026-third-round-mens-singles-result/article71179132.ece",
       "relevance_score": 0.8436,
       "published_date": "2026-07-03"
-    },
-    {
-      "id": 6761,
-      "title": "Centre Orders Google & Apple to Remove BAT-BMS App | E-Rickshaw Safety Concerns Trigger Crackdown",
-      "summary": "• Centre Orders Google & Apple to Remove BAT-BMS App.\n• Centre orders Google&Apple to removeBAT-B MS App for Apple and Android devices.\n• Click here to read the full story on The Indian Express website.",
-      "category": "Science & Technology",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/centre-orders-google-apple-to-remove-bat-bms-app-e-rickshaw-safety-concerns-trigger-crackdown-10188299.html",
-      "relevance_score": 0.8398,
-      "published_date": "2026-07-03"
-    },
-    {
-      "id": 6775,
-      "title": "Delhi CM launches EV subsidy portal",
-      "summary": "• Delhi's EV subsidy portal is the first of its kind in the Indian capital.\n• Delhi is home to one of the world's largest EV charging stations.\n• The city is also home to some of India's most famous landmarks, such as the Taj Mahal and the Red Fort, which overlooks the city's central business district.\n• It is also the capital of the Indian state of Delhi.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-cm-launches-ev-subsidyportal/article71179744.ece",
-      "relevance_score": 0.8331,
-      "published_date": "2026-07-03"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-08-29T13:01:11.032330Z"
+  "updated_at": "2026-08-29T15:04:25.075633Z"
 }
