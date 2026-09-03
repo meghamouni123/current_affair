@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 9948,
+      "title": "Discussions on importance of clean data, sustainable AI technologies",
+      "summary": "• Discussions on importance of clean data, sustainable AI technologies in the U.S. These include the need for clean data to be used in the development of artificial intelligence.\n• Also, the need to use clean data in the creation of AI technologies.\n• At the White House and the Brookings Institution.\n• For more information, visit the Whitehouse and Brookings websites.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/experts-stress-clean-data-sustainable-ai-technologies/article71423873.ece",
+      "relevance_score": 0.9558,
+      "published_date": "2026-09-03"
+    },
+    {
       "id": 9939,
       "title": "SRM medical college launches mobile cardiac unit",
       "summary": "• The mobile unit has a capacity to treat up to 10 patients at a time.\n• The college also has a cardiac rehabilitation unit to help those who are in need of care.\n• For more information, visit the college's website or go to: http://www.srammedicalcollege.org/mobile-cardiac-unit.",
@@ -11,22 +21,32 @@
       "published_date": "2026-09-03"
     },
     {
-      "id": 9922,
-      "title": "Telangana CM Revanth recommends Konda Surekha’s removal from Cabinet, Governor’s decision likely today",
-      "summary": "• Governor’S decision likely today, Telangana Chief Minister says.\n• Konda surekha to be removed from Cabinet, says Telanganas CM RevAnth.\n• TelangANA Chief Minister: ‘I will not allow her to remain in Cabinet.’.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-recommends-konda-surekhas-removal-from-cabinet-rescinds-chinna-reddys-appointment/article71423099.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-03"
-    },
-    {
       "id": 9921,
       "title": "India-Pakistan Face-Off Over Indus Waters Treaty, PCA Orders Trigger Fresh Row | News18",
       "summary": "• Pakistan’s Foreign Office issued statements urging India to return to full compliance.\n• Pakistan maintains that the six-decade-old water-sharing pact remains legally binding and that no single nation can alter its provisions through unilateral action.\n• India rejects recent orders issued by the Permanent Court of Arbitration (PCA) regarding the 1960 Indus Waters Treaty.\n• New Delhi and Islamabad are locked in an escalating diplomatic row.\n• An intensified diplomatic row has broken out between New Delhi and Islamabad following Pakistan’s formal protest over India’s decision to reject recent orders issued by the Permanent Court of Arbitration (PCA) regarding the 1960 Indus Waters Treaty.Pakistan’s Foreign Office issued statements urging….\n• N18oc_world CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
       "category": "International Relations",
       "source": "News18 - World",
       "url": "https://www.news18.com/videos/world/india-pakistan-face-off-over-indus-waters-treaty-pca-orders-trigger-fresh-row-news18-10307854.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-03"
+    },
+    {
+      "id": 9930,
+      "title": "Parliament cost to taxpayers: Govt refuses to reveal details in RTI reply. Here's what it said | Mint Special",
+      "summary": "• Parliament cost to taxpayers: Govt refuses to reveal details in RTI reply.\n• Here's what it said in its reply to an RTI request from a Delhi-based citizen.\n• The cost to the taxpayer is estimated to be in the region of around $1.5 billion.\n• The government has refused to reveal the exact cost of the Parliament to the taxpayers.\n• It has also refused to disclose the cost of building the new parliament.",
+      "category": "Polity & Governance",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/parliament-cost-to-taxpayers-govt-refuses-to-reveal-details-in-rti-reply-heres-what-it-said-mint-special-11788427889167.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-03"
+    },
+    {
+      "id": 9945,
+      "title": "ED conducts searches across T.N., Keralam, Karnataka, Telangana in eight cases linked to drug trafficking",
+      "summary": "• ED searches carried out across T N., K Kerala, Kerala, Telangsana in 8 cases linked with drug trafficking, officials say.\n• The searches were carried out in connection with alleged drug trafficking in the state.\n• The cases were linked to alleged drug dealing in T N.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/ed-conducts-searches-across-tn-keralam-karnataka-telangana-in-eight-cases-linked-to-drug-trafficking/article71423075.ece",
       "relevance_score": 0.91,
       "published_date": "2026-09-03"
     },
@@ -41,12 +61,12 @@
       "published_date": "2026-09-03"
     },
     {
-      "id": 9930,
-      "title": "Parliament cost to taxpayers: Govt refuses to reveal details in RTI reply. Here's what it said | Mint Special",
-      "summary": "• Parliament cost to taxpayers: Govt refuses to reveal details in RTI reply.\n• Here's what it said in its reply to an RTI request from a Delhi-based citizen.\n• The cost to the taxpayer is estimated to be in the region of around $1.5 billion.\n• The government has refused to reveal the exact cost of the Parliament to the taxpayers.\n• It has also refused to disclose the cost of building the new parliament.",
+      "id": 9922,
+      "title": "Telangana CM Revanth recommends Konda Surekha’s removal from Cabinet, Governor’s decision likely today",
+      "summary": "• Governor’S decision likely today, Telangana Chief Minister says.\n• Konda surekha to be removed from Cabinet, says Telanganas CM RevAnth.\n• TelangANA Chief Minister: ‘I will not allow her to remain in Cabinet.’.",
       "category": "Polity & Governance",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/parliament-cost-to-taxpayers-govt-refuses-to-reveal-details-in-rti-reply-heres-what-it-said-mint-special-11788427889167.html",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-recommends-konda-surekhas-removal-from-cabinet-rescinds-chinna-reddys-appointment/article71423099.ece",
       "relevance_score": 0.91,
       "published_date": "2026-09-03"
     },
@@ -121,6 +141,16 @@
       "published_date": "2026-09-03"
     },
     {
+      "id": 9951,
+      "title": "Ajit Agarkar’s absence from BCCI meeting raises eyebrows",
+      "summary": "• Ajit Agarksar was not present at the meeting in New Delhi.\n• He is believed to be in India's cricket team in Sri Lanka.\n• He was also a member of the Indian cricket team during the 1980s and 1990s.\n• Agarkars was a key figure in the Indian Premier League (IPL).",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/cricket/ajit-agarkars-absence-from-bcci-meeting-raises-eyebrows/article71424593.ece",
+      "relevance_score": 0.8634,
+      "published_date": "2026-09-03"
+    },
+    {
       "id": 9914,
       "title": "US, India working on fair, reciprocal trade ties: Sergio Gor",
       "summary": "• US and India have been at odds over trade since the 1980s.\n• Gor: U.S. and India are working to improve trade ties.\n• US, India have agreed to work together on a number of issues, including trade, investment and trade liberalization, Gor says.\n• He adds: \"We have a lot of common ground.\n• We have a long history of working together\".",
@@ -128,6 +158,16 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/us-india-working-on-fair-reciprocal-trade-ties-sergio-gor-101788408502407.html",
       "relevance_score": 0.8504,
+      "published_date": "2026-09-03"
+    },
+    {
+      "id": 9946,
+      "title": "SIR may be legal but it is not fair: Former EC Ashok Lavasa",
+      "summary": "• SIRs have been used in India for more than a decade.\n• Lavasa: SIR's are legal, but it's not fair to use them for political purposes.\n• He says it's unfair to use the system for political gain.\n• Lavasas: Sir's are used for political gains, but not for political reasons.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/sir-may-be-legal-but-it-is-not-fair-former-ec-ashok-lavasa/article71424450.ece",
+      "relevance_score": 0.8453,
       "published_date": "2026-09-03"
     },
     {
@@ -148,6 +188,16 @@
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/impact-feature/story/ncops-bengaluru-prepares-pharmacy-graduates-for-industry-ready-careers-in-the-pharmaceutical-sector-2986224-2026-09-03?utm_source=rss",
       "relevance_score": 0.8387,
+      "published_date": "2026-09-03"
+    },
+    {
+      "id": 9949,
+      "title": "SHRC  recommends appointment of S. S. Lal as Special Rapporteur to study problems in health sector",
+      "summary": "• Lal as Special Rapporteur to study problems in health sector.\n• Lal will be tasked with looking into problems in the country's health care system.\n• He will be based in Geneva, Switzerland, and will have a five-year term.\n• He is expected to report back to the Human Rights Council within the next few weeks.\n• For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/shrc-recommends-appointment-of-s-s-lal-as-special-rapporteur-to-study-problems-in-health-sector/article71424636.ece",
+      "relevance_score": 0.8351,
       "published_date": "2026-09-03"
     },
     {
@@ -211,6 +261,26 @@
       "published_date": "2026-09-03"
     },
     {
+      "id": 9950,
+      "title": "Belgium assures India of no defence cooperation with Pakistan; Rajnath Singh raises technology transfer concerns",
+      "summary": "• Belgium assures India of no defence cooperation with Pakistan.\n• Rajnath Singh raises technology transfer concerns over technology transfer to Pakistan.\n• Pakistan has been accused of using its territory as a front for terror attacks on India.\n• Pakistan denies the allegations and says it has no terror links with India.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/national/india-belgium-agree-to-expand-defence-and-industrial-cooperation/article71422842.ece",
+      "relevance_score": 0.8212,
+      "published_date": "2026-09-03"
+    },
+    {
+      "id": 9947,
+      "title": "Prajaseva activities to be launched in Belagavi",
+      "summary": "• Prajaseva activities to be launched in Belagavi in the next few days.\n• The activities will focus on the arts and culture of the region.\n• They will be led by a group of young people from the city of Vadodara.\n• For more information, go to: www.prajaseva.org.in and www.facebook.com/prajasesva.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/prajaseva-activities-to-be-launched-in-belagavi/article71424293.ece",
+      "relevance_score": 0.8196,
+      "published_date": "2026-09-03"
+    },
+    {
       "id": 9918,
       "title": "Anthropic Opens Claude Campus Programme Applications, Check Eligibility, Stipend",
       "summary": "• Claude Campus is located on the edge of the city of Paris, France.\n• For more information on the Claude Campus programme, visit: http://www.charlottecampus.org/anthropic-opens- Claude-Campus-Programme- Applications.html.\n• For details on the Paris Campus Programme, see: http:www.ctimes.co.uk/news/features/2013/01/26/charlote-campus-programme-applying-for-a-stipend-to-be-held-on-the-edge-of-Paris-by-anthropics-Opens-Claude- Campus  Applications.",
@@ -251,6 +321,16 @@
       "published_date": "2026-09-03"
     },
     {
+      "id": 9954,
+      "title": "Delhi-NCR unveils seven-month pollution plan as winter smog looms",
+      "summary": "• Delhi and NCR have been hit hard by smog in recent months.\n• Delhi has been hit hardest by pollution in recent weeks.\n• Delhi is expected to be hit hard in coming weeks as smog continues to build.\n• CLICK HERE for all the latest from Delhi and the NCR on the smog plan.",
+      "category": "Science & Technology",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/delhincr-unveils-seven-month-pollution-plan-as-winter-smog-looms-11788437555987.html",
+      "relevance_score": 0.8118,
+      "published_date": "2026-09-03"
+    },
+    {
       "id": 9924,
       "title": "Google announces Gemini 3.8 Flash and 3.8 Flash Cyber AI models",
       "summary": "• Google also announces Google Glass 3.0 and Google Glass 4.0 for Android and iOS.\n• Google says the new software will be available in the U.S. and Europe by the end of the year.\n• Google is also working on a version of the software for iOS and Android phones and tablets that will be called Google Glass.",
@@ -271,6 +351,26 @@
       "published_date": "2026-09-03"
     },
     {
+      "id": 9952,
+      "title": "Siddharth attributes TNPL success to confidence and learnings from IPL",
+      "summary": "• Siddharth: 'I have learnt a lot from playing in the IPL and now I can play in the Premier League' Click here to read more about the TNPL and TNPL legends.\n• Click here for more about TNPL legend Vidharth Thakur and his TNPL team-mates.\n• CLICK HERE for all the latest TNPL news.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/cricket/siddharth-attributes-tnpl-success-to-confidence-and-learnings-from-ipl/article71424353.ece",
+      "relevance_score": 0.807,
+      "published_date": "2026-09-03"
+    },
+    {
+      "id": 9955,
+      "title": "From MiG-21 to ATR 72-600: Meet FLY91, the airline Operation Sindoor hero Abhinandan Varthaman has joined",
+      "summary": "• Varthamans has joined the airline to work on its ground-to-aircraft program.\n• He will also be working on the air force's ground operations.\n• The airline is based in Hyderabad, India, and has a base in Karachi.",
+      "category": "Science & Technology",
+      "source": "Zee News - India",
+      "url": "https://zeenews.india.com/india/from-mig-21-to-atr-72-600-meet-fly91-the-airline-operation-sindoor-hero-abhinandan-varthaman-has-joined-3069863.html",
+      "relevance_score": 0.8055,
+      "published_date": "2026-09-03"
+    },
+    {
       "id": 9931,
       "title": "Modi meets Belgium PM in Delhi, lauds bilateral cooperation in key sectors; Wever calls India a ‘powerhouse’",
       "summary": "• Wever calls India a ‘powerhouse’ and lauds India’s ‘commitment to peace and security’ in the region.\n• India and Belgium have been at odds for years over the Kashmir issue, which India has been trying to resolve for years.\n• India has also been accused of human rights violations in the past.",
@@ -278,6 +378,16 @@
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/india/modi-meets-belgium-pm-in-delhi-lauds-bilateral-cooperation-in-key-sectors-wever-calls-india-a-powerhouse-11788427449242.html",
       "relevance_score": 0.8041,
+      "published_date": "2026-09-03"
+    },
+    {
+      "id": 9953,
+      "title": "'In any manner': EAM Jaishankar says India ready to help end Russia-Ukraine war",
+      "summary": "• 'In any way', he says, 'in any way' India has offered to help in 'any manner' to end the conflict in Ukraine, he says.\n• India has also said it is ready to send troops to the region to help with humanitarian aid.\n• India is a key ally of Russia in the region.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/in-any-manner-eam-jaishankar-says-india-ready-to-help-end-russia-ukraine-war/articleshow/133733231.cms",
+      "relevance_score": 0.8022,
       "published_date": "2026-09-03"
     },
     {
@@ -361,6 +471,16 @@
       "published_date": "2026-09-02"
     },
     {
+      "id": 9872,
+      "title": "Karnataka High Court to examine Governor’s appeal on power to suspend KPSC chairperson without Cabinet advice",
+      "summary": "• Governor's appeal to be heard by High Court on Thursday.\n• KPSc chairperson cannot be removed without Cabinet's advice, says Karnataka Governor.\n• K PSC chairwoman can also be removed for six months if she is found guilty of misconduct.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-to-examine-governors-appeal-on-power-to-suspend-kpsc-chairperson-without-cabinet-advice/article71419622.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-02"
+    },
+    {
       "id": 9889,
       "title": "Parandur Airport Row: Vijay Keeps Poll Promise, BJP Warns of Development Setback | The Right Stand",
       "summary": "• Joseph Vijay has announced that his government will abandon the proposed Parandur Greenfield Airport project.\n• Vijay made the announcement in the state Assembly, saying the project would have an unacceptable impact on agricultural land, farmers and residential communities.\n• He reiterated that Chennai still needs another airport and said an alternative site with minimal disruption to farmland and homes would be explored.\n• N18oc_the-right-stand n18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
@@ -377,16 +497,6 @@
       "category": "State News",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/kerala/keralam-chief-minister-vd-satheesan-defends-state-governments-borrowings/article71418935.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-02"
-    },
-    {
-      "id": 9872,
-      "title": "Karnataka High Court to examine Governor’s appeal on power to suspend KPSC chairperson without Cabinet advice",
-      "summary": "• Governor's appeal to be heard by High Court on Thursday.\n• KPSc chairperson cannot be removed without Cabinet's advice, says Karnataka Governor.\n• K PSC chairwoman can also be removed for six months if she is found guilty of misconduct.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-to-examine-governors-appeal-on-power-to-suspend-kpsc-chairperson-without-cabinet-advice/article71419622.ece",
       "relevance_score": 0.91,
       "published_date": "2026-09-02"
     },
@@ -19889,118 +19999,8 @@
       "url": "https://sportstar.thehindu.com/football/fifa-world-cup/fifa-world-cup-2026-jordan-henderson-wrist-surgery-injury-update-england-squad-latest-news/article71199217.ece",
       "relevance_score": 0.8677,
       "published_date": "2026-07-08"
-    },
-    {
-      "id": 7019,
-      "title": "Ensure flyers' convenience are improved across airports: HM",
-      "summary": "• HM wants to make sure airports are more customer-friendly.\n• HM also wants to ensure passengers have more choice on where to fly.\n• HM: We want to make it easier for passengers to get to and from airports.\n• We also want to ensure they have more choices on how to get there and back.HM: We are committed to making sure passengers have the best possible experience at airports.",
-      "category": "National News",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/ensure-flyers-convenience-are-improved-across-airports-hm/articleshow/132274628.cms",
-      "relevance_score": 0.8658,
-      "published_date": "2026-07-08"
-    },
-    {
-      "id": 7030,
-      "title": "India, Myanmar Reaffirm Security Cooperation At 23rd National Level Meeting In New Delhi",
-      "summary": "• India, Myanmar re-affirm security cooperation at 23rd national level meeting.\n• India and Myanmar have been at loggerheads for years over the Rohingya crisis in Myanmar.\n• India has been trying to reach an agreement with Myanmar to end the violence in the country.",
-      "category": "International Relations",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/india-myanmar-reaffirm-security-cooperation-at-23rd-national-level-meeting-in-new-delhi-ws-l-10198897.html",
-      "relevance_score": 0.865,
-      "published_date": "2026-07-08"
-    },
-    {
-      "id": 7007,
-      "title": "DRDO successfully tests Pinaka long-range guided rocket",
-      "summary": "• Pinaka is a long- range guided rocket that can be launched from Earth's surface.\n• The rocket has a range of more than 1,000 miles.\n• It was developed by the Japanese space agency DDO and the U.S. Department of Defense.\n• It is the first of its kind to be tested by the space agency.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/drdo-successfully-tests-pinaka-long-range-guided-rocket/article71198796.ece",
-      "relevance_score": 0.8635,
-      "published_date": "2026-07-08"
-    },
-    {
-      "id": 7013,
-      "title": "Falcao calls Colombian football structure ‘a disgrace’ after FIFA World Cup 2026 exit",
-      "summary": "• Falcao: Colombia’s football structure is a ‘disgrace’ to the country and the world.\n• Colombia will be hosting the World Cup for the first time in 2026.\n• Colombia are hosting the tournament for the second time in their history.\n• Colombia were the hosts of the tournament in 1950 and 1962.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/radamel-falcao-colombia-reaction-fifa-world-cup-2026-disgrace-comments-news/article71199591.ece",
-      "relevance_score": 0.8616,
-      "published_date": "2026-07-08"
-    },
-    {
-      "id": 6983,
-      "title": "\"Did Wrong, Was Punished\": Bengal Rape-Murder Accused's Mother On His Encounter",
-      "summary": "• \"Didwrong, was Punished,\" she says of her son, who was accused of raping and murdering a woman in Bengal.\n• She says her son has been punished for his actions.\n• \"He was punished for what he did,\" says the mother of the woman accused of rape and murder.",
-      "category": "National News",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/bengal-baruipur-minor-rape-murder-got-what-he-deserved-prabhas-mondal-mother-on-his-encounter-11742761#publisher=newsstand",
-      "relevance_score": 0.86,
-      "published_date": "2026-07-08"
-    },
-    {
-      "id": 7032,
-      "title": "Rogers backs Kane to outshine Haaland in World Cup quarterfinal howdown",
-      "summary": "• He says Kane will be the star of the show for England in the last eight.\n• But he says it won't be as easy as it looks.\n• He also says it will be a tough game for both teams to get through to the next round.\n• He adds: \"It's going to be a very, very tough game to get past\".",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/rogers-backs-kane-to-outshine-haaland-world-cup/article71199862.ece",
-      "relevance_score": 0.8596,
-      "published_date": "2026-07-08"
-    },
-    {
-      "id": 6984,
-      "title": "Lashkar terrorist gunned down in joint Security forces operation in Shopian: ‘You can run, but you can't hide’",
-      "summary": "• Lashkar terrorist gunned down in joint Security forces operation in Shopian.\n• ‘You can run, but you can't hide’ said the slain terrorist.\n• The operation was carried out by a joint team of Indian and Pakistani forces.\n• The terrorist was killed in a joint operation with the Indian Army and the Indian Air Force.\n• The incident took place in the border town of Shopian in India's Kashmir region.",
-      "category": "National News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/lashkar-terrorist-gunned-down-in-joint-security-forces-operation-in-shopian-11783492692066.html",
-      "relevance_score": 0.8586,
-      "published_date": "2026-07-08"
-    },
-    {
-      "id": 7008,
-      "title": "Wimbledon 2026 | Of longevity and supreme fitness: Djokovic keeps redefining his career graph",
-      "summary": "• DjokNovak.com will feature iReporter photos in a weekly Travel Snapshots gallery.\n• Please submit your best shots of Wimbledon for next week.\n• Visit Wimbledon.com/Travel each week for a new gallery of snapshots from the year's most memorable tennis tournaments.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/tennis/wimbledon-2026-of-longevity-and-supreme-fitness-novak-djokovic-all-of-39-keeps-redefining-his-career-graph/article71198444.ece",
-      "relevance_score": 0.858,
-      "published_date": "2026-07-08"
-    },
-    {
-      "id": 7005,
-      "title": "Wimbledon 2026: Kostyuk powers into second straight Slam semifinal with win over Paolini",
-      "summary": "• Kostiuk: I'm looking forward to playing in a Grand Slam final for the first time in my life.\n• I want to be in one of the last four or five.\n• That's what I want for my life in 2026.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/tennis/wimbledon-2026-kostyuk-beats-paolini-report-quarterfinal/article71198801.ece",
-      "relevance_score": 0.8549,
-      "published_date": "2026-07-08"
-    },
-    {
-      "id": 7001,
-      "title": "Isro tests parachutes responsible for slowing capsule falling from space",
-      "summary": "• Isro test parachutes to stop capsule from falling to Earth from orbit.\n• The capsule will have a parachute to stop it from hitting the Earth's surface.\n• The mission is scheduled to take place in 2023 and is expected to last three years.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/science/gaganyaan-mission/story/isro-tests-parachutes-to-slow-down-gaganyaan-crew-caspsule-on-returning-from-space-2943553-2026-07-08?utm_source=rss",
-      "relevance_score": 0.8545,
-      "published_date": "2026-07-08"
-    },
-    {
-      "id": 6996,
-      "title": "FIFA World Cup 2026: Egypt file complaint against referee after controversial exit",
-      "summary": "• FIFA World Cup 2022: Russia to host 2026 tournament in Moscow, Russia.\n• Russia to hold 2026 World Cup in Rio de Janeiro, Brazil, in 2028.\n• Brazil will host the 2028 Olympics and 2028 Paralympics.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/football/fifa-world-cup-2026-egypt-file-complaint-against-referee-after-controversial-exit/article71197815.ece",
-      "relevance_score": 0.8544,
-      "published_date": "2026-07-08"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-03T14:09:18.400202Z"
+  "updated_at": "2026-09-03T17:02:52.415138Z"
 }
