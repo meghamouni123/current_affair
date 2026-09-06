@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 10069,
+      "title": "5 Things Students Should Know About EOS-05, India's New Earth Observation Satellite",
+      "summary": "• India's new Earth observation satellite will launch in 2015.\n• The satellite will orbit the Earth at a height of 2,500 miles above Earth's surface.\n• It will be followed by a second satellite in 2016, and a third in 2017.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/education/5-things-students-should-know-about-eos-05-indias-new-earth-observation-satellite-12008516#publisher=newsstand",
+      "relevance_score": 0.9856,
+      "published_date": "2026-09-06"
+    },
+    {
+      "id": 10070,
+      "title": "Congress Appoints Sachin Pilot As Punjab Party Secretary General Ahead Of Polls, Replacing Baghel",
+      "summary": "• The Congress has carried out a reshuffle of its state-level leadership ahead of next year’s Assembly elections.\n• Sachin Pilot replaces Bhupesh Baghel, who has now been given charge of Assam as general secretary.\n• The changes come as the party prepares for elections in several key states over the coming months.\n• Follow CNN-News18 with latest headlines on politics, sports and entertainment on news18.\n• N18oc_indian18oc_breaking-newsn18oc_politicsCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/congress-appoints-sachin-pilot-as-punjab-party-secretary-general-ahead-of-polls-replacing-baghel-10312737.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-06"
+    },
+    {
       "id": 10066,
       "title": "US envoys set for Ukraine talks after meeting Putin in Moscow",
       "summary": "• U.S. President Barack Obama and Russian President Vladimir Putin met in Moscow last week.\n• Obama and Putin discussed the crisis in Ukraine, which has claimed the lives of more than 10,000 people.\n• The United States has sent a team of envoys to Ukraine to try to resolve the crisis.\n• Security Council has called the situation in Ukraine a \"grave concern\".",
@@ -8,6 +28,16 @@
       "source": "BBC World",
       "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
       "relevance_score": 0.8475,
+      "published_date": "2026-09-06"
+    },
+    {
+      "id": 10071,
+      "title": "ISRO Employees Seek Government Clarification Over Privatization: What's Next For Space Agency?",
+      "summary": "• Nine employee associations representing around 5,000 ISRO staff members have written a joint letter to ISRO Chairman V Narayanan and the Department of Space.\n• The unease stems from recent statements by IN-SPACe officials suggesting that ISRO will eventually stop manufacturing launch vehicles like PSLV, SSLV, and LVM3, shifting manufacturing and operational roles to private entities.\n• The letter seeks urgent clarification regarding the government's space sector privatisation roadmap.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….\n• -newsCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/isro-employees-seek-government-clarification-over-privatization-what-s-next-for-space-agency-10312721.html",
+      "relevance_score": 0.8162,
       "published_date": "2026-09-06"
     },
     {
@@ -19969,38 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/your-actions-dont-match-your-ideology-bjp-mla-questions-own-government-sitting-on-resolution-seeking-bharat-ratna-to-savarkar/articleshow/132307741.cms",
       "relevance_score": 0.842,
       "published_date": "2026-07-10"
-    },
-    {
-      "id": 7129,
-      "title": "International experts launch natural farming model at Guntur school",
-      "summary": "• They hope it will be a model for the rest of the country.\n• The school is run by a group of teachers and students from around the world.\n• It is based on a model of natural farming called \"Guntur Natural Farming\" It aims to teach students how to grow crops in a sustainable way.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/international-experts-launch-natural-farming-model-at-guntur-school/article71206992.ece",
-      "relevance_score": 0.8366,
-      "published_date": "2026-07-10"
-    },
-    {
-      "id": 7087,
-      "title": "Jharkhand unveils plan to adopt AI in governance",
-      "summary": "• Jharkhand unveils plan to adopt AI in governance in state's first state-run bank.\n• Jharkham to use AI to help in decision-making and decision making in state of Jharkshand.\n• State to use technology to help with decision making and decision- making in the state's bank accounts and in state government offices.",
-      "category": "Science & Technology",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/jharkhand-unveils-plan-to-adopt-ai-in-governance-10779867/",
-      "relevance_score": 0.8327,
-      "published_date": "2026-07-10"
-    },
-    {
-      "id": 7137,
-      "title": "Little to separate Muchova and Noskova in race to win first Grand Slam title",
-      "summary": "• Muchova won women's singles title at Wimbledon in 2012.\n• She was the first Russian woman to win a Grand Slam singles title in women's tennis.\n• She beat Novak Djokovic in Wimbledon final for first time in four years in 2013.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/tennis/little-to-separate-muchova-and-noskova-in-race-to-win-first-grand-slam-title/article71206864.ece",
-      "relevance_score": 0.8306,
-      "published_date": "2026-07-10"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-06T03:27:48.877647Z"
+  "updated_at": "2026-09-06T08:23:24.332866Z"
 }
