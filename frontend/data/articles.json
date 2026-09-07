@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 10093,
+      "title": "Pixxel raises $100 million in India's biggest space-tech funding round",
+      "summary": "• India's largest space- tech funding round is the biggest in the country's history.\n• Pixxel is one of India's leading space technology companies.\n• The company is based in New Delhi, India's capital city, with offices in Mumbai and Bengaluru.\n• It also has offices in Bangalore, Chennai and Hyderabad.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/business/story/pixxel-raises-100-million-google-backed-indias-biggest-space-tech-funding-round-2988583-2026-09-07?utm_source=rss",
+      "relevance_score": 0.872,
+      "published_date": "2026-09-07"
+    },
+    {
+      "id": 10092,
+      "title": "Indonesia volcano erupts again; 8 airports shut, over 170,000 passengers stranded",
+      "summary": "• More than 200,000 people have been evacuated from their homes.\n• More volcanoes are expected to erupt in the coming days and weeks, officials say.\n• The latest eruption was the largest in the country's recorded history.\n• The last one was in 1963, when a volcano erupted at the base of Mount Merapi.",
+      "category": "National News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/world/story/anak-krakatau-eruption-indonesia-flights-jakarta-airport-passengers-stranded-2988567-2026-09-07?utm_source=rss",
+      "relevance_score": 0.8273,
+      "published_date": "2026-09-07"
+    },
+    {
       "id": 10069,
       "title": "5 Things Students Should Know About EOS-05, India's New Earth Observation Satellite",
       "summary": "• India's new Earth observation satellite will launch in 2015.\n• The satellite will orbit the Earth at a height of 2,500 miles above Earth's surface.\n• It will be followed by a second satellite in 2016, and a third in 2017.",
@@ -18,6 +38,16 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/india-holds-strong-how-government-rbi-worked-to-shield-economy-from-us-iran-war/articleshow/133838157.cms",
       "relevance_score": 0.9341,
+      "published_date": "2026-09-06"
+    },
+    {
+      "id": 10094,
+      "title": "Punjab Cabinet Seeks Hold On High Court Chief Justice Appointment, Accuses Centre Of Bypassing State",
+      "summary": "• Pundits accuse Centre of bypassing state to appoint Chief Justice of Punjab and Haryana.\n• Punjab High Court chief justice is the highest-ranking judge in the state's high court.\n• The high court has the power to appoint judges to the Supreme Court, High Court and Supreme Court.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/punjab-cabinet-seeks-hold-on-high-court-chief-justice-appointment-accuses-centre-of-bypassing-state-10313418.html",
+      "relevance_score": 0.91,
       "published_date": "2026-09-06"
     },
     {
@@ -921,32 +951,32 @@
       "published_date": "2026-09-03"
     },
     {
-      "id": 9922,
-      "title": "Telangana CM Revanth recommends Konda Surekha’s removal from Cabinet, Governor’s decision likely today",
-      "summary": "• Governor’S decision likely today, Telangana Chief Minister says.\n• Konda surekha to be removed from Cabinet, says Telanganas CM RevAnth.\n• TelangANA Chief Minister: ‘I will not allow her to remain in Cabinet.’.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-recommends-konda-surekhas-removal-from-cabinet-rescinds-chinna-reddys-appointment/article71423099.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-03"
-    },
-    {
-      "id": 9941,
-      "title": "Amid intense pushback, Karnataka Cabinet decides to withdraw controversial Parks amendment Bill",
-      "summary": "• Karnataka cabinet decides to withdrawal controversial Parks Amendment Bill.\n• The move comes amid intense push back from the state's political and business community.\n• The Bill was passed by Karnataka assembly in May.\n• It was opposed by state's ruling Congress and other political parties.\n• The bill had been introduced to make the state a tourist destination.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/amid-intense-pushback-karnataka-cabinet-decides-to-withdraw-controversial-parks-amendment-bill/article71423607.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-03"
-    },
-    {
       "id": 9930,
       "title": "Parliament cost to taxpayers: Govt refuses to reveal details in RTI reply. Here's what it said | Mint Special",
       "summary": "• Parliament cost to taxpayers: Govt refuses to reveal details in RTI reply.\n• Here's what it said in its reply to an RTI request from a Delhi-based citizen.\n• The cost to the taxpayer is estimated to be in the region of around $1.5 billion.\n• The government has refused to reveal the exact cost of the Parliament to the taxpayers.\n• It has also refused to disclose the cost of building the new parliament.",
       "category": "Polity & Governance",
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/india/parliament-cost-to-taxpayers-govt-refuses-to-reveal-details-in-rti-reply-heres-what-it-said-mint-special-11788427889167.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-03"
+    },
+    {
+      "id": 9921,
+      "title": "India-Pakistan Face-Off Over Indus Waters Treaty, PCA Orders Trigger Fresh Row | News18",
+      "summary": "• Pakistan’s Foreign Office issued statements urging India to return to full compliance.\n• Pakistan maintains that the six-decade-old water-sharing pact remains legally binding and that no single nation can alter its provisions through unilateral action.\n• India rejects recent orders issued by the Permanent Court of Arbitration (PCA) regarding the 1960 Indus Waters Treaty.\n• New Delhi and Islamabad are locked in an escalating diplomatic row.\n• An intensified diplomatic row has broken out between New Delhi and Islamabad following Pakistan’s formal protest over India’s decision to reject recent orders issued by the Permanent Court of Arbitration (PCA) regarding the 1960 Indus Waters Treaty.Pakistan’s Foreign Office issued statements urging….\n• N18oc_world CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/videos/world/india-pakistan-face-off-over-indus-waters-treaty-pca-orders-trigger-fresh-row-news18-10307854.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-03"
+    },
+    {
+      "id": 9922,
+      "title": "Telangana CM Revanth recommends Konda Surekha’s removal from Cabinet, Governor’s decision likely today",
+      "summary": "• Governor’S decision likely today, Telangana Chief Minister says.\n• Konda surekha to be removed from Cabinet, says Telanganas CM RevAnth.\n• TelangANA Chief Minister: ‘I will not allow her to remain in Cabinet.’.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-recommends-konda-surekhas-removal-from-cabinet-rescinds-chinna-reddys-appointment/article71423099.ece",
       "relevance_score": 0.91,
       "published_date": "2026-09-03"
     },
@@ -961,12 +991,12 @@
       "published_date": "2026-09-03"
     },
     {
-      "id": 9921,
-      "title": "India-Pakistan Face-Off Over Indus Waters Treaty, PCA Orders Trigger Fresh Row | News18",
-      "summary": "• Pakistan’s Foreign Office issued statements urging India to return to full compliance.\n• Pakistan maintains that the six-decade-old water-sharing pact remains legally binding and that no single nation can alter its provisions through unilateral action.\n• India rejects recent orders issued by the Permanent Court of Arbitration (PCA) regarding the 1960 Indus Waters Treaty.\n• New Delhi and Islamabad are locked in an escalating diplomatic row.\n• An intensified diplomatic row has broken out between New Delhi and Islamabad following Pakistan’s formal protest over India’s decision to reject recent orders issued by the Permanent Court of Arbitration (PCA) regarding the 1960 Indus Waters Treaty.Pakistan’s Foreign Office issued statements urging….\n• N18oc_world CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/videos/world/india-pakistan-face-off-over-indus-waters-treaty-pca-orders-trigger-fresh-row-news18-10307854.html",
+      "id": 9941,
+      "title": "Amid intense pushback, Karnataka Cabinet decides to withdraw controversial Parks amendment Bill",
+      "summary": "• Karnataka cabinet decides to withdrawal controversial Parks Amendment Bill.\n• The move comes amid intense push back from the state's political and business community.\n• The Bill was passed by Karnataka assembly in May.\n• It was opposed by state's ruling Congress and other political parties.\n• The bill had been introduced to make the state a tourist destination.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/amid-intense-pushback-karnataka-cabinet-decides-to-withdraw-controversial-parks-amendment-bill/article71423607.ece",
       "relevance_score": 0.91,
       "published_date": "2026-09-03"
     },
@@ -19969,38 +19999,8 @@
       "url": "https://indianexpress.com/article/sports/tennis/jannik-sinner-outclasses-novak-djokovic-wimbledon-2026-semifinal-6-4-6-4-6-4-10781173/",
       "relevance_score": 0.8816,
       "published_date": "2026-07-10"
-    },
-    {
-      "id": 7133,
-      "title": "Bandhan Bank launches ‘Cyber Cop’ CSR campaign with Hindustan Times and Rohit Shetty",
-      "summary": "• Bandhan Bank is a leading bank in India with a market share of more than 40 per cent.\n• The bank also has one of the highest customer satisfaction ratings in the country.\n• The company has been in business for more than 30 years and has been a part of the Indian film industry for over 20 years.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - Business",
-      "url": "https://www.hindustantimes.com/business/bandhan-bank-launches-cyber-cop-csr-campaign-with-hindustan-times-and-rohit-shetty-101783682392024.html",
-      "relevance_score": 0.8786,
-      "published_date": "2026-07-10"
-    },
-    {
-      "id": 7153,
-      "title": "Senne Lammens commits error after replacing Courtois in Belgium vs Spain FIFA World Cup 2026 quarterfinal",
-      "summary": "• Lammen: 'I don't know why I made that mistake.\n• I was trying to do my best for my country' Belgium beat Spain 1-0 in the quarterfinal at the World Cup in 2026.\n• Belgium face Spain in the final at the Maracana in Rio.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/senne-lammens-belgium-fifa-world-cup-2026-debut-thibaut-courtois-injury-substitution-news/article71208160.ece",
-      "relevance_score": 0.8785,
-      "published_date": "2026-07-10"
-    },
-    {
-      "id": 7146,
-      "title": "Women activists: Govt must implement 33% women’s quota at current strength of Parliament",
-      "summary": "• Women activists: Government must take into account Parliament's current strength.\n• Govt should take into consideration Parliament's strength at current size of Parliament, they say.\n• They say this will ensure that 33% of Parliament is made up of women and children.\n• The government should take this into account, they argue.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/women-activists-govt-must-implement-33-womens-quota-at-current-strength-of-parliament/articleshow/132320383.cms",
-      "relevance_score": 0.8779,
-      "published_date": "2026-07-10"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-06T17:58:49.936422Z"
+  "updated_at": "2026-09-07T03:31:30.133180Z"
 }
