@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 10254,
+      "title": "‘India-Russia relations lies in trust’: Piyush Goyal as both nations work towards $100 billion trade",
+      "summary": "• India-Russia trade is expected to reach $100billion by 2018.\n• India and Russia are the fastest growing economies in the world.\n• The two countries are also the fastest-growing economies in Asia, with a combined GDP of more than $1.2 trillion.",
+      "category": "International Relations",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/piyush-goyal-says-india-russia-working-towards-100-billion-trade-by-2030-not-a-modest-task-101789088211091.html",
+      "relevance_score": 0.805,
+      "published_date": "2026-09-11"
+    },
+    {
       "id": 10247,
       "title": "BRICS 2026: Modi Meets Putin & Xi, Key Bilaterals, Global Trade, Energy & New Delhi Agenda| TRS",
       "summary": "• Modi is scheduled to meet Putin on September 11, followed by talks with Xi Jinping on September 12.\n• Xi's India visit is particularly significant as it will be his first trip to India since the 2020 Galwan clash.\n• The two leaders are expected to discuss the broader India-China relationship, the border situation and economic ties.\n• BRICS members are also negotiating difficult language on the West Asia crisis, highlighting divisions within the expanded grouping.\n• India is seeking concrete economic outcomes from its BRICS chairmanship, including stronger trade and investment, resilient supply chains, technology cooperation, energy security and greater cooperation in global governance.But the summit comes amid major geopolitical challenges, including the West….",
@@ -81,6 +91,16 @@
       "published_date": "2026-09-10"
     },
     {
+      "id": 10258,
+      "title": "Chandrayaan-2 orbiter is still alive and helping in subsequent future lunar missions: Sr Indian scientist",
+      "summary": "• Chandrayaan 2 is currently in orbit around the moon.\n• It is expected to return to Earth in 2016.\n• The mission is part of India's plan to send an orbiter to the moon in the 2030s.\n• It will also be part of a mission to land on the lunar surface.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/chandrayaan-2-orbiter-is-still-alive-and-helping-in-subsequent-future-lunar-missions-sr-indian-scientist/articleshow/134027901.cms",
+      "relevance_score": 0.8884,
+      "published_date": "2026-09-10"
+    },
+    {
       "id": 10243,
       "title": "Ultraviolette to establish BIGGA factory in Hosur",
       "summary": "• Ultraviolette will be the first of its kind in India.\n• The factory will be built on the site of a former textile factory.\n• It is expected to be completed by the end of the year.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.",
@@ -98,6 +118,26 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/xis-first-visit-in-7-years-india-and-china-look-to-consolidate-peace-along-lac-101789058786769.html",
       "relevance_score": 0.8828,
+      "published_date": "2026-09-10"
+    },
+    {
+      "id": 10257,
+      "title": "India's investment in innovation low, we need to develop our own engine for combat aircraft: Ex-DRDO head Saraswat",
+      "summary": "• India's investment in innovation low, says ex-DRDO head Saraswat.\n• We need to develop our own engine for combat aircraft, Saraswat says.\n• India needs to invest more in research and development, says former DRDO chief Saraswat, who is now a professor at the University of California, San Diego.\n• He says India needs more investment in research, development and innovation.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/indias-investment-in-innovation-low-we-need-to-develop-our-own-engine-for-combat-aircraft-ex-drdo-head-saraswat/articleshow/134028484.cms",
+      "relevance_score": 0.8818,
+      "published_date": "2026-09-10"
+    },
+    {
+      "id": 10251,
+      "title": "Sri Sathya Sai village launches community surveillance to enhance security, combat crime",
+      "summary": "• Village has been hit by a spate of crime in recent years.\n• Residents say surveillance will help them fight crime and improve security.\n• The village is located in the state of Karnataka in India's north-east, near the border with Tamil Nadu and Sri Lanka.\n• It has a population of more than 100,000 people.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/rural-village-launches-community-surveillance-to-enhance-security-combat-crime/article71451679.ece",
+      "relevance_score": 0.8779,
       "published_date": "2026-09-10"
     },
     {
@@ -161,6 +201,16 @@
       "published_date": "2026-09-10"
     },
     {
+      "id": 10262,
+      "title": "'Malicious Misuse': Anthropic Says It Blocked Scientists Who Used AI For Bioweapons Research",
+      "summary": "• Anthropic says it blocked scientists who used AI for Bioweapon Research.\n• The company says it is investigating claims of 'malicious misuse' of its technology.\n• The firm is also investigating claims that it used AI to help the U.S. government develop weapons of mass destruction.",
+      "category": "Science & Technology",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/world/anthropic-says-it-blocked-scientists-who-used-ai-for-bioweapons-research-ws-el-10322157.html",
+      "relevance_score": 0.8493,
+      "published_date": "2026-09-10"
+    },
+    {
       "id": 10236,
       "title": "Sigma Advanced Systems begins production \nof aerospace components in Andhra’s Sri City",
       "summary": "• The company is based in Hyderabad, but has offices in Sri City, Hyderabad and Hyderabad.\n• Sigma Advanced Systems is a subsidiary of aerospace giant Boeing, which also has a Hyderabad office.\n• The two companies have been working together for more than a decade on a range of aerospace products.",
@@ -168,6 +218,36 @@
       "source": "The Hindu - Andhra Pradesh",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/sigma-advanced-systems-begins-production-of-aerospace-components-in-andhras-sri-city/article71450789.ece",
       "relevance_score": 0.8425,
+      "published_date": "2026-09-10"
+    },
+    {
+      "id": 10259,
+      "title": "'Building tomorrow's market today with tokenised bonds'",
+      "summary": "• 'Building tomorrow's market today with tokenised bonds' says FTSE-100 chief executive.\n• FTSe-100 is the world's second-largest stock market, with a market value of more than $1.2 trillion.\n• It is expected to reach $1 trillion by the end of this year, up from around $1tn in 2007.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/building-tomorrows-market-today-with-tokenised-bonds/articleshow/134036055.cms",
+      "relevance_score": 0.8272,
+      "published_date": "2026-09-10"
+    },
+    {
+      "id": 10260,
+      "title": "Anthropic Says It Blocked AI Misuse After Its Whistleblower's Safety Warning",
+      "summary": "• The company says it has now stopped using AI in a number of its products.\n• It says it will continue to work with the company to improve the safety of its systems and its customers' experiences.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here.",
+      "category": "Science & Technology",
+      "source": "NDTV - World",
+      "url": "https://www.ndtv.com/world-news/anthropic-says-it-blocked-ai-misuse-after-its-whistleblowers-safety-warning-12030933#publisher=newsstand",
+      "relevance_score": 0.8221,
+      "published_date": "2026-09-10"
+    },
+    {
+      "id": 10252,
+      "title": "The global war on terror, an empowered Iran",
+      "summary": "• Iran has become a key player in the fight against terrorism.\n• Iran is also a key factor in the Middle East peace process.\n• Iran's nuclear program is a key part of the peace process with the West.\n• Iran also plays a key role in the U.S.-led anti-terror campaign in the region.\n• Tehran has become an important player in that campaign.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/opinion/op-ed/the-global-war-on-terror-an-empowered-iran/article71452605.ece",
+      "relevance_score": 0.8184,
       "published_date": "2026-09-10"
     },
     {
@@ -241,6 +321,16 @@
       "published_date": "2026-09-10"
     },
     {
+      "id": 10256,
+      "title": "Coach hails German basketball's 'best day' after hosts reach women’s FIBA World Cup semifinals",
+      "summary": "• Coach hails Germany basketball's \"best day\" after women's World Cup semifinal win.\n• German women's basketball team reached women's semifinals for the first time in their history.\n• Germany reached semifinals in men's tournament for the second time in three years.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/us-sports/coach-hails-german-basketball-s-best-day-after-hosts-reach-women-s-fiba-world-cup-semifinals-101789070799893.html",
+      "relevance_score": 0.8037,
+      "published_date": "2026-09-10"
+    },
+    {
       "id": 10248,
       "title": "Differences surface in BRICS over West Asia: Sherpas rush to build consensus on joint statement",
       "summary": "• Sherpas rush to build consensus on joint statement.\n• BRICS leaders meet in Beijing to discuss ways to improve ties with West Asia, including Afghanistan.\n• They will also meet in New York to discuss how to improve relations between the two countries.\n• The meeting is expected to take place in the first half of the year.\n• Click here for more on the BRICS summit.",
@@ -258,6 +348,16 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/37-of-155-institutions-of-national-importance-running-with-interim-acting-heads-101789006779062.html",
       "relevance_score": 0.8031,
+      "published_date": "2026-09-10"
+    },
+    {
+      "id": 10255,
+      "title": "Algeria closes airspace to UAE after diplomatic break",
+      "summary": "• Algeria and UAE have been at odds for years over sovereignty of the Shebaan region.\n• Al-Naga says it will not allow the UAE to use its airspace for commercial flights to and from the region.\n• UAE says it has no intention of using its airspace to carry out commercial flights from Algeria to the Sheyaan.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/us-news/algeria-closes-airspace-to-uae-after-diplomatic-break-101789068423083.html",
+      "relevance_score": 0.8027,
       "published_date": "2026-09-10"
     },
     {
@@ -621,22 +721,22 @@
       "published_date": "2026-09-08"
     },
     {
-      "id": 10167,
-      "title": "India hockey returns to traditional blue at Asian Games after saffron jersey sparked World Cup furore",
-      "summary": "• India hockey return to blue after World Cup controversy.\n• India's traditional blue jersey sparked a World Cup row.\n• India will wear traditional blue jerseys at the Asian Games in Jakarta and Palembang.\n• India are hosting the Games for the first time since winning the gold medal in 1998.\n• India have never won an Asian Games medal in hockey.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/hockey/white-on-sky-blue-and-saffron-jerseys-for-india-hockey-teams-at-asiad-101788888951062.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-08"
-    },
-    {
       "id": 10160,
       "title": "No five-star accommodation for Indian cricketers at Asian Games, BCCI confirms",
       "summary": "• No five star accommodation for India cricketer at Asian games, BCCi confirms.\n• Indian cricket team will not be staying in five star hotels at the Asian Games.\n• Indian team will stay in four-star hotels in Jakarta, Jakarta and Palembang.\n• India will also stay in three-star hotel in Jakarta.",
       "category": "Sports",
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/sports/cricket/story/india-cricketers-asian-games-nagoya-hotel-accommodation-bcci-2990287-2026-09-08?utm_source=rss",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-08"
+    },
+    {
+      "id": 10167,
+      "title": "India hockey returns to traditional blue at Asian Games after saffron jersey sparked World Cup furore",
+      "summary": "• India hockey return to blue after World Cup controversy.\n• India's traditional blue jersey sparked a World Cup row.\n• India will wear traditional blue jerseys at the Asian Games in Jakarta and Palembang.\n• India are hosting the Games for the first time since winning the gold medal in 1998.\n• India have never won an Asian Games medal in hockey.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/hockey/white-on-sky-blue-and-saffron-jerseys-for-india-hockey-teams-at-asiad-101788888951062.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-08"
     },
@@ -19899,108 +19999,8 @@
       "url": "https://www.ndtv.com/education/top-iits-offer-career-focused-short-term-ai-programmes-check-details-11770519#publisher=newsstand",
       "relevance_score": 0.8075,
       "published_date": "2026-07-14"
-    },
-    {
-      "id": 7288,
-      "title": "What are Corsair sea drones? Inside the US Navy's new autonomous weapon used against Iran",
-      "summary": "• Corsair drones are autonomous drones that can fly in the sea, land and take off and land.\n• The US Navy is using Corsair drones to fight Iran's nuclear program in the Persian Gulf.\n• The Corsair drones can also be used for surveillance and intelligence gathering.\n• They can also carry out strikes against targets in the Middle East.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/what-are-corsair-sea-drones-inside-the-us-navys-new-autonomous-weapon-used-against-iran-101783998147724.html",
-      "relevance_score": 0.8073,
-      "published_date": "2026-07-14"
-    },
-    {
-      "id": 7304,
-      "title": "Aavin to reintroduce ‘button paal’ system of selling milk through vending machine, Madras High Court told",
-      "summary": "• Madras High Court told to allow milk to be sold through vending machines.\n• Aavin will be able to sell milk through a vending machine, the court was told.\n• The court was also told to let milk be sold via a machine in a store.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/aavin-to-reintroduce-button-paal-system-of-selling-milk-through-vending-machine-madras-high-court-told/article71220465.ece",
-      "relevance_score": 0.8034,
-      "published_date": "2026-07-14"
-    },
-    {
-      "id": 7233,
-      "title": "Parliamentary panel backs suspension, not removal, of PMs, CMs in new bill",
-      "summary": "• PMs and CMs to be suspended, not removed, under new bill, panel says.\n• Parliament to vote on the bill next week.\n• The bill is expected to be passed by the end of the month.\n• The PMs will be suspended for a maximum of two years, the bill says.",
-      "category": "Polity & Governance",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/india/story/jpc-constitution-amendment-bill-temporary-removal-reinstatement-arrested-ministers-2946647-2026-07-13?utm_source=rss",
-      "relevance_score": 0.9365,
-      "published_date": "2026-07-13"
-    },
-    {
-      "id": 7255,
-      "title": "Andhra Pradesh launches digital platform to monitor 800 urban water projects in real time",
-      "summary": "• Andhra Pradesh launched digital platform for monitoring 800 urbanWater projects inreal time.\n• The platform will be available on the state government's official website and social media accounts.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Andhra Pradesh",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-launches-digital-platform-to-monitor-800-urban-water-projects-in-real-time/article71216923.ece",
-      "relevance_score": 0.9333,
-      "published_date": "2026-07-13"
-    },
-    {
-      "id": 7281,
-      "title": "South Korea and Mongolia Enter a ‘Golden Era’ of Partnership",
-      "summary": "• South Korea and Mongolian have a long history of diplomatic and economic ties.\n• The two countries have been at odds for much of the 20th century, but are now closer than ever.\n• The countries have a close military and economic relationship, especially in the South Korean Far East and the Mongolian Far East.\n• The U.S. and South Korea are also close allies in the region.",
-      "category": "International Relations",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/07/south-korea-and-mongolia-enter-a-golden-era-of-partnership/",
-      "relevance_score": 0.9308,
-      "published_date": "2026-07-13"
-    },
-    {
-      "id": 7271,
-      "title": "Awareness about Bescom’s HT Mithra app is lacking among industrialists",
-      "summary": "• Bescom is developing an app for the Indian government.\n• The app will be available on Android and iOS devices.\n• It will also be available in India by the end of the year.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/awareness-about-bescoms-ht-mithra-app-is-lacking-among-industrialists/article71217573.ece",
-      "relevance_score": 0.9161,
-      "published_date": "2026-07-13"
-    },
-    {
-      "id": 7231,
-      "title": "Australian cricket rocked by cheating scandal days after T20 World Cup win",
-      "summary": "• Australian cricketers involved in cheating scandal have been banned from all cricket activities for two years.\n• Australian cricket team is set to be stripped of all cricketing privileges for the rest of the year.\n• The scandal comes just days after Australia won the World T20 T20 Cup in New Zealand.\n• Australia's cricket team won the tournament for the first time in 20 years.",
-      "category": "Sports",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/cricket/story/ashleigh-gardner-georgia-voll-cheating-australian-cricket-controversy-monica-wright-instagram-2946648-2026-07-13?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-13"
-    },
-    {
-      "id": 7263,
-      "title": "HCL Tech forays into AI data centre; to make an investment of ₹3,500 crore; to float a subsidiary",
-      "summary": "• HCL Tech will invest in a data centre in Hyderabad, India's first of its kind.\n• The tech giant will also float its subsidiary, HCL AI, in the next few months.\n• It will be based in the city's IT hub of Hyderabad.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/hcl-tech-forays-into-ai-data-centre-to-make-an-investment-of-3500-crore-to-float-a-subsidiary/article71217971.ece",
-      "relevance_score": 0.9074,
-      "published_date": "2026-07-13"
-    },
-    {
-      "id": 7256,
-      "title": "Govt aims to expand access to higher education in  ₹650-crore digital push",
-      "summary": "• Govt wants to make it easier for students to access higher education through the internet and social media.\n• It is part of a larger plan to make higher education accessible to more people.\n• The government is also trying to make education more affordable and accessible for all through digital tools.\n• For confidential support call the Samaritans in India on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/centre-targets-8-million-swayam-enrolments-under-650-crore-digital-education-push-11783936418220.html",
-      "relevance_score": 0.9037,
-      "published_date": "2026-07-13"
-    },
-    {
-      "id": 7265,
-      "title": "Alexander Zverev and the contours of tennis’ new ‘Big Three’",
-      "summary": "• The German is the youngest member of the ATP’s top three-man line-up.\n• He is the first German to reach the quarter-finals of a grand slam since Novak Djokovic in 2009.\n• The 21-year-old is also the youngest player to reach a major quarter-final since Roger Federer in 1986.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/tennis/alexander-zverev-jannik-sinner-carlos-alcaraz-new-big-three-tennis/article71218527.ece",
-      "relevance_score": 0.8963,
-      "published_date": "2026-07-13"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-10T18:51:41.772372Z"
+  "updated_at": "2026-09-11T03:35:03.898519Z"
 }
