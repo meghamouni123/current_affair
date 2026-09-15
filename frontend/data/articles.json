@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 10503,
+      "title": "Banks can't charge for UPI, RuPay debit card payments up to Rs 2,000: Government",
+      "summary": "• UPI and RuPay can only be used to make payments of up to £1,000.\n• Government says it will not charge for payments of more than £2,000 in future.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Economy & Banking",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/business/story/upi-charges-rupay-debit-cards-govt-bars-fees-on-payments-up-to-rs-2000-nirmala-sitharaman-2994743-2026-09-15?utm_source=rss",
+      "relevance_score": 0.8039,
+      "published_date": "2026-09-15"
+    },
+    {
       "id": 10498,
       "title": "India’s 'Artificial Sun' Project Takes A Step Forward With New System To Boost Fusion Research",
       "summary": "• The project aims to create the world's first artificial sun.\n• It has been dubbed the 'India's Sun' and is based in the Indian city of Guntur in the Himalayas.\n• It is also known as 'The Sun' because of the huge amount of light it can produce.",
@@ -61,22 +71,22 @@
       "published_date": "2026-09-14"
     },
     {
-      "id": 10470,
-      "title": "Rajasthan municipal election results LIVE: Congress Gen Z leader wins Jaipur ward; BJP takes Jodhpur, Udaipur",
-      "summary": "• Rajasthan Municipal Election Results LIVE: All the latest news on the latest developments in the state.\n• Click here to follow the LIVE updates from the election results below.\n• The results will be announced at 8.30pm on Thursday.\n• The result will be declared at 9.30am on Friday.",
-      "category": "State News",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/rajasthan-local-body-election-results-2026-live-updates-rajasthan-vote-counting-result-bjp-congress-jaipur-jodhpur-kota-101789365666570.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-14"
-    },
-    {
       "id": 10493,
       "title": "Rajasthan Local Body Election Results 2026 Live: Congress Wins Jhalawar Municipal Council Poll In BJP's Vasundhara Raje's Bastion",
       "summary": "• Raje is the chief minister of Rajasthan, the second most populous state in the state.\n• The state has a population of 1.2 million.\n• Rajastha is the second largest state in India after Uttar Pradesh.",
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/india/rajasthan-local-body-election-results-2026-live-updates-rajasthan-municipal-election-results-counting-winners-list-bjp-congress-elecetion-commission-atest-news-liveblog-ws-l-10327333.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-14"
+    },
+    {
+      "id": 10470,
+      "title": "Rajasthan municipal election results LIVE: Congress Gen Z leader wins Jaipur ward; BJP takes Jodhpur, Udaipur",
+      "summary": "• Rajasthan Municipal Election Results LIVE: All the latest news on the latest developments in the state.\n• Click here to follow the LIVE updates from the election results below.\n• The results will be announced at 8.30pm on Thursday.\n• The result will be declared at 9.30am on Friday.",
+      "category": "State News",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/rajasthan-local-body-election-results-2026-live-updates-rajasthan-vote-counting-result-bjp-congress-jaipur-jodhpur-kota-101789365666570.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-14"
     },
@@ -181,6 +191,16 @@
       "published_date": "2026-09-14"
     },
     {
+      "id": 10501,
+      "title": "From terrible to title: Alexander Zverev completes US Open redemption with second Grand Slam triumph",
+      "summary": "• Alexander Zverev wins his second Grand Slam title at US Open in New York.\n• It was his first Grand Slam triumph since he won Wimbledon in 2013.\n• He beat Novak Djokovic in three sets in the final to claim his first grand slam title.\n• He had lost in the first round at Flushing Meadows in 2013 to Andy Murray.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/tennis/from-terrible-to-title-zverev-ticks-second-major-box-at-us-open-101789381139799.html",
+      "relevance_score": 0.8675,
+      "published_date": "2026-09-14"
+    },
+    {
       "id": 10499,
       "title": "European football players’ body calls for FIFA reform after Infantino’s failed proposal",
       "summary": "• European football players' body calls on FIFA to reform its rules and regulations.\n• FIFA has been accused of failing to act on a number of issues in recent years.\n• FIFA have been accused by some of the players of being too lenient on the players in the past.\n• Click here for all the latest FIFA news.",
@@ -248,6 +268,16 @@
       "source": "The Diplomat",
       "url": "https://thediplomat.com/2026/09/myanmars-military-backed-president-ticks-cambodia-off-his-diplomatic-bucket-list/",
       "relevance_score": 0.8166,
+      "published_date": "2026-09-14"
+    },
+    {
+      "id": 10505,
+      "title": "US-Iran War Updates: US Slaps Sanctions On Russian Bank As Saudis Intensify Houthi Strikes",
+      "summary": "• U.S. to impose sanctions on Russian bank as part of sanctions against Iran.\n• To hold talks with Iran on Iran's nuclear program.\n• US to announce new sanctions on Iran over its ballistic missile tests on Sunday.\n• US will also impose new sanctions against the Iranian regime on Monday.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/world/us-iran-war-live-updates-houthis-red-sea-saudi-oil-pipeline-attack-trump-vessels-strait-of-hormuz-oil-prices-hike-latest-news-liveblog-10327800.html",
+      "relevance_score": 0.8072,
       "published_date": "2026-09-14"
     },
     {
@@ -331,32 +361,22 @@
       "published_date": "2026-09-13"
     },
     {
-      "id": 10432,
-      "title": "PM Modi held 15 bilaterals on sidelines of Brics in 3-day diplomatic marathon",
-      "summary": "• He was in New Delhi for a three-day summit of the BRICS nations.\n• Modi was also in Brazil for a two-day Summit of BRICS leaders in Rio de Janeiro.\n• He will be in Brazil next week for a summit of BRICs and the Shanghai Cooperation Organisation (SCO).",
-      "category": "International Relations",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/pm-modi-held-15-bilaterals-on-sidelines-of-brics-in-3-day-diplomatic-marathon/articleshow/134199140.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-13"
-    },
-    {
-      "id": 10444,
-      "title": "15 bilaterals in 3 days: PM Modi's diplomatic sprint during BRICS summit",
-      "summary": "• PM Modi: 'I will not let India be seen as a pariah.\n• I will not allow India to be treated as an outcast.\n• I am not going to let my country be treated like an outcasts.\n• I have a lot of respect for the people of India.\n• I want to work with them to create a better world'.",
-      "category": "International Relations",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/india/story/brics-summit-new-delhi-pm-modi-15-bilateral-meetings-72-hours-2993830-2026-09-13?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-13"
-    },
-    {
       "id": 10450,
       "title": "3 days, 15 bilateral meetings: PM Modi’s diplomatic sprint at BRICS Summit 2026",
       "summary": "• PM Modi will be in Brazil for three days for the BRICS summit.\n• He will also be in South Africa for two days for a summit with other BRICS leaders.\n• The summit will be held in the city of Durban, South Africa, in 2026 and 2027.\n• PM will be accompanied by his wife Smriti Irani.",
       "category": "International Relations",
       "source": "Zee News - India",
       "url": "https://zeenews.india.com/india/3-days-15-bilateral-meetings-pm-modi-s-diplomatic-sprint-at-brics-summit-2026-3071400.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-13"
+    },
+    {
+      "id": 10408,
+      "title": "Global South Must Move From Rule-Taker To Rule-Shaper: PM Modi’s Message At BRICS Summit | News18",
+      "summary": "• PM Modi chaired a BRICS session on “Inclusive Global Governance and Strengthening Multilateralism’ He called for the Global South to move from being a “rule-taker” to a ‘rule-shaper’ Through BRICS, he proposed giving young diplomats and policymakers from developing countries greater access to….\n• Prime Minister Narendra Modi chaired a BRICS session on “Inclusive Global Governance and Strengthening Multilateralism” during the 18th BRICS Summit in New Delhi.\n• Addressing BRICS leaders, PM Modi said the Global South is often at the “front row” of global crises but the “back row” of decision-making.\n• He called for the existing “pyramid of privilege” to be turned into a “platform of partnership”.PM Modi said global institutions must reflect today’s realities, with greater representation for developing countries, particularly in bodies such as the UN Security Council.He also called for the Global….",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/global-south-must-move-from-rule-taker-to-rule-shaper-pm-modi-s-message-at-brics-summit-news18-10326222.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-13"
     },
@@ -371,6 +391,16 @@
       "published_date": "2026-09-13"
     },
     {
+      "id": 10444,
+      "title": "15 bilaterals in 3 days: PM Modi's diplomatic sprint during BRICS summit",
+      "summary": "• PM Modi: 'I will not let India be seen as a pariah.\n• I will not allow India to be treated as an outcast.\n• I am not going to let my country be treated like an outcasts.\n• I have a lot of respect for the people of India.\n• I want to work with them to create a better world'.",
+      "category": "International Relations",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/brics-summit-new-delhi-pm-modi-15-bilateral-meetings-72-hours-2993830-2026-09-13?utm_source=rss",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-13"
+    },
+    {
       "id": 10453,
       "title": "Pathirage wins javelin throw title at World Athletics Ultimate Championships, Nadeem finishes fifth ahead of Asian Games",
       "summary": "• Pathirage wins javelin throw title at World Athletics Ultimate Championships.\n• Pathirage also won gold in the men's 100m and men's 200m events at the same championships.\n• He also won a gold medal in men's 4x100m relay at the 2014 World Championships in Glasgow.\n• Nadesar finished fifth in the women's 4 x 100m relay.",
@@ -381,12 +411,12 @@
       "published_date": "2026-09-13"
     },
     {
-      "id": 10408,
-      "title": "Global South Must Move From Rule-Taker To Rule-Shaper: PM Modi’s Message At BRICS Summit | News18",
-      "summary": "• PM Modi chaired a BRICS session on “Inclusive Global Governance and Strengthening Multilateralism’ He called for the Global South to move from being a “rule-taker” to a ‘rule-shaper’ Through BRICS, he proposed giving young diplomats and policymakers from developing countries greater access to….\n• Prime Minister Narendra Modi chaired a BRICS session on “Inclusive Global Governance and Strengthening Multilateralism” during the 18th BRICS Summit in New Delhi.\n• Addressing BRICS leaders, PM Modi said the Global South is often at the “front row” of global crises but the “back row” of decision-making.\n• He called for the existing “pyramid of privilege” to be turned into a “platform of partnership”.PM Modi said global institutions must reflect today’s realities, with greater representation for developing countries, particularly in bodies such as the UN Security Council.He also called for the Global….",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/global-south-must-move-from-rule-taker-to-rule-shaper-pm-modi-s-message-at-brics-summit-news18-10326222.html",
+      "id": 10432,
+      "title": "PM Modi held 15 bilaterals on sidelines of Brics in 3-day diplomatic marathon",
+      "summary": "• He was in New Delhi for a three-day summit of the BRICS nations.\n• Modi was also in Brazil for a two-day Summit of BRICS leaders in Rio de Janeiro.\n• He will be in Brazil next week for a summit of BRICs and the Shanghai Cooperation Organisation (SCO).",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/pm-modi-held-15-bilaterals-on-sidelines-of-brics-in-3-day-diplomatic-marathon/articleshow/134199140.cms",
       "relevance_score": 0.91,
       "published_date": "2026-09-13"
     },
@@ -511,22 +541,22 @@
       "published_date": "2026-09-13"
     },
     {
-      "id": 10422,
-      "title": "Xi Jinping Skipped BRICS Gala Dinner Hosted By PM Modi, Went Back To Hotel To Take Rest: Sources",
-      "summary": "• Xi Jinping Skips BRICSGala Dinnerhosted by PM Modi,.\n• Went back to Hotel To take Rest: sources.\n• He was expected to attend the BRICS summit in Xiamen, China.",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/videos/india/xi-jinping-skipped-brics-gala-dinner-hosted-by-pm-modi-went-back-to-hotel-to-take-rest-sources-10326285.html",
-      "relevance_score": 0.8573,
-      "published_date": "2026-09-13"
-    },
-    {
       "id": 10435,
       "title": "Xi Jinping Skipped BRICS Gala Dinner Hosted By PM Modi, Went Back To Hotel To Take Rest: Sources",
       "summary": "• Xi Jinping Skips BRICSGala Dinnerhosted by PM Modi,.\n• Went back to Hotel To take Rest: sources.\n• He was expected to attend the BRICS summit in Xiamen, China.",
       "category": "International Relations",
       "source": "News18 - World",
       "url": "https://www.news18.com/world/xi-jinping-skipped-brics-gala-dinner-hosted-by-pm-modi-went-back-to-hotel-to-take-rest-sources-ws-l-10326104.html",
+      "relevance_score": 0.8573,
+      "published_date": "2026-09-13"
+    },
+    {
+      "id": 10422,
+      "title": "Xi Jinping Skipped BRICS Gala Dinner Hosted By PM Modi, Went Back To Hotel To Take Rest: Sources",
+      "summary": "• Xi Jinping Skips BRICSGala Dinnerhosted by PM Modi,.\n• Went back to Hotel To take Rest: sources.\n• He was expected to attend the BRICS summit in Xiamen, China.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/videos/india/xi-jinping-skipped-brics-gala-dinner-hosted-by-pm-modi-went-back-to-hotel-to-take-rest-sources-10326285.html",
       "relevance_score": 0.8573,
       "published_date": "2026-09-13"
     },
@@ -19969,38 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/skyroot-puts-first-private-rocket-in-orbit-india-in-elite-club-vikram-1-delivers-6-payloads-after-35-minute-delay/articleshow/132486763.cms",
       "relevance_score": 0.8429,
       "published_date": "2026-07-18"
-    },
-    {
-      "id": 7513,
-      "title": "PM Modi wishes Skyroot success ahead of Vikram-1's first orbital launch: ‘A historic new frontier for India’",
-      "summary": "• ‘A historic new frontier for India’ says PM Modi.\n• Skyroot is a joint venture between Skyroot and India's state-run space agency, Indian Space Research Organisation (ISROC) Vikram will be the first Indian space station to orbit the Earth.\n• Vikram is scheduled to launch from Sriharikota in December.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-wishes-skyroot-success-ahead-of-vikram-1s-first-orbital-launch-a-historic-new-frontier-for-india-101784343300246.html",
-      "relevance_score": 0.8426,
-      "published_date": "2026-07-18"
-    },
-    {
-      "id": 7557,
-      "title": "ASI begins scientific conservation of Mangalagiri Panakala Narasimha Swamy temple",
-      "summary": "• Asi begins scientific Conservation of Mang alagiri panakala narasimhavya temple.\n• ASI begin scientific conservation  of MangAlagiriPanakalaNarasimheswamy temple in Sri Lanka.\n• AsI beginsscientific conservation of Mangalagiris panakala narasimhey temple in South India.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/asi-begins-scientific-conservation-of-mangalagiri-panakala-narasimha-swamy-temple/article71237711.ece",
-      "relevance_score": 0.8368,
-      "published_date": "2026-07-18"
-    },
-    {
-      "id": 7585,
-      "title": "India rolls out 'White Rabbit' tech to secure Indian Standard Time network: What it means",
-      "summary": "• India rolls out White Rabbit technology to secure the country's time zone.\n• India has been using GMT for more than a decade.\n• It is the world's second-largest time zone after the United States.\n• India is the first country to roll out the system in the 1990s, and has since become a major time zone player.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/india-rolls-out-white-rabbit-tech-to-secure-indian-standard-time-network-what-it-means/articleshow/132485935.cms",
-      "relevance_score": 0.8364,
-      "published_date": "2026-07-18"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-14T20:09:41.433976Z"
+  "updated_at": "2026-09-15T04:09:02.558994Z"
 }
