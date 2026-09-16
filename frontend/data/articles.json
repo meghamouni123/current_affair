@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 10566,
+      "title": "Top banks to get lion's share of UPI fees",
+      "summary": "• Top banks will pay $1.5 billion to $2 billion each year in UPI fee, according to UPI estimates.\n• UPI is the world's largest UPI provider, with more than 1,000 branches across the world.\n• Upi is a unit of the Intercontinental Exchange, which is owned by the U.S. Federal Reserve.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/top-banks-to-get-lions-share-of-upi-fees/articleshow/134275904.cms",
+      "relevance_score": 0.8422,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10570,
+      "title": "Brook hits lightning century as England crush Sri Lanka in first T20I",
+      "summary": "• England beat Sri Lanka 1-0 in their first match of the T20 series in Colombo.\n• England have won all three previous T20Is against Sri Lanka.\n• Sri Lanka have won the series 2-1 with a win and a loss.\n• England are unbeaten in their last five T20s against the Sri Lankans.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/england-vs-sri-lanka-1st-t20i-harry-brook-century-match-report-news/article71470912.ece",
+      "relevance_score": 0.8302,
+      "published_date": "2026-09-16"
+    },
+    {
       "id": 10526,
       "title": "SWTD to launch two partly solar-powered, electric ro-ro ferries in Kochi",
       "summary": "• SWTD will be the first of its kind in India.\n• The ferries will be partly powered by solar panels and partly by electric motors.\n• The two ferries are expected to be fully operational by 2018, SWTD says.",
@@ -51,22 +71,22 @@
       "published_date": "2026-09-15"
     },
     {
-      "id": 10516,
-      "title": "Asian Games 2026: India hockey teams chase gold with LA Olympics berth at stake",
-      "summary": "• India will play in the men's and women's hockey events at the Games.\n• The women's team will compete for a place in the women's event.\n• The men's hockey team will be competing for a spot in the 2014 Winter Olympics in Sochi, Russia.\n• India is bidding to win a place at the 2016 Olympics in Rio de Janeiro.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/asian-games/news/asian-games-2026-india-hockey-teams-gold-medal-world-cup/article71466861.ece",
-      "relevance_score": 0.91,
+      "id": 10567,
+      "title": "UK in talks about joining global defence bank led by Canada",
+      "summary": "• UK has been in talks with the bank for more than a year, sources say.\n• UK is one of the biggest economies in the world, with a population of more than 100 million.\n• It is also the biggest economy in Europe, with more than half a billion people living in the UK.\n• It also has the largest economy in the European Union, followed by Germany.",
+      "category": "International Relations",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/c6e30e98v7j1o?at_medium=RSS&at_campaign=rss",
+      "relevance_score": 0.9156,
       "published_date": "2026-09-15"
     },
     {
-      "id": 10506,
-      "title": "Rajasthan man arrested for Tamil Nadu chief minister Vijay’s deepfake videos",
-      "summary": "• Ravi Agrawal of Rajasthan was arrested for his role in the video.\n• He was arrested on suspicion of making a fake video of the chief minister.\n• He has since been released on bail, police said in a statement on Thursday.\n• He is accused of creating fake footage of the Tamil Nadu Chief Minister.",
-      "category": "State News",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/rajasthan-man-arrested-for-tamil-nadu-chief-minister-vijay-s-deepfake-videos-101789448416762.html",
+      "id": 10565,
+      "title": "'We need to move on’: India women’s hockey team shifts focus from World Cup heartbreak to Asian Games 2026",
+      "summary": "• India women's hockey team is aiming to win gold at the Asian Games in 2026 in Jakarta and Palembang, South Korea.\n• India's women's team is hoping to win their first Asian Games title in the next two years.\n• The team is targeting a place in the quarter-finals of the 2026 Games.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/hockey/on-a-revival-india-women-have-to-overcome-china-again-101789476618127.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-15"
     },
@@ -101,6 +121,26 @@
       "published_date": "2026-09-15"
     },
     {
+      "id": 10516,
+      "title": "Asian Games 2026: India hockey teams chase gold with LA Olympics berth at stake",
+      "summary": "• India will play in the men's and women's hockey events at the Games.\n• The women's team will compete for a place in the women's event.\n• The men's hockey team will be competing for a spot in the 2014 Winter Olympics in Sochi, Russia.\n• India is bidding to win a place at the 2016 Olympics in Rio de Janeiro.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/asian-games/news/asian-games-2026-india-hockey-teams-gold-medal-world-cup/article71466861.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-15"
+    },
+    {
+      "id": 10506,
+      "title": "Rajasthan man arrested for Tamil Nadu chief minister Vijay’s deepfake videos",
+      "summary": "• Ravi Agrawal of Rajasthan was arrested for his role in the video.\n• He was arrested on suspicion of making a fake video of the chief minister.\n• He has since been released on bail, police said in a statement on Thursday.\n• He is accused of creating fake footage of the Tamil Nadu Chief Minister.",
+      "category": "State News",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/rajasthan-man-arrested-for-tamil-nadu-chief-minister-vijay-s-deepfake-videos-101789448416762.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-15"
+    },
+    {
       "id": 10554,
       "title": "India reiterates ‘three mutuals’ in Modi-Xi talks, stresses border peace",
       "summary": "• India and China have been at odds for decades over the disputed Himalayan region of Kashmir.\n• India has been trying to resolve the issue through talks and talks with China.\n• The two countries have a long history of tensions over the Himalayas and the border with China, which India shares with Bhutan.",
@@ -128,6 +168,26 @@
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/drdo-has-developed-indigenous-gan-tech-for-next-gen-radars-electronic-warfare-def-min-report/articleshow/134269616.cms",
       "relevance_score": 0.9058,
+      "published_date": "2026-09-15"
+    },
+    {
+      "id": 10569,
+      "title": "OpenAI Backs Bills In US Congress On AI, Biological Weapon Threats",
+      "summary": "• OpenAI is a company that uses artificial intelligence to predict the future of the world.\n• The company is backed by Google, Facebook, Microsoft and other tech giants.\n• It also has its own AI lab in San Francisco, called the OpenAI Center for AI and Machine Intelligence.",
+      "category": "Science & Technology",
+      "source": "NDTV - World",
+      "url": "https://www.ndtv.com/world-news/openai-backs-bills-in-us-congress-on-ai-biological-weapon-threats-12051945#publisher=newsstand",
+      "relevance_score": 0.9043,
+      "published_date": "2026-09-15"
+    },
+    {
+      "id": 10568,
+      "title": "Secretary-General of ASEAN meets with Minister of Foreign Affairs of the People’s Republic of China",
+      "summary": "• Secretary-General meets with China's Foreign Affairs Minister to discuss issues relating to ASEan countries and China's relations with the rest of the world.\n• The meeting took place in Beijing, China, at the Foreign Ministry of the Chinese People's Republic ofChina.\n• The two sides also met at the State Guest House in Beijing to discuss bilateral relations.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-meets-with-minister-of-foreign-affairs-of-the-peoples-republic-of-china-3/",
+      "relevance_score": 0.9008,
       "published_date": "2026-09-15"
     },
     {
@@ -198,6 +258,16 @@
       "source": "Hindustan Times - World",
       "url": "https://www.hindustantimes.com/world-news/critical-for-military-and-economic-security-us-deploys-first-ever-on-orbit-space-based-weapon-china-russia-news-101789451845341.html",
       "relevance_score": 0.8696,
+      "published_date": "2026-09-15"
+    },
+    {
+      "id": 10563,
+      "title": "IIT Palakkad researchers develop sensors for faster heparin monitoring",
+      "summary": "• They hope to use the sensors to monitor the levels of the drug in the body.\n• They also hope the sensors will be used in the future to monitor levels of other drugs.\n• For more information, visit the IIT's website at: www.iitpalakkads.com.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/iit-palakkad-researchers-develop-sensors-for-faster-heparin-monitoring/article71468718.ece",
+      "relevance_score": 0.8634,
       "published_date": "2026-09-15"
     },
     {
@@ -19929,78 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/murmu-departs-for-three-nation-european-tour-to-boost-ties/article71240696.ece",
       "relevance_score": 0.8171,
       "published_date": "2026-07-19"
-    },
-    {
-      "id": 7551,
-      "title": "Vikram-1 rocket successfully places tech payloads, postcards from astronauts, PM Modi into orbit",
-      "summary": "• Vikr-1 launched from the spaceport in Sriharikota, Rajasthan, India.\n• The rocket will carry the Indian Prime Minister into space for the first time.\n• The launch is part of India's bid to become a low-cost producer of solar power.",
-      "category": "Science & Technology",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/vikram1-rocket-successfully-places-tech-payloads-postcards-from-astronauts-pm-modi-into-orbit-11784363232667.html",
-      "relevance_score": 0.9652,
-      "published_date": "2026-07-18"
-    },
-    {
-      "id": 7523,
-      "title": "Vikram-1, country’s first private orbital-class rocket, successfully places tech payloads, postcards into orbit",
-      "summary": "• The rocket was launched from the launch pad at Vandenberg Air Force Base in California.\n• It is the first of its kind in the world and the first to be launched by a private company.\n• It will carry a variety of payloads into space, including technology payloads and postcards.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/sci-tech/science/vikram-1-indias-first-privately-developed-orbital-class-rocket-launch-updates/article71237224.ece",
-      "relevance_score": 0.9648,
-      "published_date": "2026-07-18"
-    },
-    {
-      "id": 7527,
-      "title": "Vikram-1: All about India's first privately developed orbital rocket saying ‘hello’ to space",
-      "summary": "• Vikram-1 is India's first privately developed orbital rocket.\n• It will launch into space from a launch pad in Sriharikota, Tamil Nadu.\n• The launch is scheduled for the end of the year.\n• It is the first of its kind in India and the first privately-funded rocket in the world.\n• The rocket is expected to take off in 2017 and reach space by 2018.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/vikram-1-all-about-indias-first-privately-developed-orbital-rocket-to-say-hello-to-space-3d-printed-engine-skyroot-isro-101784355583404.html",
-      "relevance_score": 0.9601,
-      "published_date": "2026-07-18"
-    },
-    {
-      "id": 7566,
-      "title": "Space payload built by VIT-AP students launched aboard Vikram-1 rocket",
-      "summary": "• Space payload was part of a mission to send a satellite into space.\n• The satellite will orbit the Earth at a height of 2,200 miles above the Earth's surface.\n• It will carry a payload that will orbit Earth at an altitude of 1,500 miles (2,400 kilometers) above Earth.\n• The payload will be part of an international space station.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/space-payload-built-by-vit-ap-students-launched-aboard-vikram-1-rocket/article71237786.ece",
-      "relevance_score": 0.9579,
-      "published_date": "2026-07-18"
-    },
-    {
-      "id": 7584,
-      "title": "Skyroot’s orbital launch: India’s own SpaceX is born, startup to give country another option to Isro for satellite launches",
-      "summary": "• Skyroot’s orbital launch will be India's first of its kind.\n• The launch will give the country another option to Isro for satellite launches.\n• Skyroot will launch its first satellite into space from Sriharikota in the southern Indian Ocean.\n• It will be followed by a second launch from the southern tip of the country.\n• The third launch will take place from Kailasa in the north of India.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/skyroots-orbital-launch-indias-own-spacex-is-born-startup-to-give-country-an-alternative-for-satellite-launches/articleshow/132486324.cms",
-      "relevance_score": 0.9494,
-      "published_date": "2026-07-18"
-    },
-    {
-      "id": 7518,
-      "title": "A Cab Ride To Orbit? How Skyroot’s Vikram-1 Could Be A Game Changer For Small Satellites",
-      "summary": "• Skyroot's Vikram 1 could be a game-changer for small satellites, say analysts.\n• The Skyroot Vikram1 is a small satellite that could be used to launch small satellites into orbit.\n• The Vikram One could be launched in 2015.",
-      "category": "Science & Technology",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/a-cab-ride-to-orbit-how-skyroots-vikram-1-could-be-a-game-changer-for-small-satellites-10219479.html",
-      "relevance_score": 0.948,
-      "published_date": "2026-07-18"
-    },
-    {
-      "id": 7534,
-      "title": "Watch Vikram 1 launch LIVE: India's 1st privately-developed orbital-class rocket flies at 6.5km/second",
-      "summary": "• India's first privately- developed orbital- class rocket is set to launch on Friday.\n• Vikram is a rocket that will fly at a speed of 6.4km/ second.\n• It will be launched from Sriharikota in Tamil Nadu, India.",
-      "category": "Science & Technology",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/trends/watch-vikram-1-launch-live-indias-1st-privately-developed-orbital-class-rocket-sets-off-from-sriharikota-11784356448760.html",
-      "relevance_score": 0.942,
-      "published_date": "2026-07-18"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-15T19:21:55.318430Z"
+  "updated_at": "2026-09-16T03:59:28.376209Z"
 }
