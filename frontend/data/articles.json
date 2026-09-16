@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 10609,
+      "title": "Risk Of India Returning To Cash Economy: Retailers' Body On UPI Fee",
+      "summary": "• Retailers have body on UPI fee, says India's finance minister.\n• India is one of the fastest growing economies in the world, according to the World Bank.\n• India's economy is expected to grow at a faster rate than the rest of the world's in the next few years, the IMF says.",
+      "category": "Economy & Banking",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/upi-mdr-upi-charge-retailers-association-of-india-risk-of-india-returning-to-cash-economy-retailers-body-on-upi-fee-12055587#publisher=newsstand",
+      "relevance_score": 0.9497,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10611,
+      "title": "UPI Charges Spark Debate: Understanding the New Merchant Discount Rate and Its Implications | #TRS",
+      "summary": "• The debate over digital payment charges in India has reignited after the National Payments Corporation of India (NPCI) notified a 0.4% Merchant Discount Rate (MDR) on specified Person-to-Merchant (P2M) UPI transactions.\n• The new framework aims to establish a sustainable revenue model for payment aggregators, fintech apps, and acquiring banks to fund cybersecurity, infrastructure resiliency, and fraud prevention.\n• The debate over digital payment charges in India has reignited after the National Payments Corporation of India (NPCI) notified a 0.4% Merchant Discount Rate (MDR) on specified Person-to-Merchant (P2M) UPI transactions above ₹2,000.While Person-to-Person (P2P) payments, small-value vendor….",
+      "category": "Economy & Banking",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/upi-charges-spark-debate-understanding-the-new-merchant-discount-rate-and-its-implications-trs-10334824.html",
+      "relevance_score": 0.94,
+      "published_date": "2026-09-16"
+    },
+    {
       "id": 10593,
       "title": "The 1991 pact put to the test: Why India summoned Pakistan`s envoy and what the 1991 pact says",
       "summary": "• India and Pakistan signed the pact in 1991.\n• The two countries have been at odds over Kashmir since the 1980s and 1990s.\n• The pact was signed after a series of high-level meetings between the two countries in the 1990s and 2000s.\n• Pakistan and India are still at loggerheads over Kashmir.",
@@ -11,13 +31,13 @@
       "published_date": "2026-09-16"
     },
     {
-      "id": 10584,
-      "title": "Andhra Pradesh raises age limit for government jobs to 44 years till 2027: how APPSC compares with Telangana, Kerala and UPSC",
-      "summary": "• Andhra Pradesh raises age limit for government jobs to 44 years till 2027.\n• APPSC compares with Telangana, Kerala and UPSC in terms of number of seats.\n• Andhra Pradesh has more seats than any other state in the country.\n• APPSC has the most seats in the state, followed by Kerala and Tamil Nadu.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-raises-age-limit-for-government-jobs-to-44-years-till-2027-how-appsc-compares-with-telangana-kerala-and-upsc/article71471544.ece",
-      "relevance_score": 0.91,
+      "id": 10599,
+      "title": "FCNR(B) deposits saved India from a BoP deficit in July 2026",
+      "summary": "• India will be in a debt-ridden state for the first time in its history in the year to come.\n• India's debt will be the highest in the world in the first half of the 2026 fiscal year.\n• The country's debt is expected to be the biggest in the history of the world's debt.",
+      "category": "Economy & Banking",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/Economy/fcnrb-deposits-saved-india-from-a-bop-deficit-in-july-2026/article71472424.ece",
+      "relevance_score": 0.9224,
       "published_date": "2026-09-16"
     },
     {
@@ -27,6 +47,16 @@
       "category": "Sports",
       "source": "Hindustan Times - Sports",
       "url": "https://www.hindustantimes.com/sports/hockey/indias-asian-games-2026-hockey-mission-gold-redemption-and-la-olympics-2028-qualification-101789550439223.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10584,
+      "title": "Andhra Pradesh raises age limit for government jobs to 44 years till 2027: how APPSC compares with Telangana, Kerala and UPSC",
+      "summary": "• Andhra Pradesh raises age limit for government jobs to 44 years till 2027.\n• APPSC compares with Telangana, Kerala and UPSC in terms of number of seats.\n• Andhra Pradesh has more seats than any other state in the country.\n• APPSC has the most seats in the state, followed by Kerala and Tamil Nadu.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-raises-age-limit-for-government-jobs-to-44-years-till-2027-how-appsc-compares-with-telangana-kerala-and-upsc/article71471544.ece",
       "relevance_score": 0.91,
       "published_date": "2026-09-16"
     },
@@ -48,6 +78,16 @@
       "source": "News18 - World",
       "url": "https://www.news18.com/videos/world/saudi-houthi-tensions-will-pakistan-invoke-the-makkah-defence-pact-mecca-attacked-news18-10333487.html",
       "relevance_score": 0.8996,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10605,
+      "title": "UN report warns of reprisals against those who collaborate in defence of human rights",
+      "summary": "• UN report: Reprisals are possible for those who help defend human rights in Syria.\n• UN: There is a real risk of reprisal against people who help fight against human rights abuses in Syria and elsewhere in the world.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
+      "category": "International Relations",
+      "source": "UN News",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168345",
+      "relevance_score": 0.8945,
       "published_date": "2026-09-16"
     },
     {
@@ -141,6 +181,16 @@
       "published_date": "2026-09-16"
     },
     {
+      "id": 10608,
+      "title": "The New Delhi BRICS Summit Sends Powerful Messages to America",
+      "summary": "• The Summit sends powerful messages to the U.S. about the importance of the BRICS.\n• The summit also sends a powerful message to China about the future of the global economy.\n• The BRICS are the largest group of nations in the world, with a combined GDP of more than $2.2 trillion.\n• They are the fastest growing economies in the history of the world.",
+      "category": "International Relations",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/09/the-new-delhi-brics-summit-sends-powerful-messages-to-america/",
+      "relevance_score": 0.8428,
+      "published_date": "2026-09-16"
+    },
+    {
       "id": 10566,
       "title": "Top banks to get lion's share of UPI fees",
       "summary": "• Top banks will pay $1.5 billion to $2 billion each year in UPI fee, according to UPI estimates.\n• UPI is the world's largest UPI provider, with more than 1,000 branches across the world.\n• Upi is a unit of the Intercontinental Exchange, which is owned by the U.S. Federal Reserve.",
@@ -148,6 +198,16 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/top-banks-to-get-lions-share-of-upi-fees/articleshow/134275904.cms",
       "relevance_score": 0.8422,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10601,
+      "title": "'Don't want to continue war with US', Beijing ready to ‘safeguard’ Tehran's rights: Inside Iran-China talks",
+      "summary": "• 'Don't want to continue war with US', Beijing ready to ‘safeguard’ Tehran's rights, says Chinese foreign minister.\n• Beijing says it is ready to protect Iran's human rights.\n• China says it wants to 'safeguards' Iran's right to freedom of speech, freedom of movement.\n• Beijing also says it will protect Iran from Iran's nuclear weapons program.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/dont-want-to-continue-war-with-us-beijing-ready-to-safeguard-tehrans-rights-inside-iran-china-talks-101789563835454.html",
+      "relevance_score": 0.8395,
       "published_date": "2026-09-16"
     },
     {
@@ -171,6 +231,16 @@
       "published_date": "2026-09-16"
     },
     {
+      "id": 10604,
+      "title": "NASA’s Integrated Medical Model (IMM)",
+      "summary": "• The model is based on the idea of a human body with multiple organs and organs.\n• It was developed in the 1970s and 1980s by scientists at NASA and the University of California, Los Angeles.\n• It is now being used to develop a model of the entire human body and its organs.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/general/nasas-integrated-medical-model-imm/",
+      "relevance_score": 0.8313,
+      "published_date": "2026-09-16"
+    },
+    {
       "id": 10570,
       "title": "Brook hits lightning century as England crush Sri Lanka in first T20I",
       "summary": "• England beat Sri Lanka 1-0 in their first match of the T20 series in Colombo.\n• England have won all three previous T20Is against Sri Lanka.\n• Sri Lanka have won the series 2-1 with a win and a loss.\n• England are unbeaten in their last five T20s against the Sri Lankans.",
@@ -178,6 +248,26 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/cricket/england-vs-sri-lanka-1st-t20i-harry-brook-century-match-report-news/article71470912.ece",
       "relevance_score": 0.8302,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10603,
+      "title": "NASA Astronaut Reid Wiseman to Join NFL Fans in Baltimore",
+      "summary": "• Wiseman is a member of NASA's Astronaut Corps.\n• He will be in Baltimore for the Baltimore Ravens' game against the New England Patriots.\n• He'll also be in attendance for the Super Bowl on Sunday, September 14.\n• Click here for more information on Wiseman's visit to the Ravens' home field, Gillette Stadium.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-astronaut-reid-wiseman-to-join-nfl-fans-in-baltimore/",
+      "relevance_score": 0.8266,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10613,
+      "title": "WTA Finals moving to an NBA arena next year as tennis tour seeks ’Super Bowl for women’s sports’",
+      "summary": "• WTA Finals moving to an NBA arena next year as tennis tour seeks ’Super Bowl for women’s sports’ WTA Finals will be held in New York City's Madison Square Garden next year for the first time.\n• WTA finals have been held in Las Vegas for the last 10 years.\n• Wta Finals will move to New York for the second time in three years.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/tennis/wta-finals-moves-to-charlotte-spectrum-center-nba-arena-super-bowl-for-womens-sports/article71473639.ece",
+      "relevance_score": 0.824,
       "published_date": "2026-09-16"
     },
     {
@@ -218,6 +308,16 @@
       "source": "Times of India - World",
       "url": "https://timesofindia.indiatimes.com/world/us/meet-tanishka-aglave-the-17-year-old-valrico-florida-student-who-built-a-curry-leaf-treatment-steam-system-and-ai-tool-to-fight-citrus-greening-she-won-50000/articleshow/134264018.cms",
       "relevance_score": 0.8076,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10600,
+      "title": "‘No aggressive element’: Pakistan on defence pact with Saudi Arabia amid Houthi strikes on Mecca",
+      "summary": "• Pakistan and Saudi Arabia have signed a defence pact to defend each other against Houthi attacks on Mecca and other holy sites.\n• Pakistan says there is no aggressive element in the pact.\n• Saudi Arabia says it has no intention of attacking Mecca or any of its holy sites in any way.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/no-aggressive-element-pakistan-on-defence-pact-with-saudi-arabia-amid-houthi-strikes-on-mecca-101789567963261.html",
+      "relevance_score": 0.8066,
       "published_date": "2026-09-16"
     },
     {
@@ -291,6 +391,16 @@
       "published_date": "2026-09-15"
     },
     {
+      "id": 10536,
+      "title": "Western Disturbance To Trigger Rains, Thunderstorms In Punjab, Rajasthan And Delhi-NCR On September 16-17",
+      "summary": "• Rain, thunderstorms expected in Delhi- NCR from September 16 to 17.\n• Rain expected in parts of Punjab, Delhi, Jaipur, Haryana, Uttar Pradesh and Chandigarh.\n• Thunderstorms likely in Delhi and Mumbai from September 18 to 20.",
+      "category": "State News",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/western-disturbance-to-trigger-rains-thunderstorms-in-punjab-rajasthan-and-delhi-ncr-on-september-16-17-12049532#publisher=newsstand",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-15"
+    },
+    {
       "id": 10506,
       "title": "Rajasthan man arrested for Tamil Nadu chief minister Vijay’s deepfake videos",
       "summary": "• Ravi Agrawal of Rajasthan was arrested for his role in the video.\n• He was arrested on suspicion of making a fake video of the chief minister.\n• He has since been released on bail, police said in a statement on Thursday.\n• He is accused of creating fake footage of the Tamil Nadu Chief Minister.",
@@ -301,22 +411,22 @@
       "published_date": "2026-09-15"
     },
     {
-      "id": 10565,
-      "title": "'We need to move on’: India women’s hockey team shifts focus from World Cup heartbreak to Asian Games 2026",
-      "summary": "• India women's hockey team is aiming to win gold at the Asian Games in 2026 in Jakarta and Palembang, South Korea.\n• India's women's team is hoping to win their first Asian Games title in the next two years.\n• The team is targeting a place in the quarter-finals of the 2026 Games.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/hockey/on-a-revival-india-women-have-to-overcome-china-again-101789476618127.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-15"
-    },
-    {
       "id": 10516,
       "title": "Asian Games 2026: India hockey teams chase gold with LA Olympics berth at stake",
       "summary": "• India will play in the men's and women's hockey events at the Games.\n• The women's team will compete for a place in the women's event.\n• The men's hockey team will be competing for a spot in the 2014 Winter Olympics in Sochi, Russia.\n• India is bidding to win a place at the 2016 Olympics in Rio de Janeiro.",
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/asian-games/news/asian-games-2026-india-hockey-teams-gold-medal-world-cup/article71466861.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-15"
+    },
+    {
+      "id": 10565,
+      "title": "'We need to move on’: India women’s hockey team shifts focus from World Cup heartbreak to Asian Games 2026",
+      "summary": "• India women's hockey team is aiming to win gold at the Asian Games in 2026 in Jakarta and Palembang, South Korea.\n• India's women's team is hoping to win their first Asian Games title in the next two years.\n• The team is targeting a place in the quarter-finals of the 2026 Games.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/hockey/on-a-revival-india-women-have-to-overcome-china-again-101789476618127.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-15"
     },
@@ -337,16 +447,6 @@
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/hockey/marijne-to-womens-hockey-team-use-world-cup-heartbreak-to-win-asian-games-gold/article71468143.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-15"
-    },
-    {
-      "id": 10536,
-      "title": "Western Disturbance To Trigger Rains, Thunderstorms In Punjab, Rajasthan And Delhi-NCR On September 16-17",
-      "summary": "• Rain, thunderstorms expected in Delhi- NCR from September 16 to 17.\n• Rain expected in parts of Punjab, Delhi, Jaipur, Haryana, Uttar Pradesh and Chandigarh.\n• Thunderstorms likely in Delhi and Mumbai from September 18 to 20.",
-      "category": "State News",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/western-disturbance-to-trigger-rains-thunderstorms-in-punjab-rajasthan-and-delhi-ncr-on-september-16-17-12049532#publisher=newsstand",
       "relevance_score": 0.91,
       "published_date": "2026-09-15"
     },
@@ -19899,108 +19999,8 @@
       "url": "https://www.news18.com/india/lottery-sambad-today-july-20-2026-nagaland-punjab-maharashtra-goa-manipur-sikkim-arunachal-pradesh-ws-e-10218116.html",
       "relevance_score": 0.8231,
       "published_date": "2026-07-20"
-    },
-    {
-      "id": 7667,
-      "title": "Govt tables bill in Lok Sabha to increase Supreme Court bench to 38 judges",
-      "summary": "• It would be the first increase in the number of judges in the country's highest court.\n• There are currently 38 judges on the Supreme Court.\n• The bill would increase the number from the current 38 judges to 38.\n• It is expected to be passed by the end of the year.\n• It will be the second time the bill has been introduced in the Lok Sabha.",
-      "category": "Polity & Governance",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/govt-tables-bill-in-lok-sabha-to-increase-supreme-court-bench-to-38-judges-11784550433396.html",
-      "relevance_score": 0.8216,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7662,
-      "title": "Core sectors grew at a five-month high of 5% in June 2026 as per new and improved index",
-      "summary": "• Core sectors grew by 5% from June 2013 to June 2014, according to new index.\n• The index has been updated to reflect the growth rate of the core sectors in 2026.\n• The new index is based on a new, improved version of the previous index that has been released.",
-      "category": "Economy & Banking",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/Economy/core-sectors-grew-at-a-five-month-high-of-5-in-june-2026-as-per-new-and-improved-index/article71245133.ece",
-      "relevance_score": 0.8199,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7656,
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "summary": "• He says strikes were in honour of the soldiers killed in Iran.\n• Iran says the strikes were carried out in defence of U.S. troops killed in Iraq and Afghanistan.\n• Security Council passed a resolution condemning the strikes, calling them 'provocative' and 'barbaric' The White House says the strike was in memory of the fallen soldiers.",
-      "category": "International Relations",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "relevance_score": 0.8198,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7671,
-      "title": "Chief Minister Vijay inspects Bio-CNG plant in Chetpet",
-      "summary": "• CNG plant is one of the largest in the country, with capacity to produce 1.5 million litre per day.\n• The plant is expected to be fully operational by the end of the year.\n• It is the first of its kind in the state of Haryana and the second in India.\n• It will be producing bio-cNG in addition to traditional CNG.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/chief-minister-vijay-inspects-bio-cng-plant-in-chetpet/article71246304.ece",
-      "relevance_score": 0.8149,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7640,
-      "title": "FIFA World Cup 2026 Team of the Tournament: Messi, Mbappe and Rodri lead a Spain-dominated ultimate XI",
-      "summary": "• Spain are set to host the tournament for the first time in 2026.\n• Barcelona's Lionel Messi and Paris Saint-Germain's Neymar are among the other stars to make the cut.\n• Messi is the only player to have played in every minute of the tournament.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/football/fifa-world-cup-2026-team-of-the-tournament-messi-mbappe-and-rodri-lead-a-spain-dominated-ultimate-xi-101784537589879.html",
-      "relevance_score": 0.8137,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7659,
-      "title": "Two-day PGI orientation programme begins at Dr. MCR HRD",
-      "summary": "• Two-day programme will be held at the MCRHRD in Delhi.\n• PGI is a two-year programme of post-graduate studies in the United States.\n• The programme is open to students from all over the world.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/two-day-pgi-orientation-programme-begins-at-dr-mcr-hrd/article71244888.ece",
-      "relevance_score": 0.8122,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7645,
-      "title": "Andhra Pradesh EAMCET Counselling 2026 Phase 1 Registration Begins: Check Application Process",
-      "summary": "• Check Application Process for details on how to apply for a spot in the counselling program.\n• For more information on the counselling programme, visit www.eamcet.org.\n• In the U.S. call the National Suicide Prevention Lifeline at 1-800-273-8255.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/andhra-pradesh-eamcet-counselling-2026-phase-1-registration-begins-check-application-process-11794848#publisher=newsstand",
-      "relevance_score": 0.8065,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7678,
-      "title": "Commonwealth Games 2026 – Full list of Indians participating in athletics and para athletics events",
-      "summary": "• Indians will take part in athletics, para athletics and para medicine events at the Games.\n• India will be competing at the Commonwealth Games for the first time in 2026 in Glasgow, Scotland.\n• The Games will be held in Glasgow from July 25 to August 4, 2026.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/commonwealth-games/commonwealth-games-2026-indians-in-athletics-full-squad-list-neeraj-tejaswin-murali/article71245541.ece",
-      "relevance_score": 0.8065,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7622,
-      "title": "Heavy Rain, Flash Flood Risk In Many States As Monsoon Intensifies; Delhi, Mumbai, J&K On Weather Watch",
-      "summary": "• Heavy Rain, Flash Flood Risk In Many States As Monsoon Intensifies.\n• Delhi, Mumbai, J&K On Weather Watch; Mumbai, Delhi, J &K on Weather Watch.\n• Flood Risk in many States as Monoon Intensifying; Delhi,.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/heavy-rain-alert-imd-weather-forecast-states-delhi-mumbai-himachal-uttar-pradesh-northeast-rain-ws-l-10222239.html",
-      "relevance_score": 0.8062,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7695,
-      "title": "Video: CM Vijay's surprise inspection of India's first bio-CNG plant in Chennai",
-      "summary": "• Video: CNG plant is the first of its kind in the country.\n• CNG is a form of compressed natural gas (CNG) that can be blended with petrol or diesel to make CNG.\n• The plant is expected to be operational by the end of the year.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/india/tamil-nadu/story/cm-vijay-surprise-inspection-chennai-bio-cng-plant-scientific-waste-management-2952403-2026-07-20?utm_source=rss",
-      "relevance_score": 0.8061,
-      "published_date": "2026-07-20"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-16T14:42:52.198113Z"
+  "updated_at": "2026-09-16T17:28:15.787817Z"
 }
