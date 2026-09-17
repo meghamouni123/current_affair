@@ -141,6 +141,16 @@
       "published_date": "2026-09-17"
     },
     {
+      "id": 10680,
+      "title": "AIIMS develops AI tool to help detect breast cancer on mammograms",
+      "summary": "• AIIMS developing AI tool will help detect cancer in mammograms using machine learning and artificial intelligence.\n• The tool will be available to patients in the U.S. by the end of the year.\n• For confidential support call the National Suicide Prevention Lifeline on 1-800-273-8255 or visit http://www.suicidepreventionlifeline.org/.\n• For support in the UK, call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch or click here.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/aiims-develops-ai-tool-to-help-detect-breast-cancer-on-mammograms/articleshow/134317927.cms",
+      "relevance_score": 0.8577,
+      "published_date": "2026-09-17"
+    },
+    {
       "id": 10639,
       "title": "Adoption of BRICS New Delhi Declaration shows world's trust in India: PM Modi",
       "summary": "• India is a key member of the BRICS group of emerging economies.\n• India also has a key role in the Shanghai Cooperation Organisation (SCO) and the Shanghai Summit of the Group of 20 (SCG) in China.\n• The SCG is the largest economic bloc in the world, with a combined GDP of more than $20 trillion.",
@@ -311,22 +321,22 @@
       "published_date": "2026-09-16"
     },
     {
-      "id": 10586,
-      "title": "India’s Asian Games 2026 hockey mission: Gold, redemption and LA Olympics 2028 qualification",
-      "summary": "• India will be competing in the Asian Games for the first time in 2026.\n• India have never won an Asian Games hockey gold medal.\n• The last time India won a gold medal was in 1978 in Guangzhou, China.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/hockey/indias-asian-games-2026-hockey-mission-gold-redemption-and-la-olympics-2028-qualification-101789550439223.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-16"
-    },
-    {
       "id": 10584,
       "title": "Andhra Pradesh raises age limit for government jobs to 44 years till 2027: how APPSC compares with Telangana, Kerala and UPSC",
       "summary": "• Andhra Pradesh raises age limit for government jobs to 44 years till 2027.\n• APPSC compares with Telangana, Kerala and UPSC in terms of number of seats.\n• Andhra Pradesh has more seats than any other state in the country.\n• APPSC has the most seats in the state, followed by Kerala and Tamil Nadu.",
       "category": "State News",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-raises-age-limit-for-government-jobs-to-44-years-till-2027-how-appsc-compares-with-telangana-kerala-and-upsc/article71471544.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10586,
+      "title": "India’s Asian Games 2026 hockey mission: Gold, redemption and LA Olympics 2028 qualification",
+      "summary": "• India will be competing in the Asian Games for the first time in 2026.\n• India have never won an Asian Games hockey gold medal.\n• The last time India won a gold medal was in 1978 in Guangzhou, China.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/hockey/indias-asian-games-2026-hockey-mission-gold-redemption-and-la-olympics-2028-qualification-101789550439223.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-16"
     },
@@ -19989,18 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/karnataka/uas-b-introduces-low-cost-technology-to-farmers-to-produce-biochar-trains-them-to-improve-soil-health/article71185537.ece",
       "relevance_score": 0.9449,
       "published_date": "2026-07-20"
-    },
-    {
-      "id": 7653,
-      "title": "How Tamil Nadu waited for Assembly election results over the decades",
-      "summary": "• Tamil Nadu has been in a state of political turmoil for the past few years.\n• The state has been at the centre of a political crisis since the 2014 general election.\n• The Tamil Nadu Assembly elections were held on May 7 and 14.\n• The election was boycotted by the majority of the Tamil Nadu electorate.",
-      "category": "State News",
-      "source": "The Hindu - Tamil Nadu",
-      "url": "https://www.thehindu.com/elections/tamil-nadu-assembly/how-tamil-nadu-waited-for-assembly-election-results-over-the-decades/article70918095.ece",
-      "relevance_score": 0.94,
-      "published_date": "2026-07-20"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-17T17:34:19.246875Z"
+  "updated_at": "2026-09-17T19:38:07.039379Z"
 }
