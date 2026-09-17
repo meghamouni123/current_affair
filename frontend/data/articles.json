@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 10625,
+      "title": "Zero-MDR gave banks no return on UPI merchant onboarding costs: Ex-DFS secretary M. Nagaraju",
+      "summary": "• He says banks were forced to use UPI to meet the costs of UPI merchants.\n• He adds that banks are now paying back the money they lost by using the UPI system.\n• He also says banks are paying off the losses they made by using UPI.",
+      "category": "Economy & Banking",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/zeromdr-gave-banks-no-return-on-upi-merchant-onboarding-costs-ex-dfs-secretary-m-nagaraju-11789562151509.html",
+      "relevance_score": 0.8547,
+      "published_date": "2026-09-17"
+    },
+    {
+      "id": 10621,
+      "title": "Govt explores holding special Parliament session next month",
+      "summary": "• Explores holding Special Session of Parliament next month, says it will take place in next two weeks.\n• Government wants to hold special session to discuss issues of national importance.\n• Government also wants to consider holding special session of Parliament to discuss key issues of the country's foreign policy, economy, defence, foreign policy and foreign policy.\n• Government hopes to hold a special session in next few days.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/govt-explores-holding-special-parliament-session-next-month-101789585765686.html",
+      "relevance_score": 0.8,
+      "published_date": "2026-09-17"
+    },
+    {
       "id": 10617,
       "title": "India Goes Digital For Climate Change, Launches Net Zero, Action Plan Platforms",
       "summary": "• Net Zero is a low-carbon technology that aims to reduce carbon emissions by 50 per cent by 2030.\n• India also aims to have a zero-carbon economy by 2030, with a goal of a net-zero economy by 2050.\n• The country has a population of 1.2 billion people, the lowest rate of any country in the world.",
@@ -51,22 +71,22 @@
       "published_date": "2026-09-16"
     },
     {
-      "id": 10586,
-      "title": "India’s Asian Games 2026 hockey mission: Gold, redemption and LA Olympics 2028 qualification",
-      "summary": "• India will be competing in the Asian Games for the first time in 2026.\n• India have never won an Asian Games hockey gold medal.\n• The last time India won a gold medal was in 1978 in Guangzhou, China.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/hockey/indias-asian-games-2026-hockey-mission-gold-redemption-and-la-olympics-2028-qualification-101789550439223.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-16"
-    },
-    {
       "id": 10584,
       "title": "Andhra Pradesh raises age limit for government jobs to 44 years till 2027: how APPSC compares with Telangana, Kerala and UPSC",
       "summary": "• Andhra Pradesh raises age limit for government jobs to 44 years till 2027.\n• APPSC compares with Telangana, Kerala and UPSC in terms of number of seats.\n• Andhra Pradesh has more seats than any other state in the country.\n• APPSC has the most seats in the state, followed by Kerala and Tamil Nadu.",
       "category": "State News",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-raises-age-limit-for-government-jobs-to-44-years-till-2027-how-appsc-compares-with-telangana-kerala-and-upsc/article71471544.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10586,
+      "title": "India’s Asian Games 2026 hockey mission: Gold, redemption and LA Olympics 2028 qualification",
+      "summary": "• India will be competing in the Asian Games for the first time in 2026.\n• India have never won an Asian Games hockey gold medal.\n• The last time India won a gold medal was in 1978 in Guangzhou, China.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/hockey/indias-asian-games-2026-hockey-mission-gold-redemption-and-la-olympics-2028-qualification-101789550439223.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-16"
     },
@@ -161,6 +181,16 @@
       "published_date": "2026-09-16"
     },
     {
+      "id": 10620,
+      "title": "Seminar on world peace to be held on September 20",
+      "summary": "• Seminar will focus on how to build peace in the world.\n• It will be followed by a panel discussion on the future of the world on September 21.\n• For more information on the event, visit www.worldpeace.org.uk or go to http://www.peaceforums.org/world-peace-summit.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/seminar-on-world-peace-to-be-held-on-september-20/article71473676.ece",
+      "relevance_score": 0.8788,
+      "published_date": "2026-09-16"
+    },
+    {
       "id": 10588,
       "title": "Secretary-General of ASEAN Delivers Lecture at China Foreign Affairs University",
       "summary": "• Secretary-General delivers lecture on China's role in the region.\n• He was speaking at the China Foreign affairs University in Guangzhou, Guangdong Province.\n• The lecture was organized by the Chinese Ministry of Foreign Affairs and China's Foreign Policy Institute.\n• For more information on the lecture, go to: http://www.csunews.com/news/features/2013/10/26/sean-secretary-of-aSEAN-delivers-lecture-on-China-foreign-affairs-university.html.",
@@ -188,6 +218,16 @@
       "source": "Times of India - World",
       "url": "https://timesofindia.indiatimes.com/world/us/meet-praadhyumn-indaana-the-17-year-old-montvale-new-jersey-student-whose-ai-model-cut-nuclear-reactor-heat-limit-prediction-error-from-about-63-to-5-5-he-won-50000/articleshow/134265837.cms",
       "relevance_score": 0.8624,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10627,
+      "title": "US House Vote On Russia Sanctions Bill Deferred Unexpectedly, No Reason Given | Russian Oil | News18",
+      "summary": "• No reason given for the delay in the vote, which was expected to take place later this week.\n• No immediate word on why the vote was delayed.\n• No word on what the delay could mean for Russia's oil exports.\n• No comment on the possible impact on Russian oil exports to the U.S.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/videos/world/us-house-vote-on-russia-sanctions-bill-deferred-unexpectedly-no-reason-given-russian-oil-news18-10334987.html",
+      "relevance_score": 0.8621,
       "published_date": "2026-09-16"
     },
     {
@@ -331,6 +371,16 @@
       "published_date": "2026-09-16"
     },
     {
+      "id": 10619,
+      "title": "Allahabad HC frees man confined after conversion, relationship with Muslim woman; cites Articles 21, 25",
+      "summary": "• Court cites Articles 21, 25 of Indian constitution.\n• Man had converted to Islam, was in relationship with woman.\n• He was confined after converting to Islam and having relationship with her.\n• He has been freed on bail pending a hearing on his case in November.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-frees-man-confinedafter-conversion-relationship-with-muslim-woman-cites-articles-21-25/article71472875.ece",
+      "relevance_score": 0.8093,
+      "published_date": "2026-09-16"
+    },
+    {
       "id": 10589,
       "title": "What is Article 10? The 1991 pact at the centre of India-Pakistan naval ship collision – explained",
       "summary": "• Article 10 is a pact between India and Pakistan to prevent naval accidents.\n• It was signed after a collision between Indian and Pakistani naval ships in 1991.\n• The two ships were from the Indian Navy and the Pakistan Navy.",
@@ -351,6 +401,16 @@
       "published_date": "2026-09-16"
     },
     {
+      "id": 10622,
+      "title": "PM Modi turns 76: 25 years in power that transformed India's political landscape",
+      "summary": "• Modi's 25 years as prime minister have transformed the country's politics.\n• He has been in power since May 2014 and has been PM since May 2013.\n• He is the youngest prime minister in India's history to turn 76 years old.\n• PM Modi is also the youngest Indian prime minister ever.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/25-years-of-modi-the-making-of-a-political-force-101789583959262.html",
+      "relevance_score": 0.8068,
+      "published_date": "2026-09-16"
+    },
+    {
       "id": 10600,
       "title": "‘No aggressive element’: Pakistan on defence pact with Saudi Arabia amid Houthi strikes on Mecca",
       "summary": "• Pakistan and Saudi Arabia have signed a defence pact to defend each other against Houthi attacks on Mecca and other holy sites.\n• Pakistan says there is no aggressive element in the pact.\n• Saudi Arabia says it has no intention of attacking Mecca or any of its holy sites in any way.",
@@ -368,6 +428,16 @@
       "source": "ASEAN Secretariat",
       "url": "https://asean.org/secretary-general-of-asean-meets-with-administrator-of-the-national-energy-administration-of-china/",
       "relevance_score": 0.8022,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10623,
+      "title": "Siddhant Kishore on BRICS and the New Geopolitics of Asia",
+      "summary": "• S.Kishore: BRICS are an opportunity to change the way the world looks at the world.\n• He says BRICS can play a key role in shaping the future of the region.\n• Siddhants says the BRICS have the potential to reshape the world's political and economic landscape.",
+      "category": "International Relations",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/09/siddhant-kishore-on-brics-and-the-new-geopolitics-of-asia/",
+      "relevance_score": 0.8002,
       "published_date": "2026-09-16"
     },
     {
@@ -19929,78 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/kerala/police-to-launch-whatsapp-group-for-residents-association-functionaries-in-kozhikode-city/article71245267.ece",
       "relevance_score": 0.8442,
       "published_date": "2026-07-20"
-    },
-    {
-      "id": 7672,
-      "title": "Current politics will not allow a Kapu leader to become CM of A.P., says MLC Somu Veerraju",
-      "summary": "• MLC: Kapu leaders will not be allowed to become the next chief minister of the state.\n• Veerrraju is a former member of the Lok Sabha and a former MLC of the Rajya Sabha.\n• He is the son of a former Lok Sabha member and the son-in-law of the current CM.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/current-politics-will-not-allow-a-kapu-leader-to-become-cm-of-ap-says-mlc-somu-veerraju/article71245685.ece",
-      "relevance_score": 0.8392,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7654,
-      "title": "Wayne Rooney calls out Lionel Messi for unsporting behaviour in FIFA World Cup final: ‘Sad to see him do that'",
-      "summary": "• ‘Sad to see him do that' says Rooney of Messi's actions in the final.\n• Wayne Rooney: ‘It’s a shame he did that.\n• It was a bit of a shame.’ Messi: � ‘I don’t think I’ve ever done anything like that in my life.\n• I was just trying to do my best’.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/football/wayne-rooney-calls-out-lionel-messi-for-unsporting-behaviour-in-fifa-world-cup-final-sad-to-see-him-do-that-101784543091579.html",
-      "relevance_score": 0.8384,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7626,
-      "title": "Spain chokes Messi, Argentina to lift second FIFA World Cup title, rides on Torres’ winner",
-      "summary": "• Spain beat Argentina 2-1 in extra-time to win second World Cup in a row.\n• Spain had previously won the tournament in 1986 and 1990.\n• Argentina won the World Cup for the first time in 1986, and last time in 1990.\n• Spain won the title for the second time in 2002, and third time in 2006.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/fifa-world-cup/spain-beats-lionel-messi-argentina-wins-fifa-world-cup-2026-ferran-torres-goal-in-1-0-victory/article71242959.ece",
-      "relevance_score": 0.8346,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7621,
-      "title": "India's first electric air taxi takes wings, preps for a 2028 launch",
-      "summary": "• It will be the first of its kind in the country, and will be powered by an electric battery.\n• The first flight is expected to take off from the outskirts of the capital, New Delhi, in 2028.\n• The second flight is scheduled to take place from the city's outskirts in 2029.\n• The third flight is planned for the city centre in 2031.",
-      "category": "Science & Technology",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/electric-air-taxi-prototype-eplane-company-uber-iitm-urban-mobility-startups-technology-aviation-11784432958226.html",
-      "relevance_score": 0.8329,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7641,
-      "title": "India approves its first dengue vaccine QDENGA after DCGI clearance",
-      "summary": "• India approves first vaccine to treat Dengue fever.\n• Dengue is a mosquito-borne disease that kills up to 50,000 people a year in India.\n• India is the world's largest producer of Dengue Vaccine in terms of number of doses and the number of people who have received the vaccine.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/india-approves-its-first-dengue-vaccine-qdenga-after-dcgi-clearance/articleshow/132509192.cms",
-      "relevance_score": 0.8298,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7658,
-      "title": "India Approves First Dengue Vaccine QDENGA For Ages 4-60, No Pre-Vaccination Tests Required",
-      "summary": "• No pre-vaccination tests are required for children under the age of 4.\n• India is the first country in the world to approve a Dengue vaccine for this age group.\n• The vaccine is available in India for free to children aged 4 to 60.",
-      "category": "Science & Technology",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/india/india-first-dengue-vaccine-dcgi-approves-takeda-qdenga-takeda-biopharmaceuticals-ws-l-10222733.html",
-      "relevance_score": 0.8294,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7639,
-      "title": "Kristu Jayanti University inaugurates new campus on airport road in Bengaluru",
-      "summary": "• University will be based at the airport road campus.\n• It will be open to students from all over the state of Karnataka.\n• The university will also have an international campus in Hyderabad.\n• The campus will be fully equipped with state-of-the-art facilities and facilities for research and teaching.\n• The University will also be open for students from across the country.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/kristu-jayanti-university-inaugurates-new-campus-on-hal-road/article71242152.ece",
-      "relevance_score": 0.8267,
-      "published_date": "2026-07-20"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-16T19:12:09.598246Z"
+  "updated_at": "2026-09-17T04:01:09.059226Z"
 }
