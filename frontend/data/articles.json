@@ -1,6 +1,66 @@
 {
   "articles": [
     {
+      "id": 10693,
+      "title": "OpenAI launches Astra for law, says it will help lawyers with cases",
+      "summary": "• Astra will be used by lawyers to help them with cases, the company says.\n• The project is the brainchild of artificial intelligence firm OpenAI, which was founded by former Google executive Larry Page.\n• OpenAI says Astra could be used to help with legal cases in the future.\n• The company has raised $1 billion in funding so far.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/technology/news/story/openai-launches-astra-for-law-says-it-will-help-lawyers-with-cases-2997560-2026-09-18?utm_source=rss",
+      "relevance_score": 0.8886,
+      "published_date": "2026-09-18"
+    },
+    {
+      "id": 10689,
+      "title": "Adarana-3 scheme to be relaunched soon, says Viswabrahmin Corporation chief",
+      "summary": "• Adarana is a scheme to provide electricity to remote areas of India.\n• The scheme has been in place since the 1980s.\n• It was designed to provide power to remote parts of the country.\n• It is also used to help people in remote areas to get electricity to their homes.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/adarana-3-scheme-to-be-relaunched-soon/article71476501.ece",
+      "relevance_score": 0.873,
+      "published_date": "2026-09-18"
+    },
+    {
+      "id": 10690,
+      "title": "VIT-AP lays focus on AI, quantum and deep-tech research",
+      "summary": "• VIT- AP is a joint venture between VIT University and the University of Oxford.\n• The two universities have been working together for more than a decade.\n• The aim is to create a network of research centres around the world for AI and quantum research.\n• For more information, visit VITAP's website or visit its official Facebook page.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-lays-focus-on-ai-quantum-and-deep-tech-research/article71476202.ece",
+      "relevance_score": 0.8682,
+      "published_date": "2026-09-18"
+    },
+    {
+      "id": 10696,
+      "title": "Asian Games 2026: Quimcy Dsouza nears historic Teqball medal for India",
+      "summary": "• India will be hosting the Games for the first time in 2026.\n• India has never won an Asian Games medal in football or any other sport.\n• The last time India won a medal in a sports event was in 1988 in Seoul.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/asian-games/news/quimcy-dsouza-reach-semifinals-teqball-asian-games-2026-india-results-score-mixed-doubles-details/article71479395.ece",
+      "relevance_score": 0.8644,
+      "published_date": "2026-09-18"
+    },
+    {
+      "id": 10694,
+      "title": "Blood Donors May Get Digital Identity Under New Plan. How It Could Make Tracking Easier",
+      "summary": "• Blood Donors May Get Digital Identity Under New Plan.\n• How it could make tracking Easier to track blood donors easier to track.\n• For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/health/blood-donors-may-get-digital-identity-under-new-plan-how-it-could-make-tracking-easier-ws-l-10338467.html",
+      "relevance_score": 0.8274,
+      "published_date": "2026-09-18"
+    },
+    {
+      "id": 10688,
+      "title": "Homestay: Charting a smooth path for hosts & guests in Karnataka",
+      "summary": "• Hosts and guests share their experiences of staying at a homestay in the state of Karnataka, India.\n• For more information, visit www.homestaykarnataka.com or go to www.homeday.com.\n• For a full list of homestays, visit http://www.homeland.com/Karnataka/.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/charting-a-smooth-path-for-hosts-guests/article71454594.ece",
+      "relevance_score": 0.8175,
+      "published_date": "2026-09-18"
+    },
+    {
       "id": 10683,
       "title": "DUSU election: Facial recognition system among deployments as part of security",
       "summary": "• DUSU elections will be held on November 7.\n• Dusu is a member of the African Union.\n• D USU is the second largest country in the African continent after South Africa.\n• The U.S. is the largest nation in the continent, followed by South Africa and then Nigeria.\n• The election will take place in front of more than 100,000 people.",
@@ -8,6 +68,16 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/dusu-election-facial-recognition-system-among-deployments-as-part-of-security-101789701404046.html",
       "relevance_score": 0.8151,
+      "published_date": "2026-09-18"
+    },
+    {
+      "id": 10692,
+      "title": "Nandan Nilekani-led panel on NEET reforms to submit first report by month-end: Centre to SC",
+      "summary": "• Centre to SC: Report will be sent to the Supreme Court by the end of the month.\n• Nandan NileKani is the chairman of the National Eligibility and Entrance Test (NEET) panel set up by the government.\n• The panel is expected to submit its first report to the SC by month's end.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/nandan-nilekani-led-panel-on-neet-reforms-to-submit-first-report-by-month-end-centre-to-sc-101789717381320.html",
+      "relevance_score": 0.8081,
       "published_date": "2026-09-18"
     },
     {
@@ -31,22 +101,22 @@
       "published_date": "2026-09-17"
     },
     {
-      "id": 10652,
-      "title": "Fortis moves Supreme Court against Delhi High Court order",
-      "summary": "• Fortis is owned by Indian oil giant Indian National Oil Company ( IOC) IOC is a subsidiary of state-owned Indian oil company Fortis.\n• IOC has been accused of mismanaging the company's finances.\n• IOC was also accused of violating the Bombay High Court's order.",
-      "category": "Polity & Governance",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/fortis-moves-supreme-court-against-delhi-high-court-order/articleshow/134309495.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-17"
-    },
-    {
       "id": 10657,
       "title": "Supreme Court to Tamil Nadu: \"Change Mindset On Hindi\" | Mandates Land For Navodaya Vidyalayas",
       "summary": "• The Supreme Court has issued a key ruling regarding the establishment of Jawahar Navodaya Vidyalayas (JNVs) in Tamil Nadu.\n• Addressing the state government’s opposition to the three-language policy, the apex court rejected Tamil Nadu's plea to recall its previous order.\n• Remarking that \"it cannot be that Hindi will not be taught on the soil of Tamil Nadu,\" the court urged the state to change its mindset.\n• Watch this breakdown to understand the Supreme Court's remarks, Tamil Nadu's two-language policy stand, and what this landmark decision means for education in the state.",
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/supreme-court-to-tamil-nadu-change-mindset-on-hindi-mandates-land-for-navodaya-vidyalayas-10336515.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-17"
+    },
+    {
+      "id": 10664,
+      "title": "Delhi monsoon: 8% more rain despite deficit across Haryana, Punjab, says report; here's why",
+      "summary": "• Delhi monsoon has been delayed by up to two weeks due to bad weather in parts of the country.\n• Delhi is expected to get 8% to 10% more rainfall than usual this year.\n• The monsoon usually lasts from June to September in the Indian capital.",
+      "category": "State News",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/delhi-monsoon-8-more-rain-despite-deficit-across-haryana-punjab-says-report-heres-why-11789640579650.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-17"
     },
@@ -61,12 +131,12 @@
       "published_date": "2026-09-17"
     },
     {
-      "id": 10664,
-      "title": "Delhi monsoon: 8% more rain despite deficit across Haryana, Punjab, says report; here's why",
-      "summary": "• Delhi monsoon has been delayed by up to two weeks due to bad weather in parts of the country.\n• Delhi is expected to get 8% to 10% more rainfall than usual this year.\n• The monsoon usually lasts from June to September in the Indian capital.",
-      "category": "State News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/delhi-monsoon-8-more-rain-despite-deficit-across-haryana-punjab-says-report-heres-why-11789640579650.html",
+      "id": 10652,
+      "title": "Fortis moves Supreme Court against Delhi High Court order",
+      "summary": "• Fortis is owned by Indian oil giant Indian National Oil Company ( IOC) IOC is a subsidiary of state-owned Indian oil company Fortis.\n• IOC has been accused of mismanaging the company's finances.\n• IOC was also accused of violating the Bombay High Court's order.",
+      "category": "Polity & Governance",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/fortis-moves-supreme-court-against-delhi-high-court-order/articleshow/134309495.cms",
       "relevance_score": 0.91,
       "published_date": "2026-09-17"
     },
@@ -351,22 +421,22 @@
       "published_date": "2026-09-16"
     },
     {
-      "id": 10584,
-      "title": "Andhra Pradesh raises age limit for government jobs to 44 years till 2027: how APPSC compares with Telangana, Kerala and UPSC",
-      "summary": "• Andhra Pradesh raises age limit for government jobs to 44 years till 2027.\n• APPSC compares with Telangana, Kerala and UPSC in terms of number of seats.\n• Andhra Pradesh has more seats than any other state in the country.\n• APPSC has the most seats in the state, followed by Kerala and Tamil Nadu.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-raises-age-limit-for-government-jobs-to-44-years-till-2027-how-appsc-compares-with-telangana-kerala-and-upsc/article71471544.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-16"
-    },
-    {
       "id": 10586,
       "title": "India’s Asian Games 2026 hockey mission: Gold, redemption and LA Olympics 2028 qualification",
       "summary": "• India will be competing in the Asian Games for the first time in 2026.\n• India have never won an Asian Games hockey gold medal.\n• The last time India won a gold medal was in 1978 in Guangzhou, China.",
       "category": "Sports",
       "source": "Hindustan Times - Sports",
       "url": "https://www.hindustantimes.com/sports/hockey/indias-asian-games-2026-hockey-mission-gold-redemption-and-la-olympics-2028-qualification-101789550439223.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-16"
+    },
+    {
+      "id": 10584,
+      "title": "Andhra Pradesh raises age limit for government jobs to 44 years till 2027: how APPSC compares with Telangana, Kerala and UPSC",
+      "summary": "• Andhra Pradesh raises age limit for government jobs to 44 years till 2027.\n• APPSC compares with Telangana, Kerala and UPSC in terms of number of seats.\n• Andhra Pradesh has more seats than any other state in the country.\n• APPSC has the most seats in the state, followed by Kerala and Tamil Nadu.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-raises-age-limit-for-government-jobs-to-44-years-till-2027-how-appsc-compares-with-telangana-kerala-and-upsc/article71471544.ece",
       "relevance_score": 0.91,
       "published_date": "2026-09-16"
     },
@@ -19929,78 +19999,8 @@
       "url": "https://www.news18.com/explainers/kaveri-2-0-why-india-indigenous-fighter-jet-engine-dream-is-getting-a-second-chance-tejas-fifth-generation-ws-l-10225229.html",
       "relevance_score": 0.8106,
       "published_date": "2026-07-21"
-    },
-    {
-      "id": 7736,
-      "title": "Eastern states resolve to strengthen coordination against LWE, organized crime & other challenges",
-      "summary": "• Eastern states will work together to combat LWE and other challenges, officials say.\n• LWE is an acronym for the Latin American Word of War (LW) and is used to refer to a wide range of criminal activities in the region.\n• LW is also used as a tool to fight organized crime and other criminal activities.",
-      "category": "International Relations",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/eastern-states-resolve-to-strengthen-coordination-against-lwe-organized-crime-other-challenges-101784631734850.html",
-      "relevance_score": 0.8105,
-      "published_date": "2026-07-21"
-    },
-    {
-      "id": 7717,
-      "title": "'Voice of Mars for NASA' Applauds Skyroot On Maiden Success Of Vikram-1",
-      "summary": "• Skyroot's Vikram is the first mission to land on Mars.\n• The mission is scheduled to begin operations in 2015.\n• Vikram will send a rover to the surface of the red planet in 2016.\n• It is expected to send back images of the Martian surface in 2017.\n• The project is a collaboration between Skyroot and NASA.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/mission-aagaman-voice-of-mars-for-nasa-applauds-skyroot-on-maiden-success-of-vikram-1-rocket-11800008#publisher=newsstand",
-      "relevance_score": 0.8099,
-      "published_date": "2026-07-21"
-    },
-    {
-      "id": 7746,
-      "title": "Congress surprises Govt, its own MPs with protest at PM's doorstep; thousands regroup at CJP's Jantar Mantar protest site | LIVE",
-      "summary": "• Congress surprises Govt, its own MPs with protest at PM's doorstep.\n• Thousands regroup at CJP's Jantar Mantar protest site.\n• CJP: 'We are not a party, we are an organisation' Congress: 'I am the voice of the voiceless.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/cjp-protest-delhi-jantar-mantar-sonam-wangchuk-july-21-2026/article71247869.ece",
-      "relevance_score": 0.8076,
-      "published_date": "2026-07-21"
-    },
-    {
-      "id": 7749,
-      "title": "VTU to establish EV Incubation center at Mysuru",
-      "summary": "• VTU will be the first of its kind in India.\n• The center will be based in the state of Karnataka.\n• It will focus on electric vehicles and other forms of autonomous vehicles.VTU will also be a part of the U.S. Embassy in Bangalore, India, and the US Embassy in Washington, D.C.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/karnataka/vtu-to-establish-ev-incubation-center-at-mysuru/article71250200.ece",
-      "relevance_score": 0.8033,
-      "published_date": "2026-07-21"
-    },
-    {
-      "id": 7738,
-      "title": "Brazil's Vinicius Jr undergoes chin harmonisation procedure, looks unrecognisable post FIFA World Cup",
-      "summary": "• Brazil star has been undergoing the procedure since the World Cup in Brazil.\n• Brazil team-mate Neymar has also undergone the procedure.\n• Brazil's team-mates have also been undergoing chin-harmonisation procedures.\n• Click here for all the latest from the World cup 2014 in Brazil and beyond.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/football/brazils-vinicius-jr-undergoes-chin-harmonisation-procedure-looks-unrecognisable-post-fifa-world-cup-101784639002592.html",
-      "relevance_score": 0.8003,
-      "published_date": "2026-07-21"
-    },
-    {
-      "id": 7643,
-      "title": "ASEAN Nature-based Solutions (NbS) Platform",
-      "summary": "• ASEAN is a group of countries that share a common goal of promoting sustainable development.\n• The platform aims to promote sustainable development in the region and beyond.\n• It is based on a set of principles called the Asean Nature-Based Solutions (nbS), which was developed in the 1970s and 1980s.\n• The NbS platform is a collaboration between ASEan countries and the UN.",
-      "category": "Science & Technology",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/asean-nature-based-solutions-nbs-platform/",
-      "relevance_score": 0.9701,
-      "published_date": "2026-07-20"
-    },
-    {
-      "id": 7673,
-      "title": "Over $20 billion mobilised through RBI’s special swap facility",
-      "summary": "• Over $10 billion of this was mobilised by the central bank through its special swap facilities.\n• The rest of the money will be used to fund the Reserve Bank of India's (RBI) recapitalisation programme.\n• The scheme will be rolled out over the next two years.\n• The total amount of money to be mobilised is expected to be around $30 billion.",
-      "category": "Economy & Banking",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/over-20-billion-mobilised-through-rbis-special-swap-facility/article71245998.ece",
-      "relevance_score": 0.9546,
-      "published_date": "2026-07-20"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-18T03:44:47.134842Z"
+  "updated_at": "2026-09-18T08:38:21.329083Z"
 }
