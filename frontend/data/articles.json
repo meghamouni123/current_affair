@@ -91,6 +91,26 @@
       "published_date": "2026-09-21"
     },
     {
+      "id": 10904,
+      "title": "RBI issues norms on capital requirements for market risk under Basel III for banks",
+      "summary": "• Banks will be required to hold more capital in case of market risk in the event of a downturn in the economy.\n• Banks must also be able to show they can cope with market risk if the economy falls into a recession.\n• They must also show that they have enough capital to cope with future market risk.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-issues-norms-on-capital-requirements-for-market-risk-under-basel-iii-for-banks/articleshow/134391520.cms",
+      "relevance_score": 0.8942,
+      "published_date": "2026-09-21"
+    },
+    {
+      "id": 10903,
+      "title": "US stresses backing for Japan, Korea and Taiwan ahead of Trump-Xi summit",
+      "summary": "• U.S. also backs Taiwan, China and South Korea ahead of Xi-Trump meeting.\n• China's President Xi Jinping will meet with President Donald Trump on November 12 in Beijing.\n• The two leaders are expected to meet for the first time since Xi's visit to China in November 2013.\n• The meeting is expected to be the first between the leaders of the two countries.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/us-news/us-stresses-backing-for-japan-korea-and-taiwan-ahead-of-trump-xi-summit-101790016002340.html",
+      "relevance_score": 0.8855,
+      "published_date": "2026-09-21"
+    },
+    {
       "id": 10901,
       "title": "Why Sri Lanka’s Ruling NPP Has Not Abolished the Executive Presidency Yet",
       "summary": "• Why Sri Lankan President Is Still In The Executive Presidency.\n• Why the NPP Is Still The Ruling Party in Sri Lanka.\n• The NPP is the ruling party of Sri Lanka's ruling party, the National People's Party (NPP) NPP has been in power since 2004.",
@@ -19979,28 +19999,8 @@
       "url": "https://www.thehindu.com/business/Industry/infosys-board-names-ashiss-kumar-dash-as-ceo-designate/article71258032.ece",
       "relevance_score": 0.8727,
       "published_date": "2026-07-23"
-    },
-    {
-      "id": 7898,
-      "title": "Secretary-General of ASEAN Meets with Minister of Foreign Affairs of the Republic of Korea",
-      "summary": "• Secretary-General meets with Korean Foreign Minister to discuss relations between the two Koreas.\n• Meeting takes place at the Foreign Ministry in Seoul, South Korea.\n• The meeting is part of the ASEan-ASEAN Summit of Foreign Ministers and Foreign Ministers held in Seoul this week.\n• The summit is the first of its kind in the region.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-meets-with-minister-of-foreign-affairs-of-the-republic-of-korea/",
-      "relevance_score": 0.868,
-      "published_date": "2026-07-23"
-    },
-    {
-      "id": 7868,
-      "title": "Meet Evan Budz: The 16-year-old Canadian who built an AI-powered robot turtle to detect microplastics with 94% accuracy",
-      "summary": "• The robot can also detect small pieces of plastic with 94 per cent accuracy.\n• Budz is the son of former Canadian Prime Minister Paul Budz and his wife, Anne Budz.\n• For more information on the robot, visit the company's website.",
-      "category": "Science & Technology",
-      "source": "Times of India - World",
-      "url": "https://timesofindia.indiatimes.com/science/meet-evan-budz-the-16-year-old-canadian-who-built-an-ai-powered-robot-turtle-to-detect-microplastics-with-94-accuracy/articleshow/132576962.cms",
-      "relevance_score": 0.863,
-      "published_date": "2026-07-23"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-21T18:41:59.945398Z"
+  "updated_at": "2026-09-21T20:27:40.873434Z"
 }
