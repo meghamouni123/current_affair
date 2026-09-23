@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 11012,
+      "title": "Jay Meena wins India’s first-ever soft tennis bronze medal at Asian Games",
+      "summary": "• Meena won the bronze medal in the women's singles event.\n• She also won the silver medal in women's doubles at the Asian Games in Guangzhou.\n• She won the gold medal in soft tennis in the men's singles competition.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/jay-meena-wins-indias-first-ever-soft-tennis-bronze-medal-at-asian-games/article71498494.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-23"
+    },
+    {
       "id": 11009,
       "title": "Asian Games 2026: Jay Meena confirms India’s first-ever medal in soft tennis after entering semifinals",
       "summary": "• India won first ever soft tennis medal at the Asian Games in 2010 in Guangzhou, China.\n• Meena was part of the Indian team that won silver in the women's team event.\n• India also won gold in the men's team competition in 2010 and 2012 Asian Games.",
@@ -21,6 +31,16 @@
       "published_date": "2026-09-23"
     },
     {
+      "id": 11011,
+      "title": "Anthropic, OpenEvidence partner to bring medical AI worldwide",
+      "summary": "• OpenEvidence will use AI to help people with medical conditions.\n• Anthropic and OpenEvidence are working together on the project.\n• For more information, visit anthropic.com and open evidence.org.\n• For confidential support, call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/anthropic-openevidence-partner-to-bring-medical-ai-worldwide/article71498335.ece",
+      "relevance_score": 0.8807,
+      "published_date": "2026-09-23"
+    },
+    {
       "id": 10995,
       "title": "India joins EU, Brazil, Canada and Australia to back multilateralism",
       "summary": "• India joins US, Canada, Australia and other nations in backing the UN Security Council resolution.\n• Security Council and the Security Council of the United Nations.\n• It is also part of the European Union and the Organisation for Security and Co-operation in Africa ( OSCE).\n• India is also a part of NATO and the African Union.",
@@ -28,6 +48,36 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/india-joins-eu-brazil-canada-and-australia-to-back-multilateralism-101790103734127.html",
       "relevance_score": 0.8774,
+      "published_date": "2026-09-23"
+    },
+    {
+      "id": 11021,
+      "title": "‘One-man autocracy’ : Opposition wants CEC Gyanesh Kumar ‘impeached’ over report of 14 EC objections",
+      "summary": "• ‘One-man autocracy’: Opposition calls for CEC’s impeachment over report.\n• CEC says report is based on ‘reasonable grounds’ and ‘accuses’ him of being ‘irresponsible’.\n• “I am not a dictator, I am not an autocrat,” Kumar says.",
+      "category": "Polity & Governance",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/oneman-autocracy-opposition-wants-cec-gyanesh-kumar-impeached-over-report-of-14-ec-objections-sir-indian-express-11790142674797.html",
+      "relevance_score": 0.8757,
+      "published_date": "2026-09-23"
+    },
+    {
+      "id": 11014,
+      "title": "Sensex, Nifty open positive amid Middle East concerns, fund outflows",
+      "summary": "• Sensex and Nifty set to open positive for second day in a row.\n• Mideast concerns prompt sell-off in Asian shares, dollar, yen, euro.\n• Nifty, S&P 500, BSE all open positive; Sensex open up 0.01% to 2,071.",
+      "category": "Economy & Banking",
+      "source": "Hindustan Times - Business",
+      "url": "https://www.hindustantimes.com/business/stock-market-today-sept-23-live-updates-bse-nse-ipo-gmp-sensex-nifty-101790132449971.html",
+      "relevance_score": 0.8647,
+      "published_date": "2026-09-23"
+    },
+    {
+      "id": 11027,
+      "title": "Asian Games 2026: Why India missed out on an eFootball medal despite beating Mongolia",
+      "summary": "• Asian Games 2014: India beat Mongolia 3-1 to win the eFootball gold medal.\n• India's eFootball team beat Mongolia 1-0 in the final to claim the gold medal for the first time in the history of the event.\n• India also won the silver medal for eFootball at the Asian Games in 2010.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-india-efootball-medal-exit-mongolia-forfeit/article71498302.ece",
+      "relevance_score": 0.8461,
       "published_date": "2026-09-23"
     },
     {
@@ -48,6 +98,16 @@
       "source": "News18 - World",
       "url": "https://www.news18.com/videos/world/iran-s-araghchi-meets-trump-envoy-witkoff-at-un-lays-out-terms-for-reopening-hormuz-news18-10347291.html",
       "relevance_score": 0.8251,
+      "published_date": "2026-09-23"
+    },
+    {
+      "id": 11022,
+      "title": "MP Spurious Alcohol Hooch Tragedy: Main Accused Arrested After Brief Encounter In Sagar",
+      "summary": "• Main Acc accused arrested after brief Encounter in Sagar, police say.\n• Police say main accused is a former member of Parliament from Sagar in north-east Delhi.\n• The main accused has been charged with two counts of criminal damage to property.",
+      "category": "National News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/mp-spurious-alcohol-hooch-tragedy-main-accused-arrested-after-brief-encounter-in-sagar-ws-l-10347613.html",
+      "relevance_score": 0.8156,
       "published_date": "2026-09-23"
     },
     {
@@ -201,16 +261,6 @@
       "published_date": "2026-09-22"
     },
     {
-      "id": 10921,
-      "title": "Asian Games 2026 LIVE: India beats Sri Lanka in women's cricket for first gold medal",
-      "summary": "• India beat Sri Lanka to win first ever women's gold medal at the Asian Games.\n• India won gold in the men's and women's team events.\n• India also won a silver medal in the women's event.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-22-2026/article71492964.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-22"
-    },
-    {
       "id": 10932,
       "title": "Asian Games: Smriti Mandhana stars as India retain women's cricket gold medal",
       "summary": "• India beat South Korea in final to win gold medal in women's Cricket at the Asian Games.\n• India also won gold in men's cricket at the 2014 Asian Games in Incheon.\n• India won silver medal in the men's team event in the women's tournament.\n• India's women's team won gold at the 2010 Commonwealth Games in Delhi.",
@@ -237,6 +287,16 @@
       "category": "Sports",
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/asian-games/asian-games-womens-cricket-gold-medallists-full-list-india-equals-pakistan-record/article71494480.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-22"
+    },
+    {
+      "id": 10921,
+      "title": "Asian Games 2026 LIVE: India beats Sri Lanka in women's cricket for first gold medal",
+      "summary": "• India beat Sri Lanka to win first ever women's gold medal at the Asian Games.\n• India won gold in the men's and women's team events.\n• India also won a silver medal in the women's event.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-22-2026/article71492964.ece",
       "relevance_score": 0.91,
       "published_date": "2026-09-22"
     },
@@ -19939,68 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/mann-ki-baat-india-emerging-as-trusted-global-defence-partner-says-pm-modi/article71268787.ece",
       "relevance_score": 0.8111,
       "published_date": "2026-07-26"
-    },
-    {
-      "id": 8042,
-      "title": "MoU signed to boost innovation in medical robotics",
-      "summary": "• U.S. and Israel sign MoU to develop medical robotics in the U.N.'s first-ever medical robotics conference.\n• The conference will take place in New York in March and April.\n• The event will focus on the development of medical robotics for the treatment of cancer, stroke and other conditions.\n• For more information on the conference, visit: http://www.jointaction.org/medicalrobotics.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/mou-signed-to-boost-innovation-in-medical-robotics/article71269574.ece",
-      "relevance_score": 0.8011,
-      "published_date": "2026-07-26"
-    },
-    {
-      "id": 7980,
-      "title": "IIT Madras Launches One-Week AI Startup Course, Offers Rs 4 Lakh Prize For Best Pitch",
-      "summary": "• IIT offers one-week course on AI startup at its Madras campus.\n• The course is open to students from all over the country.\n• For confidential support on suicide matters call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/iit-madras-launches-one-week-ai-startup-course-offers-rs-4-lakh-prize-for-best-pitch-11819866#publisher=newsstand",
-      "relevance_score": 0.9435,
-      "published_date": "2026-07-25"
-    },
-    {
-      "id": 7979,
-      "title": "What is the Public Examinations Amendment Bill? Govt proposes sweeping changes to anti-cheating law",
-      "summary": "• Govt wants to make it easier for students to cheat in public examinations.\n• Public exams are a major part of India's higher education system.\n• It is one of the most competitive exams in the world, with more than 1.5 million students taking part each year.\n• The exams are held across the country, including in India and abroad.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/what-is-the-public-examinations-amendment-bill-govt-proposes-sweeping-changes-to-anti-cheating-law/articleshow/132621615.cms",
-      "relevance_score": 0.9268,
-      "published_date": "2026-07-25"
-    },
-    {
-      "id": 8001,
-      "title": "Chair’s Statement of the 16th East Asia Summit (EAS) Foreign Ministers’ Meeting",
-      "summary": "• EAS Foreign Ministers' Meeting took place in Qingdao, China.\n• China is a member of the Association of South East Asian Nations (ASEAN) and the Shanghai Cooperation Organisation (SCO).\n• EAS is the largest regional forum for foreign ministers and foreign ministers in the world.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/chairs-statement-of-the-16th-east-asia-summit-eas-foreign-ministers-meeting/",
-      "relevance_score": 0.9249,
-      "published_date": "2026-07-25"
-    },
-    {
-      "id": 8002,
-      "title": "Monsoon mayhem ahead: Intense rain in Gujarat, Maharashtra, Odisha on Sunday",
-      "summary": "• Monsoon havoc ahead: Heavy rain expected in parts of Maharashtra, Gujarat and Odisha.\n• Flood warnings in place in several parts of India, including Mumbai, Ahmedabad and Kolkata.\n• Flood warning in place for parts of Mumbai, Kolkatta and Ahmedabad, and parts of Gujarat and Maharashtra.",
-      "category": "State News",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/science/story/india-monsoon-heavy-rainfall-alert-imd-forecast-july-26-gujarat-maharashtra-odisha-2955981-2026-07-25?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-07-25"
-    },
-    {
-      "id": 7999,
-      "title": "Here's the last time a Union minister resigned under Modi govt because of protests",
-      "summary": "• Here's the first time a union minister resigned because of anti-government protests.\n• And the third time it was due to a minister quitting because of an anti-party protest.\n• And the fourth time it happened because of a minister resigning because of the anti-police protests.",
-      "category": "Polity & Governance",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/dharemendra-pradhan-mj-akbar-modi-government-the-last-time-a-union-minister-had-to-quit-because-of-protests-cjp-dipke-101784988642931.html",
-      "relevance_score": 0.8983,
-      "published_date": "2026-07-25"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-23T03:57:43.583633Z"
+  "updated_at": "2026-09-23T09:03:43.924571Z"
 }
