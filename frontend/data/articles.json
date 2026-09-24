@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 11091,
+      "title": "No IIT degree, yet leading OpenAI and Anthropic: Meet Vijaye Raji and Rahul Patil",
+      "summary": "• They are the co-founders of the tech start-ups Anthropic and OpenAI.\n• They have no IIT degrees, yet they are leading the way in the field of artificial intelligence.\n• Watch the video below to learn more about the pair's work.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/education-today/news/story/no-iit-degree-yet-leading-ai-teams-at-openai-and-anthropic-meet-vijaye-raji-and-rahul-patil-3001132-2026-09-24?utm_source=rss",
+      "relevance_score": 0.8575,
+      "published_date": "2026-09-24"
+    },
+    {
+      "id": 11092,
+      "title": "Breaking News | Sam Altman, Dario Amodei Urge Global Cooperation on AI at UN Security Council",
+      "summary": "• OpenAI CEO Sam Altman and Anthropic CEO Dario Amodei urged world leaders to work together on artificial intelligence during an unprecedented appearance before the UN Security Council.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Subscribe Now and join our community of informed and engaged viewers.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/videos/world/breaking-news-sam-altman-dario-amodei-urge-global-cooperation-on-ai-at-un-security-council-10349764.html",
+      "relevance_score": 0.8466,
+      "published_date": "2026-09-24"
+    },
+    {
+      "id": 11084,
+      "title": "Roshibina Devi Naorem’s third Asian Games medal: A historic hat-trick after a dramatic road to Nagoya",
+      "summary": "• A historic hat-trick after a dramatic road to Nagoya.\n• I’ve never been so happy in my life.’ ‘It was like a dream come true.\n• It was like I was on a rollercoaster’.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/roshibina-devi-naorem-s-third-asian-games-medal-a-historic-hat-trick-after-a-dramatic-road-to-nagoya-101790211174284.html",
+      "relevance_score": 0.8187,
+      "published_date": "2026-09-24"
+    },
+    {
       "id": 11043,
       "title": "DRDO scientist Gopinath K. takes charge as DMRL director",
       "summary": "• He will be in charge until the end of the year.\n• He has been working on the project for the past three years.\n• He is a former director of the Indian Space Research Organisation.\n• He was born in India and studied at the Indian Institute of Technology, Kharagpur.\n• He also worked at the University of Delhi.",
@@ -71,12 +101,12 @@
       "published_date": "2026-09-23"
     },
     {
-      "id": 11069,
-      "title": "Election Commission Row: 2 ECs Raised 14 Objections Over SIR | What Happened? | Brass Tacks",
-      "summary": "• Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi raised objections at least 14 times over 10 months on decisions linked to the Special Intensive Revision (SIR) of electoral rolls.\n• Opposition parties have accused the poll panel of undermining the electoral process and demanded action against Chief Election Commissioner Gyanesh Kumar.\n• The Election Commission has rejected the characterization of an internal rift, saying final decisions, including those related to SIR, were unanimous.",
-      "category": "Polity & Governance",
+      "id": 11052,
+      "title": "Amid EC Row, Uddhav Thackeray Is Seeking Fresh Elections In Maharashtra, West Bengal And Tamil Nadu: Here’s Why",
+      "summary": "• UddHav is seeking fresh elections in West Bengal, Maharashtra, Tamil Nadu and West Bengal.\n• He is also seeking elections in Tamil Nadu, Kerala and Andhra Pradesh.\n• Here's why he is seeking new elections in these states.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",
+      "category": "State News",
       "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/election-commission-row-2-ecs-raised-14-objections-over-sir-what-happened-brass-tacks-10349142.html",
+      "url": "https://www.news18.com/india/uddhav-thackeray-is-seeking-fresh-elections-in-maharashtra-west-bengal-and-tamil-nadu-heres-why-ws-klt-10348530.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-23"
     },
@@ -91,12 +121,12 @@
       "published_date": "2026-09-23"
     },
     {
-      "id": 11052,
-      "title": "Amid EC Row, Uddhav Thackeray Is Seeking Fresh Elections In Maharashtra, West Bengal And Tamil Nadu: Here’s Why",
-      "summary": "• UddHav is seeking fresh elections in West Bengal, Maharashtra, Tamil Nadu and West Bengal.\n• He is also seeking elections in Tamil Nadu, Kerala and Andhra Pradesh.\n• Here's why he is seeking new elections in these states.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",
-      "category": "State News",
+      "id": 11069,
+      "title": "Election Commission Row: 2 ECs Raised 14 Objections Over SIR | What Happened? | Brass Tacks",
+      "summary": "• Election Commissioners Sukhbir Singh Sandhu and Vivek Joshi raised objections at least 14 times over 10 months on decisions linked to the Special Intensive Revision (SIR) of electoral rolls.\n• Opposition parties have accused the poll panel of undermining the electoral process and demanded action against Chief Election Commissioner Gyanesh Kumar.\n• The Election Commission has rejected the characterization of an internal rift, saying final decisions, including those related to SIR, were unanimous.",
+      "category": "Polity & Governance",
       "source": "News18 - India",
-      "url": "https://www.news18.com/india/uddhav-thackeray-is-seeking-fresh-elections-in-maharashtra-west-bengal-and-tamil-nadu-heres-why-ws-klt-10348530.html",
+      "url": "https://www.news18.com/videos/india/election-commission-row-2-ecs-raised-14-objections-over-sir-what-happened-brass-tacks-10349142.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-23"
     },
@@ -331,6 +361,16 @@
       "published_date": "2026-09-23"
     },
     {
+      "id": 11089,
+      "title": "Russia Considering US Invitation For Putin To Attend G20 Meeting",
+      "summary": "• Russia considering US Invite For Putin to Attend G 20 Meeting.\n• Russian President Vladimir Putin to be in Germany for G20 summit.\n• Putin will also be in China for G8 summit.\n• Russia will be in Indonesia for G7 summit.\n• Russian president will be there for G10 summit.",
+      "category": "International Relations",
+      "source": "NDTV - World",
+      "url": "https://www.ndtv.com/world-news/russia-considering-us-invitation-for-vladimir-putin-to-attend-g20-meeting-12089228#publisher=newsstand",
+      "relevance_score": 0.8383,
+      "published_date": "2026-09-23"
+    },
+    {
       "id": 11054,
       "title": "Commanding 'Islamic NATO': Pakistan's Gen Nauman Mahmood Named First Chief Of Mecca Defence Secretariat | Exclusive Details",
       "summary": "• Gen Mahmood will be in charge of the country's defence forces in Mecca, Saudi Arabia.\n• He will be the first Pakistani to hold the post in the Middle East.\n• He is also the son of former Pakistani Prime Minister Zulfiqar Ali Bhutto, who was assassinated in 1999.",
@@ -338,6 +378,16 @@
       "source": "News18 - World",
       "url": "https://www.news18.com/world/commanding-islamic-nato-pakistans-gen-nauman-mahmood-named-first-chief-of-mecca-defence-secretariat-exclusive-details-ws-lr-10348825.html",
       "relevance_score": 0.8356,
+      "published_date": "2026-09-23"
+    },
+    {
+      "id": 11085,
+      "title": "Germany ready to sign $8bn submarine deal with India: Envoy",
+      "summary": "• Germany and India have been in talks over a submarine deal for more than a year.\n• The deal is expected to be worth more than $8billion, according to reports.\n• Germany is the world's second-largest economy, followed by the U.S. with $1.2trillion in annual GDP.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/germany-ready-to-sign-8bn-submarine-deal-with-india-envoy/articleshow/134448710.cms",
+      "relevance_score": 0.8315,
       "published_date": "2026-09-23"
     },
     {
@@ -428,6 +478,16 @@
       "source": "The Hindu - International",
       "url": "https://www.thehindu.com/news/international/iran-president-masoud-pezeshkian-un-general-assembly-wartime-speech-us-israel/article71500620.ece",
       "relevance_score": 0.8152,
+      "published_date": "2026-09-23"
+    },
+    {
+      "id": 11088,
+      "title": "OpenAI, Anthropic Can Slow Down, No One's Pointing Gun: Sridhar Vembu To NDTV",
+      "summary": "• Vem Bu: \"No One's pointing a gun at us.\n• We're just trying to do our best to make the world a better place\" \"No one's pointing a gun,\" he says.\n• \"We're trying to make a better world,\" he adds.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/openai-anthropic-can-slow-down-no-ones-pointing-gun-sridhar-vembu-to-ndtv-12089029#publisher=newsstand",
+      "relevance_score": 0.8082,
       "published_date": "2026-09-23"
     },
     {
@@ -19939,68 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/kerala/kerala-govt-launches-digital-square-programme-to-boost-digital-learning-in-primary-schools/article71272196.ece",
       "relevance_score": 0.8458,
       "published_date": "2026-07-27"
-    },
-    {
-      "id": 8054,
-      "title": "Skyroot's Moment, ISRO's Legacy: Story Behind India's 1st Private Rocket",
-      "summary": "• Skyroot is India's first private rocket, launched by India's space agency ISRO.\n• The rocket is now a part of the Indian Space Agency, which is based in Bangalore, India.\n• It is the first of its kind in the country, and the first in India's history.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/skyroots-moment-isros-legacy-the-untold-story-behind-indias-first-private-rocket-to-orbit-11826433#publisher=newsstand",
-      "relevance_score": 0.8429,
-      "published_date": "2026-07-27"
-    },
-    {
-      "id": 8045,
-      "title": "Silver to gold, Glasgow to Glasgow: Mirabai Chanu's CWG hat-trick sets the stage for unfinished business",
-      "summary": "• Chanu will be hoping to add to her gold medal haul at the 2014 Commonwealth Games in Glasgow.\n• She has won two gold medals at the Commonwealth Games, the other in Glasgow in 2010.\n• She also won the silver medal at the 2008 Games in Beijing.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/others/silver-to-gold-glasgow-to-glasgow-mirabai-chanus-cwg-hat-trick-sets-the-stage-for-unfinished-business-101785092841271.html",
-      "relevance_score": 0.8416,
-      "published_date": "2026-07-27"
-    },
-    {
-      "id": 8132,
-      "title": "NASA Astronaut Chris Williams Returns to Earth",
-      "summary": "• Chris Williams returns to Earth after six-month mission to space.\n• NASA astronaut Chris Williams returned to Earth following a six-week mission to the space shuttle Endeavour.\n• Williams will return to the ISS in July and August, respectively, for a second mission to orbit the Earth.\n• The mission is scheduled to last two weeks.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasa-astronaut-chris-williams-returns-to-earth/",
-      "relevance_score": 0.8394,
-      "published_date": "2026-07-27"
-    },
-    {
-      "id": 8065,
-      "title": "Govt introduces bill to penalise paper leak in Lok Sabha amid Opposition protest",
-      "summary": "• Opposition protest amid Opposition protest in the Rajya Sabha.\n• Govt says it is a matter of national security and will not be taken into account in the bill.\n• The bill is expected to be tabled in the next Lok Sabha session of the Parliament on Monday.\n• The government says the bill is a measure to tackle paper leak.",
-      "category": "Polity & Governance",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/govt-introduces-bill-to-penalise-paper-leak-in-lok-sabha-amid-opposition-protest-101785140682950.html",
-      "relevance_score": 0.8361,
-      "published_date": "2026-07-27"
-    },
-    {
-      "id": 8055,
-      "title": "Dharmendra Pradhan zindabad: Hero's welcome for ex-minister at Parliament",
-      "summary": "• He was given a hero's welcome at Parliament by Prime Minister Narendra Modi.\n• The former minister was also awarded the Bharat Ratna by the PM for his contribution to the country.\n• He also received an honourary doctorate from the Indian Institute of Technology, Kharagpur.\n• He had been awarded the Padma Shri for his contributions to India.",
-      "category": "Polity & Governance",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/india/story/dharmendra-pradhan-zindabad-heros-welcome-for-ex-education-minister-at-parliament-two-days-after-resignation-2957067-2026-07-27?utm_source=rss",
-      "relevance_score": 0.8348,
-      "published_date": "2026-07-27"
-    },
-    {
-      "id": 8050,
-      "title": "India’s first dengue vaccine arrives with a crucial safety caveat",
-      "summary": "• The vaccine is the first of its kind to be approved in the country.\n• It was developed by the Indian government and the vaccine's manufacturer, Sanofi Pasteur.\n• The first dose of the vaccine will be given to children in the next few weeks.\n• It has been approved for use in India for the first time.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Science",
-      "url": "https://www.thehindu.com/sci-tech/science/qdenga-denv-3-antibody-enhancement-risk-children-screening/article71269051.ece",
-      "relevance_score": 0.8285,
-      "published_date": "2026-07-27"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-23T19:25:50.535659Z"
+  "updated_at": "2026-09-24T03:45:54.570407Z"
 }
