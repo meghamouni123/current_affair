@@ -11,6 +11,16 @@
       "published_date": "2026-09-28"
     },
     {
+      "id": 11437,
+      "title": "NASA Highlights Lessons Learned From Swift Boost Mission",
+      "summary": "• Swift Boost is the first mission of its kind to orbit the Earth.\n• The mission is scheduled to return to Earth in 2023.\n• NASA says it will send a second mission to the ISS in 2028 to test the orbiter's thrusters and thrusters.\n• For more information, visit NASA.gov/swiftboost or the Swift Boost mission website at http://www.nasa.gov/.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/swift/nasa-highlights-lessons-learned-from-swift-boost-mission/",
+      "relevance_score": 0.9215,
+      "published_date": "2026-09-28"
+    },
+    {
       "id": 11425,
       "title": "Indo-French sat mission 'Trishna'  to map Earth's water sources on fast-track: Space minister Jitendra Singh",
       "summary": "• Space minister Jitendra Singh says mission will be launched within two years.\n• India and France have been working on the project for more than a decade.\n• The mission will map the water sources of the Indian subcontinent, including the Himalayas, the Ganges and the Brahmaputra.",
@@ -31,32 +41,22 @@
       "published_date": "2026-09-28"
     },
     {
-      "id": 11426,
-      "title": "3 high court chief justices recommended for elevation to Supreme Court",
-      "summary": "• 3 of them have served as chief justices on the Supreme Court of New Jersey, New Jersey and New York.\n• Three others have served on the New Jersey Supreme Court and New Jersey Court of Appeals.\n• Three of them were appointed by former President George W.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/3-high-court-chief-justices-recommended-for-elevation-to-supreme-court/articleshow/134545684.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-28"
-    },
-    {
-      "id": 11408,
-      "title": "RBI to raise interest rates to 5.50% in October as inflation broadens, shows poll",
-      "summary": "• RBI expected to raise rates by 0.25% to 0.50%, according to latest poll by Indian Finance Minister Ravi Shankar Prasad.\n• He is expected to announce the decision at a meeting later this month.\n• The central bank is also expected to cut interest rates by a quarter of a percentage point in September.",
-      "category": "Economy & Banking",
-      "source": "LiveMint - Economy",
-      "url": "https://www.livemint.com/economy/rbi-to-raise-interest-rates-to-5-50-percent-in-october-25-bps-hike-as-inflation-broadens-reuters-poll-economists-war-fed-11790591913339.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-28"
-    },
-    {
       "id": 11430,
       "title": "Collegium Recommends 3 High Court Chief Justices As Supreme Court Judges",
       "summary": "• The recommendations are based on a study of the Supreme Court by the American College of Judges.\n• The study was conducted by the College of Justices at the University of California, Los Angeles.\n• For more information, visit Collegium's Supreme Court Blog.",
       "category": "Polity & Governance",
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/collegium-recommends-3-high-court-chief-justices-as-supreme-court-judges-12110647#publisher=newsstand",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-28"
+    },
+    {
+      "id": 11426,
+      "title": "3 high court chief justices recommended for elevation to Supreme Court",
+      "summary": "• 3 of them have served as chief justices on the Supreme Court of New Jersey, New Jersey and New York.\n• Three others have served on the New Jersey Supreme Court and New Jersey Court of Appeals.\n• Three of them were appointed by former President George W.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/3-high-court-chief-justices-recommended-for-elevation-to-supreme-court/articleshow/134545684.cms",
       "relevance_score": 0.91,
       "published_date": "2026-09-28"
     },
@@ -77,6 +77,16 @@
       "category": "Sports",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/asian-games-2026-what-explains-india-s-poor-performance-examining-challenges-plain-speak-10357788.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-28"
+    },
+    {
+      "id": 11408,
+      "title": "RBI to raise interest rates to 5.50% in October as inflation broadens, shows poll",
+      "summary": "• RBI expected to raise rates by 0.25% to 0.50%, according to latest poll by Indian Finance Minister Ravi Shankar Prasad.\n• He is expected to announce the decision at a meeting later this month.\n• The central bank is also expected to cut interest rates by a quarter of a percentage point in September.",
+      "category": "Economy & Banking",
+      "source": "LiveMint - Economy",
+      "url": "https://www.livemint.com/economy/rbi-to-raise-interest-rates-to-5-50-percent-in-october-25-bps-hike-as-inflation-broadens-reuters-poll-economists-war-fed-11790591913339.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-28"
     },
@@ -108,6 +118,16 @@
       "source": "NASA",
       "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-orbit-challenge-2027/",
       "relevance_score": 0.9035,
+      "published_date": "2026-09-28"
+    },
+    {
+      "id": 11434,
+      "title": "Keltron begins integration of sonar systems for Jalkapi project",
+      "summary": "• Keltron will provide sonar system for the project's sonar and navigation systems.\n• The project is being led by Turkish company Jalkapın, which is based in Istanbul, Istanbul, Turkey.\n• The two companies are working together on the project for more than a decade on a number of projects.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/keltron-begins-integration-of-sonar-systems-for-jalkapi-project/article71520331.ece",
+      "relevance_score": 0.9006,
       "published_date": "2026-09-28"
     },
     {
@@ -151,6 +171,16 @@
       "published_date": "2026-09-28"
     },
     {
+      "id": 11438,
+      "title": "Russia Trials Over, This Engine Will Soon Power India's New Stealth Drones",
+      "summary": "• India's new stealth drones will be powered by an engine developed by Russia's Sukhoi Defense Ministry.\n• The engine will soon be used to power the country's new fleet of stealth drones.\n• For more information on India's stealth drones, visit: http://www.indiaair.com/stealth-drones.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/russia-trials-over-this-engine-will-soon-power-indias-new-stealth-drones-12111462#publisher=newsstand",
+      "relevance_score": 0.8743,
+      "published_date": "2026-09-28"
+    },
+    {
       "id": 11402,
       "title": "Asian Games 2026: Priya assured medal after progressing to women’s 60kg boxing semifinal",
       "summary": "• Priya: I’m going to win a medal for India at the Asian Games.\n• Priyanka: I want to be the first Indian woman to win an Asian Games gold medal.\n• I want my country to be proud of me at the Games in 2026.",
@@ -158,6 +188,16 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/asian-games/priya-ghanghas-medal-confirmed-asian-games-2026-boxing-womens-60kg-report/article71519079.ece",
       "relevance_score": 0.8726,
+      "published_date": "2026-09-28"
+    },
+    {
+      "id": 11436,
+      "title": "NASA Armstrong Celebrates 80 Years of Flight Innovation",
+      "summary": "• Armstrong celebrates its 80th anniversary with a celebration on the anniversary of Armstrong's first flight.\n• Armstrong is a collaboration between NASA and the U.S. Air Force and the National Aeronautics and Space Administration.\n• For more information, visit NASA.gov/Armstrong or the Armstrong Foundation.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-armstrong-celebrates-80-years-of-flight-innovation/",
+      "relevance_score": 0.8592,
       "published_date": "2026-09-28"
     },
     {
@@ -208,6 +248,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-cm-vijay-launches-thaimaman-thanga-mothiram-thittam-at-madurai/article71518784.ece",
       "relevance_score": 0.8471,
+      "published_date": "2026-09-28"
+    },
+    {
+      "id": 11435,
+      "title": "Government deploys AI tool to scrutinise rural road project DPRs",
+      "summary": "• It will be used to assess the cost of road projects in rural areas.\n• The project will be completed by the end of the year, the government says.\n• The cost of the project is expected to be in the region of $1.5 billion.\n• It is the largest road project project in the country, according to the government.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/government-deploys-ai-tool-to-scrutinise-rural-road-project-dprs/articleshow/134549253.cms",
+      "relevance_score": 0.845,
       "published_date": "2026-09-28"
     },
     {
@@ -19949,58 +19999,8 @@
       "url": "https://asean.org/secretary-general-of-asean-delivers-remarks-at-the-37th-annual-international-military-laws-and-operations-conference/",
       "relevance_score": 0.9231,
       "published_date": "2026-08-03"
-    },
-    {
-      "id": 8466,
-      "title": "The dilemma over PM SHRI in Kerala",
-      "summary": "• PM SHri in Kerala is a state-run hospital in the southern state of Kerala.\n• The hospital was set up by the Indian government in the 1970s.\n• It is run by a group of engineers and scientists called PM Shri Hospital.\n• PM ShRI was established in the 70s by the government of then Prime Minister Thinarayoodan.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/opinion/op-ed/the-dilemma-over-pm-shri-in-kerala/article71302676.ece",
-      "relevance_score": 0.906,
-      "published_date": "2026-08-03"
-    },
-    {
-      "id": 8438,
-      "title": "Out of Neeraj's shadow: What India's CWG 2026 athletics haul really tells us",
-      "summary": "• India will be competing at the CWG in Rio de Janeiro in 2026.\n• India have never won a gold medal at the Olympics in the men's or women's 4x400m relay events.\n• India also won gold in the 4x100m relay at the 2010 Commonwealth Games in Delhi.",
-      "category": "Sports",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/commonwealth-games/story/commonwealth-games-who-won-india-medals-neeraj-chopra-gulveer-athletics-2961998-2026-08-03?utm_source=rss",
-      "relevance_score": 0.8899,
-      "published_date": "2026-08-03"
-    },
-    {
-      "id": 8444,
-      "title": "Secretary-General of ASEAN joins breakfast session hosted by the Assistant Secretary of State of the United States for East Asian and Pacific Affairs",
-      "summary": "• Secretary-General joined by U.S. Deputy Secretary of state for East Asia and Pacific, Anne-Marie Slaughter.\n• The session was held at the Four Seasons Hotel in Washington, D.C.\n• It was the first time ASEan leaders had been to the hotel.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-joins-breakfast-session-hosted-by-the-assistant-secretary-of-state-of-the-united-states-for-east-asian-and-pacific-affairs/",
-      "relevance_score": 0.8736,
-      "published_date": "2026-08-03"
-    },
-    {
-      "id": 8458,
-      "title": "Tirkey slams Hockey India DG, seeks detailed response on jersey change queries",
-      "summary": "• Took to Twitter to ask for detailed response from Hockey India on jersey change.\n• Told Hockey India to respond to his queries within 24 hours.\n• He also asked for a detailed response on jersey changes within 48 hours of the issue being raised.\n• He was also asked to respond on the issue of the number of players in India's national team.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/hockey/tirkey-slams-hockey-india-dg-seeks-detailed-response-on-jersey-change-queries/article71302203.ece",
-      "relevance_score": 0.8703,
-      "published_date": "2026-08-03"
-    },
-    {
-      "id": 8440,
-      "title": "This medal is as much my father's as it is mine: Judoka Asmita Dey after historic gold at the Commonwealth Games 2026",
-      "summary": "• Dey won gold in the women's Judo at the 2026 Commonwealth Games in Glasgow.\n• She said: 'It's as much a part of me as I am of my family.\n• It's a very special moment for me and my family'.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/htcity/leisure/this-medal-is-as-much-my-fathers-as-it-is-mine-judoka-asmita-dey-after-historic-gold-at-the-commonwealth-games-2026-101785733760589.html",
-      "relevance_score": 0.8661,
-      "published_date": "2026-08-03"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-28T18:03:09.979579Z"
+  "updated_at": "2026-09-28T20:04:41.195958Z"
 }
