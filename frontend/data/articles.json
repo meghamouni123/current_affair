@@ -31,13 +31,13 @@
       "published_date": "2026-09-30"
     },
     {
-      "id": 11535,
-      "title": "‘Why just Padma Bhushan, give Gyanesh Kumar Bharat Ratna’: Omar Abdullah's dig at CEC",
-      "summary": "• Why not Padma Bharat?’ ‘I’m a member of the CEC,’ says Omar Abdullah.\n• “I don’t want to be called a CEC member,” he adds.\n• ”I am an member of CEC and I have the right to be.”.",
-      "category": "Awards & Honours",
+      "id": 11570,
+      "title": "PM Modi, Trump review bilateral ties; discuss global peace, trade, defence",
+      "summary": "• PM Modi, Donald Trump discuss world peace and trade, among other topics.\n• Modi and Trump will also discuss bilateral ties in New York next week.\n• The meeting will take place at the White House in Washington, D.C.\n• And the PM's residence in New Delhi will be used as a meeting place for the two leaders.",
+      "category": "International Relations",
       "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/why-just-padma-bhushan-give-gyanesh-kumar-bharat-ratna-omar-abdullah-dig-at-cec-101790741386555.html",
-      "relevance_score": 0.91,
+      "url": "https://www.hindustantimes.com/india-news/pm-modi-speaks-to-trump-review-bilateral-ties-discuss-global-peace-trade-defence-101790776549926.html",
+      "relevance_score": 0.9101,
       "published_date": "2026-09-30"
     },
     {
@@ -47,6 +47,16 @@
       "category": "Economy & Banking",
       "source": "Economic Times - Top",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-markets-are-not-vulnerable-sebi-chief-tuhin-kanta-pandey-remains-optimistic-even-as-sensex-nifty-bleed/articleshow/134585319.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-30"
+    },
+    {
+      "id": 11535,
+      "title": "‘Why just Padma Bhushan, give Gyanesh Kumar Bharat Ratna’: Omar Abdullah's dig at CEC",
+      "summary": "• Why not Padma Bharat?’ ‘I’m a member of the CEC,’ says Omar Abdullah.\n• “I don’t want to be called a CEC member,” he adds.\n• ”I am an member of CEC and I have the right to be.”.",
+      "category": "Awards & Honours",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/why-just-padma-bhushan-give-gyanesh-kumar-bharat-ratna-omar-abdullah-dig-at-cec-101790741386555.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-30"
     },
@@ -121,6 +131,16 @@
       "published_date": "2026-09-30"
     },
     {
+      "id": 11564,
+      "title": "Former Director-Life Sciences of Telangana Shakthi Nagappan named CMD of biomanufacturing firm PreferCo",
+      "summary": "• Former Director- life Sciences ofTelangana named C MD of Prefer co.\n• Former director-life Sciences of telangana was at the helm of the country's health care system.\n• He was also at the forefront of the creation of the National Institutes of Health in Hyderabad.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/former-director-life-sciences-of-telangana-shakthi-nagappan-named-cmd-of-biomanufacturing-firm-preferco/article71529721.ece",
+      "relevance_score": 0.8656,
+      "published_date": "2026-09-30"
+    },
+    {
       "id": 11530,
       "title": "Sensex rises 190 points in early trade after two days of losses",
       "summary": "• Sensex was down by more than 200 points in the previous two days.\n• Index was down more than 1,000 points on Wednesday.\n• SenseX was down over 1,200 points on Tuesday.Sensex was up over 2,100 points on Monday, down about 1,500 points on Friday.SenseX was up more than 2,000 point on Tuesday, down 1,400 point on Monday.",
@@ -158,6 +178,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-police-do-not-have-a-crystal-ball-or-magic-wand-to-solve-cases-in-a-jiffy-madras-high-court/article71527793.ece",
       "relevance_score": 0.8542,
+      "published_date": "2026-09-30"
+    },
+    {
+      "id": 11566,
+      "title": "Andhra Pradesh to launch door-to-door elderly health drive in October: Health Minister",
+      "summary": "• Health Minister: \"We are going to take care of the elderly in the state\" The drive will take place in Andhra Pradesh, Telangana and Mizoram.\n• It will also take place across the state in other parts of the country.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-to-launch-door-to-door-elderly-health-drive-in-october-health-minister/article71529007.ece",
+      "relevance_score": 0.8534,
       "published_date": "2026-09-30"
     },
     {
@@ -208,6 +238,26 @@
       "source": "NDTV - World",
       "url": "https://www.ndtv.com/world-news/iran-receives-us-feedback-on-seven-day-trust-building-plan-12118656#publisher=newsstand",
       "relevance_score": 0.8335,
+      "published_date": "2026-09-30"
+    },
+    {
+      "id": 11565,
+      "title": "First time that so many eligible electors have lost their vote due to SIR: former CEC O.P. Rawat",
+      "summary": "• First time in history so many voters have been disenfranchised due to a single incident of misconduct by a member of the CEC.\n• The number of people who lost their votes is the highest since the first CEC elections in 1951.\n• The total number of voters who were disenfranchised is the second highest in the history of Indian elections.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/first-time-that-so-many-eligible-electors-have-lost-their-vote-due-to-sir-former-cec-op-rawat/article71528742.ece",
+      "relevance_score": 0.8322,
+      "published_date": "2026-09-30"
+    },
+    {
+      "id": 11568,
+      "title": "IND vs WI 2nd ODI: Campbell, Hope, Jangoo tons power Windies to record 405/7 against India",
+      "summary": "• Windies record 405-7 against India in 2nd ODI.\n• Campbell, Hope, Jangoo tons power Windies to victory.\n• Windies win by an innings and a half in three-match series.\n• India won the first ODI by eight wickets in Guwahati.\n• India lost the second ODI against West Indies by an identical margin of four wickets.\n• CLICK HERE for all the latest Windies news.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/cricket/india-versus-west-indies-second-odi-match-at-guwahati-september-30-2026/article71527798.ece",
+      "relevance_score": 0.8279,
       "published_date": "2026-09-30"
     },
     {
@@ -268,6 +318,26 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/actionable-intelligence-led-to-killing-of-most-wanted-let-terrorist-hashim-moosa-101790758611552.html",
       "relevance_score": 0.8082,
+      "published_date": "2026-09-30"
+    },
+    {
+      "id": 11573,
+      "title": "Where to invest after an asset bubble bursts? Nilesh Shah of Kotak makes the case for public markets",
+      "summary": "• Nilesh Shah of Kotak makes the case for public markets.\n• Shah: Public markets are a good place to start if you want to get out of the asset bubble.\n• He says public markets are better than private markets because they are more liquid and less risky.\n• He also says they are less volatile and more liquid than private market investments.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/where-to-invest-after-an-asset-bubble-bursts-nilesh-shah-of-kotak-makes-the-case-for-public-markets/articleshow/134595580.cms",
+      "relevance_score": 0.8041,
+      "published_date": "2026-09-30"
+    },
+    {
+      "id": 11569,
+      "title": "Asian Games 2026: Indian archers hit the bullseye with three gold medals",
+      "summary": "• Indian archery team wins three golds at the 2026 Asian Games.\n• India's archers will compete in the Games for the first time in 2026.\n• The Games will be held in New Delhi and will be hosted by India from 2026 to 2028.\n• For more information on the Games, visit the Asian Games website.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-mens-team-defends-title-as-indian-compound-archers-complete-hat-trick-of-golds/article71527398.ece",
+      "relevance_score": 0.8033,
       "published_date": "2026-09-30"
     },
     {
@@ -19929,78 +19999,8 @@
       "url": "https://sportstar.thehindu.com/athletics/world-athletics-u20-championships-2026-day-2-schedule-ist-finals-key-events/article71312049.ece",
       "relevance_score": 0.8531,
       "published_date": "2026-08-06"
-    },
-    {
-      "id": 8592,
-      "title": "Punjab Panchayati Raj Act, 1994 to be amended for creation of Panchayat development secretary cadres",
-      "summary": "• Panchyat development secretaries are key members of the Pachayat.\n• They are responsible for development of the local area.\n• They also serve as representatives for the local authority in the area.\n• The Act was passed by the Punjab Assembly in 1994.\n• It was passed with a majority of votes in the Assembly.",
-      "category": "Polity & Governance",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/punjab-cabinet-decisions-2026-private-school-fee-bill-outsourced-employees-digital-universities-3065042.html",
-      "relevance_score": 0.8366,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8612,
-      "title": "KSRTC’s AI-based WhatsApp ticketing system launched",
-      "summary": "• KSRTC to use WhatsApp as a platform for ticketing and ticketing services.\n• The system will be rolled out across the city in coming months.\n• The ticketing service will be based on a combination of SMS, WhatsApp and mobile phone numbers.\n• The tickets will be available on a first-come, first-served basis.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/kerala/ksrtcs-ai-based-whatsapp-ticketing-system-launched/article71313618.ece",
-      "relevance_score": 0.8352,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8605,
-      "title": "Lakhimpur Kheri violence case: Supreme Court refuses to further relax bail conditions of accused Ashish Mishra",
-      "summary": "• Mishra is accused of being involved in the violence in Lakhimpuri in March 2013.\n• He was granted bail by the Delhi High Court in April 2013.\n• The Supreme Court refused to relax his bail conditions on Monday.\n• He is currently being held in a Delhi jail.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/lakhimpur-kheri-violence-case-supreme-court-refuses-to-further-relax-bail-conditions-of-accused-ashish-mishra/article71312880.ece",
-      "relevance_score": 0.8351,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8625,
-      "title": "NASA’s SkyFall Helicopters at Work (Artist’s Concept)",
-      "summary": "• The SkyFall helicopter would be able to fly in low-cost, long-range missions.\n• The project is still in the planning stages.\n• For more information on SkyFall, visit: www.nasa.gov/skyfall and www.facebook.com/SkyFall.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://science.nasa.gov/photojournal/nasas-skyfall-helicopters-at-work-artists-concept/",
-      "relevance_score": 0.8278,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8628,
-      "title": "Artificial Intelligence used to design brand new viruses",
-      "summary": "• The technology was developed by Google's artificial intelligence team.\n• The team used the technology to design new viruses for the first time.\n• The new viruses could be used to create new viruses in the future, the researchers say.\n• The research was conducted using a combination of artificial intelligence and machine learning.",
-      "category": "Science & Technology",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c5y3j3ngevmo?at_medium=RSS&at_campaign=rss",
-      "relevance_score": 0.827,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8591,
-      "title": "`Ek Ped Maa Ke Naam`: Delhi`s plantation drive gains momentum, achieves 54% of the 70-lakh target",
-      "summary": "• Delhi has set a target of planting 100,000 acres of land by the end of the year.\n• The city has so far planted more than 70,000 hectares of land.\n• The target is to plant a total of 100,00 acres by end of 2015.",
-      "category": "Science & Technology",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/delhi-ek-ped-maa-ke-naam-plantation-drive-target-progress-vriksh-rath-3065052.html",
-      "relevance_score": 0.8246,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8590,
-      "title": "Satellite captures massive 3,500-km-long cloud band from China to India",
-      "summary": "• Satellites captured massive cloud band that stretches from China and India to Pakistan and beyond.\n• The cloud band stretches for more than 3,000km, or nearly 2,000 miles, across the Indian Ocean and the Pacific Ocean.\n• It is the longest cloud band of its kind in the world.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/science/story/satellite-captures-massive-3500-km-long-cloud-band-stretching-from-china-to-india-2964823-2026-08-06?utm_source=rss",
-      "relevance_score": 0.8228,
-      "published_date": "2026-08-06"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-30T13:11:47.243478Z"
+  "updated_at": "2026-09-30T16:32:00.563297Z"
 }
