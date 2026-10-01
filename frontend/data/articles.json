@@ -1,6 +1,96 @@
 {
   "articles": [
     {
+      "id": 11592,
+      "title": "India is launching an AI lab into space today: Here's what it is",
+      "summary": "• India is also launching an artificial intelligence lab into orbit today.\n• It will be called India's first space-based AI lab.\n• The lab will be based in the Indian city of Bhopal, near the city of Thiruvananthapuram.\n• It is expected to be operational by the end of the year.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/science/story/moi-1a-orbital-computing-satellite-india-is-launching-an-ai-lab-into-space-today-heres-what-it-is-3006591-2026-10-01?utm_source=rss",
+      "relevance_score": 0.9854,
+      "published_date": "2026-10-01"
+    },
+    {
+      "id": 11585,
+      "title": "Google Gemini 4 Argon is Alphabet’s most advanced model yet",
+      "summary": "• It's the company's most advanced computer to date.\n• Google says it will be available in the U.S. and Europe by the end of the year.\n• It will go on sale in the United States and Europe for $1,000.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - Business",
+      "url": "https://www.hindustantimes.com/business/google-gemini-4-argon-is-alphabet-s-most-advanced-model-yet-101790826295861.html",
+      "relevance_score": 0.8855,
+      "published_date": "2026-10-01"
+    },
+    {
+      "id": 11583,
+      "title": "Asian Games 2026 LIVE: Women's squash team wins bronze medal; India loses to Pakistan in volleyball quarterfinal",
+      "summary": "• India's women's volleyball team win bronze medal in women's tournament.\n• India will compete in the men's and women's squash events at the Asian Games.\n• India have never won a gold medal in squash.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-30-2026/article71530982.ece",
+      "relevance_score": 0.8517,
+      "published_date": "2026-10-01"
+    },
+    {
+      "id": 11584,
+      "title": "Compassionate AI should be future of technology: Kailash Satyarthi",
+      "summary": "• He says we need to use technology to help people in need.\n• Satiarthi: \"We need to be able to help each other in times of need.\n• We need to have compassion for each other\" He says technology should be used for the betterment of people, not just for profit.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/compassionate-ai-should-be-future-of-technology-kailash-satyarthi-101790818794544.html",
+      "relevance_score": 0.8475,
+      "published_date": "2026-10-01"
+    },
+    {
+      "id": 11586,
+      "title": "Indian women's team loses 1-2 to Hong Kong, signs off with bronze medal",
+      "summary": "• India finished with a bronze medal in the women's badminton event at the Commonwealth Games in Glasgow.\n• India's team finished in second place, behind Hong Kong's 1-0 win over India in the semi-finals.\n• India also won bronze in the men's event, beating China 2-1 in the final.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/indian-women-s-team-loses-1-2-to-hong-kong-signs-off-with-bronze-medal-101790827025114.html",
+      "relevance_score": 0.8443,
+      "published_date": "2026-10-01"
+    },
+    {
+      "id": 11594,
+      "title": "Asian Games 2026 — India women’s squash team settles for bronze after defeat to Hong Kong, China",
+      "summary": "• India won bronze in the women's squash event at the Asian Games in Guangzhou, China in 2012.\n• India also won bronze at the Commonwealth Games in Glasgow in Glasgow, Scotland in 2010.\n• India had won gold in the men's squash at the Games in Delhi in 2008.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-india-womens-team-squash-bronze-hong-kong-china-semifinal-score-result/article71531294.ece",
+      "relevance_score": 0.8326,
+      "published_date": "2026-10-01"
+    },
+    {
+      "id": 11593,
+      "title": "Asian Games 2026 Live Updates Day 13: Indian women's squash team wins bronze; Nitesh reaches 97kg final in Greco-Roman wrestling; Ganesh through to compound archery semifinals",
+      "summary": "• Ganesh through to compound archery semifinals; Ganesh wins gold in men's team squash.\n• Indian men's basketball team win gold in the men's under-23 competition.\n• Indian football team wins silver in the under-24 competition.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/asian-games/asian-games-live-updates-day-13-october-1-2026-match-scores-events-news-highlights/article71531150.ece",
+      "relevance_score": 0.8044,
+      "published_date": "2026-10-01"
+    },
+    {
+      "id": 11595,
+      "title": "Asian Games 2026: India suffers straight-set defeat to Pakistan in men’s volleyball quarterfinal",
+      "summary": "• India suffered straight-sets defeat toPakistan in men's volleyball quarterfinals.\n• India lost to Pakistan 3-0 in the quarterfinals of the Asian Games.\n• India also lost 2-0 to China in the other quarterfinal of the tournament.\n• India were knocked out of the competition by China in straight sets.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/asian-games/india-vs-pakistan-volleyball-asian-games-2026-mens-quarterfinal-score-result-report-highlights/article71531254.ece",
+      "relevance_score": 0.8042,
+      "published_date": "2026-10-01"
+    },
+    {
+      "id": 11587,
+      "title": "Asian Games: Pakistan knock India out of men’s volleyball in quarter-final",
+      "summary": "• Pakistan beat India 2-1 in the quarter-finals of the men's volleyball competition.\n• Pakistan also knocked out China in the same competition in the previous round.\n• India were knocked out of the women's volleyball tournament in the second round.\n• Pakistan defeated China 2-0 in the first round of the tournament.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/asian-games-pakistan-knock-india-out-of-men-s-volleyball-in-quarterfinal-101790824731182.html",
+      "relevance_score": 0.8027,
+      "published_date": "2026-10-01"
+    },
+    {
       "id": 11540,
       "title": "Secretary-General of ASEAN Highlights ASEAN–Australia Partnership in Interview with InDaily",
       "summary": "• Secretary-General says Australia is committed to working closely with the rest of the region.\n• He says the two countries will work together on a range of issues, including climate change, energy, education and the environment.\n• InDaily spoke to the secretary-general about the Australia-ASEAN Partnership.",
@@ -251,6 +341,16 @@
       "published_date": "2026-09-30"
     },
     {
+      "id": 11590,
+      "title": "NASA Awards Contract to Develop 5G Communications for Moon",
+      "summary": "• NASA to develop 5G communications for the lunar surface.\n• NASA will use 5G technology to communicate with the moon using 5G networks on the surface of the moon and on Earth.\n• NASA also plans to use the technology to send communications signals to the moon in the 2030s and 2070s.\n• NASA is also working on a 5G network to send signals from the moon to Earth's surface.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-awards-contract-to-develop-5g-communications-for-moon/",
+      "relevance_score": 0.8374,
+      "published_date": "2026-09-30"
+    },
+    {
       "id": 11580,
       "title": "Drunk driving suspected in ECIL hit-and-run that left seven bar workers injured",
       "summary": "• Seven bar workers were injured when a car hit them and fled the scene.\n• Police are still searching for the driver of the car that left the scene of the accident.\n• The driver has not yet been found and no charges have been filed against the driver, police say.\n• The incident is under investigation by the New Jersey State Police.",
@@ -331,6 +431,16 @@
       "published_date": "2026-09-30"
     },
     {
+      "id": 11588,
+      "title": "Asian Games 2026, LIVE Updates Day 13: Nitesh eyes first wrestling gold; Vaibhav Sooryavanshi returns for India",
+      "summary": "• Vaibhav Sooryavanshi returns for India in men's wrestling.\n• India's first ever gold medalist in the men's singles event.\n• India have never won a gold medal in wrestling at the Asian Games.\n• India are yet to win a medal in any of the four other sports at the Games.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/asian-games-2026-live-updates-day-13-schedule-results-medal-tally-today-october-1-latest-updates-101790771721493.html",
+      "relevance_score": 0.8224,
+      "published_date": "2026-09-30"
+    },
+    {
       "id": 11514,
       "title": "A Lok Sabha bypoll in Tamil Nadu that triggered the first Motion of Confidence in Indian legislature",
       "summary": "• The bypoll was held in the state's capital, Chennai.\n• Tamil Nadu is one of the most populous states in India.\n• The state has a population of more than 100 million people.\n• The Lok Sabha is the second largest chamber of the Indian parliament after the Rajya Sabha.\n• It has a two-thirds majority in the Lok Sabha.",
@@ -371,6 +481,16 @@
       "published_date": "2026-09-30"
     },
     {
+      "id": 11582,
+      "title": "Subatomic ambitions take five Indian school students to CERN",
+      "summary": "• CERN is the world's largest nuclear research facility.\n• It is home to the Large Hadron Collider, one of the largest superconducting nuclear reactors in the world.\n• The CERN facility is based in Geneva, Switzerland, and is located on the edge of the CERN complex in Geneva.\n• It was founded in 1921 and is the first nuclear research center in the history of Europe.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Science",
+      "url": "https://www.thehindu.com/sci-tech/science/subatomic-ambitions-take-five-indian-school-students-to-cern/article71528053.ece",
+      "relevance_score": 0.8073,
+      "published_date": "2026-09-30"
+    },
+    {
       "id": 11575,
       "title": "PNGRB bats for level playing field across EV, CNG and LNG vehicles",
       "summary": "• PNGRB wants to see equal playing field for all types of vehicles on the road.\n• PngRB says it wants to ensure that all vehicles have the same level of safety and quality of service.\n• The PNG RB is a member of the European Passenger Vehicle Standards Board (EPSB) and the European Automobile Manufacturers' Association.",
@@ -408,6 +528,16 @@
       "source": "The Hindu - Sport",
       "url": "https://www.thehindu.com/sport/nagoya-mayor-says-sorry-for-asian-games-inconveniences/article71527109.ece",
       "relevance_score": 0.8029,
+      "published_date": "2026-09-30"
+    },
+    {
+      "id": 11589,
+      "title": "NASA Adds New Science Investigations for Moon Base",
+      "summary": "• The Moon Base is expected to be operational by 2018.\n• It will be the first lunar base to be fully operational by 2023.\n• The mission will be based on a lunar base on the moon's surface, with a permanent residence on the surface of the lunar surface.\n• The base will be known as the Moonbase.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/news-release/nasa-adds-new-science-investigations-for-moon-base/",
+      "relevance_score": 0.8021,
       "published_date": "2026-09-30"
     },
     {
@@ -19869,138 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/iit-g-develops-low-cost-device-to-detect-toxic-metals-bacteria-in-water/articleshow/133003468.cms",
       "relevance_score": 0.9413,
       "published_date": "2026-08-06"
-    },
-    {
-      "id": 8587,
-      "title": "Chhattisgarh cabinet clears  ₹500 crore AI Mission; to support over 300 startups",
-      "summary": "• Chhattisagarh cabinet cleared  ⁹500crore AI Mission, to support  300 startups, to be funded by the state government.\n• The mission will be funded through a combination of grants and loans.\n• The state government will also be investing in a number of start-ups.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/chhattisgarh-cabinet-clears-500-crore-ai-mission-to-support-over-300-startups-101785987183184.html",
-      "relevance_score": 0.9269,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8585,
-      "title": "Parliament Monsoon Session Day 14 LIVE: Lok Sabha pays homage to Hiroshima-Nagasaki atomic bombing victims; Opposition continues protest in Rajya Sabha",
-      "summary": "• Lok Sabha to hold special session to mark 70th anniversary of the atomic bombing of Hiroshima and Nagasaki.\n• Parliament will be in session for two weeks to mark the end of the monsoon season and start of the new year.\n• Parliament is currently in the second week of its Monsoon session.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-14-nirmala-sitharaman-to-move-taxation-and-other-laws-amendment-bill-in-lok-sabha-rajya-sabha-live-updates-august-6-2026/article71312092.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8576,
-      "title": "Consumers already bearing UPI costs indirectly: RBI governor Malhotra",
-      "summary": "• UPI is a way for the government to pass on its costs to the consumer, he says.\n• The UPI bill is expected to rise in the coming years, he adds.\n• The government has no immediate plans to cut the UPI levy, the governor says.\n• CLICK HERE for all the latest from the Reserve Bank of India.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/consumers-already-bearing-upi-costs-indirectly-rbi-governor-malhotra/articleshow/132978979.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8575,
-      "title": "RBI proposes uniform interest rate norms for banks, NBFCs",
-      "summary": "• It will be first time in history that such a move has been taken by a central bank.\n• The move is aimed at bringing down interest rates for both banks andNBFCs.\n• It is expected to be implemented by the end of the year at a rate of 5-6 per cent for all banks.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-proposes-uniform-interest-rate-norms-for-banks-nbfcs/articleshow/132979015.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8634,
-      "title": "Lok Sabha passes tax amendments, Rajya Sabha clears extra FY26 spending",
-      "summary": "• Lok Sabha passed tax amendments and Rajya House cleared extra FY 26 spending.\n• Parliament also passed a bill to raise the minimum wage to $10.50 per hour.\n• The bill was passed by the House of Representatives with a voice vote.",
-      "category": "Polity & Governance",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/lok-sabha-passes-tax-amendments-rajya-sabha-clears-extra-fy26-spending-11786024561276.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8603,
-      "title": "Parliament Monsoon Session: Lok Sabha adjourned till 2 pm; Rajya Sabha till noon",
-      "summary": "• Parliament Monsoon session to continue until 2pm on Tuesday.\n• Lok and Rajya Sats to continue till noon on Wednesday and Thursday.\n• Parliament will be in Monsoon mode until end of the month of September.",
-      "category": "Polity & Governance",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/parliament-monsoon-session-lok-sabha-adjourned-till-2-pm-rajya-sabha-till-noon-3065063.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8609,
-      "title": "Parliament Monsoon Session 2026 LIVE Updates: Lok Sabha House Adjourned For The Day, Rajya Sabha Adjourned Till 3:15 pm",
-      "summary": "• Lok Sabha and Rajya Sats to meet for first time in two years.\n• Parliament Monsoon session 2026 to be held in New Delhi from June 25 to August 15.\n• Parliament will be in session for first and second week of August.",
-      "category": "Polity & Governance",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/parliament-monsoon-session-2026-live-updates-lok-sabha-rajya-sabha-proceedings-opposition-protest-key-bills-debate-today-opposition-to-continue-protes-11872133#publisher=newsstand",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8611,
-      "title": "Tarun Tejpal Reacts to 10-Year Jail Term | 'I Am a Political Victim, Will Move Supreme Court'",
-      "summary": "• Former Tehelka editor-in-chief Tarun Tejpal sentenced to 10 years' rigorous imprisonment in 2013 case.\n• He says he is \"very much disappointed\" with the verdict, claiming the evidence had not been properly appreciated.\n• He announced that he would appeal the verdict in the Supreme Court, alleging the case was \"politically motivated\" The High Court has granted TejPal time to surrender, while the legal battle is expected to continue.\n• N18oc_breaking-newsn18oc_indian18oc_politicsCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/tarun-tejpal-reacts-to-10-year-jail-term-i-am-a-political-victim-will-move-supreme-court-10256856.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8636,
-      "title": "CONMEBOL expresses concern over FIFA president Infantino’s ‘unilateral actions’; reserves stance on support",
-      "summary": "• CONMEbOL expresses Concern over FIFA President Infantinos ‘Unilateral Actions’.\n• FIFA president infantino has been accused of taking unilateral actions against CONmeBOL.\n• FIFA has accused CONMEBol of being ‘irresponsible’ and ‘reckless’ in its actions.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/conmebol-concern-over-fifa-president-gianni-infantino-new-world-cup-plan-re-election-support-latest/article71314802.ece",
-      "relevance_score": 0.8812,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8589,
-      "title": "Three Indians make finals of World Athletics U20 Championships",
-      "summary": "• Three Indian athletes reach finals of the World Athletics Under 20 Championships.\n• Two Indians and a Pakistani make it to the final of the U20 World Championships in Beijing, China.\n• Two Indian athletes also make the final in Beijing and one in Doha.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/others/three-indians-make-finals-of-world-athletics-u20-championships-101785991395933.html",
-      "relevance_score": 0.8764,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8620,
-      "title": "Three Indians make finals of World Athletics U20 Championships",
-      "summary": "• Three Indian athletes reach finals of the World Athletics Under 20 Championships.\n• Two Indians and a Pakistani make it to the final of the U20 World Championships in Beijing, China.\n• Two Indian athletes also make the final in Beijing and one in Doha.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/three-indians-make-finals-of-world-athletics-u20-championships/article71315107.ece",
-      "relevance_score": 0.8764,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8635,
-      "title": "US-Iran War | Israeli PM Netanyahu Dials PM Modi; Both Leaders Discuss Developments in West Asia",
-      "summary": "• Israeli Prime Minister Benjamin Netanyahu spoke with Prime Minister Narendra Modi over the phone to discuss the evolving situation in West Asia.\n• The two leaders exchanged views on regional developments and reaffirmed their commitment to strengthening bilateral cooperation.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Subscribe Now and join our community of informed and engaged viewers.\n• N18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
-      "category": "International Relations",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/us-iran-war-israeli-pm-netanyahu-dials-pm-modi-both-leaders-discuss-developments-in-west-asia-10257949.html",
-      "relevance_score": 0.8759,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8588,
-      "title": "Centre deploys teams to combat outbreak of Chandipura virus",
-      "summary": "• Centre also deploying teams to tackle outbreak of Chidipura fever in Australia and New Zealand.\n• Chandipuravirus is a type of chikungunya virus, which can be transmitted through contact with infected bodily fluids.\n• It can cause fever, vomiting, diarrhea and other symptoms in people with compromised immune systems.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/centre-deploys-teams-to-combat-outbreak-of-chandipura-virus-101785958376101.html",
-      "relevance_score": 0.8699,
-      "published_date": "2026-08-06"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-09-30T20:36:19.998527Z"
+  "updated_at": "2026-10-01T04:44:39.553550Z"
 }
