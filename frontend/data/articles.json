@@ -11,6 +11,16 @@
       "published_date": "2026-10-01"
     },
     {
+      "id": 11604,
+      "title": "Nasa heads to Scottish Highlands in its search for life on Mars",
+      "summary": "• The search is part of a larger mission to look for signs of life on the red planet.\n• The mission is called the Mars Curiosity rover and is based in Houston, Texas.\n• The rover is on a mission to find evidence of life in the solar system.\n• It is the first mission to the Scottish Highlands since the Mars rover was launched in 1976.",
+      "category": "Science & Technology",
+      "source": "BBC - Science & Environment",
+      "url": "https://www.bbc.co.uk/news/articles/c5gmr3309p7jo?at_medium=RSS&at_campaign=rss",
+      "relevance_score": 0.8983,
+      "published_date": "2026-10-01"
+    },
+    {
       "id": 11585,
       "title": "Google Gemini 4 Argon is Alphabet’s most advanced model yet",
       "summary": "• It's the company's most advanced computer to date.\n• Google says it will be available in the U.S. and Europe by the end of the year.\n• It will go on sale in the United States and Europe for $1,000.",
@@ -58,6 +68,36 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-india-womens-team-squash-bronze-hong-kong-china-semifinal-score-result/article71531294.ece",
       "relevance_score": 0.8326,
+      "published_date": "2026-10-01"
+    },
+    {
+      "id": 11602,
+      "title": "Anarock Property Consultants Limited files DRHP for  ₹1,000 crore IPO; AI, tech investments among key plans",
+      "summary": "• Anarock is one of the largest property developers in India.\n• The company has been in business for more than 30 years and is valued at more than $1.5 billion.\n• The IPO is expected to be valued at over $2 billion.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - Business",
+      "url": "https://www.hindustantimes.com/real-estate/anarock-property-consultants-limited-files-drhp-for-1-000-crore-ipo-ai-tech-investments-among-key-plans-101790831385364.html",
+      "relevance_score": 0.8298,
+      "published_date": "2026-10-01"
+    },
+    {
+      "id": 11597,
+      "title": "Must bring youth into public services who are not attracted to public office: PM Modi at UPSC centenary celebrations",
+      "summary": "• PM Modi at UPSC centenary celebrations in New Delhi.\n• PM: We need to make sure that youth are not lured into public office by the lure of public service.\n• He was speaking at the UPSC's 50th anniversary celebrations in the city on Wednesday.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/pm-modi-upsc-centenary-celebrations/article71531998.ece",
+      "relevance_score": 0.8227,
+      "published_date": "2026-10-01"
+    },
+    {
+      "id": 11605,
+      "title": "India advances to men’s hockey final after thrilling semifinal win over Pakistan",
+      "summary": "• India advance to men’s Hockey World Cup final for the first time in their history.\n• India beat Pakistan 3-2 in their semifinal clash in New Delhi.\n• India have never reached the final of the World Cup before this year.\n• India are aiming to win their first World Cup title on home soil on Sunday.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/asian-games/india-vs-pakistan-mens-hockey-asian-games-2026-semifinal-goals-score-result/article71532100.ece",
+      "relevance_score": 0.8108,
       "published_date": "2026-10-01"
     },
     {
@@ -141,22 +181,22 @@
       "published_date": "2026-09-30"
     },
     {
-      "id": 11541,
-      "title": "Indian markets are not vulnerable: Sebi chief Tuhin Kanta Pandey remains optimistic even as Sensex, Nifty bleed",
-      "summary": "• Indian markets are not vulnerable: Sebi chief Tuhin Kanta Pandey.\n• Sensex, Nifty bleed even as Sensex and Nifty rise by 0.3%.\n• Sebi remains optimistic even asSensex,Nifty bleed by 0%.\n• Sensex rises 0.2% to 33,000; Nifty up 0.4% to 34,000.\n• SenseX, N50 rise 0.7% to 35,000, NSE down 0.5%.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-markets-are-not-vulnerable-sebi-chief-tuhin-kanta-pandey-remains-optimistic-even-as-sensex-nifty-bleed/articleshow/134585319.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-30"
-    },
-    {
       "id": 11535,
       "title": "‘Why just Padma Bhushan, give Gyanesh Kumar Bharat Ratna’: Omar Abdullah's dig at CEC",
       "summary": "• Why not Padma Bharat?’ ‘I’m a member of the CEC,’ says Omar Abdullah.\n• “I don’t want to be called a CEC member,” he adds.\n• ”I am an member of CEC and I have the right to be.”.",
       "category": "Awards & Honours",
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/why-just-padma-bhushan-give-gyanesh-kumar-bharat-ratna-omar-abdullah-dig-at-cec-101790741386555.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-09-30"
+    },
+    {
+      "id": 11541,
+      "title": "Indian markets are not vulnerable: Sebi chief Tuhin Kanta Pandey remains optimistic even as Sensex, Nifty bleed",
+      "summary": "• Indian markets are not vulnerable: Sebi chief Tuhin Kanta Pandey.\n• Sensex, Nifty bleed even as Sensex and Nifty rise by 0.3%.\n• Sebi remains optimistic even asSensex,Nifty bleed by 0%.\n• Sensex rises 0.2% to 33,000; Nifty up 0.4% to 34,000.\n• SenseX, N50 rise 0.7% to 35,000, NSE down 0.5%.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-markets-are-not-vulnerable-sebi-chief-tuhin-kanta-pandey-remains-optimistic-even-as-sensex-nifty-bleed/articleshow/134585319.cms",
       "relevance_score": 0.91,
       "published_date": "2026-09-30"
     },
@@ -19959,48 +19999,8 @@
       "url": "https://www.news18.com/viral/watch-this-man-from-uttarakhand-just-test-flew-his-own-flying-car-prototype-internet-lauds-desi-jugaad-10259275.html",
       "relevance_score": 0.8074,
       "published_date": "2026-08-07"
-    },
-    {
-      "id": 8597,
-      "title": "The RBI is emerging as an Asian rate outlier. Five charts show why",
-      "summary": "• The RBI is emerging as an Asian rate outlier.\n• Five charts show why the central bank is moving in a different direction from the rest of the world.\n• The central bank has been raising interest rates in an attempt to keep inflation under control.\n• It is now moving in the opposite direction to the US Federal Reserve, which is cutting interest rates to keep them low.\n• The move is being driven by the Fed's desire to keep the U.S. borrowing rate low.",
-      "category": "Economy & Banking",
-      "source": "Hindustan Times - Business",
-      "url": "https://www.hindustantimes.com/ht-explainers/reserve-bank-of-india-rbi-monetary-policy-rate-mpc-asian-banks-outlier-inflation-iran-us-war-oil-trade-in-five-charts-101785987119178.html",
-      "relevance_score": 0.9776,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8639,
-      "title": "Space Wrap: Historic Vikram-1 launch puts Indian spaceflight back on track",
-      "summary": "• The historic launch was part of India's first space shuttle mission.\n• The launch took place from the Indian spaceport in Sriharikota, Tamil Nadu.\n• It was the first time India has sent a shuttle into space since the space shuttle program began in the 1970s.\n• The mission was a success, and India has now launched two more space shuttle missions.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Science",
-      "url": "https://www.thehindu.com/sci-tech/science/space-wrap-historic-vikram-1-launch-puts-indian-spaceflight-back-on-track/article71312064.ece",
-      "relevance_score": 0.9555,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8599,
-      "title": "CBSE To Launch AI, STEM Online Programme For Teachers, Students On August 15",
-      "summary": "• Teachers, students will be able to learn about AI and STEM through an online programme.\n• The programme will be available on CBSE's website and mobile apps.\n• For more information, visit CBSE.com/AI and Twitter @CBSEAI and @CBSeSTEM.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/cbse-to-launch-ai-stem-online-programme-for-teachers-students-on-august-15-11873397#publisher=newsstand",
-      "relevance_score": 0.9481,
-      "published_date": "2026-08-06"
-    },
-    {
-      "id": 8613,
-      "title": "IIT-G develops low-cost device to detect toxic metals, bacteria in water",
-      "summary": "• IIT- G developing low- cost device to detects toxic metals and bacteria in drinking water.\n• The device could be used to detect harmful bacteria and toxic metals in the water.\n• For more information, visit IITG's website at: www.iitg.org.uk.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/iit-g-develops-low-cost-device-to-detect-toxic-metals-bacteria-in-water/articleshow/133003468.cms",
-      "relevance_score": 0.9413,
-      "published_date": "2026-08-06"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-01T04:44:39.553550Z"
+  "updated_at": "2026-10-01T10:42:34.120870Z"
 }
