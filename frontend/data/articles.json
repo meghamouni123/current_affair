@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 11662,
+      "title": "India beats China to claim first Asian Games women’s hockey gold medal in 44 years, secures LA 2028 Olympics qualification",
+      "summary": "• India beat China to victory in women's hockey at Asian Games for the first time since 1974.\n• India beats China in final to win gold medal for first time in more than 40 years.\n• India's win secures Los Angeles Olympics qualification for 2028 Games.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/asian-games/india-vs-china-womens-hockey-final-asian-games-2026-score-result-44-years-record/article71536796.ece",
+      "relevance_score": 0.94,
+      "published_date": "2026-10-02"
+    },
+    {
       "id": 11641,
       "title": "Japan and Australia: Toward a More Autonomous and Resilient Partnership",
       "summary": "• Japan and Australia to work together to create a more autonomous, resilient nation.\n• Japan will work with Australians to help build an autonomous nation in Australia.\n• The two countries will work together on a number of issues.",
@@ -11,6 +21,16 @@
       "published_date": "2026-10-02"
     },
     {
+      "id": 11660,
+      "title": "PhD Scholar Develops Low-Power Microchip At NIT Warangal, Eyes Commercialisation",
+      "summary": "• He eyes commercialisation of microchip in the form of a mobile phone chip.\n• He is also developing low-power microchips for the mobile phone industry.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/phd-scholar-develops-low-power-microchip-at-nit-warangal-eyes-commercialisation-10364685.html",
+      "relevance_score": 0.937,
+      "published_date": "2026-10-02"
+    },
+    {
       "id": 11630,
       "title": "RBI eases rules for DIIs to buy bank shares",
       "summary": "• RBI eases rules for DIIs to buy bank shares to make it easier for them to do so.\n• DIIs will be able to buy up to 20 per cent of a bank's shares.\n• They will also be allowed to buy shares of up to $1.5 billion of bank shares.\n• The rules will also allow them to invest in bank shares for up to five years.",
@@ -18,6 +38,66 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-eases-rules-for-diis-to-buy-bank-shares/articleshow/134630134.cms",
       "relevance_score": 0.9358,
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 11649,
+      "title": "International organisations form alliance for diabetic foot survival and limb preservation",
+      "summary": "• They hope to help people in need of amputation.\n• The aim is to help them stay alive for as long as possible.\n• They also hope to raise awareness of the disease and help raise funds for research and treatment.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/international-organisations-form-alliance-for-diabetic-foot-survival-and-limb-preservation/article71536578.ece",
+      "relevance_score": 0.9249,
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 11658,
+      "title": "Maharashtra Investment Push To Focus On Energy, Aviation: Pranav Adani",
+      "summary": "• Adani: 'I want to make India a better place to live, work and invest in' Adani Group: 'We want to create a better world for all people.\n• I want to build a better India for all of us.\n• I am a person who wants to make a difference in the world'.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/maharashtra-investment-push-to-focus-on-energy-aviation-pranav-adani-12129842#publisher=newsstand",
+      "relevance_score": 0.9134,
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 11650,
+      "title": "India women’s hockey team wins Asian Games gold after 44 years, qualifies for 2028 Olympics",
+      "summary": "• India has not won a gold medal in women's hockey since the 1970s.\n• India won gold at the Asian Games in 1974, 1978, 1980 and 1986.\n• India have not won gold in men's hockey in 44 years, since 1970s and 1980s.India has won two gold medals at the Commonwealth Games and one at the World Cup.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/india-womens-hockey-team-wins-asian-games-gold-after-44-years-qualifies-for-2028-olympics/article71537065.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 11656,
+      "title": "India is 'trusted voice' for global peace: Amit Shah hails Putin's praise for PM Modi's peace efforts",
+      "summary": "• Amit Shah: India is ' Trusted Voice' for Global Peace.\n• India has been involved in UN peacekeeping operations in Afghanistan and Iraq.\n• India also plays a key role in the UN Security Council.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/india-is-trusted-voice-for-global-peace-amit-shah-hails-putins-praise-for-pm-modis-peace-efforts/articleshow/134636382.cms",
+      "relevance_score": 0.8904,
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 11657,
+      "title": "Deputy Secretary-General of ASEAN for the ASEAN Economic Community Joins ASEAN Heads of Mission to Timor-Leste and Development Partners in Dili",
+      "summary": "• He is also the head of mission for the Asian Development Bank.\n• He was also the chief guest at the opening ceremony of the Asian Economic Forum in Jakarta, Indonesia.\n• He also attended the opening of the Asia-Pacific Economic Forum (AEEF) in Indonesia.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/deputy-secretary-general-of-asean-for-the-asean-economic-community-joins-asean-heads-of-mission-to-timor-leste-and-development-partners-in-dili/",
+      "relevance_score": 0.8868,
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 11651,
+      "title": "Asian Games 2026: Sujeet Kalkal wins first wrestling gold, beats Olympic champion",
+      "summary": "• Asian Games 2022: India will host the Games in Rio de Janeiro, Brazil.Asian Games 2024: The Games will be held in Beijing, China, in 2026.\n• Asian Olympic Games 2028: The games will take place in Tokyo, Japan, in 2024.\n• Asian Paralympic Games: The Paralympics will be in Rio in 2028.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/asian-games-2026-sujeet-kalkal-wins-first-wrestling-gold-beats-olympic-champion/article71536609.ece",
+      "relevance_score": 0.8806,
       "published_date": "2026-10-02"
     },
     {
@@ -51,6 +131,16 @@
       "published_date": "2026-10-02"
     },
     {
+      "id": 11663,
+      "title": "Asian Games 2026 Highlights, Day 14: India women end 44-year wait with hockey gold; Lovlina, Parveen, Ankush strike boxing gold; recurve and Sujeet add titles",
+      "summary": "• Asian Games 2026 Highlights, Day 14: India women end 44-year wait with hockey gold.\n• Lovlina, Parveen, Ankush strike boxing gold; recurve and Sujeet add titles.\n• India's last hockey gold came in 1974 in Incheon, South Korea.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/asian-games/asian-games-live-updates-day-14-october-2-2026-match-scores-events-news-highlights/article71535622.ece",
+      "relevance_score": 0.8369,
+      "published_date": "2026-10-02"
+    },
+    {
       "id": 11644,
       "title": "Asian Games 2026: Ankush wins gold in boxing men’s 80kg",
       "summary": "• Ankush is the first Indian boxer to win a gold medal at the Asian Games.\n• He won gold in the men's 80kg event at the 2010 Asian Games in Guangzhou.\n• He also won gold at the 2014 Commonwealth Games in Glasgow.\n• He has also won two gold medals at the World Games in Beijing.",
@@ -61,6 +151,16 @@
       "published_date": "2026-10-02"
     },
     {
+      "id": 11659,
+      "title": "India beat China to win historic women's hockey gold, seal Olympics berth",
+      "summary": "• India's first ever women's Olympic hockey gold medal.\n• India also won gold in Commonwealth Games in 1986 and Commonwealth Cup in 1988.\n• India have never won Olympic gold in men's hockey before in their history.\n• India won silver medal in 1998, gold in 2002 and silver in 2006.",
+      "category": "Sports",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-womens-hockey-gold-china-olympics-berth-3008260-2026-10-02?utm_source=rss",
+      "relevance_score": 0.8321,
+      "published_date": "2026-10-02"
+    },
+    {
       "id": 11639,
       "title": "India at Asian Games Full Results Day 14 (Updated Live): Lovlina Borgohain, Parveen add two boxing golds to tally",
       "summary": "• India's gold medal tally now stands at four.\n• India have won two golds in boxing, one each in judo, boxing and badminton.\n• India also won two silver medals in boxing and two in badmouthed boxing.",
@@ -68,6 +168,26 @@
       "source": "Hindustan Times - Sports",
       "url": "https://www.hindustantimes.com/sports/others/india-asian-games-day-14-medal-tally-boxing-lovlina-borgohain-archery-hockey-today-october-2-live-wrestling-101790916996229.html",
       "relevance_score": 0.8279,
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 11654,
+      "title": "Asian Games: Parveen Hooda completes golden redemption",
+      "summary": "• Hooda becomes first Indian to win gold medal at the Asian Games since 1978.\n• She also won gold at the Commonwealth Games in Glasgow in 1972.\n• She won gold in Glasgow four years ago in the 4x100m freestyle relay.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/asian-games-parveen-hooda-completes-golden-redemption-101790934593609.html",
+      "relevance_score": 0.8277,
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 11652,
+      "title": "Asian Games 2026: Sujeet Kalkal wins gold in spectacular comeback victory",
+      "summary": "• Asian Games 2024: India will host the Games for the first time in 2026.\n• The Games will be held in New Delhi and Palembang, India.\n• The games will be the first to be held on Indian soil since the Games of independence in India in 1950.\n• The event will take place between August 25 and September 14.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/asian-games-2026-sujeet-kalkal-wins-gold-in-spectacular-comeback-victory-101790937150355.html",
+      "relevance_score": 0.8275,
       "published_date": "2026-10-02"
     },
     {
@@ -88,6 +208,16 @@
       "source": "Sportstar",
       "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-india-mixed-team-recurve-archery-silver-medal-vs-china-dhiraj-bommadevara-kumkum-anil-mohod/article71535725.ece",
       "relevance_score": 0.819,
+      "published_date": "2026-10-02"
+    },
+    {
+      "id": 11648,
+      "title": "Naidu, Sitharaman launch Rayalaseema horticulture hub; Anant Ambani pledges ₹1 lakh crore for biogas in Andhra",
+      "summary": "• Anant Ambani pledges ₹1 lakh crore for biogas in Andhra.\n• Naidu: We are committed to the development of Andhra Pradesh, Telangana, Andhra and Telengana as a hub for horticultural research and development.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-sitharaman-launch-rayalaseema-horticulture-hub-anant-ambani-pledges-1-lakh-crore-for-biogas-in-andhra/article71536514.ece",
+      "relevance_score": 0.8175,
       "published_date": "2026-10-02"
     },
     {
@@ -19869,138 +19999,8 @@
       "url": "https://www.indiatoday.in/business/story/rbi-loan-recovery-rules-2026-ban-harassment-anonymous-calls-late-visits-2965510-2026-08-07?utm_source=rss",
       "relevance_score": 0.9574,
       "published_date": "2026-08-07"
-    },
-    {
-      "id": 8695,
-      "title": "NASA’s IXPE Studies Magnetar",
-      "summary": "• NASA’s IXPE Studies Magnetar is the world's first space-based magnetar.\n• The magnetar will be used to send signals to Earth from space.\n• The project is part of NASA's X-Prize program for science and technology.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/image-article/nasas-ixpe-studies-magnetar/",
-      "relevance_score": 0.9431,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8691,
-      "title": "Prudent approach: On the RBI’s interest rate-setting committee meeting",
-      "summary": "• On the importance of keeping an eye on inflation.\n• The importance of maintaining a low inflation rate.\n• The impact of a high inflation rate on the economy.\n• The effect of an increase in inflation on the interest rates.\n• The effects of a fall in the inflation rate in the economy on the cost of living.",
-      "category": "Economy & Banking",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/opinion/editorial/prudent-approach-on-the-rbis-interest-rate-setting-committee-meet/article71318661.ece",
-      "relevance_score": 0.9412,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8676,
-      "title": "‘Continue to follow development closely’: MEA on Pakistan, Saudi, Turkiye defence pact",
-      "summary": "• MEA: ‘We will continue to follow developments closely.’ Pakistan and Saudi Arabia have signed a defence pact with Turkey.\n• The two countries have also agreed to work together on joint military drills in the Arabian Peninsula and the Gulf.\n• Pakistan is a key ally of Saudi Arabia.",
-      "category": "International Relations",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/continue-to-follow-development-closely-mea-on-pakistan-saudi-turkiye-defence-pact-3065321.html",
-      "relevance_score": 0.9366,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8671,
-      "title": "'Attack one, attack all 3': Saudi Arabia, Turkey and Pakistan sign key defence deal",
-      "summary": "• Saudi Arabia and Turkey sign defence deal with Pakistan, UAE, UAE and Saudi Arabia.\n• The three countries will work together on joint military operations in the Middle East.\n• The deal will also include joint military exercises in the Arabian Peninsula and NATO bases in the region.\n• The countries will also work on joint air and sea defence projects.",
-      "category": "International Relations",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/saudi-arabia-turkey-and-pakistan-sign-key-defence-deal-amid-regional-challenges-101786100295285.html",
-      "relevance_score": 0.926,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8623,
-      "title": "RBI bars NBFCs from offering revolving credit facilities",
-      "summary": "• RBS, ICICI, Axis Bank, N BNP Paribas among banks that have been hit by the move.\n• The move is expected to affect the NBFC sector's ability to raise funds for bad loans and bad debt repayments.\n• The RBI has also banned the banks from issuing new loans to NBFC's.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-bars-nbfcs-from-offering-revolving-credit-facilities/articleshow/133019095.cms",
-      "relevance_score": 0.9259,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8682,
-      "title": "Students urged to harness technology for solutions to societal challenges",
-      "summary": "• Students urged to use technology to help solve social problems.\n• They are also urged to share their ideas with the rest of the world to help raise awareness of social problems and help solve them.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Andhra Pradesh",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-harness-technology-for-solutions-to-societal-challenges/article71317414.ece",
-      "relevance_score": 0.915,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8649,
-      "title": "RBI gives Urban Cooperative Banks new lease of life | Explained",
-      "summary": "• RBI gives Uco-Banks a boost with new loan guarantee scheme.\n• Uco Banks will be able to offer loans to customers through their own bank accounts.\n• RCOs will also have access to credit from the central bank.\n• Rcos will have to pay interest on loans to their customers.\n• RCos will be allowed to offer credit to customers from their own banks.",
-      "category": "Economy & Banking",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/Economy/rbi-gives-urban-cooperative-banks-new-lease-of-life-explained/article71316294.ece",
-      "relevance_score": 0.9126,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8665,
-      "title": "Cauvery Water Dispute | TN CM Vijay Offers Talks, Ready to Meet DK Shivakumar in Bengaluru | News",
-      "summary": "• Tamil Nadu Chief Minister Vijay willing to travel to Bengaluru to meet Karnataka Deputy Chief Minister DK Shivakumar to discuss the issue.\n• The proposed meeting is also expected to include discussions on the Mekedatu project, which has long been a point of contention between Tamil Nadu and Karnataka.\n• The Cauvery dispute affects irrigation, drinking water and the livelihoods of millions in both states.\n• Any fresh dialogue between the two governments could be closely watched for signs of progress.\n• N18oc_india n18oc_breaking-news CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/cauvery-water-dispute-tn-cm-vijay-offers-talks-ready-to-meet-dk-shivakumar-in-bengaluru-news-10259082.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8633,
-      "title": "Tax amendment bill passed in Lok Sabha: What changes for UPI transactions, offshore fund norms",
-      "summary": "• Tax amendment bill was passed by the Lok Sabha on Wednesday.\n• It is expected to be introduced in the Rajya Sabha by the end of the month.\n• The bill would change the rules for offshore fund transactions in India.\n• It will also change the tax rules in India on UPI and other financial transactions.",
-      "category": "Polity & Governance",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/tax-amendment-bill-passed-in-lok-sabha-what-changes-for-upi-transactions-offshore-fund-norms-nirmala-digital-payments-11786066421579.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8638,
-      "title": "Parliament Monsoon Session Day 15 LIVE updates: Lok Sabha to take up MSME Development (Amendment) Bill",
-      "summary": "• Lok Sabha will also take up Bill to make it easier for small and medium businesses to get a licence to do business in India.\n• Parliament will be in session for three days to mark the start of the monsoon session.\n• Parliament is currently in its second week of the session.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/parliament-monsoon-session-day-15-lok-sabha-rajya-sabha-live-updates-august-7-2026/article71316149.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8644,
-      "title": "Trump Signs New Birthright Citizenship Order After Supreme Court Setback | White House News",
-      "summary": "• U.S. President Donald Trump has signed a new executive order aimed at restricting birthright citizenship.\n• The move revives one of the most contentious issues in American immigration policy.\n• Supporters argue the order is intended to strengthen immigration enforcement and clarify citizenship rules, while critics are expected to challenge its legality and constitutionality.\n• The renewed push comes amid an ongoing national debate over immigration, border security and the interpretation of the 14th Amendment.\n• Breaking News: U.S. President Donald Trump has signed a new executive order aimed at restricting birthright citizenship, more than a month after the U.S. Supreme Court rejected his earlier effort to limit the practice.The latest move revives one of the most contentious issues in American….\n• Supporters argue the order is intended to strengthen immigration enforcement and clarify citizenship rules, while critics are expected to challenge its legality and constitutionality.The renewed push comes amid an ongoing national debate over immigration, border security and the interpretation of….",
-      "category": "Polity & Governance",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/videos/world/trump-signs-new-birthright-citizenship-order-after-supreme-court-setback-white-house-news-10258233.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8674,
-      "title": "Tamil Nadu: Udhayanidhi Stalin Slams CM Vijay Over Makedatu | BREAKING NEWS | News18",
-      "summary": "• Tamil Nadu Deputy Chief Minister Udhayanidhi Stalin has strongly criticized Chief Minister C.\n• Joseph Vijay over the contentious Makedatu dam project.\n• The issue remains a major point of contention between Tamil Nadu and Karnataka, with concerns over water sharing under the Cauvery river dispute.\n• Stalin's remarks have added a fresh political dimension to the ongoing controversy, drawing attention from leaders and the public alike.\n• N18oc_indian18oc_breaking-newsCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/tamil-nadu-udhayanidhi-stalin-slams-cm-vijay-over-makedatu-breaking-news-news18-10259626.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-07"
-    },
-    {
-      "id": 8662,
-      "title": "Opinion: Opinion | From Punjab To Karnataka, Congress Just Can't Stop Hitting Self-Goals",
-      "summary": "• Congress just can't stop hitting self-goals, says former Karnataka chief minister B S Yeddyurappa.\n• Congress has been in power in Karnataka for the past three years.\n• It is also ruling Punjab, Karnataka and Uttarakhand in India's two most populous states.",
-      "category": "State News",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/opinion/punjab-to-karnataka-congresss-self-inflicted-damage-is-going-out-of-hand-11878417#publisher=newsstand",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-07"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-02T10:25:35.319298Z"
+  "updated_at": "2026-10-02T13:31:15.715866Z"
 }
