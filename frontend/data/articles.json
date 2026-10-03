@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 11691,
+      "title": "25 years of Narendra Modi: A journey of service and solutions",
+      "summary": "• 25 years of Prime Minister NarendraModi.com: Share your memories of the prime minister.\n• Share your photos and videos of the Prime Minister of India.\n• Send them to us at: mailonlinepictures@dailymail.co.uk and we will feature them in a weekly Travel Snapshots gallery.\n• Visit www.dailymailonline.com/Travel next week for a new gallery of snapshots.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/25-years-of-narendra-modi-a-journey-of-service-and-solutions-101790994552457.html",
+      "relevance_score": 0.8692,
+      "published_date": "2026-10-03"
+    },
+    {
       "id": 11662,
       "title": "India beats China to claim first Asian Games women’s hockey gold medal in 44 years, secures LA 2028 Olympics qualification",
       "summary": "• India beat China to victory in women's hockey at Asian Games for the first time since 1974.\n• India beats China in final to win gold medal for first time in more than 40 years.\n• India's win secures Los Angeles Olympics qualification for 2028 Games.",
@@ -61,6 +71,16 @@
       "published_date": "2026-10-02"
     },
     {
+      "id": 11650,
+      "title": "India women’s hockey team wins Asian Games gold after 44 years, qualifies for 2028 Olympics",
+      "summary": "• India has not won a gold medal in women's hockey since the 1970s.\n• India won gold at the Asian Games in 1974, 1978, 1980 and 1986.\n• India have not won gold in men's hockey in 44 years, since 1970s and 1980s.India has won two gold medals at the Commonwealth Games and one at the World Cup.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/india-womens-hockey-team-wins-asian-games-gold-after-44-years-qualifies-for-2028-olympics/article71537065.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-02"
+    },
+    {
       "id": 11685,
       "title": "Hockey India announces Rs.11 Lakh cash reward for Asian Games gold medal-winning women’s team",
       "summary": "• The cash reward is for winning the gold medal at the Asian Games in Guangzhou, China.\n• Hockey India announced the reward for winning gold medal in the women's team event.\n• The team won gold in the men's team competition.",
@@ -77,16 +97,6 @@
       "category": "Sports",
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-oct-3-schedule-india-medal-events-cricket-wrestling-hockey-ind-vs-pak-3008462-2026-10-02?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-02"
-    },
-    {
-      "id": 11650,
-      "title": "India women’s hockey team wins Asian Games gold after 44 years, qualifies for 2028 Olympics",
-      "summary": "• India has not won a gold medal in women's hockey since the 1970s.\n• India won gold at the Asian Games in 1974, 1978, 1980 and 1986.\n• India have not won gold in men's hockey in 44 years, since 1970s and 1980s.India has won two gold medals at the Commonwealth Games and one at the World Cup.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/india-womens-hockey-team-wins-asian-games-gold-after-44-years-qualifies-for-2028-olympics/article71537065.ece",
       "relevance_score": 0.91,
       "published_date": "2026-10-02"
     },
@@ -19989,18 +19999,8 @@
       "url": "https://www.thehindu.com/sci-tech/technology/sarvam-ai-all-about-the-bengaluru-startups-plans-for-a-trillion-parameter-model/article71320461.ece",
       "relevance_score": 0.8872,
       "published_date": "2026-08-08"
-    },
-    {
-      "id": 8703,
-      "title": "RBI move on revolving credit hits NBFC stocks",
-      "summary": "• NBFCs have been hit by the central bank's decision to cut interest rates.\n• The move is seen as a blow to the NBFC sector, which is heavily dependent on the banking system for its survival.\n• The bank's move is also likely to hit the shares of some of the banks' top executives, who are based in India.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-move-on-revolving-credit-hits-nbfc-stocks/articleshow/133045277.cms",
-      "relevance_score": 0.8848,
-      "published_date": "2026-08-08"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-02T20:33:55.840037Z"
+  "updated_at": "2026-10-03T04:19:46.532469Z"
 }
