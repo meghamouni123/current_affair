@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 11752,
+      "title": "Finance system resilient, economy braved West Asia crisis: RBI governor",
+      "summary": "• RBI governor: Economy braved crisis in West Asia by focusing on banking sector.\n• He said economy was resilient, banking system was resilient.\n• He was speaking at a conference in Mumbai on the state of the Indian banking system in India.\n• The conference was hosted by the World Bank and the Indian Reserve Bank of India.",
+      "category": "Economy & Banking",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/finance-system-resilient-economy-braved-west-asia-crisis-rbi-governor/articleshow/134668307.cms",
+      "relevance_score": 0.9716,
+      "published_date": "2026-10-03"
+    },
+    {
       "id": 11722,
       "title": "India’s Hockey Gold: Sjoerd Marijne On Discipline, Team Unity & LA 2028 |Exclusive Interview| News18",
       "summary": "• India defeated defending champions China 1-0 in the final to win the women’s hockey gold for the first time since 1982.\n• The victory also secured India a direct qualification spot for the Los Angeles 2028 Olympics.\n• Coach Sjoerd Marijne has highlighted discipline, team unity, strong defence, hard work and competition for places as key elements of the team's transformation.\n• He has also said the Olympic qualification gives India more time to focus entirely on preparation for LA 2028.\n• He has also said the Olympic qualification gives India more time to focus entirely on preparation for LA 2028.In this exclusive interview, Marijne discusses the team’s journey, the mindset behind the historic final against China, the importance of discipline and how India can build on this success….",
@@ -51,16 +61,6 @@
       "published_date": "2026-10-03"
     },
     {
-      "id": 11717,
-      "title": "India vs Malaysia Hockey Live Updates, Asian Games Final: History made; India win 5-1, defend gold medal",
-      "summary": "• India beat Malaysia 5-0 to win gold medal for the first time in Asian Games history.\n• India have never won a gold medal at the Asian Games before.\n• India are the first team to win three gold medals in a single Asian Games.\n• Malaysia have won just one gold medal in the history of Asian Games hockey.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/hockey/ind-vs-mas-live-hockey-score-india-vs-malaysia-mens-hockey-asian-games-2026-final-october-3-latest-updates-101790992339217.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-03"
-    },
-    {
       "id": 11705,
       "title": "CAPT SMIT MACHCHHAR: National Bravery Award Sought | Pilot Hailed for Saving 174 Lives From Hijack",
       "summary": "• The Federation of Indian Pilots has written to Prime Minister Narendra Modi seeking an appropriate national bravery award for Captain Smit Machchhar.\n• The pilots’ body said he continued performing his responsibilities as pilot-in-command and helped ensure the aircraft was safely diverted to Tabuk, Saudi Arabia.\n• He was attacked inside the cockpit by the first officer and sustained serious injuries.\n• The flight was carrying 174 passengers and eight crew members.\n• Captain Smit Machchhar, the Indian Flydubai pilot who was seriously injured during a cockpit attack on a Dubai-Tel Aviv flight, is being considered for national recognition after his actions helped bring the aircraft to safety.The Federation of Indian Pilots has written to Prime Minister Narendra….\n• Calls for further national recognition have also emerged, including a request from Shiv Sena MP Milind Deora for the Ashoka Chakra.Watch LIVE for the latest on Captain Smit Machchhar’s recovery, the national award demand, political and public reactions, and the investigation into the Flydubai….",
@@ -81,22 +81,22 @@
       "published_date": "2026-10-03"
     },
     {
-      "id": 11720,
-      "title": "No trophy drama: Indian cricket team receives Asian Games gold medals from Jay Shah",
-      "summary": "• Indian team wins gold medals for men's and women's cricket at Asian Games in Jakarta.\n• Indian women's team win women's gold medal for women's rugby union.\n• India men's basketball team wins men's singles gold medal.\n• India women's hockey team win men's doubles gold.",
-      "category": "Sports",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-vs-pakistan-crikcet-final-jay-shah-medals-3008780-2026-10-03?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-03"
-    },
-    {
       "id": 11733,
       "title": "BREAKING: Indian Wins Men's Hockey GOLD At Asian Games 2026, Qualifies For LA Olympics | News18",
       "summary": "• India wins gold in men's hockey at 2026 Asian Games.\n• India also qualifies for LA Olympics for the first time in 2026.\n• Indian men's team will play in the men's and women's hockey events at the 2026 Games.\n• Indian women's team won gold in the women's event.",
       "category": "Sports",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/breaking-indian-wins-men-s-hockey-gold-at-asian-games-2026-qualifies-for-la-olympics-news18-10366108.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-03"
+    },
+    {
+      "id": 11720,
+      "title": "No trophy drama: Indian cricket team receives Asian Games gold medals from Jay Shah",
+      "summary": "• Indian team wins gold medals for men's and women's cricket at Asian Games in Jakarta.\n• Indian women's team win women's gold medal for women's rugby union.\n• India men's basketball team wins men's singles gold medal.\n• India women's hockey team win men's doubles gold.",
+      "category": "Sports",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-india-vs-pakistan-crikcet-final-jay-shah-medals-3008780-2026-10-03?utm_source=rss",
       "relevance_score": 0.91,
       "published_date": "2026-10-03"
     },
@@ -137,6 +137,16 @@
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/breaking-news/u-p-2027-poll-battle-yogi-adityanath-faces-akhilesh-yadav-s-political-challenge-news18-10366238.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-03"
+    },
+    {
+      "id": 11717,
+      "title": "India vs Malaysia Hockey Live Updates, Asian Games Final: History made; India win 5-1, defend gold medal",
+      "summary": "• India beat Malaysia 5-0 to win gold medal for the first time in Asian Games history.\n• India have never won a gold medal at the Asian Games before.\n• India are the first team to win three gold medals in a single Asian Games.\n• Malaysia have won just one gold medal in the history of Asian Games hockey.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/hockey/ind-vs-mas-live-hockey-score-india-vs-malaysia-mens-hockey-asian-games-2026-final-october-3-latest-updates-101790992339217.html",
       "relevance_score": 0.91,
       "published_date": "2026-10-03"
     },
@@ -19989,18 +19999,8 @@
       "url": "https://www.ndtv.com/world-news/mecca-defence-pact-with-pakistan-saudi-not-aimed-at-eliminating-iran-turkey-11886082#publisher=newsstand",
       "relevance_score": 0.8645,
       "published_date": "2026-08-09"
-    },
-    {
-      "id": 8750,
-      "title": "Delhi University Holds Placement Drive 2026 With Over 75 Organisations, 500 Participants",
-      "summary": "• More than 500 people from over 75 organisations will be placed at Delhi University in 2026.\n• Delhi University is one of the most prestigious universities in the world.\n• It is located in the heart of the Indian capital, with a population of more than 100 million people.\n• The university has a reputation for attracting top talent to the city.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/delhi-university-holds-placement-drive-2026-with-over-75-organisations-500-participants-11884913#publisher=newsstand",
-      "relevance_score": 0.8582,
-      "published_date": "2026-08-09"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-03T19:01:35.794532Z"
+  "updated_at": "2026-10-04T04:56:08.223537Z"
 }
