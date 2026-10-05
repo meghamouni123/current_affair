@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": 11796,
+      "title": "US choosing to be a 'lonelier power'; China rising on world stage: S Jaishankar",
+      "summary": "• China is a rising power on the world stage, says S Jaisankar of the Indian Foreign Ministry.\n• China's rise on the global stage is a sign of its growing influence, says Jaisanka.\n• China has become a \"loneliest power\" in the world, he says.",
+      "category": "International Relations",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/us-choosing-to-be-a-lonelier-power-china-rising-on-world-stage-s-jaishankar-munich-security-conference-new-delhi-101791168736834.html",
+      "relevance_score": 0.9008,
+      "published_date": "2026-10-05"
+    },
+    {
+      "id": 11797,
+      "title": "Sensex and Nifty open higher after longest weekly decline in 25 years",
+      "summary": "• Sensex, Nifty record highest close in a month.\n• Nifty posts its worst weekly loss in more than 25 years on Friday.\n• NSE, BSE also open higher on Monday after record high close in previous two days.\n• CLICK HERE for all the latest news on the Nifty and the Sensex in India.",
+      "category": "Economy & Banking",
+      "source": "Hindustan Times - Business",
+      "url": "https://www.hindustantimes.com/business/sensex-nifty-open-higher-after-longest-weekly-decline-25-years-stock-market-live-updates-global-markets-101791168803321.html",
+      "relevance_score": 0.8549,
+      "published_date": "2026-10-05"
+    },
+    {
+      "id": 11802,
+      "title": "RBI rate hikes back on the table as inflation risks mount",
+      "summary": "• Risks of a repeat of the 2008-09 global financial crisis are now higher, experts say.\n• The central bank has raised interest rates twice in the past two years.\n• It has also raised the possibility of a third time in the coming months.\n• The inflation rate is now at 7.7 per cent, according to the Reserve Bank of India.",
+      "category": "Economy & Banking",
+      "source": "LiveMint - Economy",
+      "url": "https://www.livemint.com/economy/rbi-monetary-policy-repo-rate-indian-economy-11791107863686.html",
+      "relevance_score": 0.8104,
+      "published_date": "2026-10-05"
+    },
+    {
+      "id": 11803,
+      "title": "Pakistan-Taliban Rift Moves To Moscow; India, China And Iran Join Key Afghanistan Talks | Exclusive",
+      "summary": "• Pakistan, Taliban, Russia and Iran join key talks in Moscow.\n• Pakistan and Taliban have been at odds for years over control of parts of Afghanistan.\n• Pakistan has been at war with Afghanistan for more than a decade.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/world/pakistan-taliban-rift-moves-to-moscow-india-china-and-iran-join-key-afghanistan-talks-exclusive-ws-l-10367326.html",
+      "relevance_score": 0.8059,
+      "published_date": "2026-10-05"
+    },
+    {
+      "id": 11801,
+      "title": "Adani Group, Kachchh University Launch Green Energy Centre Of Excellence",
+      "summary": "• Centre will focus on renewable energy sources, including solar panels, wind turbines, biomass and biomass energy.\n• The centre will be based at the Adani Group's Gautam Adani Solar Park in Rajkot, Haryana.\n• The project will be a joint venture between Adani and KachChh University, with a focus on green energy.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/adani-group-kachchh-university-launch-green-energy-centre-of-excellence-12138346#publisher=newsstand",
+      "relevance_score": 0.9857,
+      "published_date": "2026-10-04"
+    },
+    {
       "id": 11766,
       "title": "'US has deliberately become a lonelier power': EAM Jaishankar on shifting world order",
       "summary": "• EAM: 'U.S. deliberately becomes a lonerier power' 'We have to change the way we think about the world,' he says.\n• We need to change our way of thinking,' he adds.\n• 'We need a new world order,' EAM says.",
@@ -61,22 +111,22 @@
       "published_date": "2026-10-04"
     },
     {
-      "id": 11792,
-      "title": "Haryana Congress Leader Backs 'No Chief Minister Face' Policy, Cites Punjab",
-      "summary": "• Haryana Pradesh Congress Leader: 'I am not a politician, I am a politician' 'I don't want a Chief Minister with a face,' he says.\n• 'I want a person who has the courage to stand up for his or her state,' he adds.\n• 'That is what I am trying to do,' he insists.",
-      "category": "State News",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/haryana-congress-leader-kuldeep-sharma-backs-no-chief-minister-face-policy-cites-punjab-in-letter-to-party-leaders-12138132#publisher=newsstand",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-04"
-    },
-    {
       "id": 11780,
       "title": "RBI likely to raise repo rate in October 2026 as West Asia crisis fuels inflation risks",
       "summary": "• Bank is expected to keep the repo rate at a record low of 7.5 per cent.\n• It has been under pressure to keep a lid on inflation in the wake of the global financial crisis and a slowdown in China.\n• The central bank has been trying to keep inflation under control since the 2008 financial crisis.",
       "category": "Economy & Banking",
       "source": "LiveMint - Economy",
       "url": "https://www.livemint.com/economy/rbi-likely-to-raise-repo-rate-in-october-2026-as-west-asia-crisis-fuels-inflation-risks-11791121335600.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-04"
+    },
+    {
+      "id": 11792,
+      "title": "Haryana Congress Leader Backs 'No Chief Minister Face' Policy, Cites Punjab",
+      "summary": "• Haryana Pradesh Congress Leader: 'I am not a politician, I am a politician' 'I don't want a Chief Minister with a face,' he says.\n• 'I want a person who has the courage to stand up for his or her state,' he adds.\n• 'That is what I am trying to do,' he insists.",
+      "category": "State News",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/haryana-congress-leader-kuldeep-sharma-backs-no-chief-minister-face-policy-cites-punjab-in-letter-to-party-leaders-12138132#publisher=newsstand",
       "relevance_score": 0.91,
       "published_date": "2026-10-04"
     },
@@ -278,6 +328,16 @@
       "source": "LiveMint - Economy",
       "url": "https://www.livemint.com/economy/era-of-easy-money-is-ending-world-is-in-for-a-structurally-high-rate-regime-french-economist-landau-11791100860203.html",
       "relevance_score": 0.8154,
+      "published_date": "2026-10-04"
+    },
+    {
+      "id": 11798,
+      "title": "SIR strikes at heart of Constitution: Supreme Court judge Ujjal Bhuyan",
+      "summary": "• SIR struck at the heart of the Constitution, says Supreme Court Judge Ujjalsingh Bhujan.\n• Bhuan: SIR's action is a violation of the Indian Constitution.\n• Sir's actions are also a breach of the rule of law, says Bhuvan.\n• S IR strikes at the head of the constitution, says Ujjalingh Bhusan.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/sir-strikes-at-heart-of-constitution-supreme-court-judge-justice-ujjal-bhuyan/articleshow/134680179.cms",
+      "relevance_score": 0.8144,
       "published_date": "2026-10-04"
     },
     {
@@ -19939,68 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/science/a-half-mile-solar-strip-floats-above-an-irrigation-canal-in-gujarat-generating-1-6-million-kilowatt-hours-of-power-while-saving-2-38-million-gallons-of-water-from-evaporation/articleshow/133088197.cms",
       "relevance_score": 0.8658,
       "published_date": "2026-08-10"
-    },
-    {
-      "id": 8828,
-      "title": "Activists question Speaker J.C.D. Prabhakar’s participation in ‘pro-life’ rally",
-      "summary": "• They say he should not have taken part in the event.\n• He says he was only there to listen to the concerns of those who were there to make a point.\n• He also said he was not there to participate in a ‘ pro-life rally’.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/activists-question-speaker-jcd-prabhakars-participation-in-pro-life-rally/article71329041.ece",
-      "relevance_score": 0.8585,
-      "published_date": "2026-08-10"
-    },
-    {
-      "id": 8921,
-      "title": "TB vaccine offers clue to retrain immune system against Alzheimer’s",
-      "summary": "• Vaccine could be used to help fight the disease, which has been linked to memory loss and cognitive decline.\n• It could also be used as a way to prevent the disease from spreading to other parts of the body, they say.\n• For more information on the TB vaccine, go to: www.tbvaccine.org.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Science",
-      "url": "https://www.thehindu.com/sci-tech/science/tb-vaccine-offers-clue-to-retrain-immune-system-against-alzheimers/article71327757.ece",
-      "relevance_score": 0.8552,
-      "published_date": "2026-08-10"
-    },
-    {
-      "id": 8817,
-      "title": "UPI payments will not attract any tax or transaction charge: FM Sitharaman",
-      "summary": "• UpI payments to be made using UPI's mobile app, which is free to use.\n• Upi payments will be made through the UPI mobile app and will not be subject to any tax, she says.\n• Up I payments will also not be charged any transaction charge.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Economy & Banking",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/videos/shorts/upi-payments-will-not-attract-any-tax-or-transaction-charge-fm-sitharaman/article71328760.ece",
-      "relevance_score": 0.8516,
-      "published_date": "2026-08-10"
-    },
-    {
-      "id": 8804,
-      "title": "Women's Hockey WC: India's journey from 1974 to 2022 marked by struggle",
-      "summary": "• India have won just one gold medal in women's hockey since the 1970s.\n• India are bidding to win their first ever women's World Cup in 2022 in South Africa.\n• India will be hosting the tournament for the first time in their history.\n• India's last World Cup appearance was in 1974, and they have not won gold since.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/hockey/womens-hockey-wc-india-s-journey-from-1974-to-2022-marked-by-struggle-101786344889027.html",
-      "relevance_score": 0.8492,
-      "published_date": "2026-08-10"
-    },
-    {
-      "id": 8816,
-      "title": "CJP Protest News: Amit Shah To Reply In Parliament | Government Ready For Discussion | Parliament",
-      "summary": "• The CJP protest issue is set to come up in Parliament.\n• Union Home Minister Amit Shah is expected to respond to the concerns and issues raised over the ongoing controversy.\n• The development comes amid a political confrontation in Parliament, with the government maintaining that it is ready for a discussion on the matter.\n• Stay with CNN-News18 for LIVE Parliament proceedings, political reactions, breaking updates and the latest developments.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/cjp-protest-news-amit-shah-to-reply-in-parliament-government-ready-for-discussion-parliament-10263650.html",
-      "relevance_score": 0.845,
-      "published_date": "2026-08-10"
-    },
-    {
-      "id": 8808,
-      "title": "SC allows Abhishek Banerjee's foreign trip for treatment, cancels High Court order",
-      "summary": "• High Court had ordered that he not be allowed to leave India for treatment in the UK.\n• Banersi says he needs to go to the UK for treatment.\n• He says he is suffering from cancer and needs to be treated abroad.\n• The High Court said he should not be able to leave the country.",
-      "category": "National News",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-sets-aside-calcutta-hc-order-allows-tmcs-abhishek-banerjee-to-travel-abroad-for-eye-treatment-2967607-2026-08-10?utm_source=rss",
-      "relevance_score": 0.8439,
-      "published_date": "2026-08-10"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-04T19:01:59.921495Z"
+  "updated_at": "2026-10-05T04:45:00.208226Z"
 }
