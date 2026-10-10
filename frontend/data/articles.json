@@ -31,22 +31,22 @@
       "published_date": "2026-10-10"
     },
     {
-      "id": 12086,
-      "title": "Tamil Nadu byelection results: All is well with all",
-      "summary": "• Tamil Nadu byelections: The results have been announced.\n• The results will be announced at 8.30pm on Thursday.\n• Click here to see the full results and results of the byelection in Tamil Nadu.\n• The total number of votes cast was 2,857,941.",
-      "category": "State News",
-      "source": "Frontline Magazine",
-      "url": "https://frontline.thehindu.com/politics/tamil-nadu-by-elections-2026-tvk-dmk-aiadmk/article71567653.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-10"
-    },
-    {
       "id": 12090,
       "title": "Rajya Sabha MP, Ex Kerala Chief Minister Among Those Detained In Delhi",
       "summary": "• Ravi Agrawal is a member of the Rajya Sabha and a former Chief Minister of Kerala.\n• He has been detained in Delhi since December 31, 2013.\n• He was released on bail in April 2013.\n• AgrawAL: I was detained in December 2013, I was released in May 2013.\n• I was also released in June 2013, and I was arrested in August 2013.",
       "category": "State News",
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/video-cjp-protesters-being-detained-taken-to-delhis-chhatrasal-stadium-protest-against-gyanesh-kumar-election-commission-12165272#publisher=newsstand",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-10"
+    },
+    {
+      "id": 12086,
+      "title": "Tamil Nadu byelection results: All is well with all",
+      "summary": "• Tamil Nadu byelections: The results have been announced.\n• The results will be announced at 8.30pm on Thursday.\n• Click here to see the full results and results of the byelection in Tamil Nadu.\n• The total number of votes cast was 2,857,941.",
+      "category": "State News",
+      "source": "Frontline Magazine",
+      "url": "https://frontline.thehindu.com/politics/tamil-nadu-by-elections-2026-tvk-dmk-aiadmk/article71567653.ece",
       "relevance_score": 0.91,
       "published_date": "2026-10-10"
     },
@@ -148,6 +148,16 @@
       "source": "The Hindu - Business",
       "url": "https://www.thehindu.com/business/Economy/ai-data-centre-boom-puts-indias-power-grid-under-pressure-drives-up-upgrade-costs/article71555736.ece",
       "relevance_score": 0.8581,
+      "published_date": "2026-10-10"
+    },
+    {
+      "id": 12120,
+      "title": "Deepika Sehrawat: From injury to the pivot of India’s Asian Games triumph",
+      "summary": "• She was injured in the opening game of the Games but recovered to make the final.\n• She won the gold medal for India in the women's singles event.\n• She also won the silver medal for the team in the 4x100m relay event.\n• Seh Rawat also won a gold medal in the individual medley event.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/hockey/deepika-sehrawat-from-injury-to-the-pivot-of-india-s-asian-games-triumph-101791652912577.html",
+      "relevance_score": 0.8542,
       "published_date": "2026-10-10"
     },
     {
@@ -19989,18 +19999,8 @@
       "url": "https://www.ndtv.com/education/ugc-net-re-exam-2026-5-things-3-subject-candidates-should-know-11924265#publisher=newsstand",
       "relevance_score": 0.8499,
       "published_date": "2026-08-18"
-    },
-    {
-      "id": 9150,
-      "title": "Army Chief Meets Nepal PM, Discusses Bilateral Military Ties",
-      "summary": "• Nepal and India have a long history of military cooperation.\n• Nepal has been a key ally to India in the Himalayas since the fall of the Soviet Union in 1968.\n• The two countries also have a close military relationship in the North-East and South-East regions of their respective constitutions.",
-      "category": "International Relations",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/army-chief-general-dhiraj-seth-meets-nepal-pm-balendra-shah-discusses-bilateral-military-ties-11926187#publisher=newsstand",
-      "relevance_score": 0.8448,
-      "published_date": "2026-08-18"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-10T17:40:45.763917Z"
+  "updated_at": "2026-10-10T19:56:55.599460Z"
 }
