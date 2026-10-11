@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 12135,
+      "title": "Adani Enterprises' Kutch Copper Plans 115 MW Renewable Energy Integration",
+      "summary": "• Adani Enterprises to build 115 MW renewable energy plant in Kutch, India.\n• Kutch copper plans to be world's largest copper mine with 1.5 billion tons of ore.\n• K Hutch Copper to be built on Adani-owned Adani's 100% stake in Adani Group's Kutch mine.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/adani-enterprises-kutch-copper-plans-115-mw-renewable-energy-integration-12170048#publisher=newsstand",
+      "relevance_score": 0.9523,
+      "published_date": "2026-10-11"
+    },
+    {
       "id": 12131,
       "title": "Atomic Hack India 2026: IIT Bombay, Rosatom Invite Students To Apply",
       "summary": "• IIT Mumbai and Rosatom will work together on the project.\n• The project will be led by Rosatom and the Indian Institute of Technology, Bombay.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
@@ -8,6 +18,16 @@
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/education/atomic-hack-india-2026-iit-bombay-rosatom-invite-students-to-apply-12169160#publisher=newsstand",
       "relevance_score": 0.9333,
+      "published_date": "2026-10-11"
+    },
+    {
+      "id": 12137,
+      "title": "PM Modi to host Asian Games medallists, cricketers on October 15",
+      "summary": "• PM will be accompanied by Indian cricket team's captain Virat Kohli and vice-captain Mahendra Singh Dhoni.\n• He will also be joined by Indian hockey team captain Ravindra Jadeja and cricketer Ravichandran Ashwin.\n• The event will take place in New Delhi's National Cricket Stadium.",
+      "category": "Sports",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/pm-modi-host-india-asian-games-medallists-cricket-team-october-15-3014896-2026-10-11?utm_source=rss",
+      "relevance_score": 0.91,
       "published_date": "2026-10-11"
     },
     {
@@ -38,6 +58,16 @@
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/education/kmat-result-2026-out-check-steps-to-download-other-details-12168164#publisher=newsstand",
       "relevance_score": 0.8392,
+      "published_date": "2026-10-11"
+    },
+    {
+      "id": 12136,
+      "title": "Stay away from Saudi airports: Houthis warn airlines after striking Riyadh airport",
+      "summary": "• Houthis strike Riyadh airport in bid to oust Saudi Arabia's King Fahad ruler from power.\n• Saudi government blames Houthis for the attack, says it is working with the rebels to find a solution to the crisis.\n• The Houthis claim responsibility for other attacks on Saudi airports in recent months, including one in December.",
+      "category": "National News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/world/story/houthis-warn-airlines-avoid-saudi-airports-riyadh-airport-strike-killed-third-attack-week-3014842-2026-10-11?utm_source=rss",
+      "relevance_score": 0.8345,
       "published_date": "2026-10-11"
     },
     {
@@ -101,22 +131,22 @@
       "published_date": "2026-10-10"
     },
     {
-      "id": 12086,
-      "title": "Tamil Nadu byelection results: All is well with all",
-      "summary": "• Tamil Nadu byelections: The results have been announced.\n• The results will be announced at 8.30pm on Thursday.\n• Click here to see the full results and results of the byelection in Tamil Nadu.\n• The total number of votes cast was 2,857,941.",
-      "category": "State News",
-      "source": "Frontline Magazine",
-      "url": "https://frontline.thehindu.com/politics/tamil-nadu-by-elections-2026-tvk-dmk-aiadmk/article71567653.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-10"
-    },
-    {
       "id": 12090,
       "title": "Rajya Sabha MP, Ex Kerala Chief Minister Among Those Detained In Delhi",
       "summary": "• Ravi Agrawal is a member of the Rajya Sabha and a former Chief Minister of Kerala.\n• He has been detained in Delhi since December 31, 2013.\n• He was released on bail in April 2013.\n• AgrawAL: I was detained in December 2013, I was released in May 2013.\n• I was also released in June 2013, and I was arrested in August 2013.",
       "category": "State News",
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/video-cjp-protesters-being-detained-taken-to-delhis-chhatrasal-stadium-protest-against-gyanesh-kumar-election-commission-12165272#publisher=newsstand",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-10"
+    },
+    {
+      "id": 12086,
+      "title": "Tamil Nadu byelection results: All is well with all",
+      "summary": "• Tamil Nadu byelections: The results have been announced.\n• The results will be announced at 8.30pm on Thursday.\n• Click here to see the full results and results of the byelection in Tamil Nadu.\n• The total number of votes cast was 2,857,941.",
+      "category": "State News",
+      "source": "Frontline Magazine",
+      "url": "https://frontline.thehindu.com/politics/tamil-nadu-by-elections-2026-tvk-dmk-aiadmk/article71567653.ece",
       "relevance_score": 0.91,
       "published_date": "2026-10-10"
     },
@@ -19969,38 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/kadapa-police-launch-integrated-surveillance-system-in-vempalli/article71361311.ece",
       "relevance_score": 0.9275,
       "published_date": "2026-08-18"
-    },
-    {
-      "id": 9134,
-      "title": "BJP announces poll in-charges for Assembly elections in U.P., Punjab and Gujarat",
-      "summary": "• Party to hold elections in three states: Punjab, Gujarat and Uttar Pradesh.\n• Polls to be held on November 18 and 19 in Punjab, Uttar Pradesh and Rajasthan, and on December 18 in Gujarat and Haryana.\n• The results will be announced on December 19 and 20.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/bjp-announces-poll-in-charges-for-assembly-elections-in-up-punjab-and-gujarat/article71359143.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-18"
-    },
-    {
-      "id": 9171,
-      "title": "On his first visit to J&amp;K, US envoy Sergio Gor to meet Omar today",
-      "summary": "• U.S. President Barack Obama to visit the region later this month.\n• Obama's visit will be his first to the region since taking office in 2009.\n• Obama will be accompanied by Secretary of State John Kerry and State Department officials.\n• The trip will also include a stop at the UN in New York.",
-      "category": "International Relations",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/on-his-first-visit-to-jk-us-envoy-sergio-gor-to-meet-omar-today/articleshow/133330848.cms",
-      "relevance_score": 0.9009,
-      "published_date": "2026-08-18"
-    },
-    {
-      "id": 9161,
-      "title": "India records its biggest win in Women’s Hockey World Cup history",
-      "summary": "• India beat Australia by a record margin of 17 points.\n• India have won all three of their games so far in the tournament.\n• India will play Australia in the quarter-finals and the semi-finals on Sunday.\n• India also won the gold medal in the 2014 edition of the World Cup in South Africa.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/hockey/india-records-biggest-win-womens-hockey-world-cup-history-south-africa-6-1/article71361386.ece",
-      "relevance_score": 0.8994,
-      "published_date": "2026-08-18"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-11T10:41:41.103229Z"
+  "updated_at": "2026-10-11T13:36:27.728023Z"
 }
