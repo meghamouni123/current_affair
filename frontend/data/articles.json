@@ -21,22 +21,22 @@
       "published_date": "2026-10-11"
     },
     {
-      "id": 12137,
-      "title": "PM Modi to host Asian Games medallists, cricketers on October 15",
-      "summary": "• PM will be accompanied by Indian cricket team's captain Virat Kohli and vice-captain Mahendra Singh Dhoni.\n• He will also be joined by Indian hockey team captain Ravindra Jadeja and cricketer Ravichandran Ashwin.\n• The event will take place in New Delhi's National Cricket Stadium.",
-      "category": "Sports",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/pm-modi-host-india-asian-games-medallists-cricket-team-october-15-3014896-2026-10-11?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-11"
-    },
-    {
       "id": 12141,
       "title": "Rupee relief, higher hedging costs: What RBI’s new forex rules mean",
       "summary": "• The new rules were announced by the Reserve Bank of India (RBI) on Wednesday.\n• The rules are expected to be implemented by the end of the year.\n• The changes are likely to have a significant impact on the Indian economy and the economy at large.\n• They are also expected to have an impact on global financial markets.",
       "category": "Economy & Banking",
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-relief-higher-hedging-costs-what-rbis-new-forex-rules-mean/articleshow/134872828.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-11"
+    },
+    {
+      "id": 12137,
+      "title": "PM Modi to host Asian Games medallists, cricketers on October 15",
+      "summary": "• PM will be accompanied by Indian cricket team's captain Virat Kohli and vice-captain Mahendra Singh Dhoni.\n• He will also be joined by Indian hockey team captain Ravindra Jadeja and cricketer Ravichandran Ashwin.\n• The event will take place in New Delhi's National Cricket Stadium.",
+      "category": "Sports",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/pm-modi-host-india-asian-games-medallists-cricket-team-october-15-3014896-2026-10-11?utm_source=rss",
       "relevance_score": 0.91,
       "published_date": "2026-10-11"
     },
@@ -88,6 +88,16 @@
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/inflation-data-it-earnings-crude-oil-to-steer-stock-markets-this-week-say-experts/articleshow/134871184.cms",
       "relevance_score": 0.8753,
+      "published_date": "2026-10-11"
+    },
+    {
+      "id": 12152,
+      "title": "Riyadh airport hit again as Houthi strikes widen threat to Saudi Arabia",
+      "summary": "• Houthi forces have taken control of parts of the country's north and west in recent weeks.\n• The Houthi have been fighting against the Saudi-led government in Yemen since last year.\n• Saudi forces have been battling the Houthi in Yemen and elsewhere in the Middle East in recent months for control of the region.",
+      "category": "National News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/world/story/riyadh-airport-attack-houthi-strike-us-intervention-oil-route-fears-ptag-3015152-2026-10-12?utm_source=rss",
+      "relevance_score": 0.8751,
       "published_date": "2026-10-11"
     },
     {
@@ -148,6 +158,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/telangana/ktr-seeks-early-construction-of-jntu-engineering-college-campus-in-sircilla/article71570896.ece",
       "relevance_score": 0.8317,
+      "published_date": "2026-10-11"
+    },
+    {
+      "id": 12149,
+      "title": "Brain Stimulation Centre inaugurated at Lalitha PVS Institute of Medical Sciences in Guntur",
+      "summary": "• Brain Stimulation Center inaugurated on January 1, 2014 at Lalita P VS Institute of medical Sciences.\n• It will provide brain-stimulation treatment to patients with brain damage.\n• It is the first of its kind in the state of Karnataka.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/brain-stimulation-centre-inaugurated-at-lalitha-pvs-institute-of-medical-sciences-in-guntur/article71572024.ece",
+      "relevance_score": 0.8292,
       "published_date": "2026-10-11"
     },
     {
@@ -19979,28 +19999,8 @@
       "url": "https://www.indiatoday.in/education-today/news/story/tnea-2026-over-1-lakh-engineering-seats-vacant-after-round-2-in-tamil-nadu-2974655-2026-08-19?utm_source=rss",
       "relevance_score": 0.8211,
       "published_date": "2026-08-19"
-    },
-    {
-      "id": 9201,
-      "title": "Inflation is heating up but don't expect another crisis",
-      "summary": "• Inflation is rising, but it won't be as bad as it was in the 1990s, they say.\n• The U.S. is on the brink of another recession, they add.\n• But they say it's unlikely to be as severe as in the 1980s or 1990s.\n• The economy is still growing, and there's still plenty of room for it to rise.",
-      "category": "Economy & Banking",
-      "source": "BBC Business",
-      "url": "https://www.bbc.co.uk/news/articles/cj63jr5r09zo?at_medium=RSS&at_campaign=rss",
-      "relevance_score": 0.8136,
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": 9181,
-      "title": "Secretary-General of ASEAN meets with President of Brazil-ASEAN Parliamentary Front",
-      "summary": "• Secretary-General meets with Brazilian President to discuss ASEan-Brazilian Parliamentary Front relations.\n• Meeting takes place at the Presidential Palace of the Brazilian-ASEan Parliamentary Front in Rio de Janeiro, Brazil.\n• The two leaders also discuss the future of the ASEANN Parliamentary Front with Brazil's President.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-meets-with-president-of-brazil-asean-parliamentary-front/",
-      "relevance_score": 0.8132,
-      "published_date": "2026-08-19"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-11T18:10:47.949063Z"
+  "updated_at": "2026-10-11T19:59:42.004163Z"
 }
