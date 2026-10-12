@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 12154,
+      "title": "Sensex, Nifty open higher as oil eases and RBI moves to support rupee",
+      "summary": "• Sensex and Nifty set to open higher for the first time in three days.\n• Oil eases as oil prices fall and the rupee is supported by central bank moves to help the rupees.\n• Nifty, Sensex set to start the day with gains of up to 5 per cent.",
+      "category": "Economy & Banking",
+      "source": "Hindustan Times - Business",
+      "url": "https://www.hindustantimes.com/business/sensex-nifty-open-higher-as-oil-eases-and-rbi-moves-to-support-rupee-101791774754177.html",
+      "relevance_score": 0.94,
+      "published_date": "2026-10-12"
+    },
+    {
+      "id": 12155,
+      "title": "Palantir CTO Shyam Sankar says researchers have started smoking, believing AI will cure cancer",
+      "summary": "• Palantir is a software company based in San Francisco, California.\n• It was founded by former Google executive Satya Nadella in 2007.\n• Sanker says the company has been working on AI for the past five years.\n• He says it has been a huge success so far, but is still in its early stages.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/technology/news/story/palantir-cto-shyam-sankar-says-researchers-have-started-smoking-believing-ai-will-cure-cancer-3015224-2026-10-12?utm_source=rss",
+      "relevance_score": 0.903,
+      "published_date": "2026-10-12"
+    },
+    {
       "id": 12135,
       "title": "Adani Enterprises' Kutch Copper Plans 115 MW Renewable Energy Integration",
       "summary": "• Adani Enterprises to build 115 MW renewable energy plant in Kutch, India.\n• Kutch copper plans to be world's largest copper mine with 1.5 billion tons of ore.\n• K Hutch Copper to be built on Adani-owned Adani's 100% stake in Adani Group's Kutch mine.",
@@ -19979,28 +19999,8 @@
       "url": "https://thediplomat.com/2026/08/us-icc-sanctions-pose-a-test-for-japan/",
       "relevance_score": 0.8298,
       "published_date": "2026-08-19"
-    },
-    {
-      "id": 9183,
-      "title": "Secretary-General of ASEAN Exchange Views with Minister of Foreign Affairs of Brazil",
-      "summary": "• Secretary-General and Brazilian Foreign Minister exchange views on the state of the region's relations with the rest of the world.\n• The meeting took place at the Foreign Ministry of Brazil in Rio de Janeiro, Brazil.\n• It was the first ever meeting between the two countries' foreign ministers in the South American region.\n• The event was attended by the Secretary-general of Asean and Brazil's Foreign Minister.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-exchange-views-with-minister-of-foreign-affairs-of-brazil/",
-      "relevance_score": 0.822,
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": 9189,
-      "title": "167 Tamil Nadu engineering colleges fill under 10% seats, 23 have zero admissions",
-      "summary": "• 23 of the colleges have no admissions at all.\n• Tamil Nadu has one of the highest engineering enrollment rates in the country.\n• The state has more than 1,000 engineering colleges.\n• The number of engineering students in Tamil Nadu is at an all-time high of 1.2 million.",
-      "category": "State News",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/education-today/news/story/tnea-2026-over-1-lakh-engineering-seats-vacant-after-round-2-in-tamil-nadu-2974655-2026-08-19?utm_source=rss",
-      "relevance_score": 0.8211,
-      "published_date": "2026-08-19"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-11T19:59:42.004163Z"
+  "updated_at": "2026-10-12T04:55:44.766232Z"
 }
