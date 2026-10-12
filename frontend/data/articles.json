@@ -1,6 +1,26 @@
 {
   "articles": [
     {
+      "id": 12182,
+      "title": "NASA’s SpaceX CRS-35 Mission to Launch Health Research",
+      "summary": "• Mission to launch health research from the Vandenberg Air Force Base in California.\n• Mission will take off from the Kennedy Space Center in Florida.\n• Mission is scheduled to take off in less than two hours, with a scheduled checkout time of less than four hours after launch.\n• The mission will be the first of its kind for the space agency.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/missions/station/nasas-spacex-crs-35-mission-to-launch-health-research/",
+      "relevance_score": 0.9725,
+      "published_date": "2026-10-12"
+    },
+    {
+      "id": 12180,
+      "title": "SPMVV partners with NIELIT Tirupati to boost digital learning, industry-ready skills development",
+      "summary": "• SPMVV is a leading provider of education in the state of Tamil Nadu.\n• SMPVV has more than 1.5 million students in schools across the state.\n• It is also the largest private employer in Tamil Nadu, employing more than 100,000 people.\n• It also has one of the largest post-secondary education programs in the country.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/spmvv-partners-with-nielit-tirupati-to-boost-digital-learning-industry-ready-skills-development/article71576038.ece",
+      "relevance_score": 0.9603,
+      "published_date": "2026-10-12"
+    },
+    {
       "id": 12167,
       "title": "CEC SHOWDOWN: Rahul Gandhi’s Press Briefing as Opposition Heads to Supreme Court | Delhi News",
       "summary": "• Rahul Gandhi and Opposition leaders are preparing to take their protest to the Supreme Court.\n• The move comes after days of protests and police detentions in the national capital.\n• Chief Justice of India Surya Kant has declined a meeting requested by Rahul Gandhi and Congress president Mallikarjun Kharge.\n• The Election Commission has denied allegations of political bias and said eligible voters whose names were incorrectly removed can re-enrol.\n• The political confrontation over Chief Election Commissioner Gyanesh Kumar and the Special Intensive Revision (SIR) of electoral rolls intensifies in Delhi.\n• Rahul Gandhi and Opposition leaders are preparing to take their protest to the Supreme Court, demanding action over what they allege are irregularities in the voter-list revision process.The Opposition plans to submit a memorandum seeking an end to alleged “vote chori”, a halt to SIR and the….",
@@ -51,12 +71,12 @@
       "published_date": "2026-10-12"
     },
     {
-      "id": 12173,
-      "title": "Explained | RBI’s worries about pressure on rupee and measures to curb volatility in forex market",
-      "summary": "• Also read: How the RBI is trying to curb forex volatility in the country's currency market.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
-      "category": "Economy & Banking",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/Economy/explained-rbis-worries-about-pressure-on-rupee-and-measures-to-curb-volatility-in-forex-market/article71574231.ece",
+      "id": 12186,
+      "title": "'Bharat Bachao' Or 'Bharat Todo' Mission? | Is Anarchy I.N.D.I.A Bloc's Only Tool? | Raw Report",
+      "summary": "• The political battle over the Election Commission is escalating.\n• The Opposition alleges electoral irregularities and demands accountability.\n• The BJP accuses its rivals of undermining institutions and politicising the electoral process.\n• Raw Report with Shawan Sen examines the INDIA bloc’s strategy, the controversy surrounding Gyanesh Kumar, and the larger battle over electoral integrity and institutional credibility.\n• Is the INDIA bloc’s protest against Chief Election Commissioner Gyanesh Kumar a fight to protect democracy—or a political strategy that risks deepening confrontation with constitutional institutions?As Opposition leaders intensify their ‘Vote Chori’ campaign and challenge the Special Intensive….",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/bharat-bachao-or-bharat-todo-mission-is-anarchy-i-n-d-i-a-bloc-s-only-tool-raw-report-10379061.html",
       "relevance_score": 0.91,
       "published_date": "2026-10-12"
     },
@@ -71,22 +91,32 @@
       "published_date": "2026-10-12"
     },
     {
-      "id": 12166,
-      "title": "Congress MP Rahul Gandhi Leads INDIA Bloc Protest Against CEC Gyanesh Kumar | Newsroom Unfiltered",
-      "summary": "• Major political confrontation is unfolding in Delhi as the INDIA bloc, with Rahul Gandhi among its leading figures, protests against Chief Election Commissioner Gyanesh Kumar.\n• Opposition parties allege that the voter-list revision risks excluding eligible voters and question whether the process is being carried out fairly.\n• CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….\n• Subscribe Now and join our community of informed and engaged viewers.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/congress-mp-rahul-gandhi-leads-india-bloc-protest-against-cec-gyanesh-kumar-newsroom-unfiltered-10378373.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-12"
-    },
-    {
       "id": 12175,
       "title": "'Kerala, Karnataka, Telangana govts must resign’: Himanta's dare to Congress for contesting on ballot paper",
       "summary": "• Himanta: Govts in Kerala and Karnataka must resign if they contest elections on paper.\n• He also said govt.s in Telanganas and Andhra Pradesh should resign if elections are held on ballot papers.\n• He was responding to Congress' demand that they contest election on paper instead of ballot.",
       "category": "State News",
       "source": "Times of India - India",
       "url": "https://timesofindia.indiatimes.com/india/congress-kerala-karnataka-telangana-govts-must-resign-himantas-condition-for-contesting-on-ballot-paper/articleshow/134895689.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-12"
+    },
+    {
+      "id": 12173,
+      "title": "Explained | RBI’s worries about pressure on rupee and measures to curb volatility in forex market",
+      "summary": "• Also read: How the RBI is trying to curb forex volatility in the country's currency market.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
+      "category": "Economy & Banking",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/Economy/explained-rbis-worries-about-pressure-on-rupee-and-measures-to-curb-volatility-in-forex-market/article71574231.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-12"
+    },
+    {
+      "id": 12166,
+      "title": "Congress MP Rahul Gandhi Leads INDIA Bloc Protest Against CEC Gyanesh Kumar | Newsroom Unfiltered",
+      "summary": "• Major political confrontation is unfolding in Delhi as the INDIA bloc, with Rahul Gandhi among its leading figures, protests against Chief Election Commissioner Gyanesh Kumar.\n• Opposition parties allege that the voter-list revision risks excluding eligible voters and question whether the process is being carried out fairly.\n• CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….\n• Subscribe Now and join our community of informed and engaged viewers.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/congress-mp-rahul-gandhi-leads-india-bloc-protest-against-cec-gyanesh-kumar-newsroom-unfiltered-10378373.html",
       "relevance_score": 0.91,
       "published_date": "2026-10-12"
     },
@@ -118,6 +148,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/videos/modi-government-should-play-by-the-rules-not-misuse-power-against-citizens-the-hindu-editorial/article71574424.ece",
       "relevance_score": 0.8961,
+      "published_date": "2026-10-12"
+    },
+    {
+      "id": 12181,
+      "title": "ICMR sets up high-altitude research centre in Keylong to study health risks in Himalayas",
+      "summary": "• ICMR: We are concerned about health risks at high altitudes.\n• We are also concerned about the impact of climate change on the environment.\n• We have set up a research centre to study the health risks of high altitude.\n• We also have a centre to monitor climate change in the region.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/icmr-sets-up-high-altitude-research-centre-in-keylong-to-study-health-risks-in-himalayas/articleshow/134899765.cms",
+      "relevance_score": 0.8948,
       "published_date": "2026-10-12"
     },
     {
@@ -161,6 +201,16 @@
       "published_date": "2026-10-12"
     },
     {
+      "id": 12184,
+      "title": "President appoints Governors in 6 states, Rajendra Arlekar gets Tamil Nadu",
+      "summary": "• RajendraArlekar appointed as Governor of Tamil Nadu on Monday.\n• He replaces Tamil Nadu's current Governor, Jayalalithaa, who has been in office for a year and a half.\n• Tamil Nadu is one of the most populous states in India, with a population of more than 100 million.",
+      "category": "State News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/president-appoints-new-governors-in-6-states-rajendra-arlekar-becomes-tn-governor-op-mathur-gets-keralam-3015890-2026-10-12?utm_source=rss",
+      "relevance_score": 0.8531,
+      "published_date": "2026-10-12"
+    },
+    {
       "id": 12161,
       "title": "Make energy and water conservation part of daily life, says Special Chief Secretary Vijayanand",
       "summary": "• Make it a part of your everyday life, he says.\n• We need to make it a daily part of our lives.\n• We must make it our aim to save water and energy.\n• We have to save energy and conserve water'.",
@@ -168,6 +218,26 @@
       "source": "The Hindu - Andhra Pradesh",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/make-energy-and-water-conservation-part-of-daily-life-says-special-chief-secretary-vijayanand/article71572061.ece",
       "relevance_score": 0.8396,
+      "published_date": "2026-10-12"
+    },
+    {
+      "id": 12183,
+      "title": "Saudi Arabia shuts Riyadh airport until October 17 after attacks: Why Houthi missiles are getting through",
+      "summary": "• Why Houthi missiles are getting through, CNN's John Defterios asks.\n• Defterio: \"Saudi Arabia is trying to stop the flow of weapons into the country.\n• It's a very serious situation\" Saudi Arabia is fighting Houthi rebels in Yemen, who have taken over parts of the capital and other cities.\n• Saudi Arabia says the Houthis are responsible for the attacks.",
+      "category": "National News",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/world/saudi-arabia-shuts-riyadh-airport-until-october-17-after-attacks-why-houthi-missiles-are-getting-through-11791827569411.html",
+      "relevance_score": 0.8364,
+      "published_date": "2026-10-12"
+    },
+    {
+      "id": 12185,
+      "title": "Riyadh airport shutdown extended until October 17 after Houthi strikes",
+      "summary": "• Riyadh's airport closed for three days due to attacks by Houthi forces.\n• Airport reopens again on October 18 after three-day shutdown.\n• Airport closed for two days until Houthi attacks on Saudi-led forces leave city in Houthi hands.\n• The airport was closed on October 8 after Houthis attacked the city of Jeddah.",
+      "category": "National News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/world/story/riyadh-airport-closure-saudi-arabia-extends-shutdown-until-october-17-after-houthi-attacks-3015910-2026-10-12?utm_source=rss",
+      "relevance_score": 0.8269,
       "published_date": "2026-10-12"
     },
     {
@@ -211,22 +281,22 @@
       "published_date": "2026-10-11"
     },
     {
-      "id": 12141,
-      "title": "Rupee relief, higher hedging costs: What RBI’s new forex rules mean",
-      "summary": "• The new rules were announced by the Reserve Bank of India (RBI) on Wednesday.\n• The rules are expected to be implemented by the end of the year.\n• The changes are likely to have a significant impact on the Indian economy and the economy at large.\n• They are also expected to have an impact on global financial markets.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-relief-higher-hedging-costs-what-rbis-new-forex-rules-mean/articleshow/134872828.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-11"
-    },
-    {
       "id": 12137,
       "title": "PM Modi to host Asian Games medallists, cricketers on October 15",
       "summary": "• PM will be accompanied by Indian cricket team's captain Virat Kohli and vice-captain Mahendra Singh Dhoni.\n• He will also be joined by Indian hockey team captain Ravindra Jadeja and cricketer Ravichandran Ashwin.\n• The event will take place in New Delhi's National Cricket Stadium.",
       "category": "Sports",
       "source": "India Today - India",
       "url": "https://www.indiatoday.in/sports/asian-games/story/pm-modi-host-india-asian-games-medallists-cricket-team-october-15-3014896-2026-10-11?utm_source=rss",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-11"
+    },
+    {
+      "id": 12141,
+      "title": "Rupee relief, higher hedging costs: What RBI’s new forex rules mean",
+      "summary": "• The new rules were announced by the Reserve Bank of India (RBI) on Wednesday.\n• The rules are expected to be implemented by the end of the year.\n• The changes are likely to have a significant impact on the Indian economy and the economy at large.\n• They are also expected to have an impact on global financial markets.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-relief-higher-hedging-costs-what-rbis-new-forex-rules-mean/articleshow/134872828.cms",
       "relevance_score": 0.91,
       "published_date": "2026-10-11"
     },
@@ -19929,78 +19999,8 @@
       "url": "https://science.nasa.gov/earth/smallsat-2026/",
       "relevance_score": 0.8075,
       "published_date": "2026-08-20"
-    },
-    {
-      "id": 9249,
-      "title": "Rajiv Gandhi-era reforms: From 18-year-old voters to National Policy on Education",
-      "summary": "• The reforms were part of a wider effort to reform India's education system.\n• They were also aimed at making India more competitive in the global education market.\n• The reform was part of an overall effort to make India a more competitive nation in the 21st century.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/rajiv-gandhi-reforms-birth-anniversary-congress-key-policies-decision-1984/article71367754.ece",
-      "relevance_score": 0.8037,
-      "published_date": "2026-08-20"
-    },
-    {
-      "id": 9304,
-      "title": "BWF World Championships 2026 — India’s singles campaign comes to a close on disappointing day",
-      "summary": "• India finished fourth in the women's singles competition.\n• India won two gold medals and one silver medal in the men's singles event.\n• India also won a silver medal and a bronze medal in women's events.\n• India had won the gold medal at the 2014 Commonwealth Games in Glasgow.\n• India were the only team from Asia to compete in the event.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/badminton/bwf-world-championships-2026-pv-sindhu-ayush-shetty-defeat-india-singles-campaign-scores-results/article71370498.ece",
-      "relevance_score": 0.8001,
-      "published_date": "2026-08-20"
-    },
-    {
-      "id": 9202,
-      "title": "Super Chief Minister? New Rules Give D Fadnavis Power To Overrule Any Minister's Decision",
-      "summary": "• New rules also give him the power to overrule any minister's decision, if he so chooses.\n• The new rules come into effect on January 1, 2015.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Polity & Governance",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/new-maharashtra-government-rules-give-devendra-fadnavis-power-to-overrule-any-ministers-decision-11930637#publisher=newsstand",
-      "relevance_score": 0.9733,
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": 9186,
-      "title": "RBI’s restrictions on revolving credit | Explained",
-      "summary": "• RBI has imposed strict restrictions on the use of revolving credit by banks and NBFCs.\n• The restrictions include a ban on using revolving credit for more than three months.\n• The ban also applies to banks with more than $1 billion in revolving credit.\n• The limit is set by the Reserve Bank of India (RBI) and the Bank of Canada (BOI).",
-      "category": "Economy & Banking",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/Economy/rbis-restrictions-on-revolving-credit-explained/article71363657.ece",
-      "relevance_score": 0.9651,
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": 9190,
-      "title": "RBI’s New 3-Month Reset Proposal: How Your Home, Personal Loan EMIs Could Change From 2027",
-      "summary": "• The proposal is part of the U.S. Federal Reserve's effort to revamp the way the government borrows and lends money.\n• It is also known as the 3-month reset proposal, and was first put forward by the Fed in 2008.\n• The 3- month reset proposal is intended to give the Fed more time to work with borrowers.",
-      "category": "Economy & Banking",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/business/banking-finance/rbis-new-3-month-reset-proposal-how-your-home-personal-loan-emis-could-change-from-2027-ws-l-10281249.html",
-      "relevance_score": 0.938,
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": 9203,
-      "title": "IIT Bombay Introduces e-PG Diploma In Computer Science And Artificial Intelligence",
-      "summary": "• E-PG is a diploma in Computer Science and Artificial Intelligence with a focus on computer science and artificial intelligence.\n• IIT Bombay is located in the city of Bombay.\n• It is one of the largest engineering and computer science centres in the world.\n• For more information, visit the institute's official website at: http://www.iit Bombay.com.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/iit-bombay-introduces-e-pg-diploma-in-computer-science-and-artificial-intelligence-11929454#publisher=newsstand",
-      "relevance_score": 0.925,
-      "published_date": "2026-08-19"
-    },
-    {
-      "id": 9217,
-      "title": "Pakistan out of Hockey World Cup after India loss, extends 32-year wait for podium finish",
-      "summary": "• Pakistan have not finished on the podium in any of their last four World Cup appearances.\n• Pakistan's last World Cup podium finish was in 1986, when they finished second to India in the quarter-finals.\n• Pakistan lost to India 2-1 in their opening game of the World Cup in New Delhi.\n• Pakistan also lost to Australia 2-0 in the semi-final.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/hockey/pakistan-out-of-mens-hockey-world-cup-2026-india-match-32-year-wait-podium-finish/article71364291.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-19"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-12T16:11:51.839997Z"
+  "updated_at": "2026-10-12T19:28:33.563111Z"
 }
