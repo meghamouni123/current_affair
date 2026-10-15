@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 12313,
+      "title": "Rain, hailstorm likely in Delhi today? IMD shares weather update, predicts heavy rainfall in Kerala, Tamil Nadu",
+      "summary": "• IMD: Heavy rainfall expected in parts of Tamil Nadu, Kerala, Andhra Pradesh and Telangana.\n• Rain, ha hail storm likely in New Delhi today, IMD says.\n• Rain and hailst storms likely in Chennai, Hyderabad and Kolkata today.",
+      "category": "State News",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/rain-hailstorm-in-delhi-up-haryana-ncr-imd-shares-weather-predicts-heavy-rainfall-in-kerala-tamil-nadu-11792035383918.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-15"
+    },
+    {
       "id": 12286,
       "title": "Parl panel to examine satellite internet services: Nishikant Dubey amid Starlink row",
       "summary": "• Starlink is a joint venture between India and South Korea.\n• The two countries have been at loggerheads over the use of satellite internet in the past.\n• The panel is expected to report back by the end of the year.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
@@ -11,6 +21,36 @@
       "published_date": "2026-10-15"
     },
     {
+      "id": 12299,
+      "title": "Why are BSE Sensex, Nifty50 rallying today? Top reasons for rise",
+      "summary": "• BSE shares have risen by 0.7 per cent since Monday.\n• Nifty 50 has risen 0.8 per cent in the same period.\n• Both markets closed up 0.5 per cent on Tuesday.\n• BSNL shares rose 0.9 per cent, S&P shares 0.4 per cent.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/stock-market-rally-today-bse-sensex-nifty50-soar-on-october-15-2026-top-reasons-for-rise-oil-prices-it-stocks-rupee/articleshow/134957892.cms",
+      "relevance_score": 0.8919,
+      "published_date": "2026-10-15"
+    },
+    {
+      "id": 12311,
+      "title": "Fairfax's $6 Billion IDBI Bank Deal Signals Zest For India's Assets",
+      "summary": "• Fairfax's $4.5 billion deal with Indian state-owned bank is expected to be completed by end of the year.\n• The deal is part of a larger $6 billion deal between Fairfax and India's state-run IDBI bank.\n• Fairfax will take control of IDBI's Indian retail banking operations.",
+      "category": "Economy & Banking",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/fairfaxs-6-billion-idbi-bank-deal-signals-zest-for-indias-assets-12188214#publisher=newsstand",
+      "relevance_score": 0.8627,
+      "published_date": "2026-10-15"
+    },
+    {
+      "id": 12314,
+      "title": "IIM Ahmedabad Launches Blended MBA In Business Analytics And AI; Check Eligibility, Fees",
+      "summary": "• Check Eligibility, Fees, and Eligible Organizations for more information on the program.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/education-career/iim-ahmedabad-launches-blended-mba-in-business-analytics-and-ai-check-eligibility-fees-shil-ws-l-10383080.html",
+      "relevance_score": 0.849,
+      "published_date": "2026-10-15"
+    },
+    {
       "id": 12287,
       "title": "NITI Aayog launches data centre framework, asks states to ensure sustainability",
       "summary": "• NITi Aayogi launches data centres framework, asking states to ensuring sustainability.\n• Click here to read more about the framework and to see the full list of states involved in the project.\n• Click HERE to read the full transcript of the conference call and to watch the live webcast of the event on NITI TV.",
@@ -18,6 +58,36 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/niti-aayog-launches-data-centre-framework-asks-states-to-ensure-sustainability-101792029790011.html",
       "relevance_score": 0.8422,
+      "published_date": "2026-10-15"
+    },
+    {
+      "id": 12312,
+      "title": "Sahajanand Medical Technologies IPO opens for subscription. Check GMP, price band and key details",
+      "summary": "• Check GMP, price band and key details at www.sahajandmedical.com.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
+      "category": "Science & Technology",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sahajanand-medical-technologies-ipo-opens-today-check-gmp-price-band-and-key-details/articleshow/134956265.cms",
+      "relevance_score": 0.8282,
+      "published_date": "2026-10-15"
+    },
+    {
+      "id": 12294,
+      "title": "US startup Reflect Orbital books two launches on Hyderabad-based Skyroot Aerospace’s Vikram rockets",
+      "summary": "• Reflect Orbital is a subsidiary of Skyroot, which is based in Hyderabad, India.\n• The two launches will take place on the Vikram rocket, which will be powered by a Skyroot-made rocket engine.\n• The rocket will have a range of 2,000 km (1,500 miles).",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/Hyderabad/us-startup-reflect-orbital-books-two-launches-of-skyroot-aerospace/article71586855.ece",
+      "relevance_score": 0.8282,
+      "published_date": "2026-10-15"
+    },
+    {
+      "id": 12297,
+      "title": "Jaishankar meets UAE foreign minister, discusses bilateral and global issues",
+      "summary": "• Jaishanker: We are committed to working with the UAE on a number of bilateral and regional issues.\n• He also discussed the need for greater cooperation between India and the UAE in the fight against terrorism and drug trafficking.\n• The meeting lasted for over an hour and is expected to continue for more time.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/jaishankar-meets-uae-foreign-minister-discusses-bilateral-and-global-issues-101792043032936.html",
+      "relevance_score": 0.8102,
       "published_date": "2026-10-15"
     },
     {
@@ -81,6 +151,26 @@
       "published_date": "2026-10-14"
     },
     {
+      "id": 12264,
+      "title": "Ranji Trophy Day 4 Highlights: Bengal defeats Delhi by nine wickets; Tamil Nadu, Karnataka, Jammu and Kashmir draw",
+      "summary": "• Ranji Trophy Day 4 Highlights: Bengal defeats Delhi by nine wickets.\n• Bengal beat Delhi by 9 wickets; Tamil Nadu and Karnataka draw.\n• Bengal vs Delhi team news, match stats, odds and more.",
+      "category": "State News",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-14"
+    },
+    {
+      "id": 12258,
+      "title": "Racism in English football: South Korea’s Asian Games gold medallist and World Cupper allegedly racially abused",
+      "summary": "• South Korea's Asian GamesGold medallists and World Cup winner allegedly racially abuse.\n• England's Asian Cup winning captain allegedly abused by a fan in a pub.\n• The incident took place on the eve of the 2014 World Cup in Brazil.\n• The player was reportedly racially abused on the night of the final.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/football/swansea-vs-millwall-racism-incident-efl-championship-eom-ji-sung/article71582326.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-14"
+    },
+    {
       "id": 12256,
       "title": "Abhishek Banerjee Slams BJP Over Arrests of National Flag-Waving Protesters | TMC | News18",
       "summary": "• Trinamool Congress (TMC) national general secretary Abhishek Banerjee has criticised the BJP over the detention of protesters carrying the Indian national flag.\n• His remarks have added to the growing political confrontation between the BJP and opposition parties over protest restrictions and civil liberties.\n• The controversy comes amid protests against the Special Intensive Revision (SIR) of electoral rolls and demands for action against Chief Election Commissioner Gyanesh Kumar.\n• -newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
@@ -107,26 +197,6 @@
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/punjab-drug-crisis-anti-drug-activist-jhota-shot-dead-on-facebook-live-mob-torches-accused-s-shop-10382078.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-14"
-    },
-    {
-      "id": 12258,
-      "title": "Racism in English football: South Korea’s Asian Games gold medallist and World Cupper allegedly racially abused",
-      "summary": "• South Korea's Asian GamesGold medallists and World Cup winner allegedly racially abuse.\n• England's Asian Cup winning captain allegedly abused by a fan in a pub.\n• The incident took place on the eve of the 2014 World Cup in Brazil.\n• The player was reportedly racially abused on the night of the final.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/swansea-vs-millwall-racism-incident-efl-championship-eom-ji-sung/article71582326.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-14"
-    },
-    {
-      "id": 12264,
-      "title": "Ranji Trophy Day 4 Highlights: Bengal defeats Delhi by nine wickets; Tamil Nadu, Karnataka, Jammu and Kashmir draw",
-      "summary": "• Ranji Trophy Day 4 Highlights: Bengal defeats Delhi by nine wickets.\n• Bengal beat Delhi by 9 wickets; Tamil Nadu and Karnataka draw.\n• Bengal vs Delhi team news, match stats, odds and more.",
-      "category": "State News",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/domestic/ranji-trophy-day-4-score-live-updates-highlights-commentary-runs-wickets-catches/article71582185.ece",
       "relevance_score": 0.91,
       "published_date": "2026-10-14"
     },
@@ -831,22 +901,22 @@
       "published_date": "2026-10-12"
     },
     {
-      "id": 12187,
-      "title": "Winning, differently: On the by-election results in West Bengal, Tamil Nadu and Puducherry",
-      "summary": "• By-elections in Tamil Nadu, West Bengal and Pudaucherry were held on Thursday.\n• The results were announced at 8.30am in the state's capital, Kolkata.\n• The result was announced at 9.15am in Kolkatta's capital city, Chennai.",
-      "category": "State News",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/opinion/editorial/winning-differently-on-the-by-election-results-in-west-bengal-tamil-nadu-and-puducherry/article71575161.ece",
-      "relevance_score": 0.94,
-      "published_date": "2026-10-12"
-    },
-    {
       "id": 12154,
       "title": "Sensex, Nifty open higher as oil eases and RBI moves to support rupee",
       "summary": "• Sensex and Nifty set to open higher for the first time in three days.\n• Oil eases as oil prices fall and the rupee is supported by central bank moves to help the rupees.\n• Nifty, Sensex set to start the day with gains of up to 5 per cent.",
       "category": "Economy & Banking",
       "source": "Hindustan Times - Business",
       "url": "https://www.hindustantimes.com/business/sensex-nifty-open-higher-as-oil-eases-and-rbi-moves-to-support-rupee-101791774754177.html",
+      "relevance_score": 0.94,
+      "published_date": "2026-10-12"
+    },
+    {
+      "id": 12187,
+      "title": "Winning, differently: On the by-election results in West Bengal, Tamil Nadu and Puducherry",
+      "summary": "• By-elections in Tamil Nadu, West Bengal and Pudaucherry were held on Thursday.\n• The results were announced at 8.30am in the state's capital, Kolkata.\n• The result was announced at 9.15am in Kolkatta's capital city, Chennai.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/opinion/editorial/winning-differently-on-the-by-election-results-in-west-bengal-tamil-nadu-and-puducherry/article71575161.ece",
       "relevance_score": 0.94,
       "published_date": "2026-10-12"
     },
@@ -871,12 +941,12 @@
       "published_date": "2026-10-12"
     },
     {
-      "id": 12166,
-      "title": "Congress MP Rahul Gandhi Leads INDIA Bloc Protest Against CEC Gyanesh Kumar | Newsroom Unfiltered",
-      "summary": "• Major political confrontation is unfolding in Delhi as the INDIA bloc, with Rahul Gandhi among its leading figures, protests against Chief Election Commissioner Gyanesh Kumar.\n• Opposition parties allege that the voter-list revision risks excluding eligible voters and question whether the process is being carried out fairly.\n• CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….\n• Subscribe Now and join our community of informed and engaged viewers.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/congress-mp-rahul-gandhi-leads-india-bloc-protest-against-cec-gyanesh-kumar-newsroom-unfiltered-10378373.html",
+      "id": 12175,
+      "title": "'Kerala, Karnataka, Telangana govts must resign’: Himanta's dare to Congress for contesting on ballot paper",
+      "summary": "• Himanta: Govts in Kerala and Karnataka must resign if they contest elections on paper.\n• He also said govt.s in Telanganas and Andhra Pradesh should resign if elections are held on ballot papers.\n• He was responding to Congress' demand that they contest election on paper instead of ballot.",
+      "category": "State News",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/congress-kerala-karnataka-telangana-govts-must-resign-himantas-condition-for-contesting-on-ballot-paper/articleshow/134895689.cms",
       "relevance_score": 0.91,
       "published_date": "2026-10-12"
     },
@@ -891,22 +961,22 @@
       "published_date": "2026-10-12"
     },
     {
+      "id": 12166,
+      "title": "Congress MP Rahul Gandhi Leads INDIA Bloc Protest Against CEC Gyanesh Kumar | Newsroom Unfiltered",
+      "summary": "• Major political confrontation is unfolding in Delhi as the INDIA bloc, with Rahul Gandhi among its leading figures, protests against Chief Election Commissioner Gyanesh Kumar.\n• Opposition parties allege that the voter-list revision risks excluding eligible voters and question whether the process is being carried out fairly.\n• CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….\n• Subscribe Now and join our community of informed and engaged viewers.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/congress-mp-rahul-gandhi-leads-india-bloc-protest-against-cec-gyanesh-kumar-newsroom-unfiltered-10378373.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-12"
+    },
+    {
       "id": 12168,
       "title": "Shivraj Chouhan Questions Own Government Over Demolitions in Madhya Pradesh | ‘Extreme Injustice’",
       "summary": "• Union Minister Shivraj Singh Chouhan has strongly criticised Forest Department officials over the demolition of homes and destruction of crops in Sehore, Madhya Pradesh.\n• Chouhan promised to raise the matter with Chief Minister Mohan Yadav and demanding strict action against those responsible.\n• The Forest Department’s position on the alleged encroachment should also be considered as the matter unfolds, he said.\n• N18oc_india n18oc_breaking-news CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/shivraj-chouhan-questions-own-government-over-demolitions-in-madhya-pradesh-extreme-injustice-10377750.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-12"
-    },
-    {
-      "id": 12179,
-      "title": "Senior Men’s National Hockey Championship 2026: Bihar edges Andhra Pradesh, Rajasthan and Mizoram register wins on Day 3",
-      "summary": "• Senior Men's National Hockey Championships 2026 will be held in New Delhi and Kolkata.\n• The tournament will be open to men and women from all over the country.\n• It will take place from November 7 to November 14.\n• The final will be played on November 14 and 15.",
-      "category": "State News",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/hockey/senior-men-hockey-nationals-2026-day-3-today-bihar-rajasthan-mizoram-goals-results/article71575125.ece",
       "relevance_score": 0.91,
       "published_date": "2026-10-12"
     },
@@ -921,12 +991,12 @@
       "published_date": "2026-10-12"
     },
     {
-      "id": 12175,
-      "title": "'Kerala, Karnataka, Telangana govts must resign’: Himanta's dare to Congress for contesting on ballot paper",
-      "summary": "• Himanta: Govts in Kerala and Karnataka must resign if they contest elections on paper.\n• He also said govt.s in Telanganas and Andhra Pradesh should resign if elections are held on ballot papers.\n• He was responding to Congress' demand that they contest election on paper instead of ballot.",
+      "id": 12179,
+      "title": "Senior Men’s National Hockey Championship 2026: Bihar edges Andhra Pradesh, Rajasthan and Mizoram register wins on Day 3",
+      "summary": "• Senior Men's National Hockey Championships 2026 will be held in New Delhi and Kolkata.\n• The tournament will be open to men and women from all over the country.\n• It will take place from November 7 to November 14.\n• The final will be played on November 14 and 15.",
       "category": "State News",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/congress-kerala-karnataka-telangana-govts-must-resign-himantas-condition-for-contesting-on-ballot-paper/articleshow/134895689.cms",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/hockey/senior-men-hockey-nationals-2026-day-3-today-bihar-rajasthan-mizoram-goals-results/article71575125.ece",
       "relevance_score": 0.91,
       "published_date": "2026-10-12"
     },
@@ -988,6 +1058,16 @@
       "source": "The Hindu - Business",
       "url": "https://www.thehindu.com/business/coffee-sector-plans-ai-led-mechanisation-push-with-support-from-iit-dharwad-iit-roorkee/article71576200.ece",
       "relevance_score": 0.8902,
+      "published_date": "2026-10-12"
+    },
+    {
+      "id": 12296,
+      "title": "IISER researchers make solid material that releases two fuel gases",
+      "summary": "• IISER is a French company that makes and sells fuel-efficient vehicles.\n• The company is based in Paris, France and has offices in the U.S. and Europe.\n• It is one of the world's largest nuclear power stations.\n• It was founded in 1973 and is based at the University of Illinois at Chicago.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Science",
+      "url": "https://www.thehindu.com/sci-tech/science/iiser-researchers-make-solid-material-that-releases-two-fuel-gases/article71574650.ece",
+      "relevance_score": 0.8543,
       "published_date": "2026-10-12"
     },
     {
@@ -1101,22 +1181,22 @@
       "published_date": "2026-10-11"
     },
     {
-      "id": 12137,
-      "title": "PM Modi to host Asian Games medallists, cricketers on October 15",
-      "summary": "• PM will be accompanied by Indian cricket team's captain Virat Kohli and vice-captain Mahendra Singh Dhoni.\n• He will also be joined by Indian hockey team captain Ravindra Jadeja and cricketer Ravichandran Ashwin.\n• The event will take place in New Delhi's National Cricket Stadium.",
-      "category": "Sports",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/pm-modi-host-india-asian-games-medallists-cricket-team-october-15-3014896-2026-10-11?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-11"
-    },
-    {
       "id": 12141,
       "title": "Rupee relief, higher hedging costs: What RBI’s new forex rules mean",
       "summary": "• The new rules were announced by the Reserve Bank of India (RBI) on Wednesday.\n• The rules are expected to be implemented by the end of the year.\n• The changes are likely to have a significant impact on the Indian economy and the economy at large.\n• They are also expected to have an impact on global financial markets.",
       "category": "Economy & Banking",
       "source": "Times of India - Business",
       "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-relief-higher-hedging-costs-what-rbis-new-forex-rules-mean/articleshow/134872828.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-11"
+    },
+    {
+      "id": 12137,
+      "title": "PM Modi to host Asian Games medallists, cricketers on October 15",
+      "summary": "• PM will be accompanied by Indian cricket team's captain Virat Kohli and vice-captain Mahendra Singh Dhoni.\n• He will also be joined by Indian hockey team captain Ravindra Jadeja and cricketer Ravichandran Ashwin.\n• The event will take place in New Delhi's National Cricket Stadium.",
+      "category": "Sports",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/sports/asian-games/story/pm-modi-host-india-asian-games-medallists-cricket-team-october-15-3014896-2026-10-11?utm_source=rss",
       "relevance_score": 0.91,
       "published_date": "2026-10-11"
     },
@@ -19919,88 +19999,8 @@
       "url": "https://www.news18.com/world/bangladesh-eyes-islamic-nato-why-dhaka-is-looking-at-pakistan-saudi-turkey-defence-pact-10287423.html",
       "relevance_score": 0.9352,
       "published_date": "2026-08-22"
-    },
-    {
-      "id": 9389,
-      "title": "EAM downplays Pakistan-Turkey-Saudi defence pact: ‘What has it done amid live military situations in these countries?’",
-      "summary": "• ‘What has it done amid live military situations in these countries?’ asks EAM.\n• EAM says it has ‘nothing to report’ on Pakistan-Turkish-Saudi pact.\n• It adds: ‘We have nothing to report on Turkey-Saudi-Pakistani defence pact’, adding that it is ‘unclear’ what the pact would mean.",
-      "category": "International Relations",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/eam-downplays-pakistan-turkey-saudi-defence-pact-what-has-it-done-amid-live-military-situations-in-these-countries-101787412910281.html",
-      "relevance_score": 0.9336,
-      "published_date": "2026-08-22"
-    },
-    {
-      "id": 9369,
-      "title": "Veligonda Phase-I project will be inaugurated on August 31: CM Naidu",
-      "summary": "• Veligonda will be a major industrial hub in Andhra Pradesh, Telangana and Karnataka.\n• The project will cost an estimated $1.2 billion.\n• It will be built on the banks of the Krishna River.\n• It is expected to be completed in 20 years, says the state's chief minister.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/veligonda-phase-i-project-will-be-inaugurated-on-august-31-cm-naidu/article71376810.ece",
-      "relevance_score": 0.9141,
-      "published_date": "2026-08-22"
-    },
-    {
-      "id": 9366,
-      "title": "India’s unbroken BWF World Championships medal run since 2011: Full list of medallists",
-      "summary": "• India have won more medals than any other team in the history of the event.\n• The last time India won more than one medal was in 2010.\n• India won four medals in 2010, five in 2011, six in 2012 and seven in 2013.\n• The team has won a total of 12 medals since 2011, including five golds.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/badminton/bwf-world-championships-2026-india-medal-streak-since-2011-treesa-gayatri-full-list/article71376786.ece",
-      "relevance_score": 0.9101,
-      "published_date": "2026-08-22"
-    },
-    {
-      "id": 9384,
-      "title": "India’s Space Dream Takes Off: Moon Samples, Human Spaceflight & Space Station 2035 | Home Work",
-      "summary": "• The government’s Space Vision includes establishing an operational Indian space station by 2035 and sending an Indian astronaut to the Moon by 2040.\n• The first module of the Bharatiya Antariksh Station is planned for launch in 2028.\n• A major milestone will be Chandrayaan-4, designed to demonstrate technologies needed to land on the Moon, collect lunar samples and safely return them to Earth.\n• The successful Axiom-4 mission, which carried Indian astronaut Shubhanshu Shukla to the International Space Station, has further strengthened India’s human-spaceflight ambitions.\n• ISRO has also outlined further lunar missions, including Chandrayaan-5/LUPEX in collaboration with Japan’s JAXA.India’s human-spaceflight programme is also advancing through Gaganyaan and the technologies required for docking, crew transfer and long-duration missions.",
-      "category": "Science & Technology",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/home-work/india-s-space-dream-takes-off-moon-samples-human-spaceflight-space-station-2035-home-work-10288096.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-22"
-    },
-    {
-      "id": 9394,
-      "title": "‘No Compromise’ On Vande Mataram: BJP Targets Congress Over 2 Stanzas | BJP Vs Cong |  News18",
-      "summary": "• Vande Mataram controversy has intensified with the BJP escalating its attack on the Congress.\n• The party plans a special awareness drive targeting younger Indians to explain the song’s full six-stanza history and its role in the freedom movement.\n• Congress president Mallikarjun Kharge said the party is following the version historically accepted by leaders including Mahatma Gandhi, Jawaharlal Nehru and Sardar Patel.\n• The Vande Mataram controversy has intensified, with the BJP escalating its attack on the Congress over the party’s decision to continue singing only the first two stanzas of the National Song at its events.On August 22, the BJP passed a resolution strongly condemning the Congress Working….\n• BJP president Nitin Nabin said the party would accept “no compromise” on the honour and legacy of the National Song and announced a nationwide campaign to highlight its history, meaning and significance.The BJP’s resolution also argues that the Congress’ 1937 decision cannot override the….\n• N18oc_super-saturday-debaten18oc_indian18oc_politicsCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/no-compromise-on-vande-mataram-bjp-targets-congress-over-2-stanzas-bjp-vs-cong-news18-10288298.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-22"
-    },
-    {
-      "id": 9363,
-      "title": "Nitin Nabin’s First Big BJP Meeting: 2027 Assembly & 2029 Lok Sabha Strategy Takes Shape | News18",
-      "summary": "• BJP president Nitin Nabin has chaired his first major meeting with the party’s newly assembled team.\n• The meeting brings together leaders with diverse organisational and political responsibilities.\n• The party is focusing on strengthening its grassroots network and sharpening its electoral strategy.\n• Key states including Uttar Pradesh and Punjab are expected to remain important areas of attention as the BJP prepares for the next round of major electoral contests.\n• N18oc_breaking-newsn18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/nitin-nabin-s-first-big-bjp-meeting-2027-assembly-2029-lok-sabha-strategy-takes-shape-news18-10287328.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-22"
-    },
-    {
-      "id": 9364,
-      "title": "Imran Khan Health Update: PIMS Treatment Sparks Fresh Political Storm in Pakistan | News18",
-      "summary": "• Former Pakistan Prime Minister Imran Khan is currently receiving medical care at PIMS Islamabad.\n• Eye specialists from Shifa International reportedly involved in his treatment.\n• Latest development comes amid growing concern over Khan’s health and renewed political tensions surrounding his prolonged imprisonment.\n• His Pakistan Tehreek-e-Insaf (PTI) lawyers have raised questions over his medical treatment and alleged non-compliance with a Supreme Court order concerning his care.\n• N18oc_breaking-newsn18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/imran-khan-health-update-pims-treatment-sparks-fresh-political-storm-in-pakistan-news18-10287287.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-08-22"
-    },
-    {
-      "id": 9373,
-      "title": "Kurnool SP launches traffic awareness vehicle",
-      "summary": "• Kurnool is a district in Andhra Pradesh, India.\n• It is home to some of the state's most famous tourist attractions.\n• The city is also famous for its beaches and nightlife, particularly in the city centre and south of the city.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/kurnool-sp-launches-traffic-awareness-vehicle/article71377121.ece",
-      "relevance_score": 0.9043,
-      "published_date": "2026-08-22"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-15T03:53:25.825119Z"
+  "updated_at": "2026-10-15T08:58:47.478022Z"
 }
