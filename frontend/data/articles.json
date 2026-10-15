@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 12317,
+      "title": "IISc, Samsung open quantum lab to advance research in next-gen technology",
+      "summary": "• Samsung, IISc to work together to develop quantum technology.\n• Samsung to work with other companies to develop next-generation quantum technology in the U.S. and abroad.\n• Samsung will also work with others in Europe and Asia to develop new quantum technologies.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/iisc-samsung-open-quantum-lab-to-advance-research-in-next-gen-technology/articleshow/134966239.cms",
+      "relevance_score": 0.9409,
+      "published_date": "2026-10-15"
+    },
+    {
       "id": 12313,
       "title": "Rain, hailstorm likely in Delhi today? IMD shares weather update, predicts heavy rainfall in Kerala, Tamil Nadu",
       "summary": "• IMD: Heavy rainfall expected in parts of Tamil Nadu, Kerala, Andhra Pradesh and Telangana.\n• Rain, ha hail storm likely in New Delhi today, IMD says.\n• Rain and hailst storms likely in Chennai, Hyderabad and Kolkata today.",
@@ -88,6 +98,26 @@
       "source": "Hindustan Times - World",
       "url": "https://www.hindustantimes.com/world-news/jaishankar-meets-uae-foreign-minister-discusses-bilateral-and-global-issues-101792043032936.html",
       "relevance_score": 0.8102,
+      "published_date": "2026-10-15"
+    },
+    {
+      "id": 12316,
+      "title": "‘Digital India’ needs an upgrade",
+      "summary": "• ‘DigitalIndia’ is a project that aims to make India a digital nation.\n• It aims to connect people across the country through the internet and social media.\n• The project aims to create a digital India that is ‘open and accessible’ for all.\n• It also aims to be a ‘voice for the voicemails’ of the people of India.",
+      "category": "Science & Technology",
+      "source": "Frontline Magazine",
+      "url": "https://frontline.thehindu.com/the-nation/digital-activism-tools-democracy-internet-censorship/article71587652.ece",
+      "relevance_score": 0.8051,
+      "published_date": "2026-10-15"
+    },
+    {
+      "id": 12322,
+      "title": "IIT Kanpur launches $1-billion fundraising campaign,  ₹4,155 crore already secured: Check what the money will be spend on",
+      "summary": "• ₹4,155 crore already secured: Check what the money will be spend on.\n• IIT-Kanpur to raise $1 billion to build a new campus in the city.\n• The new campus will be built on the site of the former IIT, Kanpur.\n• The cost of the project is estimated to be $1.5 billion.",
+      "category": "Science & Technology",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/iit-kanpur-launches-1-billion-fundraising-campaign-4-155-crore-already-secured-check-what-the-money-will-be-spend-on-11792054661046.html",
+      "relevance_score": 0.8037,
       "published_date": "2026-10-15"
     },
     {
@@ -19969,38 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/india/indias-satellite-launch-cost-4x-us-says-cambridge-study-space-dept-source-contradicts-report/articleshow/133446083.cms",
       "relevance_score": 0.816,
       "published_date": "2026-08-23"
-    },
-    {
-      "id": 9432,
-      "title": "Esports World Cup 2026 — Defending champion Falcons loses title to All Gamers",
-      "summary": "• Falcons were the defending champions of the world's most popular video game tournament.\n• They were beaten by AllGamers, who won the tournament for the first time in their history.\n• Falcons had been the defending champion for the past three years.\n• They had won the title in 2013 and 2014, respectively, with a record of two wins from two.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/other-sports/esports-world-cup-2026-defending-champion-falcons-saudi-arabia-loses-title-to-all-gamers-from-china/article71382031.ece",
-      "relevance_score": 0.8053,
-      "published_date": "2026-08-23"
-    },
-    {
-      "id": 9429,
-      "title": "India’s derivatives market gets a Gen Z makeover, but losses pile up: Sebi",
-      "summary": "• Sebi: India's derivatives market needs to be revamped to attract more young investors.\n• India has one of the largest derivatives markets in the world, with a market value of nearly $1.2 trillion.\n• The market is expected to grow at a much faster rate than the rest of the world.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-derivatives-market-gets-a-gen-z-makeover-but-losses-pile-up-sebi/articleshow/133442543.cms",
-      "relevance_score": 0.8033,
-      "published_date": "2026-08-23"
-    },
-    {
-      "id": 9365,
-      "title": "Bangladesh Eyes ‘Islamic NATO’: Why Dhaka Is Looking At Pakistan-Saudi-Turkey Defence Pact",
-      "summary": "• Dhaka is looking at Pakistan, Saudi-Turkey and Turkey defence pact.\n• Bangladesh is also looking at an alliance with the United Arab Emirates (UAE) and the United States (U.S).\n• Bangladesh is looking to join the U.S.-led anti-terror coalition in Afghanistan.",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/world/bangladesh-eyes-islamic-nato-why-dhaka-is-looking-at-pakistan-saudi-turkey-defence-pact-10287423.html",
-      "relevance_score": 0.9352,
-      "published_date": "2026-08-22"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-15T08:58:47.478022Z"
+  "updated_at": "2026-10-15T12:19:22.381392Z"
 }
