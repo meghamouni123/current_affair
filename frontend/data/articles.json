@@ -1,6 +1,116 @@
 {
   "articles": [
     {
+      "id": 12370,
+      "title": "What is GSAT-7C? The Rs 2,563-crore satellite IAF wants for its operations",
+      "summary": "• The IAF has asked for the satellite to carry out its operations in the Indian Ocean.\n• The satellite will cost the IAF around Rs 1,500,000, or about Rs 2.5 million, depending on the size of its payload.\n• IAF also wants to use the satellite for its military communications.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/science/story/gsat-7c-indian-air-force-rs-2563-crore-secure-communication-satellite-3018695-2026-10-16?utm_source=rss",
+      "relevance_score": 0.9564,
+      "published_date": "2026-10-16"
+    },
+    {
+      "id": 12367,
+      "title": "Joint Summary of the Working Visit by H.E. Dr. Kao Kim Hourn, Secretary-General of ASEAN, to the Russian Federation",
+      "summary": "• Joint Summary of the Working Visit by H.E.\n• Dr. Kao Kim Hourn, Secretary-General of ASEAN, to the Russian Federation to the Russia Federation.\n• Joint Report of the Joint Meeting of the ASEan-Russian Council of Ministers.\n• The Russian Federation is a member of the Association of Southeast Asian Nations (ASEAN) and the Shanghai Cooperation Organisation (SCO).",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/joint-summary-of-the-working-visit-by-h-e-dr-kao-kim-hourn-secretary-general-of-asean-to-the-russian-federation/",
+      "relevance_score": 0.949,
+      "published_date": "2026-10-16"
+    },
+    {
+      "id": 12371,
+      "title": "Supreme Court on Delhi Protest Row | CJP Rally, Connaught Place Closure & Traders’ Livelihoods",
+      "summary": "• The case highlights the challenge of balancing the constitutional right to peaceful protest with the livelihoods of shopkeepers and street vendors.\n• The proceedings bring public access, business disruption and crowd management into focus.\n• Traders are concerned about the impact restrictions on movement and access to public spaces could have on their earnings.\n• Authorities must also consider public safety and arrangements for demonstrations.\n• The central question is how authorities can facilitate peaceful protests without causing disproportionate hardship to businesses and workers.\n• The Supreme Court has taken up concerns over restrictions affecting traders and small vendors in Delhi’s Connaught Place amid a proposed protest rally.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/supreme-court-on-delhi-protest-row-cjp-rally-connaught-place-closure-traders-livelihoods-10384588.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-16"
+    },
+    {
+      "id": 12359,
+      "title": "Bengaluru scientists decode solar eruptions using Aditya-L1 and Proba-3 satellites",
+      "summary": "• They used the satellites to map solar activity on the Earth's surface.\n• They also used them to track solar flares on the surface of the Earth.\n• The satellites were launched by the Indian space agency, the Indian Space Agency, and the space agency Nasa in the 1990s.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Science",
+      "url": "https://www.thehindu.com/sci-tech/bengaluru-scientists-decode-solar-eruptions-using-aditya-l1-and-proba-3-satellites/article71591287.ece",
+      "relevance_score": 0.8864,
+      "published_date": "2026-10-16"
+    },
+    {
+      "id": 12358,
+      "title": "Air India sets up multi-disciplinary panel to identify cost-saving opportunities",
+      "summary": "• Air India to cut costs by up to 20 per cent by cutting staff numbers.\n• AirIndia to cut crew numbers by 10 per cent in 2020, Air India Report says.\n• AirIndia.com will be updated with the results of Air India's cost-cutting efforts.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/Industry/air-india-sets-up-multi-disciplinary-panel-to-identify-cost-saving-opportunities/article71591329.ece",
+      "relevance_score": 0.8775,
+      "published_date": "2026-10-16"
+    },
+    {
+      "id": 12360,
+      "title": "ICMR picks 7 centres to develop priority medical devices, diagnostics",
+      "summary": "• ICMR: We are committed to developing world's best medical devices and diagnostics in a cost-effective and efficient way.ICMR: These centres will help develop the world's top medical devices in the next few years.\n• For more information, visit ICMR's website at: www.icMR.com.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/icmr-picks-7-centres-to-develop-priority-medical-devices-diagnostics/articleshow/134982638.cms",
+      "relevance_score": 0.8764,
+      "published_date": "2026-10-16"
+    },
+    {
+      "id": 12356,
+      "title": "Pakistan parliament endorses emergency, governor's rule in Khyber Pakhtunkhwa",
+      "summary": "• Pakistan government declares emergency, imposes curfew in parts of the province.\n• Pakistan's prime minister declares state of emergency in the province of Bajaur.\n• Pakistani PM declares emergency in Bajur, Bajura, Chhattisgarh, Gilgit-Baltistan, Mardan, Peshawar.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/pakistan-parliament-endorses-emergency-governors-rule-in-khyber-pakhtunkhwa/article71591206.ece",
+      "relevance_score": 0.8494,
+      "published_date": "2026-10-16"
+    },
+    {
+      "id": 12368,
+      "title": "Anthropic Opens 2 Fellowships Across Science, Engineering, Policy And Law",
+      "summary": "• The programs will focus on science, engineering, policy and law.\n• For more information on the programs, visit anthropic.org/fellowships or call 1-800-273-8255.\n• To learn more about the fellowships, visit Anthropic's website.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/education/anthropic-opens-2-fellowships-across-science-engineering-policy-and-law-12193166#publisher=newsstand",
+      "relevance_score": 0.8304,
+      "published_date": "2026-10-16"
+    },
+    {
+      "id": 12369,
+      "title": "Special Parliament session this month, govt has numbers to pass key bills: Sources",
+      "summary": "• Special Parliament session will take place this month.\n• Govt will try to pass a number of key bills, including the budget and the budget bill.\n• The session is expected to last until the end of the month, sources say.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Polity & Governance",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india/story/special-parliament-session-this-month-govt-has-numbers-to-pass-bills-on-delimitation-womens-quota-sources-3018544-2026-10-16?utm_source=rss",
+      "relevance_score": 0.8298,
+      "published_date": "2026-10-16"
+    },
+    {
+      "id": 12372,
+      "title": "Kiren Rijiju Slams Prashant Bhushan Over Regime Change Remarks | INDIA Bloc Under Pressure | News18",
+      "summary": "• Union Minister Kiren Rijiju has criticised Prashant Bhushan over remarks concerning regime change.\n• The controversy has also raised questions about how the Congress and the INDIA bloc respond to statements made by individuals associated with the wider opposition space.\n• The episode comes amid heightened political tensions and protests, with rival sides debating the implications of the remarks and the positions taken by opposition leaders.\n• Watch CNN-News18 for the latest developments, political reactions and analysis.\n• The key questions are what exactly was said, how the comments have been interpreted, and whether the Congress and its INDIA bloc partners have issued formal responses.Watch CNN-News18 for the latest developments, political reactions and analysis.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/kiren-rijiju-slams-prashant-bhushan-over-regime-change-remarks-india-bloc-under-pressure-news18-10384504.html",
+      "relevance_score": 0.8225,
+      "published_date": "2026-10-16"
+    },
+    {
+      "id": 12355,
+      "title": "Nation, Parliament must debate political appeals to children during elections: Madras High Court",
+      "summary": "• Nation, Parliamentmust debate political appeal to kids during elections, Madras Court rules.\n• Madras high court rules in favour of children's right to vote for the first time in elections.\n• The ruling was made by the High Court of Madras in the state of Andhra Pradesh, which has been ruled by the Supreme Court.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/nation-parliament-must-debate-political-appeals-to-children-during-elections-madras-high-court/article71591152.ece",
+      "relevance_score": 0.8173,
+      "published_date": "2026-10-16"
+    },
+    {
       "id": 12341,
       "title": "RBI’s new forex reserve rules explained: FAQs on the 20% requirement, $2 million threshold and exemptions",
       "summary": "• The new rules come into effect on January 1, 2015.\n• The Reserve Bank of India has a forex reserves of 20% of the country's foreign exchange reserves.\n• The reserve fund can spend up to $2.2 million to buy foreign exchange at any given time.",
@@ -51,36 +161,6 @@
       "published_date": "2026-10-15"
     },
     {
-      "id": 12313,
-      "title": "Rain, hailstorm likely in Delhi today? IMD shares weather update, predicts heavy rainfall in Kerala, Tamil Nadu",
-      "summary": "• IMD: Heavy rainfall expected in parts of Tamil Nadu, Kerala, Andhra Pradesh and Telangana.\n• Rain, ha hail storm likely in New Delhi today, IMD says.\n• Rain and hailst storms likely in Chennai, Hyderabad and Kolkata today.",
-      "category": "State News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/rain-hailstorm-in-delhi-up-haryana-ncr-imd-shares-weather-predicts-heavy-rainfall-in-kerala-tamil-nadu-11792035383918.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-15"
-    },
-    {
-      "id": 12329,
-      "title": "Uttarakhand Elections 2027: Dhami Govt Faces Tough Questions As Voters Weigh Their Options | News18",
-      "summary": "• Uttarakhand gears up for the 2027 Assembly elections.\n• Voters have mixed views on the performance of the state government.\n• While some are calling for change, others remain hesitant about the prospect of a Congress comeback.\n• Watch this ground report to hear the voices of voters ahead of the 20 27 Assembly elections in Uttarakhand.\n• The focus is on public sentiment, local concerns and the priorities that could shape the election debate.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/uttarakhand-elections-2027-dhami-govt-faces-tough-questions-as-voters-weigh-their-options-news18-10383674.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-15"
-    },
-    {
-      "id": 12325,
-      "title": "Indian markets continue rally; Nifty and Sensex close 2% up as rupee strengthens",
-      "summary": "• Nifty, Sensex both up 2% as Indian economy continues to grow.\n• Indian markets also continue rally as Indian dollar strengthens; rupee rises to record high.\n• India's FTSE 100, BSE 100 and Nifty all up more than 2% on the day; down 1% on week.",
-      "category": "Economy & Banking",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/markets/indian-markets-continue-rally-nifty-and-sensex-close-2-up-as-rupee-strengths/article71587788.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-15"
-    },
-    {
       "id": 12349,
       "title": "‘They Will Meet With Justice’: Smriti Irani’s Strong Message Amid Electoral Row | EXCLUSIVE | News18",
       "summary": "• BJP General Secretary and former Union Minister Smriti Irani weighs in on the controversy surrounding the Special Intensive Revision (SIR) of electoral rolls.\n• “Those who insult the intelligence of the Indian voter, those who call for regime change through violence will definitely meet with justice in our country,” Irani says.\n• The dispute has intensified the debate over electoral transparency, democratic accountability and public trust in India's institutions.\n• In an exclusive interview with CNN-News18, BJP General Secretary and former Union Minister Smriti Irani weighs in on the controversy surrounding the Special Intensive Revision (SIR) of electoral rolls, Rahul Gandhi’s allegations over electoral integrity and the Congress-led protests.“Those who….\n• And where does the debate over electoral integrity go from here?Watch the full exclusive for Smriti Irani’s views on SIR, Rahul Gandhi, Congress protests and the political battle over India’s electoral process.Subscribe to News18 for breaking political news, exclusive interviews and in-depth….",
@@ -107,6 +187,36 @@
       "category": "Economy & Banking",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/the-hard-facts/sensex-zooms-3-in-just-4-days-is-the-stock-market-rally-here-to-stay-or-will-the-gains-fade-10384025.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-15"
+    },
+    {
+      "id": 12325,
+      "title": "Indian markets continue rally; Nifty and Sensex close 2% up as rupee strengthens",
+      "summary": "• Nifty, Sensex both up 2% as Indian economy continues to grow.\n• Indian markets also continue rally as Indian dollar strengthens; rupee rises to record high.\n• India's FTSE 100, BSE 100 and Nifty all up more than 2% on the day; down 1% on week.",
+      "category": "Economy & Banking",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/markets/indian-markets-continue-rally-nifty-and-sensex-close-2-up-as-rupee-strengths/article71587788.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-15"
+    },
+    {
+      "id": 12313,
+      "title": "Rain, hailstorm likely in Delhi today? IMD shares weather update, predicts heavy rainfall in Kerala, Tamil Nadu",
+      "summary": "• IMD: Heavy rainfall expected in parts of Tamil Nadu, Kerala, Andhra Pradesh and Telangana.\n• Rain, ha hail storm likely in New Delhi today, IMD says.\n• Rain and hailst storms likely in Chennai, Hyderabad and Kolkata today.",
+      "category": "State News",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/rain-hailstorm-in-delhi-up-haryana-ncr-imd-shares-weather-predicts-heavy-rainfall-in-kerala-tamil-nadu-11792035383918.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-15"
+    },
+    {
+      "id": 12329,
+      "title": "Uttarakhand Elections 2027: Dhami Govt Faces Tough Questions As Voters Weigh Their Options | News18",
+      "summary": "• Uttarakhand gears up for the 2027 Assembly elections.\n• Voters have mixed views on the performance of the state government.\n• While some are calling for change, others remain hesitant about the prospect of a Congress comeback.\n• Watch this ground report to hear the voices of voters ahead of the 20 27 Assembly elections in Uttarakhand.\n• The focus is on public sentiment, local concerns and the priorities that could shape the election debate.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/uttarakhand-elections-2027-dhami-govt-faces-tough-questions-as-voters-weigh-their-options-news18-10383674.html",
       "relevance_score": 0.91,
       "published_date": "2026-10-15"
     },
@@ -261,22 +371,22 @@
       "published_date": "2026-10-15"
     },
     {
-      "id": 12312,
-      "title": "Sahajanand Medical Technologies IPO opens for subscription. Check GMP, price band and key details",
-      "summary": "• Check GMP, price band and key details at www.sahajandmedical.com.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
-      "category": "Science & Technology",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sahajanand-medical-technologies-ipo-opens-today-check-gmp-price-band-and-key-details/articleshow/134956265.cms",
-      "relevance_score": 0.8282,
-      "published_date": "2026-10-15"
-    },
-    {
       "id": 12294,
       "title": "US startup Reflect Orbital books two launches on Hyderabad-based Skyroot Aerospace’s Vikram rockets",
       "summary": "• Reflect Orbital is a subsidiary of Skyroot, which is based in Hyderabad, India.\n• The two launches will take place on the Vikram rocket, which will be powered by a Skyroot-made rocket engine.\n• The rocket will have a range of 2,000 km (1,500 miles).",
       "category": "Science & Technology",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/cities/Hyderabad/us-startup-reflect-orbital-books-two-launches-of-skyroot-aerospace/article71586855.ece",
+      "relevance_score": 0.8282,
+      "published_date": "2026-10-15"
+    },
+    {
+      "id": 12312,
+      "title": "Sahajanand Medical Technologies IPO opens for subscription. Check GMP, price band and key details",
+      "summary": "• Check GMP, price band and key details at www.sahajandmedical.com.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.\n• In the U.S. call the National Suicide Prevention Line on 1-800-273-8255.",
+      "category": "Science & Technology",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sahajanand-medical-technologies-ipo-opens-today-check-gmp-price-band-and-key-details/articleshow/134956265.cms",
       "relevance_score": 0.8282,
       "published_date": "2026-10-15"
     },
@@ -19889,118 +19999,8 @@
       "url": "https://science.nasa.gov/photojournal/mapping-air-pollution-with-maia-sensors-in-addis-ababa/",
       "relevance_score": 0.8418,
       "published_date": "2026-08-24"
-    },
-    {
-      "id": 9490,
-      "title": "China’s Strategic Plan for Space Superiority",
-      "summary": "• China has a plan to become a major player in the world of space exploration.\n• China is the world's second largest country in terms of the number of people in space.\n• It is also the largest economy in space, with a population of more than 1.2 billion people.\n• China also has the largest number of astronauts in space at more than 100,000.",
-      "category": "Science & Technology",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/08/chinas-strategic-plan-for-space-superiority/",
-      "relevance_score": 0.841,
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": 9442,
-      "title": "Rupee climbs to 95.64 against US dollar; Iran sanctions, crude prices in focus",
-      "summary": "• India's rupee hit a record high of 95.65 against the U.S. dollar on Monday.\n• The rupee was trading at 95.63 against the US dollar on Tuesday.\n• The currency was trading around 95.55 against the euro on Tuesday morning.\n• The dollar was at 97.02 to the rupee on Tuesday afternoon.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rupee-climbs-to-95-64-against-us-dollar-iran-sanctions-crude-prices-in-focus/articleshow/133451146.cms",
-      "relevance_score": 0.8287,
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": 9434,
-      "title": "The rural-urban divide in female labour force participation",
-      "summary": "• Women in rural areas are less likely to be in the labour force than those in urban areas.\n• Women are also less likely than men to work full-time or part-time, according to a new report.\n• The report was published by the Organisation for Economic Co-operation and Development (OECD) The report also looked at the role of women in the economy in urban and rural areas.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/data/the-rural-urban-divide-in-female-labour-force-participation/article71381696.ece",
-      "relevance_score": 0.8154,
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": 9473,
-      "title": "IIT Kanpur's Gangwal School of Medical Sciences gets  ₹300 crore additional funds from IndiGo co-founder Rakesh Gangwal",
-      "summary": "• Gangwal is also the co- founder of Indi go, which was founded by Gangwal in 1998.\n• The funds will be used to build a new medical centre in Kanpur.\n• The new hospital will have a state-of-the-art research facility.",
-      "category": "Science & Technology",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/iit-kanpurs-gangwal-school-of-medical-sciences-gets-300-crore-additional-funds-from-indigo-co-founder-rakesh-gangwal-11787593139139.html",
-      "relevance_score": 0.8135,
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": 9439,
-      "title": "Iran’s Threat to U.S.: “No Oil Will Be Exported” as Economic War Escalates | US Iran War | News18",
-      "summary": "• Tensions between Iran and the United States are escalating.\n• Iran’s security leadership warning that oil exports could be halted if Washington continues what Tehran describes as an economic war.\n• The warning raises fresh concerns about the potential impact on global oil supplies and energy markets.\n• Could have consequences beyond the Middle East, potentially affecting supply expectations, shipping routes and international energy prices.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/videos/breaking-news/iran-s-threat-to-u-s-no-oil-will-be-exported-as-economic-war-escalates-us-iran-war-news18-10289498.html",
-      "relevance_score": 0.8101,
-      "published_date": "2026-08-24"
-    },
-    {
-      "id": 9427,
-      "title": "On National Space Day, PM Modi hails Gen Z for building new tech; Isro chief says plan to launch 8 vehicle, 12 satellite missions",
-      "summary": "• On National Space Day, PM Modi hails Gen Z for building new tech.\n• Isro chief says plan to launch 8 vehicle, 12 satellite missions.\n• PM Modi: 'I am proud of India's contribution to space exploration and space exploration.\n• I am proud to be a member of the Indian Space Agency' Isro is a state-run space agency based in India.\n• It has been in existence since the 1960s and is based in New Delhi.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/on-national-space-day-pm-modi-hails-gen-z-for-building-new-tech-isro-chief-says-plan-to-launch-8-vehicle-12-satellite-missions/articleshow/133446253.cms",
-      "relevance_score": 0.9808,
-      "published_date": "2026-08-23"
-    },
-    {
-      "id": 9411,
-      "title": "Parliamentary panel reviews space and science projects  at ISRO, other facilities in Bengaluru",
-      "summary": "• Parliamary panel reviewed space andScience projects at ISro, other facilities in Bengaluru.\n• Parliamentary panel review space and Science projects at  ISRO,.\n• Other facilities  at Bengaluru,  other facilities in Belfast and other countries.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/bangalore/parliamentary-panel-reviews-space-and-science-projects-at-isro-other-facilities-in-bengaluru/article71380546.ece",
-      "relevance_score": 0.9625,
-      "published_date": "2026-08-23"
-    },
-    {
-      "id": 9417,
-      "title": "'Made-in-India chips power key space missions': IT minister Ashwini Vaishnaw",
-      "summary": "• 'Made in India chips power important space missions,' says IT minister.\n• 'We are proud to be Indian,' she adds.\n• 'I am proud to have made this country a better country for all of us.\n• We will continue to make India a better nation'.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/made-in-india-chips-power-key-space-missions-it-minister-ashwini-vaishnaw/articleshow/133440814.cms",
-      "relevance_score": 0.9496,
-      "published_date": "2026-08-23"
-    },
-    {
-      "id": 9403,
-      "title": "India’s Space Boom: 400+ Startups Join the Race | Modi Pushes Private Sector in Space | News18",
-      "summary": "• India’s space sector is undergoing a major transformation, with more than 400 startups now contributing to the country”s rapidly expanding space ecosystem.\n• Prime Minister Narendra Modi has repeatedly highlighted the growing role of private companies and startups in taking India s space ambitions to the next level.\n• New-age space companies are increasingly working across areas such as satellite technology, launch systems, earth observation, communications and space applications.\n• -newsn18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
-      "category": "Science & Technology",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/india-s-space-boom-400-startups-join-the-race-modi-pushes-private-sector-in-space-news18-10288595.html",
-      "relevance_score": 0.941,
-      "published_date": "2026-08-23"
-    },
-    {
-      "id": 9402,
-      "title": "ISRO’s Big Comeback Plan: 8 Launches, 12 Satellites & Uncrewed Gaganyaan Mission This Year | News18",
-      "summary": "• ISRO plans eight launch vehicle missions and 12 satellite missions during the current financial year.\n• The first uncrewed Gaganyaan mission is among the key milestones.\n• ISRO continues to strengthen its launch capabilities and prepare for India’s human spaceflight programme.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• N18oc_breaking-newsn18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
-      "category": "Science & Technology",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/isro-s-big-comeback-plan-8-launches-12-satellites-uncrewed-gaganyaan-mission-this-year-news18-10288661.html",
-      "relevance_score": 0.9406,
-      "published_date": "2026-08-23"
-    },
-    {
-      "id": 9406,
-      "title": "National Space Day: Beyond Moon, India’s big space dream includes Mars, Venus and Sun too",
-      "summary": "• India has its own space agency, the Indian Space Agency, based in New Delhi.\n• The agency is responsible for sending Indian astronauts to the Moon, Mars and Venus.\n• India also has a space agency based in Bangalore, based on the Polar Satellite Launch Centre, which has a mission to send Indian astronauts into space.",
-      "category": "Science & Technology",
-      "source": "LiveMint - Science",
-      "url": "https://www.livemint.com/science/news/national-space-day-from-moon-sun-to-mars-and-venus-inside-india-ambitious-space-plan-from-1962-vision-2047-11787466820746.html",
-      "relevance_score": 0.9345,
-      "published_date": "2026-08-23"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-16T03:40:26.333968Z"
+  "updated_at": "2026-10-16T08:37:46.095699Z"
 }
