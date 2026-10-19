@@ -11,22 +11,22 @@
       "published_date": "2026-10-19"
     },
     {
-      "id": 12487,
-      "title": "Delhi-Srinagar Bus Attacked In Punjab Day After Similar Incident In Haryana",
-      "summary": "• Delhi and Srinagar buses were traveling on the same route from Punjab to Delhi.\n• The attack took place in the city's Gurdaspur area.\n• The bus was headed to the city from Kashmir.",
-      "category": "State News",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/delhi-srinagar-bus-attacked-in-punjab-day-after-similar-incident-in-haryana-12207369#publisher=newsstand",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-19"
-    },
-    {
       "id": 12481,
       "title": "Hours After Stone Pelting In Haryana, Delhi-Srinagar Bus Attacked Again In Punjab's Khanna",
       "summary": "• Delhi- Srinagar bus attacked in Khanna on way from Delhi to Kashmir.\n• Bus was attacked by two men on a motorbike and another on a scooter.\n• Bus driver was injured in the attack and taken to hospital.\n• Police have arrested two men in connection with the attack.",
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/india/delhi-srinagar-bus-stone-pelting-attack-khanna-punjab-ws-l-10388823.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-19"
+    },
+    {
+      "id": 12487,
+      "title": "Delhi-Srinagar Bus Attacked In Punjab Day After Similar Incident In Haryana",
+      "summary": "• Delhi and Srinagar buses were traveling on the same route from Punjab to Delhi.\n• The attack took place in the city's Gurdaspur area.\n• The bus was headed to the city from Kashmir.",
+      "category": "State News",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/delhi-srinagar-bus-attacked-in-punjab-day-after-similar-incident-in-haryana-12207369#publisher=newsstand",
       "relevance_score": 0.91,
       "published_date": "2026-10-19"
     },
@@ -188,6 +188,16 @@
       "source": "News18 - India",
       "url": "https://www.news18.com/india/1950-crore-contracts-inked-till-date-indian-navy-bets-big-on-startups-shifts-to-spiral-model-for-faster-tech-trials-ws-klrt-10389060.html",
       "relevance_score": 0.8141,
+      "published_date": "2026-10-19"
+    },
+    {
+      "id": 12495,
+      "title": "Japan's MMX mission begins 10-month-long journey to reach Martian moon Phobos",
+      "summary": "• Japan's mission will be the first mission to reach the Martian moon in more than a decade.\n• The mission is part of Japan's joint mission with the U.S. and the European Space Agency.\n• It will be called the Japan-led Phobos mission and will take 10 months to reach Mars.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/science/story/japans-mmx-mission-begins-10-month-long-journey-to-reach-martian-moon-phobos-3021097-2026-10-20?utm_source=rss",
+      "relevance_score": 0.8029,
       "published_date": "2026-10-19"
     },
     {
@@ -19989,18 +19999,8 @@
       "url": "https://timesofindia.indiatimes.com/business/india-business/emitting-only-water-vapour-indias-2400-kw-hydrogen-train-is-the-worlds-most-powerful-within-days-of-launch-it-travels-600-km-and-reduces-carbon-dioxide-emissions-by-36444-kg/articleshow/133533990.cms",
       "relevance_score": 0.864,
       "published_date": "2026-08-26"
-    },
-    {
-      "id": 9567,
-      "title": "Matthew Mayich accident update: ASU hockey player remains hospitalized as Blues issue statement on NHL prospect",
-      "summary": "• Mayich was involved in a car accident that left him with serious head injuries.\n• He was airlifted to a local hospital, where he remains in critical condition.\n• He is expected to make a full recovery, according to the hospital and the St. Louis hospital where he is being treated.\n• For more on this story, go to CNN.com.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/us-sports/matthew-mayich-accident-update-asu-hockey-player-remains-hospitalized-blues-issue-statement-nhl-prospect-arizona-state-101787765739010.html",
-      "relevance_score": 0.8599,
-      "published_date": "2026-08-26"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-19T19:03:24.539193Z"
+  "updated_at": "2026-10-19T20:53:31.050695Z"
 }
