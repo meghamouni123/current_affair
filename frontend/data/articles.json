@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 12718,
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "summary": "• Lab will be based in London's Science Museum.\n• It will be the first of its kind in the world.\n• The lab will be run by a group of scientists and engineers from around the UK.\n• It is expected to be open by the end of the year.\n• For more information on the lab, visit: www.aibl.com.",
+      "category": "Science & Technology",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+      "relevance_score": 0.8438,
+      "published_date": "2026-10-24"
+    },
+    {
       "id": 12689,
       "title": "Pakistan, Maldives sign 20 MoUs, including in defence, maritime security",
       "summary": "• Pakistan and Maldives signed MoUs on a range of issues, including defence and maritime security, including a joint maritime patrol.\n• Pakistan, Maldive signed MoU on defence, Maritime security, among others.\n• Pakistan: MoUs include a joint patrol on the Maldives' island of Dhola.\n• Maldives: MoU includes a joint patrols on the island's island of Rahat.",
@@ -71,22 +81,22 @@
       "published_date": "2026-10-23"
     },
     {
-      "id": 12712,
-      "title": "'Real Friend' In Heart Of Eurozone | Can Poland Match India's Ambition? | The Hard Facts | News18",
-      "summary": "• Poland wants to deepen its strategic partnership with India.\n• Defence cooperation, trade and investment emerging as key priorities.\n• Polish Deputy Prime Minister Radosław Sikorski discusses how the two countries can expand their partnership despite differing perspectives on Russia’s war in Ukraine.\n• Watch the full conversation for insights into the future of India-Poland relations and their wider implications for Europe and the Indo-Pacific.",
-      "category": "International Relations",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/real-friend-in-heart-of-eurozone-can-poland-match-india-s-ambition-the-hard-facts-news18-10395365.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-23"
-    },
-    {
       "id": 12698,
       "title": "\"We Don't Target Any Price For Rupee\": RBI Governor Sanjay Malhotra At NDTV World Summit",
       "summary": "• \"We don't target any price for Rupee,\" he said.\n• \"I don't think there is a price for rupee in the world,\" he added.\n• \"There is no price to be set for the rupee,\" the RBI governor said in an interview to NDTV.",
       "category": "Economy & Banking",
       "source": "NDTV - World",
       "url": "https://www.ndtv.com/world-news/rbi-governor-sanjay-malhotra-at-ndtv-world-summit-we-dont-target-any-price-for-rupee-12225952#publisher=newsstand",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-23"
+    },
+    {
+      "id": 12712,
+      "title": "'Real Friend' In Heart Of Eurozone | Can Poland Match India's Ambition? | The Hard Facts | News18",
+      "summary": "• Poland wants to deepen its strategic partnership with India.\n• Defence cooperation, trade and investment emerging as key priorities.\n• Polish Deputy Prime Minister Radosław Sikorski discusses how the two countries can expand their partnership despite differing perspectives on Russia’s war in Ukraine.\n• Watch the full conversation for insights into the future of India-Poland relations and their wider implications for Europe and the Indo-Pacific.",
+      "category": "International Relations",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/real-friend-in-heart-of-eurozone-can-poland-match-india-s-ambition-the-hard-facts-news18-10395365.html",
       "relevance_score": 0.91,
       "published_date": "2026-10-23"
     },
@@ -148,6 +158,16 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/entry-restrictions-whatsapp-group-delhi-traffic-police-plans-to-curb-air-pollution-101792720423173.html",
       "relevance_score": 0.9009,
+      "published_date": "2026-10-23"
+    },
+    {
+      "id": 12716,
+      "title": "NASA’s Artemis III Mission to Test Future Moon Lander Operations",
+      "summary": "• Mission will be the first mission to land on the moon.\n• Mission is part of a larger plan to send humans to the moon in the 2030s.\n• The mission will be called Artemis III and will be based in Houston, Texas.\n• It will be followed by a second mission called Artemis II in the 2020s and a third mission in 2023.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/",
+      "relevance_score": 0.887,
       "published_date": "2026-10-23"
     },
     {
@@ -258,6 +278,16 @@
       "source": "Times of India - World",
       "url": "https://timesofindia.indiatimes.com/science/discovery/dutch-scientists-built-a-tiny-robotic-arm-using-living-algae-and-two-layers-of-gel-controlled-by-light-the-two-centimetre-strip-grasped-a-metal-ball-and-lifted-a-rubber-ring-underwater-without-a-conventional-motor/articleshow/135140106.cms",
       "relevance_score": 0.8171,
+      "published_date": "2026-10-23"
+    },
+    {
+      "id": 12714,
+      "title": "At $43 billion, RBI’s net dollar purchase hits new high",
+      "summary": "• At $43.5 billion, it is the world's largest foreign exchange reserve bank.\n• It is the second largest after the U.S. Federal Reserve, with a net purchase of more than $1.2 trillion in the past five years.\n• It has the largest foreign currency reserves in the world, followed by the European Central Bank and the Bank of Japan.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/at-43-billion-rbis-net-dollar-purchase-hits-new-high/articleshow/135155568.cms",
+      "relevance_score": 0.8166,
       "published_date": "2026-10-23"
     },
     {
@@ -19969,38 +19999,8 @@
       "url": "https://thediplomat.com/2026/08/asean-and-japans-updated-free-and-open-indo-pacific-initiative/",
       "relevance_score": 0.8993,
       "published_date": "2026-08-30"
-    },
-    {
-      "id": 9731,
-      "title": "Nasa launches powerful new space telescope to explore mysteries of the Universe",
-      "summary": "• The telescope will be used to look for signs of life in the universe.\n• It is expected to be fully operational by the end of the year.\n• For more information on the telescope, visit: http://www.nasa.gov/space/space-telescope/ telescope-mission-pathway.html.",
-      "category": "Science & Technology",
-      "source": "BBC - Science & Environment",
-      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
-      "relevance_score": 0.8981,
-      "published_date": "2026-08-30"
-    },
-    {
-      "id": 9709,
-      "title": "Iranian Supreme Leader calls for unity among Muslim countries",
-      "summary": "• Iran's President Hassan Rouhani has called for unity between the Muslim world.\n• Iran is one of the most populous countries in the world, with a population of more than 80 million people.\n• The country is home to some of the world's largest Shia Muslim communities, including Iran, Iraq, Syria and Lebanon.\n• Iran also has a large Sunni Muslim population.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/iranian-supreme-leader-calls-for-unity-among-muslim-countries/article71407523.ece",
-      "relevance_score": 0.8921,
-      "published_date": "2026-08-30"
-    },
-    {
-      "id": 9707,
-      "title": "India, Uzbekistan elevate ties; uranium supply framework on agenda",
-      "summary": "• India and Uzbekistan have been at odds for years over the use of uranium for nuclear power.\n• The two countries have agreed to work together on a uranium supply agreement.\n• The deal is expected to be in place by the end of this year or early next year.",
-      "category": "International Relations",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/world/story/india-uzbekistan-comprehensive-strategic-partnership-uranium-supply-modi-mirziyoyev-ptag-2982934-2026-08-30?utm_source=rss",
-      "relevance_score": 0.8921,
-      "published_date": "2026-08-30"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-23T19:43:47.285817Z"
+  "updated_at": "2026-10-24T03:54:18.202510Z"
 }
