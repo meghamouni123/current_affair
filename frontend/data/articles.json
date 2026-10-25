@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 12762,
+      "title": "Researchers secure patent for automated homeopathy medicine dispenser",
+      "summary": "• Researchers secure patent on homeopathy dispenser that dispenses homeopathy medicines.\n• Researchers hope to use the technology to improve homeopathy care in the U.S. and around the world.\n• For more information, visit www.homeopathy.com/homeopathy or go to the company's website at: www.Homeopathic.com.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/Thiruvananthapuram/researchers-secure-patent-for-automated-homeopathy-medicine-dispenser/article71623451.ece",
+      "relevance_score": 0.9805,
+      "published_date": "2026-10-25"
+    },
+    {
       "id": 12749,
       "title": "IIIT Bangalore Expands Global Ties With New Partnership With Polish University",
       "summary": "• IIIT Bangalore and Polish University will work together on a joint research project.\n• The project will take place at IIIT's Indian campus in Bangalore, with a Polish partner in Warsaw.\n• For more information on the project, visit the IIIT website or the Polish University's website at: http://www.iwiit.co.uk/partnership.",
@@ -28,6 +38,16 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/isro-plans-four-functional-launch-pads-by-2029-outlines-gaganyaan-mission-roadmap-sslv-complex-kulasekarapattinam-tamil-nadu-101792908657184.html",
       "relevance_score": 0.8864,
+      "published_date": "2026-10-25"
+    },
+    {
+      "id": 12766,
+      "title": "Secretary-General of ASEAN meets with the Secretary-General of the International Chamber of Commerce",
+      "summary": "• ASEan and ICC are two of the biggest economies in the world.\n• The meeting was held in Bangkok, Thailand, on the sidelines of the World Economic Forum.\n• The two sides also met with the leaders of the European Union and the United States.\n• The summit was aimed at boosting trade and investment between the two countries.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-meets-with-the-secretary-general-of-the-international-chamber-of-commerce/",
+      "relevance_score": 0.8814,
       "published_date": "2026-10-25"
     },
     {
@@ -371,26 +391,6 @@
       "published_date": "2026-10-23"
     },
     {
-      "id": 12698,
-      "title": "\"We Don't Target Any Price For Rupee\": RBI Governor Sanjay Malhotra At NDTV World Summit",
-      "summary": "• \"We don't target any price for Rupee,\" he said.\n• \"I don't think there is a price for rupee in the world,\" he added.\n• \"There is no price to be set for the rupee,\" the RBI governor said in an interview to NDTV.",
-      "category": "Economy & Banking",
-      "source": "NDTV - World",
-      "url": "https://www.ndtv.com/world-news/rbi-governor-sanjay-malhotra-at-ndtv-world-summit-we-dont-target-any-price-for-rupee-12225952#publisher=newsstand",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-23"
-    },
-    {
-      "id": 12671,
-      "title": "2 Election Commissioners complained against poll panel officer, but Cabinet Secretariat took no action: RTI",
-      "summary": "• Cabinet Secretary said no action would be taken against the officer.\n• The officer has been suspended from the poll panel, the RTI has revealed.\n• For confidential support call the Samaritans on 08457 909090 or visit a local Samaritans branch, see www.samaritans.org for details.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/2-election-commissioners-complained-against-poll-panel-officer-but-cabinet-secretariat-took-no-action-rti/articleshow/135134004.cms",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-23"
-    },
-    {
       "id": 12712,
       "title": "'Real Friend' In Heart Of Eurozone | Can Poland Match India's Ambition? | The Hard Facts | News18",
       "summary": "• Poland wants to deepen its strategic partnership with India.\n• Defence cooperation, trade and investment emerging as key priorities.\n• Polish Deputy Prime Minister Radosław Sikorski discusses how the two countries can expand their partnership despite differing perspectives on Russia’s war in Ukraine.\n• Watch the full conversation for insights into the future of India-Poland relations and their wider implications for Europe and the Indo-Pacific.",
@@ -407,6 +407,26 @@
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/the-right-stand/regime-change-raga-i-n-d-i-a-wants-but-does-bharat-call-resonating-the-right-stand-10395299.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-23"
+    },
+    {
+      "id": 12698,
+      "title": "\"We Don't Target Any Price For Rupee\": RBI Governor Sanjay Malhotra At NDTV World Summit",
+      "summary": "• \"We don't target any price for Rupee,\" he said.\n• \"I don't think there is a price for rupee in the world,\" he added.\n• \"There is no price to be set for the rupee,\" the RBI governor said in an interview to NDTV.",
+      "category": "Economy & Banking",
+      "source": "NDTV - World",
+      "url": "https://www.ndtv.com/world-news/rbi-governor-sanjay-malhotra-at-ndtv-world-summit-we-dont-target-any-price-for-rupee-12225952#publisher=newsstand",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-23"
+    },
+    {
+      "id": 12671,
+      "title": "2 Election Commissioners complained against poll panel officer, but Cabinet Secretariat took no action: RTI",
+      "summary": "• Cabinet Secretary said no action would be taken against the officer.\n• The officer has been suspended from the poll panel, the RTI has revealed.\n• For confidential support call the Samaritans on 08457 909090 or visit a local Samaritans branch, see www.samaritans.org for details.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/2-election-commissioners-complained-against-poll-panel-officer-but-cabinet-secretariat-took-no-action-rti/articleshow/135134004.cms",
       "relevance_score": 0.91,
       "published_date": "2026-10-23"
     },
@@ -19979,28 +19999,8 @@
       "url": "https://sportstar.thehindu.com/golf/scottie-scheffler-pga-tour-championship-win-fed-ex-cup-multiple-champion-tiger-woods-career-earnings/article71409680.ece",
       "relevance_score": 0.8514,
       "published_date": "2026-08-31"
-    },
-    {
-      "id": 9789,
-      "title": "Special RRT to become operational \nat Chinnakkanal within a week",
-      "summary": "• Special RRT will become operational at ChinnAKkanal in a week, officials say.\n• It will be the first of its kind in the region and is expected to be fully operational by end of the year.\n• The RRT is designed to be able to cover a wide area of the country, including the north and east.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/kerala/special-rrt-to-become-operational-at-chinnakkanal-within-a-week/article71411774.ece",
-      "relevance_score": 0.8513,
-      "published_date": "2026-08-31"
-    },
-    {
-      "id": 9791,
-      "title": "Aurobindo arm Lannett launches generic of GSK’s drug in U.S.",
-      "summary": "• Aurobindo arm Lannett launches generic of GSK’s drug in U.S. GSK is the world's largest maker of insulin, with sales of more than $10 billion a year.\n• The drug is used to treat high blood pressure, high cholesterol and other conditions.\n• The generic version of the drug is expected to go on sale in the United States in the coming months.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/Industry/aurobindo-arm-lannett-launches-generic-of-gsks-drug-in-us/article71411529.ece",
-      "relevance_score": 0.8462,
-      "published_date": "2026-08-31"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-25T12:14:05.298966Z"
+  "updated_at": "2026-10-25T14:17:46.202239Z"
 }
