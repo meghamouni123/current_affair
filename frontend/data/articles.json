@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": 12932,
+      "title": "Google launches Gemini 4 Carbon AI model with cybersecurity focus",
+      "summary": "• Google says it will use the technology to help protect against cyberattacks.\n• The company will also use the AI to help people in the U.S. with cybersecurity issues.\n• Google's new AI technology will be available in the United States by the end of the year.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/google-launches-gemini-4-carbon-ai-model-with-cybersecurity-focus/article71638920.ece",
+      "relevance_score": 0.959,
+      "published_date": "2026-10-29"
+    },
+    {
+      "id": 12934,
+      "title": "Israel election results LIVE: Netanyahu seeks probe into 'election theft' by Arab parties as Likud short of majority",
+      "summary": "• Likud short of majority as Netanyahu's party fails to win a majority.\n• Netanyahu seeking probe into ‘election theft’ by Arab party as Likuda falls short ofmajority.\n• Israel election results live: Follow the latest here.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/israel-elections-2026-live-updates-benjamin-netanyahu-gadi-eisenkot-likud-knesset-arab-parties-counting-result-exit-poll-101793236411625.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-29"
+    },
+    {
+      "id": 12933,
+      "title": "Quad nations renew push for Indo-Pacific security on ASEAN sidelines",
+      "summary": "• China, India, Japan, South Korea, Australia and Brunei to meet in ASEan summit in Laos.\n• China and South Korea to meet for first time since 9/11 attacks on U.S. Embassy in Kuala Lumpar, Malaysia, on November 11.\n• Japan, Australia, Brunei, Malaysia to meet on November 14 for first meeting since attacks.",
+      "category": "International Relations",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/quad-nations-renew-push-for-indo-pacific-security-on-asean-sidelines-101793240309174.html",
+      "relevance_score": 0.8375,
+      "published_date": "2026-10-29"
+    },
+    {
+      "id": 12937,
+      "title": "Caltech Names Artemis II Commander Reid Wiseman as NASA JPL Deputy",
+      "summary": "• Wiseman will be based at Caltech's JPL facility in Pasadena, California.\n• He will also serve as JPL's deputy director at NASA's Jet Propulsion Laboratory in Pasadena.\n• He is currently serving as commander of the Artemis II, which is based at the Caltech campus in Pasadena and the University of California, Los Angeles.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/caltech-names-artemis-ii-commander-reid-wiseman-as-nasa-jpl-deputy/",
+      "relevance_score": 0.8038,
+      "published_date": "2026-10-29"
+    },
+    {
+      "id": 12936,
+      "title": "‘Unwavering commitment’: Rajnath Singh backs ASEAN centrality, calls for stronger defence ties",
+      "summary": "• Singh: ‘Unwavering commitment’ to ASEan is ‘unwavering’ and ‘not wavering’.\n• ‘We are committed to the peace and security of the region,’ he says.\n• “We are not willing to let our sovereignty be at risk,” he adds.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/unwavering-commitment-rajnath-singh-backs-asean-centrality-calls-for-stronger-defence-ties/articleshow/135287649.cms",
+      "relevance_score": 0.8009,
+      "published_date": "2026-10-29"
+    },
+    {
       "id": 12925,
       "title": "NASA Selects 19 New Citizen Science Proposals in 2026",
       "summary": "• NASA will select 19 new citizen science proposals in the next few years.\n• The proposals will be submitted to NASA's Science Mission Directorate in Washington, D.C.\n• And the National Aeronautics and Space Administration in Houston, Texas.\n• The Citizen Science Directorate will be responsible for developing the proposals.\n• The proposal process will be led by NASA's Citizen Science Office.",
@@ -8,6 +58,16 @@
       "source": "NASA",
       "url": "https://science.nasa.gov/get-involved/citizen-science/nasa-selects-19-new-citizen-science-proposals-in-2026/",
       "relevance_score": 0.9753,
+      "published_date": "2026-10-28"
+    },
+    {
+      "id": 12929,
+      "title": "Vijay inaugurates advanced electrical labs in 30 government ITIs",
+      "summary": "• Vijay: I will make it possible for students to study in state-of-the-art labs.\n• He will also set up advanced labs in the state's other ITIs, including ITIs and IITs.\n• The labs will be equipped with high-tech equipment to teach students how to use computers.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vijay-inaugurates-advanced-electrical-labs-in-30-government-itis/article71635149.ece",
+      "relevance_score": 0.9409,
       "published_date": "2026-10-28"
     },
     {
@@ -97,6 +157,16 @@
       "category": "State News",
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/india/cyclone-arnab-landfall-trains-flights-cancelled-odisha-andhra-pradesh-and-west-bengal-on-alert-top-updates-11793151829616.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-28"
+    },
+    {
+      "id": 12928,
+      "title": "Bihar MLC polls: Upper caste candidates dominate election results",
+      "summary": "• MLCs are elected on seats reserved for the upper castes.\n• Upper castes have been the mainstay of Bihar politics for the past three decades.\n• Bihar has seen a rise in the number of upper-caste candidates in the last few years.\n• More than half of the seats were won by upper caste candidates in 2012.",
+      "category": "State News",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/bihar-mlc-polls-upper-caste-candidates-dominate-election-results/article71636195.ece",
       "relevance_score": 0.91,
       "published_date": "2026-10-28"
     },
@@ -311,22 +381,22 @@
       "published_date": "2026-10-28"
     },
     {
-      "id": 12904,
-      "title": "Delhi SIR: Supreme Court asks ECI to extend deadlines, simplify enrolment",
-      "summary": "• ECI: We are working with the government to make enrolment easier.\n• Supreme Court: ECI is working with us to make sure enrolment is easy and hassle-free.\n• We are trying to work with the Government to make it easier and hassle free for people to enroll for the scheme.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/supreme-court-delhi-sir-enrolment-deadlines-form-6-case-updates/article71635381.ece",
-      "relevance_score": 0.8005,
-      "published_date": "2026-10-28"
-    },
-    {
       "id": 12910,
       "title": "‘Apps are critical in defining AI PC value’: Intel India’s Gokul V Subramaniam",
       "summary": "• Intel India is a joint venture of Intel, Microsoft, and Texas Instruments.\n• The two companies have been working together for more than a decade on the Intel iWatch, a high-end computer with a built-in artificial intelligence chip.\n• The company also has its own AI chip, the Intel Iris Pro.",
       "category": "Science & Technology",
       "source": "Hindustan Times - Business",
       "url": "https://www.hindustantimes.com/business/apps-are-critical-in-defining-ai-pc-value-intel-india-s-gokul-v-subramaniam-101793187979297.html",
+      "relevance_score": 0.8005,
+      "published_date": "2026-10-28"
+    },
+    {
+      "id": 12904,
+      "title": "Delhi SIR: Supreme Court asks ECI to extend deadlines, simplify enrolment",
+      "summary": "• ECI: We are working with the government to make enrolment easier.\n• Supreme Court: ECI is working with us to make sure enrolment is easy and hassle-free.\n• We are trying to work with the Government to make it easier and hassle free for people to enroll for the scheme.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/supreme-court-delhi-sir-enrolment-deadlines-form-6-case-updates/article71635381.ece",
       "relevance_score": 0.8005,
       "published_date": "2026-10-28"
     },
@@ -19929,78 +19999,8 @@
       "url": "https://www.thehindu.com/sport/cricket/ajit-agarkars-absence-from-bcci-meeting-raises-eyebrows/article71424593.ece",
       "relevance_score": 0.8634,
       "published_date": "2026-09-03"
-    },
-    {
-      "id": 9958,
-      "title": "India ready to support peace efforts, Jaishankar tells Zelenskyy in Kyiv",
-      "summary": "• India ready to help in any way it can, he says.\n• Jaishanksar: We are ready to work with you in whatever way you need us to be.\n• India is ready to do whatever it takes to help you in your quest for peace, he adds.\n• Click here for more from the India-Zelenskyi meeting.",
-      "category": "International Relations",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/india-ready-to-support-peace-efforts-jaishankar-tells-zelenskyy-in-kyiv-101788457810123.html",
-      "relevance_score": 0.8517,
-      "published_date": "2026-09-03"
-    },
-    {
-      "id": 9914,
-      "title": "US, India working on fair, reciprocal trade ties: Sergio Gor",
-      "summary": "• US and India have been at odds over trade since the 1980s.\n• Gor: U.S. and India are working to improve trade ties.\n• US, India have agreed to work together on a number of issues, including trade, investment and trade liberalization, Gor says.\n• He adds: \"We have a lot of common ground.\n• We have a long history of working together\".",
-      "category": "International Relations",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/us-india-working-on-fair-reciprocal-trade-ties-sergio-gor-101788408502407.html",
-      "relevance_score": 0.8504,
-      "published_date": "2026-09-03"
-    },
-    {
-      "id": 9974,
-      "title": "Govt eyes auto cos-led model to fix EV charging on highways",
-      "summary": "• Eyes autocos-led models to fix electric car chargers on highways, says minister.\n• Government wants to make it easier for drivers to charge their cars on the go.\n• Government also wants to encourage more use of public transport to charge electric cars on roads and in cities.\n• For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/govt-eyes-auto-cos-led-model-to-fix-ev-charging-on-highways/articleshow/133748456.cms",
-      "relevance_score": 0.849,
-      "published_date": "2026-09-03"
-    },
-    {
-      "id": 9946,
-      "title": "SIR may be legal but it is not fair: Former EC Ashok Lavasa",
-      "summary": "• SIRs have been used in India for more than a decade.\n• Lavasa: SIR's are legal, but it's not fair to use them for political purposes.\n• He says it's unfair to use the system for political gain.\n• Lavasas: Sir's are used for political gains, but not for political reasons.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/sir-may-be-legal-but-it-is-not-fair-former-ec-ashok-lavasa/article71424450.ece",
-      "relevance_score": 0.8453,
-      "published_date": "2026-09-03"
-    },
-    {
-      "id": 9934,
-      "title": "Mourinho confirms Real Madrid disciplinary case against Asencio after DUI conviction",
-      "summary": "• Real Madrid manager says AsencIO will not be allowed to play for Real Madrid again.\n• As Encenio was convicted of DUI and driving with a suspended license.\n• As encenio will be banned from playing for Real for two years, Mourinho says.\n• Click here for all the latest Real Madrid news and news.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/football/asencio-court-case-mourinho-not-happy-real-madrid-disciplinary-proceeding/article71423367.ece",
-      "relevance_score": 0.8418,
-      "published_date": "2026-09-03"
-    },
-    {
-      "id": 9933,
-      "title": "NCOPS, Bengaluru prepares Pharmacy graduates for industry-ready careers in the Pharmaceutical Sector",
-      "summary": "• The company is based in Bengaluru, Karnataka, India.\n• It is one of the largest Pharmacy training centres in the country.\n• It has more than 1,000 Pharmacy students from across the country, including more than 100 from Karnataka and Karnataka.\n• It also has a strong presence in Hyderabad, Kolkata and Kannada.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/impact-feature/story/ncops-bengaluru-prepares-pharmacy-graduates-for-industry-ready-careers-in-the-pharmaceutical-sector-2986224-2026-09-03?utm_source=rss",
-      "relevance_score": 0.8387,
-      "published_date": "2026-09-03"
-    },
-    {
-      "id": 9949,
-      "title": "SHRC  recommends appointment of S. S. Lal as Special Rapporteur to study problems in health sector",
-      "summary": "• Lal as Special Rapporteur to study problems in health sector.\n• Lal will be tasked with looking into problems in the country's health care system.\n• He will be based in Geneva, Switzerland, and will have a five-year term.\n• He is expected to report back to the Human Rights Council within the next few weeks.\n• For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/kerala/shrc-recommends-appointment-of-s-s-lal-as-special-rapporteur-to-study-problems-in-health-sector/article71424636.ece",
-      "relevance_score": 0.8351,
-      "published_date": "2026-09-03"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-28T20:52:41.346144Z"
+  "updated_at": "2026-10-29T04:58:14.000530Z"
 }
