@@ -21,6 +21,16 @@
       "published_date": "2026-10-30"
     },
     {
+      "id": 13008,
+      "title": "Converting science into services must be priority: MoES Secretary Srinivasa Kumar",
+      "summary": "• MoES secretary: 'We need to make science a part of our daily lives.\n• We need to be able to use it to improve our quality of life and society's well-being' MoES chief: 'It is vital that we make science and technology part of everyday life.\n• It is our duty to make sure that it is used for good'.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/telangana/converting-science-into-services-must-be-priority-moes-secretary-srinivasa-kumar/article71646009.ece",
+      "relevance_score": 0.9218,
+      "published_date": "2026-10-30"
+    },
+    {
       "id": 12986,
       "title": "Israel election results LIVE: Netanyahu bloc ahead but short of majority; Eisenkot supporters urge him to ally with Arab",
       "summary": "• Israel election results LIVE: Netanyahu bloc ahead but short of majority.\n• Eisenkot supporters urge him to ally with Arab leaders.\n• Netanyahu's party is expected to win a majority of seats in the Knesset, but not a majority.\n• Netanyahu has been in power since 2000, and has been prime minister since 2007.\n• Netanyahu is a former prime minister of Israel and a former mayor of Tel Aviv.",
@@ -111,6 +121,16 @@
       "published_date": "2026-10-30"
     },
     {
+      "id": 13009,
+      "title": "Quantum tech can help solve complex problems: Jnan Yalla",
+      "summary": "• Jnan's company, Yalla, has developed a new type of quantum computer called a quantum computer.\n• The technology can be used to solve problems in complex ways, Jnan says.\n• Yalla: \"We can use quantum computers to help us solve problems.\n• It's a new way of looking at the world.\".",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/quantum-tech-can-help-solve-complex-problems-jnan-yalla/article71645579.ece",
+      "relevance_score": 0.8607,
+      "published_date": "2026-10-30"
+    },
+    {
       "id": 12990,
       "title": "IDBI Bank divestment: Finance Minister Nirmala Sitharaman says Congress, UPA govt used banks, financial institutions as personal entities",
       "summary": "• She says Congress and UPA used banks and financial institutions for personal gain.\n• She also said they used them to fund their political campaigns.\n• She added that they were used as personal assets by both parties.",
@@ -178,6 +198,16 @@
       "source": "The Hindu - Sport",
       "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-fourth-t20-international-in-auckland-on-october-30-2026/article71643999.ece",
       "relevance_score": 0.8185,
+      "published_date": "2026-10-30"
+    },
+    {
+      "id": 13006,
+      "title": "Supreme Court seeks report from ECI on Form 7 misuse allegations",
+      "summary": "• ECI has been accused of misusing the form to file false documents.\n• The Supreme Court has asked the ECI to provide a report on the matter.\n• The ECI is yet to respond to the Supreme Court's request for a report.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/supreme-court-seeks-report-from-eci-on-form-7-misuse-allegations/article71644823.ece",
+      "relevance_score": 0.817,
       "published_date": "2026-10-30"
     },
     {
@@ -251,12 +281,12 @@
       "published_date": "2026-10-29"
     },
     {
-      "id": 12959,
+      "id": 12948,
       "title": "Vote-Buying, Threats: Netanyahu's Likud Claims Poll Was 'Stolen' By Arab Parties, Demands Probe",
       "summary": "• Likud has accused Arab parties of irregularities, including alleged vote-buying, threats, forgery and the use of prohibited voter-mobilisation software.\n• The claims come as Netanyahu’s right-wing bloc falls short of the 61 seats needed for a parliamentary majority.\n• The allegations remain unverified, and the election dispute has intensified tensions over the role of Arab parties in Israel's political future.",
       "category": "Polity & Governance",
       "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/vote-buying-threats-netanyahu-s-likud-claims-poll-was-stolen-by-arab-parties-demands-probe-10403114.html",
+      "url": "https://www.news18.com/videos/india/vote-buying-threats-netanyahu-s-likud-claims-poll-was-stolen-by-arab-parties-demands-probe-10403113.html",
       "relevance_score": 0.91,
       "published_date": "2026-10-29"
     },
@@ -271,22 +301,22 @@
       "published_date": "2026-10-29"
     },
     {
-      "id": 12948,
-      "title": "Vote-Buying, Threats: Netanyahu's Likud Claims Poll Was 'Stolen' By Arab Parties, Demands Probe",
-      "summary": "• Likud has accused Arab parties of irregularities, including alleged vote-buying, threats, forgery and the use of prohibited voter-mobilisation software.\n• The claims come as Netanyahu’s right-wing bloc falls short of the 61 seats needed for a parliamentary majority.\n• The allegations remain unverified, and the election dispute has intensified tensions over the role of Arab parties in Israel's political future.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/vote-buying-threats-netanyahu-s-likud-claims-poll-was-stolen-by-arab-parties-demands-probe-10403113.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-29"
-    },
-    {
       "id": 12934,
       "title": "Israel election results LIVE: Netanyahu seeks probe into 'election theft' by Arab parties as Likud short of majority",
       "summary": "• Likud short of majority as Netanyahu's party fails to win a majority.\n• Netanyahu seeking probe into ‘election theft’ by Arab party as Likuda falls short ofmajority.\n• Israel election results live: Follow the latest here.",
       "category": "Polity & Governance",
       "source": "Hindustan Times - World",
       "url": "https://www.hindustantimes.com/world-news/israel-elections-2026-live-updates-benjamin-netanyahu-gadi-eisenkot-likud-knesset-arab-parties-counting-result-exit-poll-101793236411625.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-29"
+    },
+    {
+      "id": 12959,
+      "title": "Vote-Buying, Threats: Netanyahu's Likud Claims Poll Was 'Stolen' By Arab Parties, Demands Probe",
+      "summary": "• Likud has accused Arab parties of irregularities, including alleged vote-buying, threats, forgery and the use of prohibited voter-mobilisation software.\n• The claims come as Netanyahu’s right-wing bloc falls short of the 61 seats needed for a parliamentary majority.\n• The allegations remain unverified, and the election dispute has intensified tensions over the role of Arab parties in Israel's political future.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/vote-buying-threats-netanyahu-s-likud-claims-poll-was-stolen-by-arab-parties-demands-probe-10403114.html",
       "relevance_score": 0.91,
       "published_date": "2026-10-29"
     },
@@ -19969,38 +19999,8 @@
       "url": "https://www.indiatoday.in/technology/news/story/openai-launches-gpt-6-astra-sam-altman-calls-it-best-ai-model-in-the-world-2986747-2026-09-04?utm_source=rss",
       "relevance_score": 0.8509,
       "published_date": "2026-09-04"
-    },
-    {
-      "id": 9984,
-      "title": "WeWork India of Embassy Group to develop 10 MWp solar power plant in Karnataka",
-      "summary": "• WeWork India is part of the Embassy Group, which is owned by the Indian government.\n• The project is expected to be completed by the end of the year.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/wework-india-of-embassy-group-to-develop-10-mwp-solar-power-plant-in-karnataka/article71425305.ece",
-      "relevance_score": 0.8501,
-      "published_date": "2026-09-04"
-    },
-    {
-      "id": 9966,
-      "title": "Arts of combat: Keralites try their hand at new martial arts",
-      "summary": "• Keralite martial arts include judo, karate, kung fu and taekwondo.\n• The martial arts are being taught in schools across the city of Keralitos.\n• The first martial arts class took place in the early hours of the morning on Monday.\n• The class was held in the city's sports hall of residence, the Kerali Sports Hall.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/kerala/arts-of-combat-keralites-try-their-hand-at-new-martial-arts/article71419530.ece",
-      "relevance_score": 0.8413,
-      "published_date": "2026-09-04"
-    },
-    {
-      "id": 9973,
-      "title": "OpenAI rolls out GPT-6 astra model with cyber guardrails",
-      "summary": "• OpenAI also rolls out a new version of its AI technology called OpenAI AI.\n• The new model will be available for testing in the coming months.\n• For confidential support, call the National Suicide Prevention Lifeline at 1-800-273-8255 or visit http://www.suicidepreventionlifeline.org.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/openai-rolls-out-gpt-6-astra-model-with-cyber-guardrails-101788487892694.html",
-      "relevance_score": 0.8377,
-      "published_date": "2026-09-04"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-30T13:41:51.768409Z"
+  "updated_at": "2026-10-30T16:27:36.034207Z"
 }
