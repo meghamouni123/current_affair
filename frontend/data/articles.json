@@ -1,6 +1,86 @@
 {
   "articles": [
     {
+      "id": 13030,
+      "title": "PM Modi congratulates ISRO scientists on successful GSLV-F18 launch: 'Our space scientists make nation proud'",
+      "summary": "• PM Modi congratulates ISRO scientists on successful GSLV-F18 launch.\n• 'Our space scientists make nation proud' says PM Modi.\n• PM Modi: 'GSLV-f18 launch is a great achievement for Indian space community' ISRO: 'We are proud of the achievements made by our space scientists in the last two years.\n• We will continue to work for the betterment of the country'.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/prime-minister-narendra-modi-isro-indian-space-research-organisation-gslv-f18-launch-nvs-03-navigation-satellite-101793418480182.html",
+      "relevance_score": 0.9504,
+      "published_date": "2026-10-31"
+    },
+    {
+      "id": 13034,
+      "title": "NVS-03 satellite launch: ISRO places third next-gen satellite in orbit, PM Modi congratulates; 10 things to know",
+      "summary": "• NVS-3 is the third satellite to be launched by the Indian space agency.\n• ISRO launched the satellite from the Satish Dhawan Space Centre in Sriharikota, Tamil Nadu.\n• The satellite is the first of its kind in India and the third in the world.",
+      "category": "Science & Technology",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/isro-successfully-launches-nvs-03-satellite-to-boost-navic-navigation-system-pm-modi-congratulates-things-to-know-11793411611587.html",
+      "relevance_score": 0.9434,
+      "published_date": "2026-10-31"
+    },
+    {
+      "id": 13032,
+      "title": "'Dedication and ingenuity of our space scientists': PM Modi hails ISRO after successful GSLV-F18 launch carrying NVS-03",
+      "summary": "• NVS-03 will be the first Indian satellite to orbit the Earth.\n• The mission is scheduled to take off from the Satish Dhawan spaceport in Sriharikota, in the southern part of the state of Andhra Pradesh.\n• The launch is expected to take place in the early hours of Saturday morning.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/dedication-and-ingenuity-of-our-space-scientists-pm-modi-hails-isro-after-successful-gslv-f18-launch-carrying-nvs-03/articleshow/135384147.cms",
+      "relevance_score": 0.9336,
+      "published_date": "2026-10-31"
+    },
+    {
+      "id": 13027,
+      "title": "Jaishankar holds bilateral meetings with Foreign Ministers from G20 nations",
+      "summary": "• Jaishankars also held talks with Prime Ministers from the UK, France, Germany and the Netherlands.\n• He also met with the foreign ministers of Russia, China, Japan and South Korea.\n• He was in New York for the G20 summit.\n• He will also meet with the leaders of the European Union and the United States.",
+      "category": "International Relations",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-31"
+    },
+    {
+      "id": 13035,
+      "title": "IMD weather alert: Heavy rain for Karnataka, Andhra, Kerala; no showers in Delhi— What you need to know before going out",
+      "summary": "• IMD weather alert: Heavy rain for Karnataka, Andhra, Kerala; no showers in Delhi.\n• Heavy rain expected in parts of Karnataka and Andhra Pradesh, Kerala.\n• No showers in New Delhi; no rain expected for the rest of the week, says IMD.\n• For the latest on the weather in India, visit CNN.com's live updates on the latest weather forecast.",
+      "category": "State News",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/weather-today-new-depression-to-bring-heavy-rain-to-andhra-kerala-no-showers-for-delhi-check-full-imd-forecast-11793408255525.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-31"
+    },
+    {
+      "id": 13037,
+      "title": "Delhi's AI Pollution War: Vehicle Checks, Dust Curbs & Waste Burning Crackdown Ahead of Winter| N18",
+      "summary": "• Delhi is gearing up for another battle against winter pollution.\n• Authorities are turning to Artificial Intelligence (AI), real-time monitoring, dust-control measures and stricter vehicle checks to tackle the capital's worsening air quality.\n• Delhi Pollution Control Committee's Integrated Command and Control Centre is using AI-based analysis, CCTV feeds, AQI data and GPS tracking to monitor more than 700 construction sites.\n• N18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/delhi-s-ai-pollution-war-vehicle-checks-dust-curbs-waste-burning-crackdown-ahead-of-winter-n18-10406081.html",
+      "relevance_score": 0.9006,
+      "published_date": "2026-10-31"
+    },
+    {
+      "id": 13036,
+      "title": "Our space scientists make nation proud: PM after Isro launches NVS-03",
+      "summary": "• Isro has launched a new rocket called NVS03.\n• The rocket is the first of its kind to be launched from India.\n• It will carry a communications satellite to orbit the Earth.\n• The mission is scheduled to take place in the early hours of Saturday morning.\n• The launch will take place from Sriharikota in the southern part of the country.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/science/story/the-dedication-of-our-space-scientists-continues-to-make-our-nation-proud-pm-after-isro-launches-nvs-03-3029075-2026-10-31?utm_source=rss",
+      "relevance_score": 0.8981,
+      "published_date": "2026-10-31"
+    },
+    {
+      "id": 13026,
+      "title": "West Asia crisis triggers payment concern in Keralam’s cardamom sector",
+      "summary": "• West Asia crisis prompts payment concern for Keralan cardamoms.\n• Keralans are a major importer of cardamos from West Asia and Africa.\n• The sector is a key source of revenue for the state-run Kerala Foods Company (KFIC) KFIC is one of the world's largest importers of Cardamom.\n• KFC is also a leading exporter of Amul, a type of cardamia.",
+      "category": "Economy & Banking",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/west-asia-crisis-triggers-payment-concern-in-keralams-cardamom-sector/article71645440.ece",
+      "relevance_score": 0.8459,
+      "published_date": "2026-10-31"
+    },
+    {
       "id": 13024,
       "title": "ISRO's GSLV-F18 Successfully Lifts Off From Sriharikota With Next-Gen Navigation Satellite",
       "summary": "• ISRO's next-gen satellite will be used for navigation and navigation in the Indian Ocean.\n• The satellite is expected to be operational by 2018.\n• It is the first of its kind to be launched by an Indian Space Research Organisation (ISRO) satellite.",
@@ -148,6 +228,26 @@
       "source": "The Hindu - Science",
       "url": "https://www.thehindu.com/sci-tech/science/why-is-isros-nvs-03-satellite-launch-crucial-explained/article71643798.ece",
       "relevance_score": 0.8791,
+      "published_date": "2026-10-30"
+    },
+    {
+      "id": 13029,
+      "title": "Repairs on cyclone-damaged airport road begins",
+      "summary": "• Airport road was damaged by cyclone in Cyclone Haiyan in December 2012.\n• The road was closed for more than a month.\n• The airport was also damaged by flooding from the cyclone's cyclone.\n• It is now being used as a bypass for the airport and surrounding areas.\n• For more information on the airport road, visit www.airport.gov.uk.",
+      "category": "National News",
+      "source": "The Hindu - Andhra Pradesh",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/repairs-on-cyclone-damaged-airport-road-begins/article71645380.ece",
+      "relevance_score": 0.8751,
+      "published_date": "2026-10-30"
+    },
+    {
+      "id": 13033,
+      "title": "Trai proposes draft framework for responsible use of AI in tele networks",
+      "summary": "• Trai proposesDraft framework for Responsible use ofAI in Tele networks.\n• For confidential support call the National Suicide Prevention Lifeline on 1-800-273-8255 or visit http://www.suicidepreventionlifeline.org/.\n• For confidential help in the UK, call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
+      "category": "Science & Technology",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/trai-proposes-draft-framework-for-responsible-use-of-ai-in-tele-networks/articleshow/135379126.cms",
+      "relevance_score": 0.8687,
       "published_date": "2026-10-30"
     },
     {
@@ -19899,108 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/kerala/swtd-to-launch-its-first-solar-powered-boat-in-kochi/article71429318.ece",
       "relevance_score": 0.9831,
       "published_date": "2026-09-04"
-    },
-    {
-      "id": 10018,
-      "title": "ISRO Launches EOS-05: How India’s New Satellite Boosts Military Surveillance | ISRO Chief Exclusive",
-      "summary": "• ISRO has successfully launched the EOS-05 satellite, marking a significant advancement in India’s space-based observation and surveillance capabilities.\n• In an exclusive conversation, ISRO Chairman Dr. V.\n• Narayanan discusses the significance of the mission and how the satellite can provide more continuous monitoring of strategically important areas.\n• Watch the full exclusive conversation with ISRO Chief for insights into the mission.\n• Narayanan for insights into the mission and its strategic significance.n18oc_indiaNews18 Mobile App - https://onelink.to/desc-youtube.",
-      "category": "Science & Technology",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/isro-launches-eos-05-how-india-s-new-satellite-boosts-military-surveillance-isro-chief-exclusive-10311215.html",
-      "relevance_score": 0.9624,
-      "published_date": "2026-09-04"
-    },
-    {
-      "id": 9982,
-      "title": "Proud day for India: ISRO`s `Naughty Boy` rocket puts 2,367 kg `Eye In The Sky` into space - here`s what it will do for us",
-      "summary": "• ISRO's 'Eye in the Sky' rocket will take India to the moon in a few months.\n• The rocket is the first of its kind to be launched by an Indian rocket.\n• It will take off from the Satish Dhawan Space Centre in Sriharikota, Tamil Nadu.",
-      "category": "Science & Technology",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/science/isro-eos-05-eye-in-the-sky-gslv-f17-launch-india-3069885.html",
-      "relevance_score": 0.9455,
-      "published_date": "2026-09-04"
-    },
-    {
-      "id": 10023,
-      "title": "Africa bigger, US smaller - UN adopts new map",
-      "summary": "• New map released by UN in bid to make world a smaller, more diverse place.\n• US is bigger, Africa is smaller, UN says.\n• US has more people than any other country in the world, UN claims.\n• US smaller than most countries in world, new map says.",
-      "category": "International Relations",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/us-news/africa-bigger-us-smaller-un-adopts-new-map-101788547170779.html",
-      "relevance_score": 0.9283,
-      "published_date": "2026-09-04"
-    },
-    {
-      "id": 9994,
-      "title": "OpenAI Launches 'World's Most Intelligent' AI Model GPT-6 Astra",
-      "summary": "• The Astra has been dubbed 'the most intelligent AI model in the world' by OpenAI.\n• For more information on the Astra, visit openai.com.\n• For details on OpenAI's other AI models, visit www.openai.co.uk.",
-      "category": "Science & Technology",
-      "source": "NDTV - World",
-      "url": "https://www.ndtv.com/world-news/openai-launches-worlds-most-intelligent-ai-model-gpt-6-astra-12000992#publisher=newsstand",
-      "relevance_score": 0.9221,
-      "published_date": "2026-09-04"
-    },
-    {
-      "id": 10024,
-      "title": "India working with Moscow, Kyiv to end war: EAM",
-      "summary": "• EAM: India working with Russian, Ukrainian governments to end conflict in Ukraine.\n• India also working with U.S. and Russia to end the conflict in Syria, EAM says.\n• India has been involved in talks with Russia and Ukraine since 2008, it says.\n• The two countries have been at loggerheads over the Ukraine conflict.",
-      "category": "International Relations",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/india-working-with-moscow-kyiv-to-end-war-eam/articleshow/133776510.cms",
-      "relevance_score": 0.9168,
-      "published_date": "2026-09-04"
-    },
-    {
-      "id": 9967,
-      "title": "ISRO successfully launches Earth observation satellite EOS-05",
-      "summary": "• Space agency says it has successfully launched its first Earth-observation satellite.\n• The satellite will be used to observe the Earth from space.\n• It will orbit the Earth at a height of 2,500 miles above Earth.\n• The launch is part of the Indian Space Agency's EOS satellite program to observe Earth from orbit.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/sci-tech/science/isro-gslv-f17-eos-05-satellite-rocket-launch-september-4-sriharikota-updates/article71425914.ece",
-      "relevance_score": 0.9102,
-      "published_date": "2026-09-04"
-    },
-    {
-      "id": 9986,
-      "title": "Poco X8 Power and Poco X8 launched in India",
-      "summary": "• Poco will go on sale in India starting at Rs. 3,999 and Rs. 4,999 respectively.\n• The company will also launch the X8 in the US at a price of Rs. 5,999.\n• POCO X8 will be available in two versions: Power and X8 X8, with prices starting from Rs. 2,499 and Rs 3,499 respectively.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/gadgets/poco-x8-power-and-poco-x8-launched-in-india/article71427463.ece",
-      "relevance_score": 0.9086,
-      "published_date": "2026-09-04"
-    },
-    {
-      "id": 9988,
-      "title": "OpenAI begins rollout of new powerful AI model GPT-6 Astra",
-      "summary": "• OpenAI's new AI model is based on Google's AI technology.\n• The new model has been dubbed the 'OpenAI Astra' by the tech giant.\n• The Astra is a version of the company's flagship AI model, the OpenAI G PT-6, which was unveiled last year.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/openai-begins-rollout-of-new-powerful-ai-model-gpt-6-astra/article71426880.ece",
-      "relevance_score": 0.9039,
-      "published_date": "2026-09-04"
-    },
-    {
-      "id": 9987,
-      "title": "U.S. auto safety regulator says evaluating Tesla's Cybercab rollout",
-      "summary": "• Tesla is rolling out a fleet of self-driving cars across the U.S., including in California and New York.\n• The company says the cars will have a range of safety features, such as a rear-view camera and rear-facing camera.\n• Tesla says the vehicles will also be able to take passengers in the event of an emergency.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Technology",
-      "url": "https://www.thehindu.com/sci-tech/technology/us-auto-safety-regulator-says-evaluating-teslas-cybercab-rollout/article71426888.ece",
-      "relevance_score": 0.8978,
-      "published_date": "2026-09-04"
-    },
-    {
-      "id": 10011,
-      "title": "Jaishankar says India in touch with Russia, Ukraine to help end war",
-      "summary": "• He says India wants to end the conflict in Ukraine.\n• He also wants to stop the bloodshed in Syria and other parts of the Middle East.\n• He said India also wants an end to the violence in Iraq and Syria.\n• Jaishanker: We want to end this violence in the region and in the world.",
-      "category": "International Relations",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/jaishankar-says-india-in-touch-with-russia-ukraine-to-help-end-war/articleshow/133772701.cms",
-      "relevance_score": 0.8933,
-      "published_date": "2026-09-04"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-10-30T20:27:07.608924Z"
+  "updated_at": "2026-10-31T04:44:26.164506Z"
 }
