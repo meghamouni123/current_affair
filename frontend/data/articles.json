@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 13119,
+      "title": "Vultr launches 20-MW AI supercluster in Chennai; aims 1 GW capacity by 2029",
+      "summary": "• Vultr also plans to build a 1 GW superclusters in Hyderabad, Bengaluru, Mumbai and Kanyakumkul.\n• The company is based in Chennai, with offices in Bangalore, Hyderabad and Kolkata.\n• It is owned by Indian tech giant Infosys, which also owns Google and Facebook.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/business/Industry/vultr-launches-20-mw-ai-supercluster-in-chennai-aims-1-gw-capacity-by-2029/article71656654.ece",
+      "relevance_score": 0.9472,
+      "published_date": "2026-11-02"
+    },
+    {
       "id": 13110,
       "title": "Secretary-General of ASEAN meets with the Ambassador of China to ASEAN",
       "summary": "• Secretary-General meets with Chinese ambassador to Asean to discuss China's role in the region.\n• China is the largest economy in Southeast Asia and one of the fastest-growing economies in the world.\n• China's economic growth has been slowing in recent years, with a slowdown in the growth of the economy.",
@@ -8,6 +18,16 @@
       "source": "ASEAN Secretariat",
       "url": "https://asean.org/secretary-general-of-asean-meets-with-the-ambassador-of-china-to-asean/",
       "relevance_score": 0.9178,
+      "published_date": "2026-11-02"
+    },
+    {
+      "id": 13132,
+      "title": "AAP In Crisis Before Punjab 2027? 3 MLAs Quit Kejriwal’s Party, Join BJP | Big Political Setback",
+      "summary": "• Three AAP MLAs have joined the BJP ahead of the 2027 Punjab Assembly elections.\n• The defections come amid growing discontent within the party.\n• Rebel leaders accuse the Bhagwant Mann government of failing to tackle Punjab’s drug menace, gangster culture, corruption and governance challenges.\n• The BJP is seeking to capitalise on the exits, while AAP has hit back at the defectors.\n• A major political setback for the Aam Aadmi Party in Punjab!.\n• Is AAP’s grip on Punjab weakening ahead of 2027?Watch the latest political developments and analysis on News18.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/aap-in-crisis-before-punjab-2027-3-mlas-quit-kejriwal-s-party-join-bjp-big-political-setback-10409431.html",
+      "relevance_score": 0.91,
       "published_date": "2026-11-02"
     },
     {
@@ -31,6 +51,26 @@
       "published_date": "2026-11-02"
     },
     {
+      "id": 13118,
+      "title": "Bengaluru: TDR process to go completely digital to speed up infrastructure projects",
+      "summary": "• BDR process will be completely digital for the first time in the city's history.\n• TDRs are used to build roads, bridges and other infrastructure in Bengaluru and other parts of the city.\n• The process is currently carried out in a paper-based form.\n• The new system will make the process completely digital.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/bangalore/bengaluru-tdr-process-to-go-completely-digital-to-speed-up-infrastructure-projects/article71657782.ece",
+      "relevance_score": 0.8987,
+      "published_date": "2026-11-02"
+    },
+    {
+      "id": 13121,
+      "title": "Constitution not just framework for governance, it is nation's soul: LS Speaker Om Birla",
+      "summary": "• Constitution is a framework for government, but also nation's \"soul,\" he says.\n• He adds: Constitution is not just a document, it's a way of life.\n• It is a way to connect with the nation, not just for politics, but for all of us.",
+      "category": "Polity & Governance",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/constitution-not-just-framework-for-governance-it-is-nation-s-soul-ls-speaker-om-birla-101793619077824.html",
+      "relevance_score": 0.8879,
+      "published_date": "2026-11-02"
+    },
+    {
       "id": 13111,
       "title": "Secretary-General of ASEAN receives the Chairman of Australia-ASEAN Business Forum at the ASEAN Headquarters/ASEAN Secretariat",
       "summary": "• Secretary-General meets with the chairman of the Australian-ASEan Business Forum.\n• The meeting is part of the annual Asean-Australia Business Forum held in Sydney, Australia.\n• The forum is the largest business forum of its kind in the world.",
@@ -38,16 +78,6 @@
       "source": "ASEAN Secretariat",
       "url": "https://asean.org/secretary-general-of-asean-receives-the-chairman-of-australia-asean-business-forum-at-the-asean-headquarters-asean-secretariat/",
       "relevance_score": 0.8763,
-      "published_date": "2026-11-02"
-    },
-    {
-      "id": 13112,
-      "title": "SWAYAM July Semester Exam 2026: Testing Agency Extended Registration Deadline, Here's How To Apply",
-      "summary": "• SWAYAM 2026 is the July semester exam for students in the U.S. and Canada.\n• The exam will take place in July and August of 2026.\n• For more information on how to apply, go to swayam.com/exam2026.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/swayam-july-semester-exam-2026-testing-agency-extended-registration-deadline-heres-how-to-apply-12270213#publisher=newsstand",
-      "relevance_score": 0.8758,
       "published_date": "2026-11-02"
     },
     {
@@ -61,6 +91,36 @@
       "published_date": "2026-11-02"
     },
     {
+      "id": 13112,
+      "title": "SWAYAM July Semester Exam 2026: Testing Agency Extended Registration Deadline, Here's How To Apply",
+      "summary": "• SWAYAM 2026 is the July semester exam for students in the U.S. and Canada.\n• The exam will take place in July and August of 2026.\n• For more information on how to apply, go to swayam.com/exam2026.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/education/swayam-july-semester-exam-2026-testing-agency-extended-registration-deadline-heres-how-to-apply-12270213#publisher=newsstand",
+      "relevance_score": 0.8758,
+      "published_date": "2026-11-02"
+    },
+    {
+      "id": 13117,
+      "title": "SSUS Syndicate decides on conditional withdrawal of suspension of 12 SFI activists",
+      "summary": "• SSUS Syndicate decided on conditional withdraw of suspension.\n• SFI is a non-profit organization based in San Francisco, California.\n• It was formed by SFI members to help victims of human rights abuses in the U.S. and around the world.\n• The group was founded by former President Jimmy Carter in 1968.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/ssus-syndicate-decides-on-conditional-withdrawal-of-suspension-of-12-sfi-activists/article71656980.ece",
+      "relevance_score": 0.8708,
+      "published_date": "2026-11-02"
+    },
+    {
+      "id": 13131,
+      "title": "How seven states, 940 seats will determine what Modi faces in 2029",
+      "summary": "• Modi is expected to be the prime minister of India for the next five years.\n• He will be the country's most powerful leader, with a majority of more than 60 per cent of the vote.\n• He is also the most popular leader in the state of Uttar Pradesh, with more than half the vote share.\n• He also has a majority in the Lok Sabha, which he will seek to retain.",
+      "category": "State News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india-today-insight/story/how-seven-states-940-seats-will-determine-what-narendra-modi-faces-in-2029-3030792-2026-11-02?utm_source=rss",
+      "relevance_score": 0.8549,
+      "published_date": "2026-11-02"
+    },
+    {
       "id": 13103,
       "title": "Delhi's anti-pollution drive collects  ₹68.4 lakh in fines on Day 1, sends back 1,539 vehicles",
       "summary": "• Delhi has collected more than 1,500 vehicles in first day of the anti- Pollution Drive.\n• The city has also sent back more than 2,000 vehicles so far.\n• The drive is expected to continue for the next two days.",
@@ -68,6 +128,26 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/delhi-pollution-crackdown-1-539-vehicles-denied-entry-at-borders-fines-worth-rs-68-lakh-imposed-on-day-1-of-curbs-101793585070952.html",
       "relevance_score": 0.8486,
+      "published_date": "2026-11-02"
+    },
+    {
+      "id": 13122,
+      "title": "Judoka Khushbu Rajakbhai Darjada assures medal, swimmer Dhinidhi Desinghu also in final at Youth Olympics",
+      "summary": "• Judoka Rajak Bhai DarJada will compete in the men's taekwondo final.\n• He will be competing in his first Youth Olympics final.\n• Khush Bu Rajakbai Dar Jada will also compete in men's judo final.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/others/judoka-khushbu-rajakbhai-darjada-assures-medal-swimmer-dhinidhi-desinghu-also-in-final-at-youth-olympics-101793627197417.html",
+      "relevance_score": 0.8406,
+      "published_date": "2026-11-02"
+    },
+    {
+      "id": 13123,
+      "title": "Cyclone Murusu: 19 flights cancelled, NDRF on standby as coastal states brace for severe storm - top development",
+      "summary": "• Cyclone has already claimed the lives of at least 20 people in remote areas of Papua New Guinea.\n• The cyclone is expected to make landfall in the north of the island on Saturday.\n• The storm is likely to bring heavy rain and strong winds to the region.",
+      "category": "National News",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/cyclone-murusu-19-flights-cancelled-ndrf-on-standby-as-coastal-states-brace-for-severe-storm-top-development/articleshow/135465378.cms",
+      "relevance_score": 0.8323,
       "published_date": "2026-11-02"
     },
     {
@@ -101,6 +181,26 @@
       "published_date": "2026-11-02"
     },
     {
+      "id": 13120,
+      "title": "Delhi's smog came from farm fires lit after NASA's satellite passed",
+      "summary": "• The smog was caused by fires set after the satellite passed over the city, they said.\n• The fires were lit by farmers in the wake of the satellite passing over the Indian capital.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/delhi-smog-came-from-farm-fires-lit-after-nasa-satellite-passed-punjab-haryana-stubble-burning-air-quality-101793628039130.html",
+      "relevance_score": 0.8093,
+      "published_date": "2026-11-02"
+    },
+    {
+      "id": 13129,
+      "title": "Delhi-NCR pollution curbs: GRAP Stage-II implemented ahead of Diwali – Here's what is allowed &amp; what is not | Explained",
+      "summary": "• Delhi-NCR pollution curbs: GRAP Stage-II implemented ahead of Diwali.\n• Here's what is allowed &amp; what is not | Explained.\n• Delhi-Noida: Delhi and Noida-Gurgaon: Delhi-Ghatkopar: Delhi, Ghatkund: Delhi Delhi-Hindustan: Noidan Delhi-Punjabi.",
+      "category": "Science & Technology",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/delhi-ncr-pollution-curbs-grap-stage-ii-implemented-ahead-of-diwali-heres-what-is-allowed-what-is-not-explai-11793620909649.html",
+      "relevance_score": 0.803,
+      "published_date": "2026-11-02"
+    },
+    {
       "id": 13089,
       "title": "Karnataka Power Transmission Corporation Limited to bring power generation, transmission and distribution under one digital platform",
       "summary": "• KPTC is a subsidiary of Karnataka State Electricity Board (KSEB) KSEB is the largest electricity distributor in Karnataka state.\n• KESB has a network of more than 1,000 power stations across the state.\n• It also has a distribution network of about 1,500 substations.",
@@ -111,22 +211,22 @@
       "published_date": "2026-11-01"
     },
     {
-      "id": 13087,
-      "title": "Jaishankar's BIG G20 Warning: Energy Flows, Global Conflicts, Supply Chains Under Strain | QUAD News",
-      "summary": "• S Jaishankar has raised concerns over the impact of global conflicts on energy security, food supplies and international supply chains at the G20 Foreign Ministers' Meeting in Atlanta.\n• He warned that distortions in energy markets and the politicisation of energy flows were harmful.\n• The External Affairs Minister called for diplomatic solutions to ongoing global conflicts, stressing that military action cannot provide lasting solutions.\n• He also advocated more diversified manufacturing and supply chains to reduce excessive dependence on any single geography.\n• He also highlighted how sanctions, trade obstacles and strategic chokepoints are disrupting energy markets and making supplies less predictable.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/videos/breaking-news/jaishankar-s-big-g20-warning-energy-flows-global-conflicts-supply-chains-under-strain-quad-news-10407226.html",
-      "relevance_score": 0.95,
-      "published_date": "2026-11-01"
-    },
-    {
       "id": 13081,
       "title": "Jaishankar's BIG G20 Warning: Energy Flows, Global Conflicts, Supply Chains Under Strain | QUAD News",
       "summary": "• S Jaishankar has raised concerns over the impact of global conflicts on energy security, food supplies and international supply chains at the G20 Foreign Ministers' Meeting in Atlanta.\n• He warned that distortions in energy markets and the politicisation of energy flows were harmful.\n• The External Affairs Minister called for diplomatic solutions to ongoing global conflicts, stressing that military action cannot provide lasting solutions.\n• He also advocated more diversified manufacturing and supply chains to reduce excessive dependence on any single geography.\n• He also highlighted how sanctions, trade obstacles and strategic chokepoints are disrupting energy markets and making supplies less predictable.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
       "category": "International Relations",
       "source": "News18 - World",
       "url": "https://www.news18.com/videos/breaking-news/jaishankar-s-big-g20-warning-energy-flows-global-conflicts-supply-chains-under-strain-quad-news-10407225.html",
+      "relevance_score": 0.95,
+      "published_date": "2026-11-01"
+    },
+    {
+      "id": 13087,
+      "title": "Jaishankar's BIG G20 Warning: Energy Flows, Global Conflicts, Supply Chains Under Strain | QUAD News",
+      "summary": "• S Jaishankar has raised concerns over the impact of global conflicts on energy security, food supplies and international supply chains at the G20 Foreign Ministers' Meeting in Atlanta.\n• He warned that distortions in energy markets and the politicisation of energy flows were harmful.\n• The External Affairs Minister called for diplomatic solutions to ongoing global conflicts, stressing that military action cannot provide lasting solutions.\n• He also advocated more diversified manufacturing and supply chains to reduce excessive dependence on any single geography.\n• He also highlighted how sanctions, trade obstacles and strategic chokepoints are disrupting energy markets and making supplies less predictable.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/videos/breaking-news/jaishankar-s-big-g20-warning-energy-flows-global-conflicts-supply-chains-under-strain-quad-news-10407226.html",
       "relevance_score": 0.95,
       "published_date": "2026-11-01"
     },
@@ -161,6 +261,16 @@
       "published_date": "2026-11-01"
     },
     {
+      "id": 13098,
+      "title": "Rahul Gandhi, Mamata Demand CEC Gyanesh Kumar's Removal; BJP Calls Rally a 'Flop' | News18",
+      "summary": "• Major political face-off unfolded at Delhi's Ramlila Maidan.\n• Opposition leaders demanded the removal of the Chief Election Commissioner.\n• Rahul Gandhi and West Bengal Chief Minister Mamata Banerjee raised their voices against Gyanesh Kumar.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• A major political face-off unfolded at Delhi's Ramlila Maidan as leaders of the INDIA bloc, including Congress leader Rahul Gandhi and West Bengal Chief Minister Mamata Banerjee, raised their voices against Chief Election Commissioner Gyanesh Kumar.At the rally, opposition leaders demanded the….\n• -newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
+      "category": "State News",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/rahul-gandhi-mamata-demand-cec-gyanesh-kumar-s-removal-bjp-calls-rally-a-flop-news18-10407783.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-01"
+    },
+    {
       "id": 13094,
       "title": "Rahul Gandhi, Mamata Demand CEC Gyanesh Kumar's Removal; BJP Calls Rally a 'Flop' | News18",
       "summary": "• Major political face-off unfolded at Delhi's Ramlila Maidan.\n• Opposition leaders demanded the removal of the Chief Election Commissioner.\n• Rahul Gandhi and West Bengal Chief Minister Mamata Banerjee raised their voices against Gyanesh Kumar.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• A major political face-off unfolded at Delhi's Ramlila Maidan as leaders of the INDIA bloc, including Congress leader Rahul Gandhi and West Bengal Chief Minister Mamata Banerjee, raised their voices against Chief Election Commissioner Gyanesh Kumar.At the rally, opposition leaders demanded the….\n• -newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
@@ -177,16 +287,6 @@
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/breaking-news/siddaramaiah-case-ritesh-pandey-arrested-in-delhi-kumaraswamy-aide-connection-emerges-news18-10407712.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-01"
-    },
-    {
-      "id": 13098,
-      "title": "Rahul Gandhi, Mamata Demand CEC Gyanesh Kumar's Removal; BJP Calls Rally a 'Flop' | News18",
-      "summary": "• Major political face-off unfolded at Delhi's Ramlila Maidan.\n• Opposition leaders demanded the removal of the Chief Election Commissioner.\n• Rahul Gandhi and West Bengal Chief Minister Mamata Banerjee raised their voices against Gyanesh Kumar.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• A major political face-off unfolded at Delhi's Ramlila Maidan as leaders of the INDIA bloc, including Congress leader Rahul Gandhi and West Bengal Chief Minister Mamata Banerjee, raised their voices against Chief Election Commissioner Gyanesh Kumar.At the rally, opposition leaders demanded the….\n• -newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/rahul-gandhi-mamata-demand-cec-gyanesh-kumar-s-removal-bjp-calls-rally-a-flop-news18-10407783.html",
       "relevance_score": 0.91,
       "published_date": "2026-11-01"
     },
@@ -261,22 +361,22 @@
       "published_date": "2026-11-01"
     },
     {
-      "id": 13086,
-      "title": "'Quad Is Not a Coalition Against China’ | Marco Rubio, US Secretary of State | U.S. News | QUAD Meet",
-      "summary": "• US Secretary of State Marco Rubio has clarified that the Quad is not an alliance directed against China or any other country.\n• Rubio described the grouping as a cooperative arrangement between four countries with shared interests.\n• He added that the behaviours and activities drawing concern from the Quad were repeatedly coming from one country, without naming it.\n• His remarks come amid concerns over economic coercion, arbitrary export restrictions and disruptions to critical supply chains.\n• The Quad brings together India, the United States, Japan and Australia.\n• N18oc_indian18oc_breaking-news CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
-      "category": "International Relations",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/quad-is-not-a-coalition-against-china-marco-rubio-us-secretary-of-state-u-s-news-quad-meet-10407168.html",
-      "relevance_score": 0.8241,
-      "published_date": "2026-11-01"
-    },
-    {
       "id": 13080,
       "title": "'Quad Is Not a Coalition Against China’ | Marco Rubio, US Secretary of State | U.S. News | QUAD Meet",
       "summary": "• US Secretary of State Marco Rubio has clarified that the Quad is not an alliance directed against China or any other country.\n• Rubio described the grouping as a cooperative arrangement between four countries with shared interests.\n• He added that the behaviours and activities drawing concern from the Quad were repeatedly coming from one country, without naming it.\n• His remarks come amid concerns over economic coercion, arbitrary export restrictions and disruptions to critical supply chains.\n• The Quad brings together India, the United States, Japan and Australia.\n• N18oc_indian18oc_breaking-news CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
       "category": "International Relations",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/quad-is-not-a-coalition-against-china-marco-rubio-us-secretary-of-state-u-s-news-quad-meet-10407169.html",
+      "relevance_score": 0.8241,
+      "published_date": "2026-11-01"
+    },
+    {
+      "id": 13086,
+      "title": "'Quad Is Not a Coalition Against China’ | Marco Rubio, US Secretary of State | U.S. News | QUAD Meet",
+      "summary": "• US Secretary of State Marco Rubio has clarified that the Quad is not an alliance directed against China or any other country.\n• Rubio described the grouping as a cooperative arrangement between four countries with shared interests.\n• He added that the behaviours and activities drawing concern from the Quad were repeatedly coming from one country, without naming it.\n• His remarks come amid concerns over economic coercion, arbitrary export restrictions and disruptions to critical supply chains.\n• The Quad brings together India, the United States, Japan and Australia.\n• N18oc_indian18oc_breaking-news CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
+      "category": "International Relations",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/quad-is-not-a-coalition-against-china-marco-rubio-us-secretary-of-state-u-s-news-quad-meet-10407168.html",
       "relevance_score": 0.8241,
       "published_date": "2026-11-01"
     },
@@ -421,6 +521,16 @@
       "published_date": "2026-10-31"
     },
     {
+      "id": 13035,
+      "title": "IMD weather alert: Heavy rain for Karnataka, Andhra, Kerala; no showers in Delhi— What you need to know before going out",
+      "summary": "• IMD weather alert: Heavy rain for Karnataka, Andhra, Kerala; no showers in Delhi.\n• Heavy rain expected in parts of Karnataka and Andhra Pradesh, Kerala.\n• No showers in New Delhi; no rain expected for the rest of the week, says IMD.\n• For the latest on the weather in India, visit CNN.com's live updates on the latest weather forecast.",
+      "category": "State News",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/india/weather-today-new-depression-to-bring-heavy-rain-to-andhra-kerala-no-showers-for-delhi-check-full-imd-forecast-11793408255525.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-10-31"
+    },
+    {
       "id": 13057,
       "title": "Ahead Of G20 Summit, US Ambassador Gor Teases ‘Exciting Outcomes’ From India-US Talks",
       "summary": "• Gor: India-U.S. Talks could lead to ‘exciting outcomes’ for both countries.\n• India and the United States have been at loggerheads over Kashmir issue for years.\n• India has accused the U.S of using the Kashmir issue as a political football.",
@@ -437,16 +547,6 @@
       "category": "International Relations",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-10-31"
-    },
-    {
-      "id": 13035,
-      "title": "IMD weather alert: Heavy rain for Karnataka, Andhra, Kerala; no showers in Delhi— What you need to know before going out",
-      "summary": "• IMD weather alert: Heavy rain for Karnataka, Andhra, Kerala; no showers in Delhi.\n• Heavy rain expected in parts of Karnataka and Andhra Pradesh, Kerala.\n• No showers in New Delhi; no rain expected for the rest of the week, says IMD.\n• For the latest on the weather in India, visit CNN.com's live updates on the latest weather forecast.",
-      "category": "State News",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/india/weather-today-new-depression-to-bring-heavy-rain-to-andhra-kerala-no-showers-for-delhi-check-full-imd-forecast-11793408255525.html",
       "relevance_score": 0.91,
       "published_date": "2026-10-31"
     },
@@ -19899,108 +19999,8 @@
       "url": "https://www.thehindu.com/news/international/israel-orders-closure-of-uk-consulate-in-jerusalem-over-settlement-sanctions/article71443779.ece",
       "relevance_score": 0.8099,
       "published_date": "2026-09-08"
-    },
-    {
-      "id": 10159,
-      "title": "Punjab extends cleanliness campaign 2.0 till Sept 12 with 5,000 complaints resolved",
-      "summary": "• Campaign aims to improve cleanliness in the state by cleaning up streets and cleaning up public toilets.\n• The campaign will run until Sept 12, with a goal of cleaning up the streets by the end of the month.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/india/story/punjab-cleanliness-campaign-2-0-extended-till-september-12-after-5407-complaints-resolved-2990294-2026-09-08?utm_source=rss",
-      "relevance_score": 0.8061,
-      "published_date": "2026-09-08"
-    },
-    {
-      "id": 10162,
-      "title": "'US Never Acted On Vulnerabilities': Pentagon May Reduce Military Presence In West Asia After Iran War",
-      "summary": "• Pentagon may reduce military presence in West Asia after Iran War, sources say.\n• Pentagon: 'We never acted on vulnerabilities' in Iran, 'Never acted on weaknesses' in U.S.-led coalition forces in Iraq and Afghanistan.\n• 'We were in a position of strength in the region.\n• We had the capability to do what we needed to do,' Pentagon official says.",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/world/us-never-acted-on-vulnerabilities-pentagon-may-reduce-military-presence-in-west-asia-after-iran-war-ws-l-10317385.html",
-      "relevance_score": 0.8023,
-      "published_date": "2026-09-08"
-    },
-    {
-      "id": 10175,
-      "title": "NASA Calls for Proposals to Accelerate Lunar Surface Technologies",
-      "summary": "• NASA calls for proposals to speed up Lunar Surface Technology.\n• NASA is working with the U.S. space agency to develop lunar surface technology.\n• NASA: We're working on a plan to send a rover to the moon to explore the surface of the moon in 2023.\n• The mission is expected to take three to four years.",
-      "category": "Science & Technology",
-      "source": "NASA",
-      "url": "https://www.nasa.gov/news-release/nasa-calls-for-proposals-to-accelerate-lunar-surface-technologies/",
-      "relevance_score": 0.8017,
-      "published_date": "2026-09-08"
-    },
-    {
-      "id": 10109,
-      "title": "APPCB holds Green Walkathon, workshop on air quality in Visakhapatnam",
-      "summary": "• APPCB also holds a workshop on water quality in the city.\n• APPBCB also conducts a water quality workshop in the district.\n• APCBC also conducts water quality workshops in the region.\n• AP PCBC also holds water quality seminars in the area.\n• AP PCsBC also hold water quality meetings in the districts of Guntur, Nandinagachi and Nalanda.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/appcb-holds-green-walkathon-workshop-on-air-quality-in-visakhapatnam/article71438167.ece",
-      "relevance_score": 0.9071,
-      "published_date": "2026-09-07"
-    },
-    {
-      "id": 10112,
-      "title": "Fake encounter case: Allahabad HC seeks UP, Rajasthan Police reports over conflicting arrest versions",
-      "summary": "• Allahabad High Court seeks reports over discrepancies in arrest versions in fake encounter case.\n• Uttar Pradesh Police: We have no record of any encounter between our officers and the suspects.\n• Police: There is no evidence of an encounter between the police and the accused.",
-      "category": "National News",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/fake-encounter-case-allahabad-hc-seeks-up-rajasthan-police-reports-over-conflicting-arrest-versions/articleshow/133891893.cms",
-      "relevance_score": 0.8978,
-      "published_date": "2026-09-07"
-    },
-    {
-      "id": 10104,
-      "title": "Supreme Court orders SITs to probe fraud motor accident claims",
-      "summary": "• SIT to investigate claims made by people claiming to have been involved in a car crash.\n• Court also orders investigation into claims by people who say they were involved in an accident.\n• Court to decide on whether to order investigation by SIT or by an independent body such as the National Commission for Accident Investigation and Prevention of Fraud (NCIFF).",
-      "category": "National News",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/sc-supreme-court-motor-accident-insurance-odisha-fraud-tamil-nadu-sit-special-investigation-team-101788755216553.html",
-      "relevance_score": 0.8968,
-      "published_date": "2026-09-07"
-    },
-    {
-      "id": 10099,
-      "title": "Meet IIT Hyderabad Professor Kirti Chandra Sahu Decoding Raindrops, Atmospheric Conditions",
-      "summary": "• Sahu is a professor at the Institute of Information Technology, Hyderabad.\n• He is known for his work on the weather in the state of Telangana.\n• He also has a PhD in Meteorology from the University of Texas, Austin.\n• For more information on Sahu, visit his website: www.kirtichandra.com.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/meet-iit-hyderabad-professor-kirti-chandra-sahu-research-on-raindrops-atmospheric-conditions-12011506#publisher=newsstand",
-      "relevance_score": 0.8865,
-      "published_date": "2026-09-07"
-    },
-    {
-      "id": 10095,
-      "title": "Supreme Court to fix marital rape hearing date after Centre’s response",
-      "summary": "• Court will decide on whether to hear the case at the Supreme Court or the High Court.\n• Court to decide on the matter after Centre's response to Supreme Court's request for a hearing on the case.\n• The hearing will be held at the court of appeal.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/supreme-court-to-fix-marital-rape-hearing-date-after-centres-response/article71437739.ece",
-      "relevance_score": 0.886,
-      "published_date": "2026-09-07"
-    },
-    {
-      "id": 10093,
-      "title": "Pixxel raises $100 million in India's biggest space-tech funding round",
-      "summary": "• India's largest space- tech funding round is the biggest in the country's history.\n• Pixxel is one of India's leading space technology companies.\n• The company is based in New Delhi, India's capital city, with offices in Mumbai and Bengaluru.\n• It also has offices in Bangalore, Chennai and Hyderabad.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/business/story/pixxel-raises-100-million-google-backed-indias-biggest-space-tech-funding-round-2988583-2026-09-07?utm_source=rss",
-      "relevance_score": 0.872,
-      "published_date": "2026-09-07"
-    },
-    {
-      "id": 10108,
-      "title": "Andhra Pradesh steps up solar power generation with 1,162.80 MW capacity",
-      "summary": "• The state has a total of 1.2 million solar panels on its rooftops.\n• It is the second largest solar power producer in the country after Andhra Pradesh and Telangana.\n• The total capacity of the state's solar power plants is 1.3 million megawatt (MW) and is expected to rise.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Andhra Pradesh",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-steps-up-solar-power-generation-with-116280-mw-capacity/article71438791.ece",
-      "relevance_score": 0.8661,
-      "published_date": "2026-09-07"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-02T11:43:29.912115Z"
+  "updated_at": "2026-11-02T16:54:36.810867Z"
 }
