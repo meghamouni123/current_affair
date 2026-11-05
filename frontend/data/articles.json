@@ -1,12 +1,42 @@
 {
   "articles": [
     {
-      "id": 13247,
-      "title": "Supreme Court asks Calcutta High Court to decide plea for direction on disqualification of rebel Trinamool MLAs",
-      "summary": "• High Court will decide plea to disqualify rebel MLAs from state assembly.\n• Supreme Court will also decide on disqualifying Trinamools from state legislature.\n• High court will decide whether to disqualification MLAs will be allowed to stand for re-election in the state.",
+      "id": 13258,
+      "title": "Secretary-General of ASEAN Meets with Ambassador of the Russian Federation to ASEAN over Working Dinner",
+      "summary": "• Meeting took place at the Four Seasons Hotel in Bangkok, Thailand.\n• The dinner was hosted by the Russian Ambassador to Asean, Alexander Nekrassov.\n• The meeting was attended by the secretary-general and the Russian ambassador.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-meets-with-ambassador-of-the-russian-federation-to-asean-over-working-dinner/",
+      "relevance_score": 0.9368,
+      "published_date": "2026-11-05"
+    },
+    {
+      "id": 13259,
+      "title": "Deputy Secretary-General of ASEAN for ASEAN Political-Security Community Receives Courtesy Call from the Ambassador of the European Union to ASEAN",
+      "summary": "• Deputy Secretary- General of AASEAN for aSEAN Political- security Community received courtesy call from the ambassador of the EU to ASEANN.\n• The call was made by the ambassador to Asean, who was on a visit to the region.\n• The visit was to discuss ways to improve the security situation in the region, among others.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/deputy-secretary-general-of-asean-for-asean-political-security-community-receives-courtesy-call-from-the-ambassador-of-the-european-union-to-asean/",
+      "relevance_score": 0.9348,
+      "published_date": "2026-11-05"
+    },
+    {
+      "id": 13253,
+      "title": "Shashi Tharoor Questions PM Modi's Political Invulnerability, Raises Free And Fair Polls | Exclusive",
+      "summary": "• Congress MP Shashi Tharoor questioned the idea that Prime Minister Narendra Modi is politically invulnerable.\n• He said voters should get a fair and free opportunity to decide their political future.\n• His remarks bring the debate over electoral fairness and the role of the Election Commission into focus.\n• His comments are a political criticism and should be understood as his stated position, not as an independently established finding.\n• N18oc_indian18oc-exclusive CNN-News18 is your trusted source for breaking news, updates and in-depth analysis from around the world.\n• We'll find out when the voters get a fair and free chance, minus Mr Gyanesh Kumar, to actually cast their votes and determine their own political destiny.”Tharoor's remarks bring the debate over electoral fairness and the role of the Election Commission into focus.",
       "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-calcutta-high-court-to-decide-plea-for-direction-on-disqualification-of-rebel-trinamool-mlas/article71669372.ece",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/shashi-tharoor-questions-pm-modi-s-political-invulnerability-raises-free-and-fair-polls-exclusive-10413568.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-05"
+    },
+    {
+      "id": 13261,
+      "title": "Sebi tightens rupee derivative norms to align with RBI's $5 million threshold",
+      "summary": "• Sebi's move follows RBI's decision to raise the threshold to $10 million.\n• Seebi's move comes after the RBI raised it to $15 million earlier this month.\n• The move is expected to boost the rupee's value against the US dollar and the yen in the near term.\n• For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here.",
+      "category": "Economy & Banking",
+      "source": "LiveMint - News",
+      "url": "https://www.livemint.com/news/sebi-tightens-rupee-derivative-norms-to-align-with-rbis-5-million-threshold-11793880760994.html",
       "relevance_score": 0.91,
       "published_date": "2026-11-05"
     },
@@ -21,12 +51,12 @@
       "published_date": "2026-11-05"
     },
     {
-      "id": 13253,
-      "title": "Shashi Tharoor Questions PM Modi's Political Invulnerability, Raises Free And Fair Polls | Exclusive",
-      "summary": "• Congress MP Shashi Tharoor questioned the idea that Prime Minister Narendra Modi is politically invulnerable.\n• He said voters should get a fair and free opportunity to decide their political future.\n• His remarks bring the debate over electoral fairness and the role of the Election Commission into focus.\n• His comments are a political criticism and should be understood as his stated position, not as an independently established finding.\n• N18oc_indian18oc-exclusive CNN-News18 is your trusted source for breaking news, updates and in-depth analysis from around the world.\n• We'll find out when the voters get a fair and free chance, minus Mr Gyanesh Kumar, to actually cast their votes and determine their own political destiny.”Tharoor's remarks bring the debate over electoral fairness and the role of the Election Commission into focus.",
+      "id": 13247,
+      "title": "Supreme Court asks Calcutta High Court to decide plea for direction on disqualification of rebel Trinamool MLAs",
+      "summary": "• High Court will decide plea to disqualify rebel MLAs from state assembly.\n• Supreme Court will also decide on disqualifying Trinamools from state legislature.\n• High court will decide whether to disqualification MLAs will be allowed to stand for re-election in the state.",
       "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/shashi-tharoor-questions-pm-modi-s-political-invulnerability-raises-free-and-fair-polls-exclusive-10413568.html",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-asks-calcutta-high-court-to-decide-plea-for-direction-on-disqualification-of-rebel-trinamool-mlas/article71669372.ece",
       "relevance_score": 0.91,
       "published_date": "2026-11-05"
     },
@@ -38,6 +68,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/andhra-pradesh/aptrt2026-notification-released-applications-from-november-11-exams-from-december-20/article71668498.ece",
       "relevance_score": 0.8891,
+      "published_date": "2026-11-05"
+    },
+    {
+      "id": 13262,
+      "title": "Microbial alert on metro rail: The invisible threats accompanying you",
+      "summary": "• Microbes can be found on the train's doors, seats, and even the floor.\n• They can also grow on the walls, ceilings, and ceilings of the train cars.\n• The metro rail is a public transit system.\n• It is not owned by the city of New York or the New York City Transit Authority.",
+      "category": "National News",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/india-today-insight/story/microbial-alert-on-metro-rail-the-invisible-threats-accompanying-you-3033106-2026-11-05?utm_source=rss",
+      "relevance_score": 0.8732,
       "published_date": "2026-11-05"
     },
     {
@@ -58,6 +98,16 @@
       "source": "The Hindu - Technology",
       "url": "https://www.thehindu.com/sci-tech/technology/gadgets/nothing-to-launch-its-first-ai-native-product-next-month/article71668844.ece",
       "relevance_score": 0.8685,
+      "published_date": "2026-11-05"
+    },
+    {
+      "id": 13256,
+      "title": "Maharashtra’s unregulated lending trap",
+      "summary": "• Mahar Maharashtra’s unregulated lending trap is a huge problem.\n• The state has been hit by a series of high-cost loans in the past few years.\n• The problem has been exacerbated by a lack of regulation in the state.\n• The government has been trying to crack down on the problem.\n• But it has failed to do so, leading to a string of defaults and high interest rates.",
+      "category": "Economy & Banking",
+      "source": "Frontline Magazine",
+      "url": "https://frontline.thehindu.com/the-nation/maharashtra-farmer-suicides-private-loan-debt-crisis/article71669294.ece",
+      "relevance_score": 0.8587,
       "published_date": "2026-11-05"
     },
     {
@@ -101,6 +151,16 @@
       "published_date": "2026-11-05"
     },
     {
+      "id": 13260,
+      "title": "Hyderabad Gets India's First Private Space Debris Removal Facility",
+      "summary": "• The facility will remove debris from the city's private space.\n• The project is expected to be completed by the end of the year.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "Science & Technology",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/hyderabad-gets-indias-first-private-space-debris-removal-facility-12287783#publisher=newsstand",
+      "relevance_score": 0.8317,
+      "published_date": "2026-11-05"
+    },
+    {
       "id": 13252,
       "title": "Agniveer Scheme: Inside Cabinet’s big announcement — Two-year extension in service, chance to join regular army and more",
       "summary": "• Agniveers will be able to apply for two-year extensions in their service.\n• They will also be allowed to join the regular army for two years.\n• The scheme will be available to those who have served in the army for at least five years.",
@@ -108,6 +168,16 @@
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/india/agniveer-scheme-inside-cabinet-s-big-announcement-two-year-extension-in-service-chance-to-join-regular-army-and-more-11793867827049.html",
       "relevance_score": 0.8207,
+      "published_date": "2026-11-05"
+    },
+    {
+      "id": 13257,
+      "title": "Cabinet approves Rs 14,500 crore VGF scheme for energy storage",
+      "summary": "• VGF is a scheme to provide energy storage in the form of solar panels, batteries, windmills and other energy storage devices.\n• The scheme will cost around Rs 14.500 crore.\n• It will be rolled out in a phased manner over a period of five years, starting from next year.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/cabinet-approves-rs-14500-crore-vgf-scheme-for-energy-storage/articleshow/135576662.cms",
+      "relevance_score": 0.8012,
       "published_date": "2026-11-05"
     },
     {
@@ -161,12 +231,12 @@
       "published_date": "2026-11-04"
     },
     {
-      "id": 13210,
-      "title": "Israel’s President accepts certified election results in a blow to Netanyahu’s claim of vote fraud",
-      "summary": "• Netanyahu had claimed vote fraud in the country's first election since a bloody crackdown on Hamas in 2006.\n• Israel's president accepted the results of the election on Tuesday.\n• Netanyahu claimed fraud had taken place in some areas of the country.\n• The results were certified by Israel's Central Election Commission (CEC) on Wednesday.",
+      "id": 13205,
+      "title": "Agniveers’ Tenure Extended To 6 Years! CDS Announces 2-Year Service Extension | Agnipath Scheme",
+      "summary": "• The Centre has announced a major change to the Agnipath scheme, extending the service tenure of Agniveers by two years.\n• Raja Subramani announced the decision during a Cabinet briefing.\n• The changes also include a revision in the recruitment process: the written examination will now take place before the physical test.\n• We break down the announcement, the new service structure and the questions that remain.\n• Raja Subramani announced the decision during a Cabinet briefing.Under the original Agnipath framework, up to 25% of Agniveers could be absorbed into the regular cadre after completing four years, while the remaining 75% were expected to leave service.\n• N18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
       "category": "Polity & Governance",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/israels-president-accepts-certified-election-results-in-a-blow-to-netanyahus-claim-of-vote-fraud/article71666124.ece",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/agniveers-tenure-extended-to-6-years-cds-announces-2-year-service-extension-agnipath-scheme-10412611.html",
       "relevance_score": 0.91,
       "published_date": "2026-11-04"
     },
@@ -211,12 +281,12 @@
       "published_date": "2026-11-04"
     },
     {
-      "id": 13205,
-      "title": "Agniveers’ Tenure Extended To 6 Years! CDS Announces 2-Year Service Extension | Agnipath Scheme",
-      "summary": "• The Centre has announced a major change to the Agnipath scheme, extending the service tenure of Agniveers by two years.\n• Raja Subramani announced the decision during a Cabinet briefing.\n• The changes also include a revision in the recruitment process: the written examination will now take place before the physical test.\n• We break down the announcement, the new service structure and the questions that remain.\n• Raja Subramani announced the decision during a Cabinet briefing.Under the original Agnipath framework, up to 25% of Agniveers could be absorbed into the regular cadre after completing four years, while the remaining 75% were expected to leave service.\n• N18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
+      "id": 13210,
+      "title": "Israel’s President accepts certified election results in a blow to Netanyahu’s claim of vote fraud",
+      "summary": "• Netanyahu had claimed vote fraud in the country's first election since a bloody crackdown on Hamas in 2006.\n• Israel's president accepted the results of the election on Tuesday.\n• Netanyahu claimed fraud had taken place in some areas of the country.\n• The results were certified by Israel's Central Election Commission (CEC) on Wednesday.",
       "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/agniveers-tenure-extended-to-6-years-cds-announces-2-year-service-extension-agnipath-scheme-10412611.html",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/israels-president-accepts-certified-election-results-in-a-blow-to-netanyahus-claim-of-vote-fraud/article71666124.ece",
       "relevance_score": 0.91,
       "published_date": "2026-11-04"
     },
@@ -19929,78 +19999,8 @@
       "url": "https://www.indiatoday.in/india/story/brics-global-south-india-south-africa-rise-anil-sooklal-delivery-not-meetings-2991441-2026-09-10?utm_source=rss",
       "relevance_score": 0.8931,
       "published_date": "2026-09-10"
-    },
-    {
-      "id": 10217,
-      "title": "August joint hottest month on record as climate change and El Niño drive heat",
-      "summary": "• August was the hottest August on record, according to the U.S. Bureau of Meteorology.\n• It was also the warmest August since record-keeping began in 1881.\n• Has released a report on the record-breaking heat in August.\n• It says it was hotter than any other month since records began in 1880.",
-      "category": "Science & Technology",
-      "source": "BBC - Science & Environment",
-      "url": "https://www.bbc.co.uk/news/articles/c93vde0n2l4o?at_medium=RSS&at_campaign=rss",
-      "relevance_score": 0.891,
-      "published_date": "2026-09-10"
-    },
-    {
-      "id": 10258,
-      "title": "Chandrayaan-2 orbiter is still alive and helping in subsequent future lunar missions: Sr Indian scientist",
-      "summary": "• Chandrayaan 2 is currently in orbit around the moon.\n• It is expected to return to Earth in 2016.\n• The mission is part of India's plan to send an orbiter to the moon in the 2030s.\n• It will also be part of a mission to land on the lunar surface.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/chandrayaan-2-orbiter-is-still-alive-and-helping-in-subsequent-future-lunar-missions-sr-indian-scientist/articleshow/134027901.cms",
-      "relevance_score": 0.8884,
-      "published_date": "2026-09-10"
-    },
-    {
-      "id": 10243,
-      "title": "Ultraviolette to establish BIGGA factory in Hosur",
-      "summary": "• Ultraviolette will be the first of its kind in India.\n• The factory will be built on the site of a former textile factory.\n• It is expected to be completed by the end of the year.\n• For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/business/Industry/ultraviolette-to-establish-bigga-factory-in-hosur/article71452553.ece",
-      "relevance_score": 0.8876,
-      "published_date": "2026-09-10"
-    },
-    {
-      "id": 10246,
-      "title": "Xi’s first visit in 7 years: India and China look to consolidate peace along LAC",
-      "summary": "• Xi's visit will be his first to India in seven years.\n• China and India have been at odds for years over the disputed region in the South China Sea and the Himalayas.\n• The two countries have a long-standing friendship between the two countries, which dates back to the Qing dynasty.",
-      "category": "International Relations",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/xis-first-visit-in-7-years-india-and-china-look-to-consolidate-peace-along-lac-101789058786769.html",
-      "relevance_score": 0.8828,
-      "published_date": "2026-09-10"
-    },
-    {
-      "id": 10257,
-      "title": "India's investment in innovation low, we need to develop our own engine for combat aircraft: Ex-DRDO head Saraswat",
-      "summary": "• India's investment in innovation low, says ex-DRDO head Saraswat.\n• We need to develop our own engine for combat aircraft, Saraswat says.\n• India needs to invest more in research and development, says former DRDO chief Saraswat, who is now a professor at the University of California, San Diego.\n• He says India needs more investment in research, development and innovation.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/indias-investment-in-innovation-low-we-need-to-develop-our-own-engine-for-combat-aircraft-ex-drdo-head-saraswat/articleshow/134028484.cms",
-      "relevance_score": 0.8818,
-      "published_date": "2026-09-10"
-    },
-    {
-      "id": 10251,
-      "title": "Sri Sathya Sai village launches community surveillance to enhance security, combat crime",
-      "summary": "• Village has been hit by a spate of crime in recent years.\n• Residents say surveillance will help them fight crime and improve security.\n• The village is located in the state of Karnataka in India's north-east, near the border with Tamil Nadu and Sri Lanka.\n• It has a population of more than 100,000 people.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/rural-village-launches-community-surveillance-to-enhance-security-combat-crime/article71451679.ece",
-      "relevance_score": 0.8779,
-      "published_date": "2026-09-10"
-    },
-    {
-      "id": 10223,
-      "title": "Offshore floating platform proposed along Keralam coast to protect coastline, harness clean energy",
-      "summary": "• Floating platform proposed to be built on the coast of Kerala, India's second-largest state.\n• Offshore platform would be part of a larger plan to build a floating power station along the state's coast.\n• The platform is expected to be completed by the end of next year, according to local reports.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/kerala/offshore-floating-platform-proposed-along-keralam-coast-to-protect-coastline-harness-clean-energy/article71451042.ece",
-      "relevance_score": 0.8777,
-      "published_date": "2026-09-10"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-05T11:30:15.124144Z"
+  "updated_at": "2026-11-05T15:10:41.572941Z"
 }
