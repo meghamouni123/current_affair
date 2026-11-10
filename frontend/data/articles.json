@@ -1,6 +1,56 @@
 {
   "articles": [
     {
+      "id": 13407,
+      "title": "India’s Anti-Drone Shield: DRDO Invites Private Industry To Co-Develop AI-Powered Acoustic System",
+      "summary": "• DRDO invites private industry to co- develop AI-powered Ac acoustic system.\n• India's anti-drone shield will be powered by an AI-powered acoustic system, according to DRDO.\n• The system will be used to protect the country from drones.",
+      "category": "Science & Technology",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/india/indias-anti-drone-shield-drdo-invites-private-industry-to-co-develop-ai-powered-acoustic-system-ws-l-10419459.html",
+      "relevance_score": 0.9327,
+      "published_date": "2026-11-10"
+    },
+    {
+      "id": 13400,
+      "title": "An Asian rejection of unilateralism",
+      "summary": "• A rejection of the West's unilateralism in the Asia-Pacific region.\n• The region is rejecting the idea of a U.S.-led Pax Americana.\n• It is also rejecting the notion of a \"one-sided\" U.N.\n• It also rejects the concept of an \"all-U.S. state\" in the region.\n• It rejects the idea that a single nation can rule the region alone.",
+      "category": "International Relations",
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-an-asian-rejection-of-unilateralism/article71681907.ece",
+      "relevance_score": 0.9187,
+      "published_date": "2026-11-10"
+    },
+    {
+      "id": 13408,
+      "title": "Yogi Adityanath Claims 1.27 Crore Hindu Voters Missing From UP Rolls | SIR Row Deepens | News18",
+      "summary": "• Chief Minister Yogi Adityanath has claimed that approximately 1.27 crore Hindu voters are missing from the Election Commission’s electoral rolls.\n• Yogi says the BJP has submitted a memorandum to the Election.\n• Commission of India, seeking an explanation and the inclusion of eligible voters allegedly left out of the lists.\n• The number of Muslim voters has increased by 1.65 per cent, according to Yogi.\n• A fresh political controversy has erupted in Uttar Pradesh over the Special Intensive Revision (SIR) of electoral rolls.\n• -newsn18oc_indiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/yogi-adityanath-claims-1-27-crore-hindu-voters-missing-from-up-rolls-sir-row-deepens-news18-10419612.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-10"
+    },
+    {
+      "id": 13406,
+      "title": "Israel's Gadi Eisenkot gets mandate to form government. There's a minefield ahead",
+      "summary": "• There's a minefield ahead for the new government.\n• Israel's prime minister has been in office for less than a year.\n• The country is in the throes of a general election that is expected to take place in April or May.\n• The vote will be the first in Israel's history to be held on a national ballot.",
+      "category": "Polity & Governance",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/world/story/israel-election-results-gadi-eisenkot-government-formation-mandate-isaac-herzog-itspc-3035160-2026-11-10?utm_source=rss",
+      "relevance_score": 0.8754,
+      "published_date": "2026-11-10"
+    },
+    {
+      "id": 13402,
+      "title": "Secretary-General of ASEAN meets with Executive Director of the International Alliance for the Protection of Heritage",
+      "summary": "• Secretary-General meets with executive director of the IAPH to discuss the issue of heritage protection in the region.\n• ASEan is one of the largest economies in the world, with more than 1.2 billion people.\n• The region is home to some of the world's most famous cultural sites.",
+      "category": "International Relations",
+      "source": "ASEAN Secretariat",
+      "url": "https://asean.org/secretary-general-of-asean-meets-with-executive-director-of-the-international-alliance-for-the-protection-of-heritage/",
+      "relevance_score": 0.8094,
+      "published_date": "2026-11-10"
+    },
+    {
       "id": 13390,
       "title": "Hyderabad student builds a satellite device for villages that works without internet",
       "summary": "• The satellite device is used to connect villages without internet to the world.\n• The device is called a satellite phone and can be used by anyone in the country.\n• It can also be used to send messages to people in other parts of the world via satellite.\n• It costs about $50 to $100 per hour.",
@@ -381,6 +431,16 @@
       "published_date": "2026-11-08"
     },
     {
+      "id": 13318,
+      "title": "Calcutta High Court restrains KMC polls until challenge on delimitation decided",
+      "summary": "• High Court to rule on challenge on delimitation of KMC seats in next month's elections.\n• KMC has been in power for over a decade but has not been able to hold elections since 2002.\n• The last election was held in 2008, which was followed by a hung assembly in 2012.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-restrains-kmc-polls-until-challenge-on-delimitation-decided/article71675339.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-07"
+    },
+    {
       "id": 13316,
       "title": "Andhra Pradesh MPTC, ZPTC election results LIVE: Counting begins across 365 centres amidst high security",
       "summary": "• Counting will take place at 365 centres across Andhra Pradesh, Telengana, Tamil Nadu and Mizoram.\n• Results will be announced at 8.30pm on Sunday.\n• Click here for LIVE updates from Andhra, Telangana and Tamil Nadu election results.",
@@ -397,16 +457,6 @@
       "category": "Sports",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/mohammed-shami-retires-from-test-cricket-after-13-year-career-finishes-with-229-wickets-news18-10416349.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-07"
-    },
-    {
-      "id": 13318,
-      "title": "Calcutta High Court restrains KMC polls until challenge on delimitation decided",
-      "summary": "• High Court to rule on challenge on delimitation of KMC seats in next month's elections.\n• KMC has been in power for over a decade but has not been able to hold elections since 2002.\n• The last election was held in 2008, which was followed by a hung assembly in 2012.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/kolkata/calcutta-high-court-restrains-kmc-polls-until-challenge-on-delimitation-decided/article71675339.ece",
       "relevance_score": 0.91,
       "published_date": "2026-11-07"
     },
@@ -451,22 +501,22 @@
       "published_date": "2026-11-07"
     },
     {
-      "id": 13338,
-      "title": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
-      "summary": "• GBA is a joint venture between GBA India and the Indian government.\n• The project is expected to be completed by the end of the year.\n• It is the first phase of a two-year plan to build a new ward in the city.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
-      "relevance_score": 0.8362,
-      "published_date": "2026-11-07"
-    },
-    {
       "id": 13335,
       "title": "Italian Foreign Minister says pro-Russian hackers targeted him over Ukraine support",
       "summary": "• Italian foreign minister says hackers were trying to get him to back down from his support for Ukraine.\n• He says he was targeted over his comments on the crisis in Ukraine and Russia's involvement in the country's internal affairs.\n• Italian Foreign Minister: 'I was targeted for my comments on Ukraine and on the Ukraine crisis.\n• I'm not afraid to say what I think'.",
       "category": "International Relations",
       "source": "The Hindu - International",
       "url": "https://www.thehindu.com/news/international/italian-foreign-minister-says-pro-russian-hackers-targeted-him-over-ukraine-support/article71678639.ece",
+      "relevance_score": 0.8362,
+      "published_date": "2026-11-07"
+    },
+    {
+      "id": 13338,
+      "title": "Bengaluru’s GBA launches phase 2 of ‘Ward One’",
+      "summary": "• GBA is a joint venture between GBA India and the Indian government.\n• The project is expected to be completed by the end of the year.\n• It is the first phase of a two-year plan to build a new ward in the city.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/bangalore/bengalurus-gba-launches-phase-2-of-ward-one/article71679329.ece",
       "relevance_score": 0.8362,
       "published_date": "2026-11-07"
     },
@@ -491,22 +541,22 @@
       "published_date": "2026-11-07"
     },
     {
-      "id": 13319,
-      "title": "'Will attack without geographic limits': Iran's fresh warning to US after Trump's threats",
-      "summary": "• Iran has warned it will attack 'without geographic limits' in response to the US threats.\n• The US has threatened to attack Iran if it attacks the Islamic state in the Middle East.\n• Iran says it will respond in kind if the US attacks it in the region.\n• The U.S. has also threatened to strike Iran in the West if Iran attacks the West.",
-      "category": "International Relations",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/will-attack-without-geographic-limits-irans-fresh-warning-to-us-after-trumps-threats-101794021484491.html",
-      "relevance_score": 0.8193,
-      "published_date": "2026-11-07"
-    },
-    {
       "id": 13337,
       "title": "Delhi orders hybrid classes for students up to Class 5 amid worsening air pollution as GRAP Stage III kicks in",
       "summary": "• Delhi has been hit hard by air pollution over the past few years.\n• Delhi is one of the worst cities in the world for air pollution, according to the World Health Organisation.\n• The city has seen a sharp rise in air pollution in the past two years, especially in the evenings.",
       "category": "Science & Technology",
       "source": "LiveMint - News",
       "url": "https://www.livemint.com/news/india/delhi-orders-hybrid-classes-for-students-up-to-class-5-amid-worsening-air-pollution-as-grap-stage-iii-kicks-in-11794050590360.html",
+      "relevance_score": 0.8193,
+      "published_date": "2026-11-07"
+    },
+    {
+      "id": 13319,
+      "title": "'Will attack without geographic limits': Iran's fresh warning to US after Trump's threats",
+      "summary": "• Iran has warned it will attack 'without geographic limits' in response to the US threats.\n• The US has threatened to attack Iran if it attacks the Islamic state in the Middle East.\n• Iran says it will respond in kind if the US attacks it in the region.\n• The U.S. has also threatened to strike Iran in the West if Iran attacks the West.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/will-attack-without-geographic-limits-irans-fresh-warning-to-us-after-trumps-threats-101794021484491.html",
       "relevance_score": 0.8193,
       "published_date": "2026-11-07"
     },
@@ -19949,58 +19999,8 @@
       "url": "https://www.thehindu.com/news/national/kerala/kochi-airport-launches-robot-for-enhanced-passenger-assistance-and-cultural-promotion/article71459300.ece",
       "relevance_score": 0.8935,
       "published_date": "2026-09-12"
-    },
-    {
-      "id": 10386,
-      "title": "Adilabad airport project will be fast-tracked, says Kishan Reddy",
-      "summary": "• Reddy: Airport will be built in Adilabad, Hyderabad and other parts of the state.\n• He says it will be completed in three to four years.\n• The project will cost an estimated $1.5 billion, Reddy says.\n• The airport is expected to be completed by 2018.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/telangana/adilabad-airport-project-will-be-fast-tracked-says-kishan-reddy/article71460880.ece",
-      "relevance_score": 0.89,
-      "published_date": "2026-09-12"
-    },
-    {
-      "id": 10357,
-      "title": "PM Modi, Putin and Xi hold hands at BRICS summit in a powerful show of unity",
-      "summary": "• PM Modi, Russian President Vladimir Putin and Chinese President Xi Jinping held hands at the BRICS Summit in Xiamen, China.\n• The three leaders were joined by South Korean President Moon Jae-in and Russian President Dmitry Medvedev.\n• The BRICS leaders met for the first time since 2008.",
-      "category": "International Relations",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/pm-modi-putin-and-xi-jinping-hold-hands-at-brics-summit-in-a-powerful-show-of-unity-india-china-russia-101789209526883.html",
-      "relevance_score": 0.8884,
-      "published_date": "2026-09-12"
-    },
-    {
-      "id": 10330,
-      "title": "\"Dialogue And Diplomacy Way Forward\": BRICS New Delhi Declaration Agreed Upon",
-      "summary": "• BRICS leaders agree on \"dialogue and diplomacy\" as the way forward for the region.\n• India, China, Russia, Brazil, South Africa, Russia and China to meet in New Delhi on July 7.\n• BRICs to hold summit in Brazil on July 8-9.\n• BRics to meet again on July 14-15 in Beijing.",
-      "category": "International Relations",
-      "source": "NDTV - World",
-      "url": "https://www.ndtv.com/world-news/dialogue-and-diplomacy-way-forward-brics-new-delhi-declaration-agreed-upon-12036609#publisher=newsstand",
-      "relevance_score": 0.8861,
-      "published_date": "2026-09-12"
-    },
-    {
-      "id": 10393,
-      "title": "UN hails Iran-UAE meeting on sidelines of Brics Summit, says India can be 'bridge-builder'",
-      "summary": "• India can be 'bridge-builder' says UN Secretary-General Ban Ki-moon.\n• India is a key member of the BRICS group of nations.\n• It is also one of the fastest-growing economies in the world, with a population of more than 100 million.\n• India's economy is expected to grow at a rate of 4.5 per cent this year.",
-      "category": "International Relations",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/un-hails-iran-uae-meeting-on-sidelines-of-brics-summit-says-india-can-be-bridge-builder/articleshow/134141786.cms",
-      "relevance_score": 0.8829,
-      "published_date": "2026-09-12"
-    },
-    {
-      "id": 10372,
-      "title": "Iran, UAE leaders meet on BRICS sidelines in New Delhi as US-Iran war tests regional ties in Middle East",
-      "summary": "• Iran, UAE leaders meet on BRICS sidelines in New Delhi.\n• U.S.-Iran war tests regional ties in Middle East.\n• Iran, UAE also meet on the margins of the World Economic Forum in Davos, Switzerland.\n• Iran is a member of the Shanghai Cooperation Organisation, while the UAE is part of the Group of 20.",
-      "category": "International Relations",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/world/iran-uae-leaders-meet-on-brics-sidelines-as-us-iran-war-tests-regional-ties-in-middle-east-modi-al-nahyan-pezeshkian-11789220935341.html",
-      "relevance_score": 0.882,
-      "published_date": "2026-09-12"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-10T00:08:03.306984Z"
+  "updated_at": "2026-11-10T06:25:21.732976Z"
 }
