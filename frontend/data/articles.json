@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 13452,
+      "title": "Ideation completed for ₹100-crore private research park in Perundurai",
+      "summary": "• Private research park will be part of a larger development in the state of Tamil Nadu.\n• The project is expected to be completed by the end of this year.\n• It will be the first of its kind in the South Indian state.\n• The park will also be a part of the Indian Institutes of Technology (IITs).",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/Coimbatore/ideation-completed-for-100-crore-private-research-park-in-perundurai/article71690668.ece",
+      "relevance_score": 0.9484,
+      "published_date": "2026-11-11"
+    },
+    {
       "id": 13447,
       "title": "Odisha signs friendship agreement with Japan's Tottori Prefecture to boost trade, tourism",
       "summary": "• Odisha and Japan have been at odds since the Second World War.\n• The two countries have a long-standing friendship between the two states.\n• The prefecture is in the Indian state of Odisha, while Odisha is in Japan's state of Jammu and Kashmir.\n• For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
@@ -18,16 +28,6 @@
       "source": "LiveMint - Economy",
       "url": "https://www.livemint.com/economy/scientific-research-granular-data-climate-food-security-challenges-pk-mishra-11794377196650.html",
       "relevance_score": 0.9192,
-      "published_date": "2026-11-11"
-    },
-    {
-      "id": 13446,
-      "title": "Goa: Bihar man held for allegedly raping 4-year-old in Canacona, Karnataka man arrested in Mapusa case",
-      "summary": "• Goa: Man held for alleged rape of 4- year-old girl in Goa.\n• Goan: Man arrested for allegedly rape of four-year old girl in Panjim.\n• Goan: man arrested for raping four-month-old boy in Goan village.",
-      "category": "State News",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/goa-bihar-man-held-for-allegedly-raping-4-year-old-in-canacona-karnataka-man-arrested-in-mapusa-case-101794406137252.html",
-      "relevance_score": 0.91,
       "published_date": "2026-11-11"
     },
     {
@@ -51,6 +51,36 @@
       "published_date": "2026-11-11"
     },
     {
+      "id": 13446,
+      "title": "Goa: Bihar man held for allegedly raping 4-year-old in Canacona, Karnataka man arrested in Mapusa case",
+      "summary": "• Goa: Man held for alleged rape of 4- year-old girl in Goa.\n• Goan: Man arrested for allegedly rape of four-year old girl in Panjim.\n• Goan: man arrested for raping four-month-old boy in Goan village.",
+      "category": "State News",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/goa-bihar-man-held-for-allegedly-raping-4-year-old-in-canacona-karnataka-man-arrested-in-mapusa-case-101794406137252.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-11"
+    },
+    {
+      "id": 13453,
+      "title": "Strengthen India’s preparedness against emerging viral threats: ICAR scientist",
+      "summary": "• ICAR scientists: India needs to be prepared for emerging viralthreats.\n• India should be ready to deal with any emerging viral threat, says ICAR's Dr. Ravi Agrawal.\n• India must be prepared to face any emerging Viral Threat, he says, adding: ‘We need to be ready for any emerging threat’.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/kerala/strengthen-indias-preparedness-against-emerging-viral-threats-icar-scientist/article71690061.ece",
+      "relevance_score": 0.8829,
+      "published_date": "2026-11-11"
+    },
+    {
+      "id": 13450,
+      "title": "Special clean-up drive removes 150 tonnes of waste from K.R. Market",
+      "summary": "• The city's main market is one of the biggest in the world, taking in more than 100,000 tonnes of rubbish a year.\n• It is home to some of the world's biggest retailers, including McDonald's, K-Mart and Sainsbury's.\n• The market is also home to the largest number of people in the country, with more than 1.5 million people living there.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/bangalore/special-clean-up-drive-removes-150-tonnes-of-waste-from-kr-market/article71690163.ece",
+      "relevance_score": 0.873,
+      "published_date": "2026-11-11"
+    },
+    {
       "id": 13434,
       "title": "At COP31, India urges developed nations to honour Paris Agreement finance commitments",
       "summary": "• India urges countries to honour their Paris Agreement pledges.\n• India is one of the largest emitters of carbon dioxide emissions in the world.\n• It is the second-largest emitter of CO2 after the United States.\n• India has the highest level of carbon emissions per capita in the developed world, according to the UN.",
@@ -58,6 +88,16 @@
       "source": "Hindustan Times - India",
       "url": "https://www.hindustantimes.com/india-news/cop31-antalya-turkey-india-climate-change-funding-developing-developed-countries-finance-paris-agreement-global-warming-101794365413624.html",
       "relevance_score": 0.8718,
+      "published_date": "2026-11-11"
+    },
+    {
+      "id": 13451,
+      "title": "GAIL proposes ₹123-crore waste-to-biogas plant at KCDC site in Bengaluru",
+      "summary": "• It will be the first of its kind in India.\n• The plant is expected to be operational by 2018.\n• The project will cost an estimated $1.2 billion.\n• It is part of a larger plan to build a biogas and waste management facility in the city.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/cities/bangalore/gail-proposes-123-crore-waste-to-biogas-plant-at-kcdc-site-in-bengaluru/article71690616.ece",
+      "relevance_score": 0.8682,
       "published_date": "2026-11-11"
     },
     {
@@ -19959,48 +19999,8 @@
       "url": "https://www.ndtv.com/education/iim-jammu-launches-jammus-first-smart-library-makes-2-5-lakh-books-available-online-12040468#publisher=newsstand",
       "relevance_score": 0.8202,
       "published_date": "2026-09-13"
-    },
-    {
-      "id": 10417,
-      "title": "'I resign as CM': CJP's Abhijeet Dipke mocks MP govt after Balaghat heckling",
-      "summary": "• Dipke says: 'I am not a politician, I am a man.\n• I should not have to answer to people like this' Dipke also said: 'If you want change, you must work for the people.\n• If you don't want to work, you should leave'.",
-      "category": "Polity & Governance",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/i-resign-as-cm-cjps-abhijeet-dipke-mocks-mp-govt-after-balaghat-heckling/articleshow/134187225.cms",
-      "relevance_score": 0.8193,
-      "published_date": "2026-09-13"
-    },
-    {
-      "id": 10405,
-      "title": "'Stronger India-China ties strategically important for Global South': Chinese journalist at Brics summit 2026",
-      "summary": "• India and China will meet for the first time in 2026 at the Brics Summit in New Delhi.\n• India is the largest economy in the world, with a population of more than 250 million.\n• China is the second largest economy, followed by the United States with more than 80 million people.",
-      "category": "International Relations",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/stronger-india-china-ties-strategically-important-for-global-south-chinese-journalist-at-brics-summit-2026/articleshow/134184280.cms",
-      "relevance_score": 0.8108,
-      "published_date": "2026-09-13"
-    },
-    {
-      "id": 10421,
-      "title": "81-year-old ex-schoolmate meets PM, seeks CBI probe into alleged land grab",
-      "summary": "• Former schoolmate says he was forced to sell his land to land mafia.\n• He says he is still in touch with his former schoolmate, who is now in jail.\n• The case is being investigated by the CBI, which is investigating the land grab allegations.\n• The former schoolmates are still in jail, accused of land grabbing.",
-      "category": "National News",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/mira-bhayandar-land-dispute-pm-modi-former-classmate-seeks-cbi-probe-2993660-2026-09-13?utm_source=rss",
-      "relevance_score": 0.8093,
-      "published_date": "2026-09-13"
-    },
-    {
-      "id": 10433,
-      "title": "Shehbaz Sharif to meet Trump on sidelines of UN General Assembly in New York",
-      "summary": "• Sharif will be accompanied by Punjab chief minister and Punjab PM.\n• Sharif and Karzai will be joined by Punjab PM, Punjab PM and Pakistan PM's wife.\n• For confidential support call the Samaritans in the UK on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "International Relations",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/world/story/shehbaz-sharif-donald-trump-meeting-unga-indus-waters-treaty-ptag-2993699-2026-09-13?utm_source=rss",
-      "relevance_score": 0.8079,
-      "published_date": "2026-09-13"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-11T15:05:16.196081Z"
+  "updated_at": "2026-11-11T17:39:28.231405Z"
 }
