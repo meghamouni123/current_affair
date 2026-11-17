@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 13781,
+      "title": "Over 300 students take part in NASA Space Apps Challenge at VIT-AP University",
+      "summary": "• Students from around the world took part in the challenge at the university's science and technology college.\n• The students created apps using NASA's latest space-themed apps and games.\n• They also created apps to help students learn about space exploration and space exploration in real-time.\n• The competition was part of the VIT AP University's Space Apps challenge.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Andhra Pradesh",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/over-300-students-take-part-in-nasa-space-apps-challenge-at-vit-ap-university/article71712687.ece",
+      "relevance_score": 0.9652,
+      "published_date": "2026-11-17"
+    },
+    {
       "id": 13739,
       "title": "Pseudo consent, real debt: RBI’s new battle for responsible microfinance | Explained",
       "summary": "• The RBI is trying to make sure that all micro-loans are regulated.\n• It is also trying to ensure that they don’t go into debt without the consent of the borrowers.\n• The aim is to create a more transparent and accountable micro-lending system.\n• The goal is to reduce the amount of money that is owed to borrowers.",
@@ -41,16 +51,6 @@
       "published_date": "2026-11-17"
     },
     {
-      "id": 13756,
-      "title": "Tamil Nadu Health Minister Arunraj inaugurates Centre for Advanced Genomics at Ranipet CMC",
-      "summary": "• CMC is a centre for advanced genomics in Tamil Nadu.\n• The centre will be based in the state's capital, Chennai.\n• It will also be used for research and development in other parts of the state.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-health-minister-arunraj-inaugurates-centre-for-advanced-genomics-at-ranipet-cmc/article71708007.ece",
-      "relevance_score": 0.9186,
-      "published_date": "2026-11-17"
-    },
-    {
       "id": 13755,
       "title": "Amaravati builds indigenous quantum tech stack",
       "summary": "• It's part of a larger project to build a quantum computing network in the country.\n• The project is part of the Indian government's \"Make In India\" initiative.\n• It is also part of an international effort to build quantum computing networks in the U.S. and other countries.",
@@ -61,22 +61,22 @@
       "published_date": "2026-11-17"
     },
     {
-      "id": 13749,
-      "title": "RBI may hike repo rate by 25-50 bps in December as inflation breaches 6%: Experts",
-      "summary": "• Experts say it could happen as soon as December 31.\n• The current repo rate is at 6.75 per cent.\n• The repo rate has been on hold since November 2008 after a massive cut by the Reserve Bank of India (RBI) in response to a severe economic slowdown in the United States.",
-      "category": "Economy & Banking",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-hike-repo-rate-by-25-50-bps-in-december-as-inflation-breaches-6-experts/articleshow/135910335.cms",
-      "relevance_score": 0.91,
+      "id": 13756,
+      "title": "Tamil Nadu Health Minister Arunraj inaugurates Centre for Advanced Genomics at Ranipet CMC",
+      "summary": "• CMC is a centre for advanced genomics in Tamil Nadu.\n• The centre will be based in the state's capital, Chennai.\n• It will also be used for research and development in other parts of the state.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-health-minister-arunraj-inaugurates-centre-for-advanced-genomics-at-ranipet-cmc/article71708007.ece",
+      "relevance_score": 0.9186,
       "published_date": "2026-11-17"
     },
     {
-      "id": 13771,
-      "title": "PM Modi's Unscripted Media Moment: What Happened In Manila? | ASEAN 2026 | Trump's Press Conference",
-      "summary": "• Narendra Modi appears 'clearly uncomfortable' during impromptu press conference.\n• The unexpected exchange has put the spotlight on the Prime Minister’s engagement with journalists.\n• Modi is in the Philippines for the 23rd ASEAN-India Summit and the 21st East Asia Summit.\n• His Manila visit has focused on strengthening India's strategic partnership with ASEan, regional cooperation, trade, connectivity and maritime security.\n• The unexpected exchange has put the spotlight on the Prime Minister’s engagement with journalists and his approach to unscripted media interactions.The moment comes during Modi’s visit to the Philippines for the 23rd ASEAN-India Summit and the 21st East Asia Summit.\n• His visit also includes bilateral engagements with regional leaders.The press interaction raises broader questions about media access, political accountability and the importance of leaders answering questions from journalists.",
+      "id": 13765,
+      "title": "Modi-Trump Talks In Manila: Breakthrough On Trade Or Another Missed Opportunity? | News18",
+      "summary": "• The proposed trade pact has reached an advanced stage, but important questions remain.\n• These include tariffs on Indian exports, greater access for American goods in the Indian market, non-tariff barriers and assurances that India will receive competitive terms compared with other trading partners.\n• With Trump in Manila for the Quad Summit, attention is turning to the possibility of direct talks between the two leaders and whether they can resolve the remaining differences in bilateral negotiations.\n• -newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
       "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/videos/world/pm-modi-s-unscripted-media-moment-what-happened-in-manila-asean-2026-trump-s-press-conference-10429494.html",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/modi-trump-talks-in-manila-breakthrough-on-trade-or-another-missed-opportunity-news18-10429231.html",
       "relevance_score": 0.91,
       "published_date": "2026-11-17"
     },
@@ -91,22 +91,22 @@
       "published_date": "2026-11-17"
     },
     {
+      "id": 13771,
+      "title": "PM Modi's Unscripted Media Moment: What Happened In Manila? | ASEAN 2026 | Trump's Press Conference",
+      "summary": "• Narendra Modi appears 'clearly uncomfortable' during impromptu press conference.\n• The unexpected exchange has put the spotlight on the Prime Minister’s engagement with journalists.\n• Modi is in the Philippines for the 23rd ASEAN-India Summit and the 21st East Asia Summit.\n• His Manila visit has focused on strengthening India's strategic partnership with ASEan, regional cooperation, trade, connectivity and maritime security.\n• The unexpected exchange has put the spotlight on the Prime Minister’s engagement with journalists and his approach to unscripted media interactions.The moment comes during Modi’s visit to the Philippines for the 23rd ASEAN-India Summit and the 21st East Asia Summit.\n• His visit also includes bilateral engagements with regional leaders.The press interaction raises broader questions about media access, political accountability and the importance of leaders answering questions from journalists.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/videos/world/pm-modi-s-unscripted-media-moment-what-happened-in-manila-asean-2026-trump-s-press-conference-10429494.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-17"
+    },
+    {
       "id": 13768,
       "title": "Suresh Raina's Message to Young Cricketers: Perform in UP to Earn IPL Contracts | Rising Bharat",
       "summary": "• Former India cricketer Suresh Raina has a clear message for young cricketers chasing their IPL dreams: perform at the domestic level first.\n• Raina also opens up about a more personal side of his life, sharing the stories and memories behind his tattoos.\n• Watch this special conversation for Raina's take on UP cricket, IPL opportunities and the importance of performing at the grassroots level.\n• And what lessons from his own cricketing journey does he want the next generation to take away?Known for his contribution to India's 2011 World Cup-winning campaign and his memorable IPL career, Raina has also spoken about how domestic cricket shaped his development as a player.\n• Recalling his conversations with emerging players, Raina says he reminded them that strong performances for Uttar Pradesh are important if they want to earn opportunities and IPL contracts.In this candid conversation, Raina reflects on the importance of domestic cricket as a foundation for….\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
       "category": "Sports",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/suresh-raina-s-message-to-young-cricketers-perform-in-up-to-earn-ipl-contracts-rising-bharat-10428989.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-17"
-    },
-    {
-      "id": 13765,
-      "title": "Modi-Trump Talks In Manila: Breakthrough On Trade Or Another Missed Opportunity? | News18",
-      "summary": "• The proposed trade pact has reached an advanced stage, but important questions remain.\n• These include tariffs on Indian exports, greater access for American goods in the Indian market, non-tariff barriers and assurances that India will receive competitive terms compared with other trading partners.\n• With Trump in Manila for the Quad Summit, attention is turning to the possibility of direct talks between the two leaders and whether they can resolve the remaining differences in bilateral negotiations.\n• -newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
-      "category": "International Relations",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/modi-trump-talks-in-manila-breakthrough-on-trade-or-another-missed-opportunity-news18-10429231.html",
       "relevance_score": 0.91,
       "published_date": "2026-11-17"
     },
@@ -118,6 +118,26 @@
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/breaking-news/trump-s-quad-test-is-his-transactional-diplomacy-eroding-us-trust-in-the-indo-pacific-news18-10428505.html",
       "relevance_score": 0.91,
+      "published_date": "2026-11-17"
+    },
+    {
+      "id": 13749,
+      "title": "RBI may hike repo rate by 25-50 bps in December as inflation breaches 6%: Experts",
+      "summary": "• Experts say it could happen as soon as December 31.\n• The current repo rate is at 6.75 per cent.\n• The repo rate has been on hold since November 2008 after a massive cut by the Reserve Bank of India (RBI) in response to a severe economic slowdown in the United States.",
+      "category": "Economy & Banking",
+      "source": "Economic Times - Top",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-hike-repo-rate-by-25-50-bps-in-december-as-inflation-breaches-6-experts/articleshow/135910335.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-17"
+    },
+    {
+      "id": 13784,
+      "title": "Delhi to spend Rs 5 crore on pollution testing upgrades, strengthen CCTV checks",
+      "summary": "• Delhi to spend £1.5 million on pollution tests, £2 million on CCTV checks, £3 million on air quality tests.\n• Delhi will also spend £2.4 million on a new air quality test facility for the city.\n• Delhi has been plagued by pollution problems since the 1980s and 1990s.\n• The city has also been hit by air pollution from vehicles.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/cities/delhi/story/delhi-rs-5-crore-puc-centre-upgrades-cctv-fake-certificates-3041012-2026-11-17?utm_source=rss",
+      "relevance_score": 0.9059,
       "published_date": "2026-11-17"
     },
     {
@@ -171,6 +191,16 @@
       "published_date": "2026-11-17"
     },
     {
+      "id": 13776,
+      "title": "Karnataka embarks on aggressive AI skilling drive; to train 63,200 students, engineers",
+      "summary": "• Karnataka embarked on aggressiveAI skillingDrive; to training 63, 200 students,Engineers.\n• To train students and engineers, Karnataka will train them in AI.\n• To learn more, visit Karnataka's AISkillsDrive.org and Karnataka AISkilling.org.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/karnataka-embarks-on-aggressive-ai-skilling-drive-to-train-63200-students-engineers/article71712837.ece",
+      "relevance_score": 0.8658,
+      "published_date": "2026-11-17"
+    },
+    {
       "id": 13760,
       "title": "CISF Deployment At Airports To Come Down, Private Security Roped In: Sources",
       "summary": "• Private security will be in charge of security at U.S. airports, sources say.\n• Secretary-General Ban Ki-moon to meet with Obama this week to discuss security at the U.K.-U.S.-South Korea border.\n• Security will be handled by private security, according to sources.",
@@ -178,6 +208,16 @@
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/cisf-deployment-at-airports-to-come-down-private-security-roped-in-sources-12337763#publisher=newsstand",
       "relevance_score": 0.8575,
+      "published_date": "2026-11-17"
+    },
+    {
+      "id": 13782,
+      "title": "Pragya Misra to lead OpenAI's business development for India, South Asia",
+      "summary": "• Misra will be responsible for business development in India and South Asia for OpenAI.\n• She will also lead the company's research and development efforts in the region.\n• For more information on OpenAI, visit their website: http://www.openai.org/en/news/press-releases/openai-launches-business-development-team-in-india.",
+      "category": "Science & Technology",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/pragya-misra-openais-first-hire-in-india-elevated-to-lead-business-development-for-india-south-asia/articleshow/135927245.cms",
+      "relevance_score": 0.8499,
       "published_date": "2026-11-17"
     },
     {
@@ -208,6 +248,36 @@
       "source": "Hindustan Times - World",
       "url": "https://www.hindustantimes.com/world-news/cop31-pushes-industrial-electrification-responsible-ai-as-climate-priorities-101794878882519.html",
       "relevance_score": 0.8319,
+      "published_date": "2026-11-17"
+    },
+    {
+      "id": 13785,
+      "title": "A Constructive & Trusted Partnership: PM Modi At Quad Summit In Manila | Trump Heaps Praise On Modi",
+      "summary": "• Prime Minister Narendra Modi hails the Quad as a “constructive\" and “trusted\" partnership.\n• PM Modi said the meeting would help the four partner countries set concrete goals for the next phase of cooperation.\n• CNN-News18 examines India's evolving role in the Quad, the challenges facing the grouping and its implications for the global order.\n• Watch the full discussion for an in-depth analysis of the geopolitical stakes.\n• N18oc_indian18oc_worldNews18 Mobile App - https://onelink.to/desc-youtubeCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
+      "category": "International Relations",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/a-constructive-trusted-partnership-pm-modi-at-quad-summit-in-manila-trump-heaps-praise-on-modi-10429587.html",
+      "relevance_score": 0.8268,
+      "published_date": "2026-11-17"
+    },
+    {
+      "id": 13780,
+      "title": "Lakshya dedicates u-19 Asia Cup win to his late coach",
+      "summary": "• U-19 World Cup takes place in New Zealand next month.\n• Click here for more information on the tournament and to watch the match live on CNN.com.\n• CLICK HERE for all the latest from the Asia Cup in the U-17 and U-18 tournaments.\n• The tournament runs from November 16 to December 18.",
+      "category": "Sports",
+      "source": "The Hindu - Sport",
+      "url": "https://www.thehindu.com/sport/cricket/lakshya-dedicates-u-19-asia-cup-win-to-his-late-coach/article71710459.ece",
+      "relevance_score": 0.8133,
+      "published_date": "2026-11-17"
+    },
+    {
+      "id": 13778,
+      "title": "Three space companies selected to develop high-resolution 3D reconstruction techniques for Indian cities",
+      "summary": "• Three space companies were selected toDevelop high- resolution 3D reconstructions of Indian cities for 3D printing.\n• Two of the companies are from India and one is from the U.S. The other two are from the UK and the Netherlands.\n• The companies are based in Bangalore and Hyderabad, India's two largest cities.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Science",
+      "url": "https://www.thehindu.com/news/national/karnataka/three-space-companies-selected-to-develop-high-resolution-3d-reconstruction-techniques-for-indian-cities/article71711538.ece",
+      "relevance_score": 0.8078,
       "published_date": "2026-11-17"
     },
     {
@@ -401,22 +471,22 @@
       "published_date": "2026-11-16"
     },
     {
-      "id": 13725,
-      "title": "Congress names screening panel chiefs for poll-bound UP, Punjab, Uttarakhand, Goa, Manipur",
-      "summary": "• Congress also names screening panels for Goa and Manipur, among others.\n• The screening panels will be responsible for screening the candidates for the respective states.\n• The panel will be in charge of screening candidates for both Hindi-speaking and Haryana-speaking constituencies.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "State News",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/congress-names-screening-panel-chiefs-for-poll-bound-up-punjab-uttarakhand-goa-manipur-101794846307946.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-16"
-    },
-    {
       "id": 13730,
       "title": "Kerala High Court refers petition challenging clean chit to Chief Minister in Punarjani case to Chief Justice",
       "summary": "• High Court referred petition challengingClean Chit to the Chief Minister.\n• Chief Justice will decide whether or not to grant bail to the accused.\n• The case was referred to the High Court by the Kerala High Court in Thiruvananthapuram.\n• The High Court is the highest court in the state and has the power to issue writs.",
       "category": "Polity & Governance",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-refers-petition-challenging-clean-chit-to-chief-minister-in-punarjani-case-to-chief-justice/article71708756.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-16"
+    },
+    {
+      "id": 13725,
+      "title": "Congress names screening panel chiefs for poll-bound UP, Punjab, Uttarakhand, Goa, Manipur",
+      "summary": "• Congress also names screening panels for Goa and Manipur, among others.\n• The screening panels will be responsible for screening the candidates for the respective states.\n• The panel will be in charge of screening candidates for both Hindi-speaking and Haryana-speaking constituencies.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/congress-names-screening-panel-chiefs-for-poll-bound-up-punjab-uttarakhand-goa-manipur-101794846307946.html",
       "relevance_score": 0.91,
       "published_date": "2026-11-16"
     },
@@ -19929,78 +19999,8 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168371",
       "relevance_score": 0.9269,
       "published_date": "2026-09-18"
-    },
-    {
-      "id": 10714,
-      "title": "Dr Reddy’s to distribute Qdenga, India’s first dengue vaccine",
-      "summary": "• Dr Reddy’'s will be distributing the vaccine across the country.\n• The vaccine will be available in India for free to the general public.\n• It is the first of its kind in the world and will help prevent Dengue fever in India.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/dr-reddy-s-to-distribute-qdenga-india-s-first-dengue-vaccine-101789725890237.html",
-      "relevance_score": 0.9234,
-      "published_date": "2026-09-18"
-    },
-    {
-      "id": 10731,
-      "title": "Innovation Centre inaugurated at Easwari Engineering College",
-      "summary": "• Innovation centre will help students of engineering colleges in India and abroad.\n• The centre will be open to students from all over the country.\n• It will be housed in a state-of-the-art, state-funded innovation centre.\n• It was inaugurated by the Indian Institute of Technology, Bombay, on Monday.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/innovation-centre-inaugurated-at-easwari-engineering-college/article71482189.ece",
-      "relevance_score": 0.9218,
-      "published_date": "2026-09-18"
-    },
-    {
-      "id": 10708,
-      "title": "AI DOOMSDAY DEBATE: How Fast Is Too Fast? Amodei, Zuckerberg, Altman, Musk & Hassabis | AI News",
-      "summary": "• Anthropic CEO Dario Amodei has called for greater coordination and a more cautious approach to the rapid development of advanced AI.\n• OpenAI CEO Sam Altman, Tesla and xAI chief Elon Musk, and Google DeepMind CEO Demis Hassabis have each highlighted the need for stronger AI safety measures.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….\n• N18oc_world CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• Subscribe Now and join our community of informed and engaged viewers.",
-      "category": "Science & Technology",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/videos/world/ai-doomsday-debate-how-fast-is-too-fast-amodei-zuckerberg-altman-musk-hassabis-ai-news-10338927.html",
-      "relevance_score": 0.9215,
-      "published_date": "2026-09-18"
-    },
-    {
-      "id": 10700,
-      "title": "India to Launch First Approved Dengue Vaccine Qdenga in 2027",
-      "summary": "• India to launch first Dengue vaccine in 20 27.\n• India will be first country in the world to approve Dengue vaccines for Dengue in 2023.\n• India is the world's largest producer of dengue vaccines, with a market of more than 100 million people.\n• India has the highest rate of Dengue fever in the country, according to the WHO.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Business",
-      "url": "https://www.thehindu.com/business/india-to-launch-first-approved-dengue-vaccine-qdenga-in-2027/article71480215.ece",
-      "relevance_score": 0.9167,
-      "published_date": "2026-09-18"
-    },
-    {
-      "id": 10707,
-      "title": "WHO CONTROLS TATA SONS? Harish Salve On Board, Trusts, Chandra & RBI | Tata Sons vs Tata Company",
-      "summary": "• Tata Sons board has approved a fresh five-year term for N Chandrasekaran by majority vote.\n• Tata Trusts Chairman Noel Tata opposed the resolution and the Trusts have called the decision a “legal nullity” At the heart of the dispute is the role of Tatatrusts’ nominee directors, the company’s Articles of Association and a casting vote.\n• The Tata Sons–Tata Trusts governance dispute takes a fresh legal turn as senior lawyer Harish Salve speaks exclusively to Rahul Shivshankar on the questions surrounding the Tata Sons board, N Chandrasekaran’s reappointment and the company’s proposed listing.\n• A legal opinion obtained by Tata Trusts from former Chief Justice of India D Y Chandrachud has argued that a casting vote cannot substitute for the required affirmative support of the Trusts’ nominee directors n18oc_indian18oc_exclusive CNN-News18 is your trusted source for breaking news, updates,….\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/who-controls-tata-sons-harish-salve-on-board-trusts-chandra-rbi-tata-sons-vs-tata-company-10338976.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-18"
-    },
-    {
-      "id": 10693,
-      "title": "OpenAI launches Astra for law, says it will help lawyers with cases",
-      "summary": "• Astra will be used by lawyers to help them with cases, the company says.\n• The project is the brainchild of artificial intelligence firm OpenAI, which was founded by former Google executive Larry Page.\n• OpenAI says Astra could be used to help with legal cases in the future.\n• The company has raised $1 billion in funding so far.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/technology/news/story/openai-launches-astra-for-law-says-it-will-help-lawyers-with-cases-2997560-2026-09-18?utm_source=rss",
-      "relevance_score": 0.8886,
-      "published_date": "2026-09-18"
-    },
-    {
-      "id": 10723,
-      "title": "Agriculture Minister Atchannaidu highlights digital initiatives taken to support farmers in Andhra Pradesh",
-      "summary": "• He says digital initiatives will be used to help farmers in the state.\n• He also says the initiatives will help them to earn a living from their land.\n• He adds that they will also be able to sell their produce to the local market in a digital way.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Andhra Pradesh",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/agriculture-minister-atchannaidu-highlights-digital-initiatives-taken-to-support-farmers-in-andhra-pradesh/article71480775.ece",
-      "relevance_score": 0.8869,
-      "published_date": "2026-09-18"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-17T12:27:37.750977Z"
+  "updated_at": "2026-11-17T16:53:49.118936Z"
 }
