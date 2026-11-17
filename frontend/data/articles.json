@@ -151,32 +151,22 @@
       "published_date": "2026-11-16"
     },
     {
-      "id": 13725,
-      "title": "Congress names screening panel chiefs for poll-bound UP, Punjab, Uttarakhand, Goa, Manipur",
-      "summary": "• Congress also names screening panels for Goa and Manipur, among others.\n• The screening panels will be responsible for screening the candidates for the respective states.\n• The panel will be in charge of screening candidates for both Hindi-speaking and Haryana-speaking constituencies.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "State News",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/congress-names-screening-panel-chiefs-for-poll-bound-up-punjab-uttarakhand-goa-manipur-101794846307946.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-16"
-    },
-    {
-      "id": 13716,
-      "title": "PM Modi's 25 Years In Governance: NITI Aayog Plans National Leadership Workshops | The Right Stand",
-      "summary": "• Prime Minister Narendra Modi completes 25 years in governance.\n• NITI Aayog is planning a national leadership series of workshops for bureaucrats and public policy professionals.\n• The initiative aims to highlight important governance experiences, policy decisions and leadership lessons from October 2001 to October 2026.\n• Balasubramanyam, Member of NIT meayog, joins us to explain the initiative.\n• How will the leadership series shape India's bureaucracy and public policy framework?Dr. R.\n• Balasubramanyam, Member of NITI Aayog, joins us to explain the initiative.Watch the full conversation for insights into governance, leadership and public policy.",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/pm-modi-s-25-years-in-governance-niti-aayog-plans-national-leadership-workshops-the-right-stand-10428159.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-16"
-    },
-    {
       "id": 13717,
       "title": "Sonia Gandhi's Book Launch: Gandhi Family, Congress Leaders & Allies Assemble In Delhi | News18",
       "summary": "• Sonia Gandhi will launch her memoir, Belonging: A Journey of Love, on November 16, 2026.\n• The invitation-only event brings together members of the Gandhi family, senior Congress leaders and political figures from outside the party.\n• Joseph Vijay is also expected at the gathering, making his presence particularly noteworthy amid the evolving political relationship between his TVK and the Congress.\n• Rahul Gandhi, Priyanka Gandhi Vadra and Congress president Mallikarjun Kharge are among those expected to attend.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
       "category": "Polity & Governance",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/india/sonia-gandhi-s-book-launch-gandhi-family-congress-leaders-allies-assemble-in-delhi-news18-10427990.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-16"
+    },
+    {
+      "id": 13687,
+      "title": "One killed in encounter between security forces, terrorists in Kashmir’s Kulgam",
+      "summary": "• Security forces and terrorists clash in Kashmir's Kulgam district.\n• One killed in an encounter with security forces.\n• One dead in encounter with terrorists in Jammu and Kashmir”s Pulwama district.\n• Two killed in another encounter in J&K ””Pulwama”.",
+      "category": "National News",
+      "source": "Indian Express - India",
+      "url": "https://indianexpress.com/article/india/kashmir-security-sweep-kulgam-crpf-attackers-lead-10965070/",
       "relevance_score": 0.91,
       "published_date": "2026-11-16"
     },
@@ -191,22 +181,32 @@
       "published_date": "2026-11-16"
     },
     {
+      "id": 13716,
+      "title": "PM Modi's 25 Years In Governance: NITI Aayog Plans National Leadership Workshops | The Right Stand",
+      "summary": "• Prime Minister Narendra Modi completes 25 years in governance.\n• NITI Aayog is planning a national leadership series of workshops for bureaucrats and public policy professionals.\n• The initiative aims to highlight important governance experiences, policy decisions and leadership lessons from October 2001 to October 2026.\n• Balasubramanyam, Member of NIT meayog, joins us to explain the initiative.\n• How will the leadership series shape India's bureaucracy and public policy framework?Dr. R.\n• Balasubramanyam, Member of NITI Aayog, joins us to explain the initiative.Watch the full conversation for insights into governance, leadership and public policy.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/pm-modi-s-25-years-in-governance-niti-aayog-plans-national-leadership-workshops-the-right-stand-10428159.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-16"
+    },
+    {
+      "id": 13725,
+      "title": "Congress names screening panel chiefs for poll-bound UP, Punjab, Uttarakhand, Goa, Manipur",
+      "summary": "• Congress also names screening panels for Goa and Manipur, among others.\n• The screening panels will be responsible for screening the candidates for the respective states.\n• The panel will be in charge of screening candidates for both Hindi-speaking and Haryana-speaking constituencies.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
+      "category": "State News",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/congress-names-screening-panel-chiefs-for-poll-bound-up-punjab-uttarakhand-goa-manipur-101794846307946.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-16"
+    },
+    {
       "id": 13730,
       "title": "Kerala High Court refers petition challenging clean chit to Chief Minister in Punarjani case to Chief Justice",
       "summary": "• High Court referred petition challengingClean Chit to the Chief Minister.\n• Chief Justice will decide whether or not to grant bail to the accused.\n• The case was referred to the High Court by the Kerala High Court in Thiruvananthapuram.\n• The High Court is the highest court in the state and has the power to issue writs.",
       "category": "Polity & Governance",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/kerala/kerala-high-court-refers-petition-challenging-clean-chit-to-chief-minister-in-punarjani-case-to-chief-justice/article71708756.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-16"
-    },
-    {
-      "id": 13687,
-      "title": "One killed in encounter between security forces, terrorists in Kashmir’s Kulgam",
-      "summary": "• Security forces and terrorists clash in Kashmir's Kulgam district.\n• One killed in an encounter with security forces.\n• One dead in encounter with terrorists in Jammu and Kashmir”s Pulwama district.\n• Two killed in another encounter in J&K ””Pulwama”.",
-      "category": "National News",
-      "source": "Indian Express - India",
-      "url": "https://indianexpress.com/article/india/kashmir-security-sweep-kulgam-crpf-attackers-lead-10965070/",
       "relevance_score": 0.91,
       "published_date": "2026-11-16"
     },
@@ -331,6 +331,16 @@
       "published_date": "2026-11-16"
     },
     {
+      "id": 13738,
+      "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+      "summary": "• It was created to show the drill holes made by the Mars rover Curiosity.\n• The drill holes were created by drilling into the surface of the red planet.\n• It is expected to return to the surface in a few months to continue its mission.\n• It has made 49 drill holes so far on the Martian surface.",
+      "category": "Science & Technology",
+      "source": "NASA",
+      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+      "relevance_score": 0.8462,
+      "published_date": "2026-11-16"
+    },
+    {
       "id": 13681,
       "title": "Nifty may consolidate before next leg of rally: Analysts",
       "summary": "• Nifty closed at record high of 7,827.50 on Monday.\n• NSE closed at 7,715.50, S&P 500 closed at 6,716.50.\n• NIFTY closed at 8,732.50; Nifty 50 closed at 9,722.25; NSE 100 index at 6.8,717.",
@@ -418,6 +428,16 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-for-india-egypt-joint-trade-committee-jtc-meet/article71706845.ece",
       "relevance_score": 0.8294,
+      "published_date": "2026-11-16"
+    },
+    {
+      "id": 13737,
+      "title": "Census Phase-II starts in 4 poll-bound states, postponed in Manipur",
+      "summary": "• It will be completed by the end of the year.\n• It is expected to be completed in time for the general elections in May.\n• The first phase of the census was held in November 2011.\n• It was followed by a second phase in March 2012.\n• The third phase will take place in April 2013.\n• It has been delayed by a few months.",
+      "category": "State News",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/census-phase-ii-starts-in-4-poll-bound-states-postponed-in-manipur/articleshow/135905253.cms",
+      "relevance_score": 0.8262,
       "published_date": "2026-11-16"
     },
     {
@@ -19979,28 +19999,8 @@
       "url": "https://www.thehindu.com/sci-tech/health/fssai-initiates-legal-action-against-nestle-india-over-infant-nutrition-products/article71480094.ece",
       "relevance_score": 0.8023,
       "published_date": "2026-09-18"
-    },
-    {
-      "id": 10716,
-      "title": "Secretary-General of ASEAN attends the 18th Dialogue with FJCCIA in Manila, the Philippines",
-      "summary": "• Secretary-General attends talks with members of the Filipino Congress of Trade and Industry (FJCCI) and the ASEan Economic Community (ASEANEC) in Manila.\n• Asean Economic Commission (AEC) is the body that promotes trade and investment in the region.\n• AEC is led by the Philippines, which is a member of the AEC and hosts the Dialogue.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-attends-the-18th-dialogue-with-fjccia-in-manila-the-philippines/",
-      "relevance_score": 0.8009,
-      "published_date": "2026-09-18"
-    },
-    {
-      "id": 10658,
-      "title": "Mecca Defence Pact: Pakistan, Saudi Arabia, Turkey Race To Finalise Activation Mechanism",
-      "summary": "• Pakistan, Saudis, Turks have agreed to work together on the project.\n• Saudi Arabia is the largest contributor to the project, followed by Turkey.\n• Pakistan and Saudi Arabia are also members of the U.S.-led anti-terror coalition.\n• Pakistan is also a member of the Arab League and the Organisation for Security and Cooperation in Europe.",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/world/mecca-defence-pact-pakistan-saudi-arabia-turkey-race-to-finalise-activation-mechanism-ws-l-10336052.html",
-      "relevance_score": 0.9458,
-      "published_date": "2026-09-17"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-16T22:37:27.008022Z"
+  "updated_at": "2026-11-17T00:00:16.917930Z"
 }
