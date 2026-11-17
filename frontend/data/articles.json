@@ -1,6 +1,16 @@
 {
   "articles": [
     {
+      "id": 13799,
+      "title": "Australia, Philippines Sign New Defense Cooperation Arrangement",
+      "summary": "• Australia and Philippines to work together on joint military exercises in the South China Sea and the South Pacific.\n• Australia to work with Philippines on joint anti-terror operations in South Korea, Vietnam, Malaysia, Brunei, Indonesia and Thailand.\n• Australian, Philippines to cooperate on anti-piracy, anti-missile systems in South seas.",
+      "category": "International Relations",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/11/australia-philippines-sign-new-defense-cooperation-arrangement/",
+      "relevance_score": 0.9749,
+      "published_date": "2026-11-17"
+    },
+    {
       "id": 13781,
       "title": "Over 300 students take part in NASA Space Apps Challenge at VIT-AP University",
       "summary": "• Students from around the world took part in the challenge at the university's science and technology college.\n• The students created apps using NASA's latest space-themed apps and games.\n• They also created apps to help students learn about space exploration and space exploration in real-time.\n• The competition was part of the VIT AP University's Space Apps challenge.",
@@ -51,16 +61,6 @@
       "published_date": "2026-11-17"
     },
     {
-      "id": 13755,
-      "title": "Amaravati builds indigenous quantum tech stack",
-      "summary": "• It's part of a larger project to build a quantum computing network in the country.\n• The project is part of the Indian government's \"Make In India\" initiative.\n• It is also part of an international effort to build quantum computing networks in the U.S. and other countries.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-builds-indigenous-quantum-tech-stack/article71711205.ece",
-      "relevance_score": 0.9186,
-      "published_date": "2026-11-17"
-    },
-    {
       "id": 13756,
       "title": "Tamil Nadu Health Minister Arunraj inaugurates Centre for Advanced Genomics at Ranipet CMC",
       "summary": "• CMC is a centre for advanced genomics in Tamil Nadu.\n• The centre will be based in the state's capital, Chennai.\n• It will also be used for research and development in other parts of the state.",
@@ -71,12 +71,42 @@
       "published_date": "2026-11-17"
     },
     {
+      "id": 13755,
+      "title": "Amaravati builds indigenous quantum tech stack",
+      "summary": "• It's part of a larger project to build a quantum computing network in the country.\n• The project is part of the Indian government's \"Make In India\" initiative.\n• It is also part of an international effort to build quantum computing networks in the U.S. and other countries.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-builds-indigenous-quantum-tech-stack/article71711205.ece",
+      "relevance_score": 0.9186,
+      "published_date": "2026-11-17"
+    },
+    {
+      "id": 13765,
+      "title": "Modi-Trump Talks In Manila: Breakthrough On Trade Or Another Missed Opportunity? | News18",
+      "summary": "• The proposed trade pact has reached an advanced stage, but important questions remain.\n• These include tariffs on Indian exports, greater access for American goods in the Indian market, non-tariff barriers and assurances that India will receive competitive terms compared with other trading partners.\n• With Trump in Manila for the Quad Summit, attention is turning to the possibility of direct talks between the two leaders and whether they can resolve the remaining differences in bilateral negotiations.\n• -newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
+      "category": "International Relations",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/modi-trump-talks-in-manila-breakthrough-on-trade-or-another-missed-opportunity-news18-10429231.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-17"
+    },
+    {
       "id": 13749,
       "title": "RBI may hike repo rate by 25-50 bps in December as inflation breaches 6%: Experts",
       "summary": "• Experts say it could happen as soon as December 31.\n• The current repo rate is at 6.75 per cent.\n• The repo rate has been on hold since November 2008 after a massive cut by the Reserve Bank of India (RBI) in response to a severe economic slowdown in the United States.",
       "category": "Economy & Banking",
       "source": "Economic Times - Top",
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-hike-repo-rate-by-25-50-bps-in-december-as-inflation-breaches-6-experts/articleshow/135910335.cms",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-17"
+    },
+    {
+      "id": 13750,
+      "title": "Trump’s QUAD Test: Is His Transactional Diplomacy Eroding US Trust In The Indo-Pacific? | News18",
+      "summary": "• The leaders of India, the United States, Japan and Australia are preparing to meet in Manila for a crucial Quad summit.\n• The November 17 meeting is the first gathering of Quad leaders in two years and Trump's first such summit since returning to the White House.\n• -newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….\n• Subscribe Now and join our community of informed and engaged viewers.",
+      "category": "International Relations",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breaking-news/trump-s-quad-test-is-his-transactional-diplomacy-eroding-us-trust-in-the-indo-pacific-news18-10428505.html",
       "relevance_score": 0.91,
       "published_date": "2026-11-17"
     },
@@ -91,16 +121,6 @@
       "published_date": "2026-11-17"
     },
     {
-      "id": 13771,
-      "title": "PM Modi's Unscripted Media Moment: What Happened In Manila? | ASEAN 2026 | Trump's Press Conference",
-      "summary": "• Narendra Modi appears 'clearly uncomfortable' during impromptu press conference.\n• The unexpected exchange has put the spotlight on the Prime Minister’s engagement with journalists.\n• Modi is in the Philippines for the 23rd ASEAN-India Summit and the 21st East Asia Summit.\n• His Manila visit has focused on strengthening India's strategic partnership with ASEan, regional cooperation, trade, connectivity and maritime security.\n• The unexpected exchange has put the spotlight on the Prime Minister’s engagement with journalists and his approach to unscripted media interactions.The moment comes during Modi’s visit to the Philippines for the 23rd ASEAN-India Summit and the 21st East Asia Summit.\n• His visit also includes bilateral engagements with regional leaders.The press interaction raises broader questions about media access, political accountability and the importance of leaders answering questions from journalists.",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/videos/world/pm-modi-s-unscripted-media-moment-what-happened-in-manila-asean-2026-trump-s-press-conference-10429494.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-17"
-    },
-    {
       "id": 13770,
       "title": "Congress’s Seating Arrangement At Sonia Gandhi’s Memoir Launch Puts India Bloc Allies | News18",
       "summary": "• Sonia Gandhi's memoir launch has become a talking point in national politics.\n• Attention focused on prominence given to INDIA bloc allies Tamil Nadu Chief Minister C Joseph Vijay and Samajwadi Party chief Akhilesh Yadav.\n• Vijay was seated in the front row beside Rahul Gandhi and Congress president Mallikarjun Kharge at the launch of Belonging: A Journey of Love on November 16.\n• -newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
@@ -111,22 +131,12 @@
       "published_date": "2026-11-17"
     },
     {
-      "id": 13765,
-      "title": "Modi-Trump Talks In Manila: Breakthrough On Trade Or Another Missed Opportunity? | News18",
-      "summary": "• The proposed trade pact has reached an advanced stage, but important questions remain.\n• These include tariffs on Indian exports, greater access for American goods in the Indian market, non-tariff barriers and assurances that India will receive competitive terms compared with other trading partners.\n• With Trump in Manila for the Quad Summit, attention is turning to the possibility of direct talks between the two leaders and whether they can resolve the remaining differences in bilateral negotiations.\n• -newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
+      "id": 13771,
+      "title": "PM Modi's Unscripted Media Moment: What Happened In Manila? | ASEAN 2026 | Trump's Press Conference",
+      "summary": "• Narendra Modi appears 'clearly uncomfortable' during impromptu press conference.\n• The unexpected exchange has put the spotlight on the Prime Minister’s engagement with journalists.\n• Modi is in the Philippines for the 23rd ASEAN-India Summit and the 21st East Asia Summit.\n• His Manila visit has focused on strengthening India's strategic partnership with ASEan, regional cooperation, trade, connectivity and maritime security.\n• The unexpected exchange has put the spotlight on the Prime Minister’s engagement with journalists and his approach to unscripted media interactions.The moment comes during Modi’s visit to the Philippines for the 23rd ASEAN-India Summit and the 21st East Asia Summit.\n• His visit also includes bilateral engagements with regional leaders.The press interaction raises broader questions about media access, political accountability and the importance of leaders answering questions from journalists.",
       "category": "International Relations",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/modi-trump-talks-in-manila-breakthrough-on-trade-or-another-missed-opportunity-news18-10429231.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-17"
-    },
-    {
-      "id": 13750,
-      "title": "Trump’s QUAD Test: Is His Transactional Diplomacy Eroding US Trust In The Indo-Pacific? | News18",
-      "summary": "• The leaders of India, the United States, Japan and Australia are preparing to meet in Manila for a crucial Quad summit.\n• The November 17 meeting is the first gathering of Quad leaders in two years and Trump's first such summit since returning to the White House.\n• -newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….\n• Subscribe Now and join our community of informed and engaged viewers.",
-      "category": "International Relations",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/trump-s-quad-test-is-his-transactional-diplomacy-eroding-us-trust-in-the-indo-pacific-news18-10428505.html",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/videos/world/pm-modi-s-unscripted-media-moment-what-happened-in-manila-asean-2026-trump-s-press-conference-10429494.html",
       "relevance_score": 0.91,
       "published_date": "2026-11-17"
     },
@@ -158,6 +168,16 @@
       "source": "News18 - World",
       "url": "https://www.news18.com/world/balochistan-appeals-to-195-nations-seeks-global-recognition-as-independent-state-ws-kl-10429241.html",
       "relevance_score": 0.8869,
+      "published_date": "2026-11-17"
+    },
+    {
+      "id": 13798,
+      "title": "Quad Moves to Counter China’s Mineral Monopoly",
+      "summary": "• China is the world's largest producer of the mineral, followed by the U.S. and Russia.\n• China has also become one of the biggest importers of minerals in the world.\n• The country is the largest importer of minerals to the rest of the world, especially in the Middle East and Asia.\n• It is also the largest exporter of mineral-based products to other countries.",
+      "category": "International Relations",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/11/quad-moves-to-counter-chinas-mineral-monopoly/",
+      "relevance_score": 0.8813,
       "published_date": "2026-11-17"
     },
     {
@@ -268,6 +288,16 @@
       "source": "Hindustan Times - World",
       "url": "https://www.hindustantimes.com/world-news/cop31-pushes-industrial-electrification-responsible-ai-as-climate-priorities-101794878882519.html",
       "relevance_score": 0.8319,
+      "published_date": "2026-11-17"
+    },
+    {
+      "id": 13796,
+      "title": "Earth Summit: Mahindra bags Clean Our Air prize",
+      "summary": "• Earth Summit: India's clean air campaign wins Clean Our air prize.\n• The campaign aims to reduce pollution in the country's air by 20 per cent by 2020.\n• Mahindlera: Clean OurAir is a project to clean India's air in the next decade.",
+      "category": "Science & Technology",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/earth-summit-mahindra-bags-clean-our-air-prize/articleshow/135940535.cms",
+      "relevance_score": 0.828,
       "published_date": "2026-11-17"
     },
     {
@@ -19969,38 +19999,8 @@
       "url": "https://www.news18.com/videos/breaking-news/upi-payments-no-charges-for-users-new-mdr-framework-for-merchants-above-2-000-take-three-10341330.html",
       "relevance_score": 0.844,
       "published_date": "2026-09-19"
-    },
-    {
-      "id": 10751,
-      "title": "Ancient wisdom and clean energy: PM shares how India is fighting climate change",
-      "summary": "• Prime Minister Narendra Modi says India has a long way to go on clean energy.\n• He says the country needs to take the lead in developing clean energy sources.\n• He also says India needs to work with other countries to develop renewable energy sources and reduce dependence on fossil fuels.\n• The PM says India must work together with other nations to develop clean energy resources.",
-      "category": "Science & Technology",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/science/story/climate-change-action-pm-narendra-modi-paris-summit-sustainable-green-energy-clean-fossil-fuel-solar-india-2998164-2026-09-19?utm_source=rss",
-      "relevance_score": 0.8242,
-      "published_date": "2026-09-19"
-    },
-    {
-      "id": 10745,
-      "title": "PM Modi, UAE Preident discuss West Asia, strategic partnership during phone call",
-      "summary": "• PM Modi, Abu Dhabi Preident discussed West Asia and strategic partnership.\n• Modi: We are committed to building a strong, prosperous, peaceful and prosperous West Asia.\n• UAE: We will continue to work with India to achieve this goal in all our efforts.\n• Click here to read the full text of the phone call between the two leaders.",
-      "category": "International Relations",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/pm-modi-uae-preident-discuss-west-asia-strategic-partnership-during-phone-call/article71483544.ece",
-      "relevance_score": 0.8172,
-      "published_date": "2026-09-19"
-    },
-    {
-      "id": 10750,
-      "title": "HFCL, Polycab India among 7 companies that are Goldman Sachs’ AI enablers. See full list",
-      "summary": "• See full list of Goldman Sachs' AI partners here.\n• HFCL and PolycAB India are two of the seven companies that Goldman Sachs is working with on AI projects.\n• See more of Goldman's AI projects at: http://www.goldmansachs.com/ai/ai-partners.html.",
-      "category": "Science & Technology",
-      "source": "Economic Times - Top",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-polycab-india-among-7-companies-that-are-goldman-sachs-ai-enablers-see-full-list/slideshow/134349968.cms",
-      "relevance_score": 0.8171,
-      "published_date": "2026-09-19"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-17T21:37:23.935567Z"
+  "updated_at": "2026-11-17T23:20:07.624473Z"
 }
