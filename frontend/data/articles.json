@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 14000,
+      "title": "Telangana Innovation Startup Challenge receives over 1,000 proposals to address public problems",
+      "summary": "• Telangana innovation startup challenge is one of the biggest in India.\n• The competition is run by the state government to help start-ups tackle public problems in the state.\n• To apply for the competition, send your proposal to: http://www.telanganainnovationstartupchallenge.org.in.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/telangana/telangana-innovation-startup-challenge-receives-over-1000-proposals-to-address-public-problems/article71727863.ece",
+      "relevance_score": 0.9208,
+      "published_date": "2026-11-21"
+    },
+    {
+      "id": 14007,
+      "title": "Google gives IIT Kharagpur $5 million for AI research, Pichai shares emotional message",
+      "summary": "• Google also giving IITs in Delhi and Mumbai $1 million each for AI-related research.\n• Google has also given IIT Delhi $2 million for its AI research program.\n• Google is also donating $2.2 million to the Indian Institute of Technology in Delhi.",
+      "category": "Science & Technology",
+      "source": "India Today - India",
+      "url": "https://www.indiatoday.in/technology/news/story/google-gives-iit-kharagpur-5-million-for-ai-research-sundar-pichai-shares-emotional-link-3043759-2026-11-21?utm_source=rss",
+      "relevance_score": 0.9014,
+      "published_date": "2026-11-21"
+    },
+    {
+      "id": 14006,
+      "title": "Budget expectations 2027: Gratuity hike, enhance social security, gig worker protection on list of trade union demands",
+      "summary": "• Bipartisan support for a minimum wage hike is key to any deal.\n• BIP wants to raise the minimum wage to $10 per hour by 2027.\n• It also wants to increase social security to $1 per person.\n• B IP wants to protect gig workers' rights to a minimum of $15 per hour.",
+      "category": "Economy & Banking",
+      "source": "LiveMint - Economy",
+      "url": "https://www.livemint.com/economy/budget-expectations-2027-gratuity-hike-social-security-42000-minimum-wage-gig-worker-protection-list-trade-union-demands-11795240060714.html",
+      "relevance_score": 0.8968,
+      "published_date": "2026-11-21"
+    },
+    {
       "id": 13998,
       "title": "Trump Praises India’s 7% Growth, Says US Could Hit 20% With Lower Interest Rates | News18",
       "summary": "• US President Donald Trump has praised India's economic performance, citing its roughly 7% GDP growth and relatively low interest rates.\n• Trump argued that America could achieve dramatically higher economic growth if borrowing costs were reduced.\n• He then claimed that the US could achieve growth of 14%, 15% or even 20% under a similar interest-rate environment.",
@@ -8,6 +38,66 @@
       "source": "News18 - World",
       "url": "https://www.news18.com/videos/world/trump-praises-india-s-7-growth-says-us-could-hit-20-with-lower-interest-rates-news18-10435051.html",
       "relevance_score": 0.8912,
+      "published_date": "2026-11-21"
+    },
+    {
+      "id": 14005,
+      "title": "'PM-HM jodi still searching for majority': Congress takes dig at Centre over delimitation bill",
+      "summary": "• Congress says PM-HM is 'still searching for a majority' in Parliament.\n• Congress also criticises PM over 'unfair' and 'misleading' comments by PM's office.\n• PM's spokesman: 'We are trying to protect the rights of the people of India.\n• We are not trying to take away their rights'.",
+      "category": "Polity & Governance",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/pm-hm-jodi-still-searching-for-majority-congress-takes-dig-at-centre-over-delimitation-bill/articleshow/136045371.cms",
+      "relevance_score": 0.8843,
+      "published_date": "2026-11-21"
+    },
+    {
+      "id": 14001,
+      "title": "Pune startup develops atomic clock prototype amid growing export curbs on critical technologies",
+      "summary": "• Pune startup developing atomic clock Prototype amid growingExport curbs for critical technologies, says Pune-based start-up.\n• It is one of the first of its kind in the world of atomic clocks, says founder and CEO of atomic clock company, Ravi Agrawal.\n• He says it could be used to develop atomic clocks in the future.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Business",
+      "url": "https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece",
+      "relevance_score": 0.882,
+      "published_date": "2026-11-21"
+    },
+    {
+      "id": 14002,
+      "title": "'No local terrorist in Kashmir anymore': Amit Shah reiterates days after LeT's Lateef Bhat killed",
+      "summary": "• 'There is no local terrorist here anymore,' Amit Shah says.\n• 'No local terrorists here anymore', Amit Shah repeats days after Bhat's death.\n• 'We will not allow local terrorists to take over Kashmir,' he adds.",
+      "category": "National News",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/no-local-terrorist-in-j-k-anymore-amit-shah-reiterates-claim-days-after-lets-lateef-bhat-killed-101795251608628.html",
+      "relevance_score": 0.8686,
+      "published_date": "2026-11-21"
+    },
+    {
+      "id": 14004,
+      "title": "China-Pakistan ties raise two-front conflict risk for India: US report",
+      "summary": "• Report: Tensions between India and Pakistan could lead to conflict on either side of India-Pakistan border.\n• India has been at the center of tensions between the two countries since the 2008 Mumbai terror attacks.\n• India's relationship with Pakistan has been strained in the past few years, particularly over Kashmir.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/china-pakistan-ties-raise-two-front-conflict-risk-for-india-us-report/articleshow/136050607.cms",
+      "relevance_score": 0.839,
+      "published_date": "2026-11-21"
+    },
+    {
+      "id": 14003,
+      "title": "Trump, Xi, Putin agree on UN reforms: What it means for India's permanent UNSC seat bid",
+      "summary": "• India has been seeking a permanent seat on the UN Security Council for years.\n• India's bid has been met with opposition from some of the world's most powerful nations.\n• The country has been trying to get a seat for more than a decade.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/trump-xi-putin-agree-on-un-reforms-what-it-means-for-indias-permanent-unsc-seat-bid/articleshow/136050826.cms",
+      "relevance_score": 0.8211,
+      "published_date": "2026-11-21"
+    },
+    {
+      "id": 14008,
+      "title": "What is the Sri Lanka Cricket bill? Know all about it before December 5 Parliament debate",
+      "summary": "• Know all about it before December 5 Parliament debate.\n• Sri Lanka cricket bill will be debated in Parliament on December 5.\n• The bill is expected to be passed before the end of the year.\n• It will be the first time Sri Lanka has passed a cricket bill in its history.\n• The country's first Test match will be played in Colombo on December 11.",
+      "category": "Sports",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/sri-lanka-cricket-bill-parliament-debate-new-constitution-details/article71727708.ece",
+      "relevance_score": 0.8186,
       "published_date": "2026-11-21"
     },
     {
@@ -61,6 +151,26 @@
       "published_date": "2026-11-20"
     },
     {
+      "id": 13985,
+      "title": "SMAT 2026: Tamil Nadu loses to Punjab by 5 runs; Unadkat sets up Saurashtra’s win over Delhi",
+      "summary": "• Tamil Nadu lose to Punjab in the second round of the state tournament.\n• Delhi beat Tamil Nadu in the first round, but Tamil Nadu lost the second match.\n• Delhi lost the third match, while Tamil Nadu were eliminated in the semi-finals.\n• Delhi won the final match by five wickets.",
+      "category": "State News",
+      "source": "Sportstar",
+      "url": "https://sportstar.thehindu.com/cricket/smat-results-today-tamil-nadu-loses-to-punjab-saurashta-vs-delhi-scores/article71725472.ece",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-20"
+    },
+    {
+      "id": 13979,
+      "title": "Jailed Punjab MP Amritpal Singh Flown From Assam To Delhi Ahead Of Grandmother's Cremation",
+      "summary": "• Singh was jailed for allegedly assaulting a police officer.\n• He was released on bail and is now serving a five-year sentence in a Delhi jail.\n• Singh is also serving a four-year prison sentence for allegedly attacking a police official in a separate case.\n• He is currently serving a sentence of five years in a New Delhi prison.",
+      "category": "State News",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/jailed-punjab-mp-amritpal-singh-flown-from-assam-to-delhi-ahead-of-grandmothers-cremation-12354754#publisher=newsstand",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-20"
+    },
+    {
       "id": 13956,
       "title": "Karnataka Politics: Siddaramaiah Steps Away From Polls, But Not Politics | Congress | News18",
       "summary": "• Karnataka’s political succession debate has gathered momentum after senior Congress leader and former Chief Minister Siddaramaiah reiterated that he will not contest the 2028 Assembly elections.\n• Citing his age and the physical demands of election campaigning, the 80-year-old leader says travelling extensively and moving around during campaigns have become increasingly difficult.\n• But he has made one distinction clear: stepping away from electoral contests does not mean retiring from active politics.\n• N18oc_breaking-newsn18oc_india CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
@@ -87,26 +197,6 @@
       "category": "State News",
       "source": "News18 - India",
       "url": "https://www.news18.com/videos/breaking-news/vijay-government-sacks-15-senior-officials-over-alleged-data-leak-to-andhra-dmk-slams-move-news18-10433494.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-20"
-    },
-    {
-      "id": 13985,
-      "title": "SMAT 2026: Tamil Nadu loses to Punjab by 5 runs; Unadkat sets up Saurashtra’s win over Delhi",
-      "summary": "• Tamil Nadu lose to Punjab in the second round of the state tournament.\n• Delhi beat Tamil Nadu in the first round, but Tamil Nadu lost the second match.\n• Delhi lost the third match, while Tamil Nadu were eliminated in the semi-finals.\n• Delhi won the final match by five wickets.",
-      "category": "State News",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/cricket/smat-results-today-tamil-nadu-loses-to-punjab-saurashta-vs-delhi-scores/article71725472.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-20"
-    },
-    {
-      "id": 13979,
-      "title": "Jailed Punjab MP Amritpal Singh Flown From Assam To Delhi Ahead Of Grandmother's Cremation",
-      "summary": "• Singh was jailed for allegedly assaulting a police officer.\n• He was released on bail and is now serving a five-year sentence in a Delhi jail.\n• Singh is also serving a four-year prison sentence for allegedly attacking a police official in a separate case.\n• He is currently serving a sentence of five years in a New Delhi prison.",
-      "category": "State News",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/jailed-punjab-mp-amritpal-singh-flown-from-assam-to-delhi-ahead-of-grandmothers-cremation-12354754#publisher=newsstand",
       "relevance_score": 0.91,
       "published_date": "2026-11-20"
     },
@@ -19909,98 +19999,8 @@
       "url": "https://www.livemint.com/economy/charges-framework-dedicated-fund-how-mdr-on-upi-works-for-micro-and-small-merchants-explained-11790075385353.html",
       "relevance_score": 0.9301,
       "published_date": "2026-09-22"
-    },
-    {
-      "id": 11002,
-      "title": "Joint Ministerial Declaration on Future Economic Cooperation between the Association of Southeast Asian Nations (ASEAN) and the United Kingdom of Great Britain and Northern Ireland (UK) 2026",
-      "summary": "• ASEAN and the UK will sign a joint declaration on economic cooperation.\n• The Declaration will be signed by the leaders of the two countries on November 20, 2026, in London.\n• It will be the first ever joint declaration between the two nations.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/joint-ministerial-declaration-on-future-economic-cooperation-between-the-association-of-southeast-asian-nations-asean-and-the-united-kingdom-of-great-britain-and-northern-ireland-uk-2026/",
-      "relevance_score": 0.927,
-      "published_date": "2026-09-22"
-    },
-    {
-      "id": 10949,
-      "title": "‘Unfriendly Act’: Russia Says US Denied Visa To Deputy Foreign Minister Alimov For UNGA 2026",
-      "summary": "• Russia says US denied visa to Alimov because he is a Russian citizen.\n• He was due to attend the United Nations General Assembly in New York this week.\n• Russia is hosting the UNGA for the first time in 20 years.",
-      "category": "International Relations",
-      "source": "News18 - World",
-      "url": "https://www.news18.com/world/unfriendly-act-russia-says-us-denied-visa-to-deputy-foreign-minister-alimov-for-unga-2026-10346104.html",
-      "relevance_score": 0.9238,
-      "published_date": "2026-09-22"
-    },
-    {
-      "id": 10929,
-      "title": "IIT Delhi Launches Online Post Graduate Diploma in VLSI Design",
-      "summary": "• IIT Delhi to offer VLSi Design Diploma to students at IIT-Delhi.\n• Students will be able to apply for the diploma through the IIT's online admissions system.\n• For confidential support call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/iit-delhi-launches-online-post-graduate-diploma-in-vlsi-design-12079849#publisher=newsstand",
-      "relevance_score": 0.9179,
-      "published_date": "2026-09-22"
-    },
-    {
-      "id": 10942,
-      "title": "Secretary-General of ASEAN meets with the Minister of International Trade of Canada",
-      "summary": "• Secretary-General meets with Canadian minister of international trade to discuss trade relations with the region.\n• ASEan and Canada have a long-standing trade relationship.\n• The two countries have been at odds over trade issues in the past, particularly in the Middle East and North Africa.\n• The meeting is the first of its kind between the two countries.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-meets-with-the-minister-of-international-trade-of-canada-2/",
-      "relevance_score": 0.9163,
-      "published_date": "2026-09-22"
-    },
-    {
-      "id": 10921,
-      "title": "Asian Games 2026 LIVE: India beats Sri Lanka in women's cricket for first gold medal",
-      "summary": "• India beat Sri Lanka to win first ever women's gold medal at the Asian Games.\n• India won gold in the men's and women's team events.\n• India also won a silver medal in the women's event.",
-      "category": "Sports",
-      "source": "The Hindu - Sport",
-      "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-22-2026/article71492964.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-22"
-    },
-    {
-      "id": 10955,
-      "title": "India equals Pakistan’s record: Full list of women’s cricket gold medallists at Asian Games",
-      "summary": "• India equals Pakistan’s record of four golds at Asian Games.\n• Pakistan had won three golds and two silver medals at the Games in 2010.\n• India won two golds in 2010 and one in 2011.\n• Pakistan won four gold medals in 2010, two in 2011 and two in 2012.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/asian-games/asian-games-womens-cricket-gold-medallists-full-list-india-equals-pakistan-record/article71494480.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-22"
-    },
-    {
-      "id": 10954,
-      "title": "IND vs SL Highlights, Asian Games 2026 women's cricket final: India thrashes Sri Lanka to win gold medal",
-      "summary": "• India thrash Sri Lanka to win gold medal in women's cricket at Asian Games 2026.\n• India beat Sri Lanka by eight wickets in the final to win the gold medal for the first time.\n• Sri Lanka had won the previous two golds in the women's competition.\n• India won the gold in the men's competition in 2010 and 2012.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/asian-games/india-vs-sri-lanka-final-live-score-highlights-asian-games-2026-womens-cricket-gold-medal-match/article71494122.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-22"
-    },
-    {
-      "id": 10981,
-      "title": "India wins first gold medal of Asian Games 2026 after women’s cricket team beats Sri Lanka in final",
-      "summary": "• India beat Sri Lanka 3-1 in women's cricket final to win first gold of the Games.\n• India also won gold in men's cricket against Sri Lanka.\n• India won first gold in the men's and women's events in the same competition.\n• India had won silver and bronze medals in the previous two Asian Games.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-india-first-gold-medal-womens-cricket-final-sri-lanka-score-highlights/article71494607.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-22"
-    },
-    {
-      "id": 10932,
-      "title": "Asian Games: Smriti Mandhana stars as India retain women's cricket gold medal",
-      "summary": "• India beat South Korea in final to win gold medal in women's Cricket at the Asian Games.\n• India also won gold in men's cricket at the 2014 Asian Games in Incheon.\n• India won silver medal in the men's team event in the women's tournament.\n• India's women's team won gold at the 2010 Commonwealth Games in Delhi.",
-      "category": "Sports",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-ind-vs-sl-india-gold-medal-womens-cricket-smriti-mandhana-shafali-varma-3000148-2026-09-22?utm_source=rss",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-22"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-21T06:20:12.066950Z"
+  "updated_at": "2026-11-21T11:53:02.878210Z"
 }
