@@ -71,6 +71,16 @@
       "published_date": "2026-11-22"
     },
     {
+      "id": 14058,
+      "title": "India, EU likely to sign FTA during PM Modi's Brussels visit in December",
+      "summary": "• PM Modi to visit Brussels in December for talks on India-EU trade deal.\n• India, EU expected to sign a free trade agreement during Modi's visit.\n• India and EU have been at loggerheads over trade since the NDA came into effect in 2004.\n• India has been seeking an FTA with the EU since then.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/india-eu-likely-to-sign-free-trade-agreement-during-pm-modi-brussel-visit-in-december-101795346893235.html",
+      "relevance_score": 0.852,
+      "published_date": "2026-11-22"
+    },
+    {
       "id": 14050,
       "title": "BJP alleges T.N. government is refusing to implement Supreme Court’s order on Karthigai Deepam",
       "summary": "• Supreme Court had ordered the government to implement the decision of the high court.\n• The case is currently being heard at the Supreme Court in New Delhi.\n• The verdict is expected to be delivered by the end of this week or the beginning of next week.\n• For confidential support on suicide matters call the Samaritans on 08457 909090, visit a local Samaritans branch or click here for details.",
@@ -311,16 +321,6 @@
       "published_date": "2026-11-21"
     },
     {
-      "id": 14011,
-      "title": "Iran says allies China, Russia oppose change in nuclear doctrine",
-      "summary": "• Iran says it will continue to develop its nuclear program.\n• Iran's nuclear programme is aimed at developing nuclear weapons.\n• Iran has been accused of cheating on its nuclear programme in the past and is accused of using cheating to build up its nuclear arsenal.\n• Iran also says it is working on a civilian nuclear program to develop long-range missiles.",
-      "category": "International Relations",
-      "source": "The Hindu - International",
-      "url": "https://www.thehindu.com/news/international/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine/article71728084.ece",
-      "relevance_score": 0.8542,
-      "published_date": "2026-11-21"
-    },
-    {
       "id": 14023,
       "title": "Iran says allies China, Russia oppose change in nuclear doctrine",
       "summary": "• Iran says it will continue to develop its nuclear program.\n• Iran's nuclear programme is aimed at developing nuclear weapons.\n• Iran has been accused of cheating on its nuclear programme in the past and is accused of using cheating to build up its nuclear arsenal.\n• Iran also says it is working on a civilian nuclear program to develop long-range missiles.",
@@ -331,13 +331,13 @@
       "published_date": "2026-11-21"
     },
     {
-      "id": 14025,
-      "title": "India, Bulgaria discuss bilateral ties, IMEC, Black Sea situation",
-      "summary": "• India and Bulgaria have been at odds over the Black Sea since the 1990s.\n• The two countries also have a good relationship with each other's navies.\n• India has a naval base in Bulgaria, and Bulgaria has a navy base in India.\n• India also has a military base in Romania, which it has been at since the 1980s.",
+      "id": 14011,
+      "title": "Iran says allies China, Russia oppose change in nuclear doctrine",
+      "summary": "• Iran says it will continue to develop its nuclear program.\n• Iran's nuclear programme is aimed at developing nuclear weapons.\n• Iran has been accused of cheating on its nuclear programme in the past and is accused of using cheating to build up its nuclear arsenal.\n• Iran also says it is working on a civilian nuclear program to develop long-range missiles.",
       "category": "International Relations",
-      "source": "Hindustan Times - India",
-      "url": "https://www.hindustantimes.com/india-news/india-bulgaria-discuss-bilateral-ties-imec-black-sea-situation-101795289073921.html",
-      "relevance_score": 0.8501,
+      "source": "The Hindu - International",
+      "url": "https://www.thehindu.com/news/international/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine/article71728084.ece",
+      "relevance_score": 0.8542,
       "published_date": "2026-11-21"
     },
     {
@@ -347,6 +347,16 @@
       "category": "International Relations",
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/news/national/india-bulgaria-discuss-bilateral-ties-imec-black-sea-situation/article71729472.ece",
+      "relevance_score": 0.8501,
+      "published_date": "2026-11-21"
+    },
+    {
+      "id": 14025,
+      "title": "India, Bulgaria discuss bilateral ties, IMEC, Black Sea situation",
+      "summary": "• India and Bulgaria have been at odds over the Black Sea since the 1990s.\n• The two countries also have a good relationship with each other's navies.\n• India has a naval base in Bulgaria, and Bulgaria has a navy base in India.\n• India also has a military base in Romania, which it has been at since the 1980s.",
+      "category": "International Relations",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/india-bulgaria-discuss-bilateral-ties-imec-black-sea-situation-101795289073921.html",
       "relevance_score": 0.8501,
       "published_date": "2026-11-21"
     },
@@ -19989,18 +19999,8 @@
       "url": "https://www.hindustantimes.com/business/stock-market-today-sept-23-live-updates-bse-nse-ipo-gmp-sensex-nifty-101790132449971.html",
       "relevance_score": 0.8647,
       "published_date": "2026-09-23"
-    },
-    {
-      "id": 11049,
-      "title": "OpenAI gives cyber defence tools to Ukraine",
-      "summary": "• OpenAI is a project of Google's artificial intelligence division.\n• The company has been working with Ukraine on a cyber defence programme.\n• The project is called OpenAI and is based at the University of California, San Francisco's OpenAI Institute for Artificial Intelligence (OAI) OAI was founded by Google's co-founder Sergey Brin in 2009.",
-      "category": "Science & Technology",
-      "source": "BBC World",
-      "url": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-      "relevance_score": 0.86,
-      "published_date": "2026-09-23"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-22T17:49:25.838632Z"
+  "updated_at": "2026-11-22T20:20:57.482212Z"
 }
