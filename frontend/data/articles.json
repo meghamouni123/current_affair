@@ -21,6 +21,16 @@
       "published_date": "2026-11-22"
     },
     {
+      "id": 14046,
+      "title": "KERC mandates 43.33% of energy from renewable sources for Escoms, industries by 2030",
+      "summary": "• Escom says it will use renewable energy for 43% of its energy by 2030, up from 30% in 2013.\n• KERC says it wants Escom to use more than 40% renewable energy by 2025.\n• KERC says Escom will use energy from a mix of renewable and traditional sources.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/kerc-mandates-4333-of-energy-from-renewable-sources-for-escoms-industries-by-2030/article71656793.ece",
+      "relevance_score": 0.9039,
+      "published_date": "2026-11-22"
+    },
+    {
       "id": 14029,
       "title": "Canada says military ties with US remain unchanged despite reported Pentagon memo on informal contact",
       "summary": "• Canada: Military ties with U.S. remain unchanged, despite reported memo about informal contact between the two countries.\n• Canada says it has no plans to cut off diplomatic and military relations with the United States.\n• Have a long history of diplomatic, military ties, but no formal military relations.",
@@ -41,6 +51,16 @@
       "published_date": "2026-11-22"
     },
     {
+      "id": 14049,
+      "title": "'Opportunity to strengthen partnership': MEA welcomes Nepal PM Balendra Shah to India",
+      "summary": "• MEA: 'Nepal and India have a long history of close ties.\n• We are looking forward to working with Nepal in the future' Nepal's PM: 'I am committed to the development of the country and its people.\n• I am also committed to India's development and prosperity.\n• I want to strengthen our ties with India'.",
+      "category": "International Relations",
+      "source": "Times of India - India",
+      "url": "https://timesofindia.indiatimes.com/india/opportunity-to-strengthen-partnership-mea-welcomes-nepal-pm-balendra-shah-to-india/articleshow/136075137.cms",
+      "relevance_score": 0.8369,
+      "published_date": "2026-11-22"
+    },
+    {
       "id": 14032,
       "title": "The SIR exercise is also a technology failure",
       "summary": "• The SIR exercise is also a technology failure, according to a report by the U.S. National Security Agency.\n• The report says the agency's SIR system is too complex and too expensive.\n• Report says it is also the first time the agency has been forced to shut down a SIR operation.",
@@ -48,6 +68,26 @@
       "source": "The Hindu - National",
       "url": "https://www.thehindu.com/opinion/lead/the-sir-exercise-is-also-a-technology-failure/article71695196.ece",
       "relevance_score": 0.8365,
+      "published_date": "2026-11-22"
+    },
+    {
+      "id": 14048,
+      "title": "RAPS, a small-town firm that’s now a trusted partner in India’s space and defence missions",
+      "summary": "• RAPS is based in Bangalore, India, but has offices in New Delhi and Hyderabad.\n• The company has been working with India for more than a decade, including on the Indian space agency's space shuttle program.\n• It has also been involved in India's defence budget for the past five years.",
+      "category": "Science & Technology",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/raps-a-small-town-firm-thats-now-a-trusted-partner-in-indias-space-and-defence-missions/article71730831.ece",
+      "relevance_score": 0.8236,
+      "published_date": "2026-11-22"
+    },
+    {
+      "id": 14045,
+      "title": "Degrees, certifications alone won’t secure jobs in competitive market: AWS expert",
+      "summary": "• AWS expert: ‘I’ve never seen anything like it.\n• It’s a huge opportunity.’ ‘It’ll be a game-changer,’ he says.\n• ‘We’re going to be able to compete with any company in the world’.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/karnataka/degrees-certifications-alone-wont-secure-jobs-in-competitive-market-aws-expert/article71731144.ece",
+      "relevance_score": 0.82,
       "published_date": "2026-11-22"
     },
     {
@@ -231,22 +271,22 @@
       "published_date": "2026-11-21"
     },
     {
-      "id": 14023,
-      "title": "Iran says allies China, Russia oppose change in nuclear doctrine",
-      "summary": "• Iran says it will continue to develop its nuclear program.\n• Iran's nuclear programme is aimed at developing nuclear weapons.\n• Iran has been accused of cheating on its nuclear programme in the past and is accused of using cheating to build up its nuclear arsenal.\n• Iran also says it is working on a civilian nuclear program to develop long-range missiles.",
-      "category": "International Relations",
-      "source": "Hindustan Times - World",
-      "url": "https://www.hindustantimes.com/world-news/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine-101795268648595.html",
-      "relevance_score": 0.8542,
-      "published_date": "2026-11-21"
-    },
-    {
       "id": 14011,
       "title": "Iran says allies China, Russia oppose change in nuclear doctrine",
       "summary": "• Iran says it will continue to develop its nuclear program.\n• Iran's nuclear programme is aimed at developing nuclear weapons.\n• Iran has been accused of cheating on its nuclear programme in the past and is accused of using cheating to build up its nuclear arsenal.\n• Iran also says it is working on a civilian nuclear program to develop long-range missiles.",
       "category": "International Relations",
       "source": "The Hindu - International",
       "url": "https://www.thehindu.com/news/international/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine/article71728084.ece",
+      "relevance_score": 0.8542,
+      "published_date": "2026-11-21"
+    },
+    {
+      "id": 14023,
+      "title": "Iran says allies China, Russia oppose change in nuclear doctrine",
+      "summary": "• Iran says it will continue to develop its nuclear program.\n• Iran's nuclear programme is aimed at developing nuclear weapons.\n• Iran has been accused of cheating on its nuclear programme in the past and is accused of using cheating to build up its nuclear arsenal.\n• Iran also says it is working on a civilian nuclear program to develop long-range missiles.",
+      "category": "International Relations",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine-101795268648595.html",
       "relevance_score": 0.8542,
       "published_date": "2026-11-21"
     },
@@ -19959,48 +19999,8 @@
       "url": "https://www.indiatoday.in/world/story/iran-un-speech-pezeshkian-calls-us-attacks-terrorism-seeks-talks-ptag-3001539-2026-09-23?utm_source=rss",
       "relevance_score": 0.8462,
       "published_date": "2026-09-23"
-    },
-    {
-      "id": 11027,
-      "title": "Asian Games 2026: Why India missed out on an eFootball medal despite beating Mongolia",
-      "summary": "• Asian Games 2014: India beat Mongolia 3-1 to win the eFootball gold medal.\n• India's eFootball team beat Mongolia 1-0 in the final to claim the gold medal for the first time in the history of the event.\n• India also won the silver medal for eFootball at the Asian Games in 2010.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-india-efootball-medal-exit-mongolia-forfeit/article71498302.ece",
-      "relevance_score": 0.8461,
-      "published_date": "2026-09-23"
-    },
-    {
-      "id": 11000,
-      "title": "India teams up with EU, Canada &amp; others to defend multilateralism; EAM says rules must be scrupulously followed",
-      "summary": "• India teams up with EU, Canada &amp; others to defend multilateralism.\n• India says it is committed to a rules-based international community.\n• India is a member of the UN Security Council and the UN Economic and Social Council.\n• It is also part of the European Union and the European Economic and Monetary Area (EAM).",
-      "category": "International Relations",
-      "source": "Times of India - India",
-      "url": "https://timesofindia.indiatimes.com/india/india-eu-canada-unite-to-defend-multilateralism-express-concern-over-power-politics/articleshow/134423978.cms",
-      "relevance_score": 0.8439,
-      "published_date": "2026-09-23"
-    },
-    {
-      "id": 11057,
-      "title": "Can the Chief Election Commissioner overrule other election commissioners? Here is what the law says",
-      "summary": "• The law says yes, and here's what it says.\n• The law also says the chief elections commissioner can't overrule the other commissioners.\n• Here's the law on overrule of other commissioners: No, no, no.",
-      "category": "Polity & Governance",
-      "source": "Zee News - India",
-      "url": "https://zeenews.india.com/india/can-cec-overrule-other-election-commissioners-constitution-rules-3072964.html",
-      "relevance_score": 0.8424,
-      "published_date": "2026-09-23"
-    },
-    {
-      "id": 11029,
-      "title": "Sustainability must be backed by measurable outcomes, practical action: Tamil Nadu Minister V.K. Rajeev",
-      "summary": "• Sustainability must be backed by measurable outcomes, says Tamil Nadu minister.\n• Rajeev: Sustainability has to be backed with practical action.\n• He says the state must take steps to ensure that the environment is protected and not damaged.\n• He adds that the state needs to take action to protect the environment and the environment in Tamil Nadu.\n• The minister adds that this should be done in a sustainable way.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/cities/chennai/sustainability-must-be-backed-by-measurable-outcomes-practical-action-tamil-nadu-minister-vk-rajeev/article71499279.ece",
-      "relevance_score": 0.8419,
-      "published_date": "2026-09-23"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-22T12:11:11.121521Z"
+  "updated_at": "2026-11-22T15:06:29.226233Z"
 }
