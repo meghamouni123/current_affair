@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "id": 14110,
+      "title": "Nasscom seeks AI transformation scheme for IT firms in Budget 2027-28",
+      "summary": "• Nasscom seeks to transform IT firms with AI in a cost-effective and cost-efficient way.\n• The scheme will be rolled out over a three-year period, starting with the Budget for 2017-18.\n• It will be funded by the World Bank and the European Investment Bank.\n• The aim is to transform the IT industry into an AI-based service provider.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - India",
+      "url": "https://www.hindustantimes.com/india-news/nasscom-seeks-ai-transformation-scheme-for-it-firms-in-budget-202728-101795485029273.html",
+      "relevance_score": 0.8982,
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": 14113,
+      "title": "Jensen Huang To Face US Senators In Public Hearing On Nvidia, China Chip Sales",
+      "summary": "• Huang will face questions from US Senators on Nvidia's business in China.\n• Huang is CEO of Nvidia, which makes chips for PCs and mobile devices in the U.S., China, and other countries.\n• The hearing is expected to last up to two hours.",
+      "category": "International Relations",
+      "source": "News18 - World",
+      "url": "https://www.news18.com/world/nvidia-ceo-jensen-huang-to-testify-before-senate-jensen-huang-affair-controversy-ws-l-10438089.html",
+      "relevance_score": 0.8921,
+      "published_date": "2026-11-24"
+    },
+    {
+      "id": 14111,
+      "title": "FIFA picks US to co-host 2031 Women's World Cup and UK for 2035 edition",
+      "summary": "• US will host 2031 tournament, UK will co- host 2035 tournament.\n• U.S. to host tournament in 2030; UK to host event in 2032.\n• UK set to host World Cup in 2030.",
+      "category": "International Relations",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/football/fifa-picks-us-to-co-host-2031-womens-world-cup-and-uk-for-2035-edition-101795484853958.html",
+      "relevance_score": 0.816,
+      "published_date": "2026-11-24"
+    },
+    {
       "id": 14081,
       "title": "SBI, HDFC Bank, ICICI Bank retain D-SIB status; RBI maintains capital requirements",
       "summary": "• SBI and HDFC to be merged into SBI; ICICi Bank to be part of HDFC.\n• RBI to continue to maintain capital requirements for SBI,HDFC and ICICF Bank.\n• RBI to keep capital requirements in place for all three banks.",
@@ -19969,38 +19999,8 @@
       "url": "https://www.thehindu.com/news/cities/Coimbatore/academicians-welcome-supreme-court-order-restraining-private-universities-from-operating-with-profit-motive/article71504935.ece",
       "relevance_score": 0.8301,
       "published_date": "2026-09-24"
-    },
-    {
-      "id": 11120,
-      "title": "From vote chori comes kanoon chori: Rahul Gandhi says laws passed are illegal",
-      "summary": "• Gandhi: Lawmakers should not be allowed to pass laws that are against the Constitution.\n• Gandhi said: Law makers should be able to take the blame if laws are passed that are not in the interest of the country.\n• He said: Laws should be passed in the name of the Indian people.",
-      "category": "Polity & Governance",
-      "source": "India Today - India",
-      "url": "https://www.indiatoday.in/india/story/indian-elections-being-rigged-rahul-gandhi-mounts-big-attack-on-ec-government-over-sir-dissent-row-3002041-2026-09-24?utm_source=rss",
-      "relevance_score": 0.8264,
-      "published_date": "2026-09-24"
-    },
-    {
-      "id": 11119,
-      "title": "Rajasthan University Pharmacy Counselling 2026 Round 3 Registration Begins; Check Schedule",
-      "summary": "• RUC 2026 is the 3rd round of the Rajasthan Pharmacy counselling competition.\n• The competition is open to students from all over the state of India.\n• For more information, visit www.ruc PharmacyCounselling2026.org.in and www.rsu.universitypharmacycounselling.co.uk.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/education/rajasthan-university-pharmacy-counselling-2026-round-3-registration-begins-check-schedule-12091546#publisher=newsstand",
-      "relevance_score": 0.8263,
-      "published_date": "2026-09-24"
-    },
-    {
-      "id": 11112,
-      "title": "India vs Chinese Taipei Kabaddi Highlights, Asian Games 2026: India qualifies for semifinal with a perfect record after 37-21 win",
-      "summary": "• India beat Chinese Tai Taiwan 37- 21 in their first match of the tournament.\n• India will play either China or Japan in the other semifinal of the competition.\n• Click here for all the latest from the Asian Games in 2026.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/asian-games/india-vs-chinese-taipei-kabaddi-live-score-asian-games-2026-japan-match-updates-highlights/article71502687.ece",
-      "relevance_score": 0.8255,
-      "published_date": "2026-09-24"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-24T00:38:22.045540Z"
+  "updated_at": "2026-11-24T02:55:29.047651Z"
 }
