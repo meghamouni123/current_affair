@@ -1,6 +1,126 @@
 {
   "articles": [
     {
+      "id": 14212,
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "summary": "• SpaceX plans to send 1 million satellites into space to send data back to Earth.\n• SpaceX is based in Hawthorne, California, and is headed by billionaire Elon Musk, who founded SpaceX in 2002.\n• SpaceX will launch the first of the satellites in 2018.",
+      "category": "Science & Technology",
+      "source": "BBC Business",
+      "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "relevance_score": 0.9308,
+      "published_date": "2026-11-26"
+    },
+    {
+      "id": 14214,
+      "title": "Tamil Nadu Deepam Row: BJP Questions Vijay Government Over Choice Of Lamp-Lighting Venue | News18",
+      "summary": "• The Karthigai Deepam controversy at Thirupparankundram hill in Madurai has triggered a fresh political confrontation.\n• Bharatiya Janata Party targeting Tamil Nadu Chief Minister C Joseph Vijay and his Tamilaga Vettri Kazhagam (TVK)-led government.\n• The dispute intensified after the ceremonial lamp was lit on November 24 at the customary Deepa Mandapam near the Uchi Pillaiyar temple.\n• N18oc_Indian18oc_BreakingNewsCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• The BJP accused the state government of failing to implement the directive and questioned why the lamp was not lit at the location specified by the court.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/india/tamil-nadu-deepam-row-bjp-questions-vijay-government-over-choice-of-lamp-lighting-venue-news18-10441323.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-26"
+    },
+    {
+      "id": 14215,
+      "title": "Delimitation Bill: Supriya Sule Seeks Full Text Before Debate, Leaves Door Open To Support | News18",
+      "summary": "• NCP-SCP MP Supriya Sule has called for the proposed Delimitation Bill to be introduced in Parliament before political parties take positions on its provisions.\n• Sule said lawmakers should first receive the complete text of the legislation so they can examine its details and debate it on the basis of what it actually proposes.\n• She added that the bill could turn out to be a good piece of legislation.\n• N18oc_BreakingNewsn18oc_IndiaCNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
+      "category": "Polity & Governance",
+      "source": "News18 - India",
+      "url": "https://www.news18.com/videos/breakingnews/delimitation-bill-supriya-sule-seeks-full-text-before-debate-leaves-door-open-to-support-news18-10441309.html",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-26"
+    },
+    {
+      "id": 14202,
+      "title": "Govt.’s endeavour has been to deepen Constitution’s connect with people, strengthen unity: PM Modi",
+      "summary": "• PM Modi: Constitution has been a source of strength, not a cause of division.\n• He said it was important to strengthen the nation's unity and connect with the past.\n• He added that it was also important to deepen the country's unity in terms of education, health and environment.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/govts-endeavour-has-been-to-deepen-constitutions-connect-with-people-strengthen-unity-pm-modi/article71743504.ece",
+      "relevance_score": 0.9091,
+      "published_date": "2026-11-26"
+    },
+    {
+      "id": 14209,
+      "title": "Musk's SpaceX gets US nod for 1 million satellites to power AI data centres in space",
+      "summary": "• Musk's SpaceX has been working on the project for more than a year.\n• The company is also building a rocket that will carry a fleet of 1.5 million solar panels to orbit the Earth.\n• The rocket will be used to send data back to Earth for data centres and other data centres.",
+      "category": "Science & Technology",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-approves-musks-spacex-plan-to-deploy-1-million-satellites-for-ai-data-centres-in-space/articleshow/136176040.cms",
+      "relevance_score": 0.9085,
+      "published_date": "2026-11-26"
+    },
+    {
+      "id": 14207,
+      "title": "US clears Elon Musk's plan to build massive AI data centre network in space, deploy 1 million satellites",
+      "summary": "• Musk plans to deploy 1 million satellites, use them to send data back to Earth.\n• Musk also plans to build a data centre in space, using the satellites to send back data back from the ground.\n• He also wants to use the data to build an artificial intelligence data centre, using it to build AI algorithms.",
+      "category": "Science & Technology",
+      "source": "Hindustan Times - World",
+      "url": "https://www.hindustantimes.com/world-news/us-clears-elon-musks-plan-to-build-massive-ai-data-centre-network-in-space-deploy-1-million-satellites-101795657308491.html",
+      "relevance_score": 0.903,
+      "published_date": "2026-11-26"
+    },
+    {
+      "id": 14213,
+      "title": "PM Modi's \"Power-Hungry\" Attack On Congress In Constitution Day Article",
+      "summary": "• PM Modi's attack on Congress comes on the eve of the country's Constitution Day.\n• Modi: Congress is \"power-hungry\" and needs to be stopped from using its power for political gain.\n• PM: Congress needs to stop using power for its own benefit, not for the benefit of the nation.",
+      "category": "Polity & Governance",
+      "source": "NDTV - India",
+      "url": "https://www.ndtv.com/india-news/pm-modis-power-hungry-attack-on-congress-in-constitution-day-article-november-26-article-370-obc-12378498#publisher=newsstand",
+      "relevance_score": 0.8982,
+      "published_date": "2026-11-26"
+    },
+    {
+      "id": 14211,
+      "title": "RBI moves 60 tonnes of gold to India in 6 months",
+      "summary": "• India's central bank has been moving gold to the country for the past six months.\n• It is the biggest single buyer of gold in the world, followed by China and the U.S. Bank for International Settlements (BIS), which has also moved tonnes.\n• India is the world's biggest consumer of gold, with more than 80 per cent of it going to India.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-moves-60-tonnes-of-gold-to-india-in-6-months/articleshow/136175650.cms",
+      "relevance_score": 0.8324,
+      "published_date": "2026-11-26"
+    },
+    {
+      "id": 14205,
+      "title": "SpaceX allowed to deploy 1 million satellites for data centres in space, as scientists express doubt",
+      "summary": "• Scientists express doubt over whether they will be able to provide data to Earth.\n• SpaceX will launch the satellites on a SpaceX rocket from Kennedy Space Center in Florida.\n• The rocket is expected to take off in the summer and land in the fall.\n• The company will then launch a second rocket from the Vandenberg Air Force Base in California.",
+      "category": "Science & Technology",
+      "source": "The Hindu - Technology",
+      "url": "https://www.thehindu.com/sci-tech/technology/spacex-allowed-to-deploy-1-million-satellites-for-data-centres-in-space-as-scientists-express-doubt/article71745113.ece",
+      "relevance_score": 0.8309,
+      "published_date": "2026-11-26"
+    },
+    {
+      "id": 14210,
+      "title": "RBI flags rising inflation, says economist on firm footing",
+      "summary": "• RBI says economy on 'firm footing' and that inflation is on track to fall to 4.7 per cent in the next 12 months.\n• The central bank says inflation is expected to drop to between 4.5 per cent and 5 per cent by the end of the year.\n• It says the economy is on 'a firm footing' with the global economy on a 'stable footing'.",
+      "category": "Economy & Banking",
+      "source": "Times of India - Business",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-flags-rising-inflation-says-economist-on-firm-footing/articleshow/136175946.cms",
+      "relevance_score": 0.8244,
+      "published_date": "2026-11-26"
+    },
+    {
+      "id": 14208,
+      "title": "Australian Open says Jannik Sinner won't play the first Grand Slam of 2027",
+      "summary": "• Sinner will not play at the Australian Open or the US Open in the next two years.\n• The Australian Open is the first grand slam of the year in 2027 and will be held in Melbourne.\n• The tournament will be the first of the new Grand Slams of the 21st century.\n• It will take place in New York and Melbourne in the first two years of the next decade.",
+      "category": "Sports",
+      "source": "Hindustan Times - Sports",
+      "url": "https://www.hindustantimes.com/sports/tennis/australian-open-says-jannik-sinner-wont-play-the-first-grand-slam-of-2027-101795662656353.html",
+      "relevance_score": 0.8105,
+      "published_date": "2026-11-26"
+    },
+    {
+      "id": 14201,
+      "title": "Constitution Day LIVE updates: Priceless heritage of Indian democracy, says PM Modi",
+      "summary": "• Constitution Day Live updates: India celebrates its first constitution on March 25, 1815.\n• Constitution day LIVE: See how India marked its first constitutional day on March 27, 1855.\n• ConstitutionDay LIVE: Read the latest Constitution Day live updates here.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/constitution-day-indian-democracy-pm-modi-congress-samvidhan-raksha-march-november-26-2026-live-updates/article71745137.ece",
+      "relevance_score": 0.8004,
+      "published_date": "2026-11-26"
+    },
+    {
       "id": 14169,
       "title": "Solomon Islands names Australia as its primary security partner in a new treaty that excludes China",
       "summary": "• The new treaty excludes China from the island nation's security.\n• The treaty is expected to be signed in the next few months.\n• The Solomon Islands is a self-governing island nation in the Solomon Islands chain of islands.\n• It has a population of about 1,500 people and an economy of about $1.5 billion.",
@@ -81,22 +201,22 @@
       "published_date": "2026-11-25"
     },
     {
-      "id": 14192,
-      "title": "Supreme Court suggests referring KMC delimitation case back to High Court for fresh look",
-      "summary": "• Supreme Court suggests sending KMC case back into High Court.\n• KMC has been fighting against delimitation of KMC boundaries for more than a decade.\n• The case is currently being heard in the Supreme Court of India.\n• The Supreme Court has been hearing the case since March 2013.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-11-25"
-    },
-    {
       "id": 14190,
       "title": "Haryana Chief Minister Nayab Saini Faces 'Dummy' Jibe Over BJP's Akali Pact In Punjab",
       "summary": "• I am the chief minister of the state.\n• I have the power to make or break Punjab.\n• I will not let Punjab be ruled by an Akali'.",
       "category": "State News",
       "source": "NDTV - India",
       "url": "https://www.ndtv.com/india-news/haryana-chief-minister-faces-dummy-jibe-over-bjps-akali-pact-in-punjab-12377274#publisher=newsstand",
+      "relevance_score": 0.91,
+      "published_date": "2026-11-25"
+    },
+    {
+      "id": 14192,
+      "title": "Supreme Court suggests referring KMC delimitation case back to High Court for fresh look",
+      "summary": "• Supreme Court suggests sending KMC case back into High Court.\n• KMC has been fighting against delimitation of KMC boundaries for more than a decade.\n• The case is currently being heard in the Supreme Court of India.\n• The Supreme Court has been hearing the case since March 2013.",
+      "category": "Polity & Governance",
+      "source": "The Hindu - National",
+      "url": "https://www.thehindu.com/news/national/west-bengal/supreme-court-inclined-to-stay-calcutta-hc-order-deferring-kolkata-civic-polls-till-decision-on-ward-delimitation/article71741489.ece",
       "relevance_score": 0.91,
       "published_date": "2026-11-25"
     },
@@ -301,12 +421,12 @@
       "published_date": "2026-11-24"
     },
     {
-      "id": 14135,
-      "title": "Deepam Row: VCK Chief Challenges Supreme Court Order, 'Don't Succumb To Judicial Terrorism\" | News18",
-      "summary": "• VCK chief Thol Thirumavalavan questions the role of district officials and the Tamil Nadu government's response to the Supreme Court's interim order.\n• The Supreme Court had permitted the lighting of Karthigai Deepam at the disputed hilltop pillar as a one-time arrangement on November 24.\n• The Madras High Court is hearing pleas linked to the restrictions imposed in Madurai, putting Chief Minister C Joseph Vijay's government under scrutiny.\n• The Tamil Nadu government has also filed a review petition challenging the order.Watch the latest developments in the Thiruparankundram Deepam controversy.",
+      "id": 14144,
+      "title": "Karthigai Deepam Row: Hindu Groups Prepare Legal Battle Against TVK | Madras High Court | News18",
+      "summary": "• Tamil Nadu's Thiruparankundram Karthigai Deepam controversy is escalating.\n• Hindu organisations are preparing to approach the Madras High Court and the Supreme Court.\n• The controversy has taken a sharper political turn as the government defends its position by invoking secularism, social justice and concerns surrounding the sensitive religious dispute.\n• At the centre of the confrontation is the disputed Deepathoon.\n• Hindu organisations are preparing to approach the Madras High Court and the Supreme Court, raising questions over compliance with judicial directions and the protection of religious traditions.At the centre of the confrontation is the disputed Deepathoon on Thiruparankundram hill.",
       "category": "Polity & Governance",
       "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/deepam-row-vck-chief-challenges-supreme-court-order-don-t-succumb-to-judicial-terrorism-news18-10439118.html",
+      "url": "https://www.news18.com/videos/breaking-news/karthigai-deepam-row-hindu-groups-prepare-legal-battle-against-tvk-madras-high-court-news18-10439382.html",
       "relevance_score": 0.91,
       "published_date": "2026-11-24"
     },
@@ -321,12 +441,12 @@
       "published_date": "2026-11-24"
     },
     {
-      "id": 14144,
-      "title": "Karthigai Deepam Row: Hindu Groups Prepare Legal Battle Against TVK | Madras High Court | News18",
-      "summary": "• Tamil Nadu's Thiruparankundram Karthigai Deepam controversy is escalating.\n• Hindu organisations are preparing to approach the Madras High Court and the Supreme Court.\n• The controversy has taken a sharper political turn as the government defends its position by invoking secularism, social justice and concerns surrounding the sensitive religious dispute.\n• At the centre of the confrontation is the disputed Deepathoon.\n• Hindu organisations are preparing to approach the Madras High Court and the Supreme Court, raising questions over compliance with judicial directions and the protection of religious traditions.At the centre of the confrontation is the disputed Deepathoon on Thiruparankundram hill.",
+      "id": 14135,
+      "title": "Deepam Row: VCK Chief Challenges Supreme Court Order, 'Don't Succumb To Judicial Terrorism\" | News18",
+      "summary": "• VCK chief Thol Thirumavalavan questions the role of district officials and the Tamil Nadu government's response to the Supreme Court's interim order.\n• The Supreme Court had permitted the lighting of Karthigai Deepam at the disputed hilltop pillar as a one-time arrangement on November 24.\n• The Madras High Court is hearing pleas linked to the restrictions imposed in Madurai, putting Chief Minister C Joseph Vijay's government under scrutiny.\n• The Tamil Nadu government has also filed a review petition challenging the order.Watch the latest developments in the Thiruparankundram Deepam controversy.",
       "category": "Polity & Governance",
       "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/karthigai-deepam-row-hindu-groups-prepare-legal-battle-against-tvk-madras-high-court-news18-10439382.html",
+      "url": "https://www.news18.com/videos/india/deepam-row-vck-chief-challenges-supreme-court-order-don-t-succumb-to-judicial-terrorism-news18-10439118.html",
       "relevance_score": 0.91,
       "published_date": "2026-11-24"
     },
@@ -19879,128 +19999,8 @@
       "url": "https://www.hindustantimes.com/sports/others/from-junior-prodigies-to-asian-games-gold-medallists-meet-suruchi-singh-and-kamaljeet-india-s-golden-duo-in-japan-101790309881810.html",
       "relevance_score": 0.91,
       "published_date": "2026-09-25"
-    },
-    {
-      "id": 11217,
-      "title": "Meet Baranica Elangovan, India’s first pole vault medallist across Asian Games, CWG and Olympics",
-      "summary": "• She has won medals at the Commonwealth Games, Olympics and Asian Games.\n• She is also the first Indian to win a gold medal in the pole vault at an Olympics, Commonwealth Games and World Cup.\n• She also won a silver medal at the 2014 Commonwealth Games in Glasgow.",
-      "category": "Sports",
-      "source": "Hindustan Times - Sports",
-      "url": "https://www.hindustantimes.com/sports/others/meet-baranica-elangovan-india-s-first-pole-vault-medallist-across-asian-games-cwg-and-olympics-101790341422241.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-25"
-    },
-    {
-      "id": 11187,
-      "title": "Breaking News | SIR Storm In J&K Assembly: Congress, CPI(M) Raise ‘Gyanesh Kumar Resign’ Slogans",
-      "summary": "• Congress and CPI(M) members raise slogans demanding the resignation of Chief Election Commissioner Gyanesh Kumar.\n• Opposition parties have intensified their criticism of the Election Commission over the SIR process and reported internal differences within the poll panel.\n• CNN-News18 is your trusted source for breaking news, updates, and in-depth analysis from around the world.\n• Subscribe Now and join our community of informed and engaged viewers.\n• CNN-News18 is dedicated to bringing you the latest news, trends, and insights, helping you stay informed and up-to-date.\n• Follow Every Breaking Story LIVE 🔴Watch News18 LIVE 24x7: https://youtube.com/live/rfDx1HMvXbQFollow us on Google: news18.co/cn18gFollow CNN News18 on X: https://x.com/CNNnews18Follow CNN News18 on Instagram: https://www.instagram.com/cnnnews18/Follow CNN News18 on Facebook: facebook.com/cnnnews18….",
-      "category": "Polity & Governance",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/india/breaking-news-sir-storm-in-j-k-assembly-congress-cpi-m-raise-gyanesh-kumar-resign-slogans-10352039.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-25"
-    },
-    {
-      "id": 11189,
-      "title": "Asian Games 2026: Indian kabaddi teams set up potential Iran clashes in finals, stay on course to defend gold medals",
-      "summary": "• Asian Games 2014: India's men's and women's Kabaddi sides will compete for gold at the 2026 Games.\n• Indian women's team will be competing for gold for the first time at the Asian Games in 2026.\n• Indian men's team to compete for their first ever gold medal at Asian Games 25 years ago.",
-      "category": "Sports",
-      "source": "Sportstar",
-      "url": "https://sportstar.thehindu.com/asian-games/asian-games-2026-india-beats-nepal-enters-final-mens-womens-kabaddi-final-gold-medal-thailand/article71507149.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-25"
-    },
-    {
-      "id": 11193,
-      "title": "Sharad Pawar’s next move? The inside story of Maharashtra’s political drama | Pulse Maharashtra",
-      "summary": "• The political drama in Maharashtra refuses to die down!.\n• From secret late-night meetings between CM Devendra Fadnavis and NCP leaders to Eknath Shinde’s sudden Delhi visit, the state's political alignments are shifting fast.\n• In this episode of Pulse Maharashtra, Vinaya Deshpande Pandit breaks down the inside story.\n• Watch the full analysis to understand the unpredictable number game that could change the Parliament’s landscape.",
-      "category": "Polity & Governance",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/videos/shows/sharad-pawars-next-move-the-inside-story-of-maharashtras-political-drama-pulse-maharashtra/article71237772.ece",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-25"
-    },
-    {
-      "id": 11203,
-      "title": "UP 2027: BJP vs SP-Congress | Yogi Adityanath’s Next Electoral Test | News18",
-      "summary": "• The 2027 Uttar Pradesh Assembly elections are shaping up as a major political contest.\n• The BJP is stepping up its organisation and outreach after its reduced performance in the 2024 Lok Sabha elections.\n• Chief Minister Yogi Adityanath has intensified his outreach across the state, while the BJP is strengthening its booth-level organisation.\n• The SP and Congress are also preparing for the 2027 contest, including discussions over their alliance and seat-sharing.",
-      "category": "State News",
-      "source": "News18 - India",
-      "url": "https://www.news18.com/videos/breaking-news/up-2027-bjp-vs-sp-congress-yogi-adityanath-s-next-electoral-test-news18-10352971.html",
-      "relevance_score": 0.91,
-      "published_date": "2026-09-25"
-    },
-    {
-      "id": 11228,
-      "title": "US proposes new trilateral peace talks with Russia and Ukraine in UAE: Zelensky",
-      "summary": "• US, Ukraine, Russia and Russia to meet in UAE to discuss Ukraine's conflict with pro-Russian separatists in eastern Ukraine.\n• U.S. also to hold talks with Ukraine's pro-Western President Petro Poroshenko in UAE.\n• US to meet with Putin in UAE, Ukraine's President Vladimir Putin in Dubai.",
-      "category": "International Relations",
-      "source": "LiveMint - News",
-      "url": "https://www.livemint.com/news/world/us-proposes-new-trilateral-peace-talks-with-russia-and-ukraine-in-uae-zelensky-11790345229479.html",
-      "relevance_score": 0.9024,
-      "published_date": "2026-09-25"
-    },
-    {
-      "id": 11168,
-      "title": "Secretary-General of ASEAN meets with the ChargĂŠ dâ€™Affaires of the Permanent Mission of the Republic of the Union of Myanmar to ASEAN",
-      "summary": "• Myanmar is a member of the Association of Southeast Asian Nations (ASEAN) Myanmar is also part of the Commonwealth of Nations (CPN) and the United Nations (UN).\n• Myanmar is the only country to have a permanent diplomatic presence in the CPN.\n• It is also the only nation to have an embassy in the UN.",
-      "category": "International Relations",
-      "source": "ASEAN Secretariat",
-      "url": "https://asean.org/secretary-general-of-asean-meets-with-the-charge-daffaires-of-the-permanent-mission-of-the-republic-of-the-union-of-myanmar-to-asean-2/",
-      "relevance_score": 0.9016,
-      "published_date": "2026-09-25"
-    },
-    {
-      "id": 11225,
-      "title": "Solar Wings, Secure Webs: Indian Defence Startups Stand Out At UP Trade Show",
-      "summary": "• Secure Webs.com is a secure web site for secure communication.\n• The company is based in Mumbai and has offices in New Delhi, Bangalore and Hyderabad.\n• For more information on the company, visit: www.securewebs.com/solarwings.\n• The website is a joint venture between Solar Wings and Secure Webs.\n• It provides secure communication between the two companies.",
-      "category": "Science & Technology",
-      "source": "NDTV - India",
-      "url": "https://www.ndtv.com/india-news/solar-wings-secure-webs-indian-defence-startups-stand-out-at-up-trade-show-12097995#publisher=newsstand",
-      "relevance_score": 0.9006,
-      "published_date": "2026-09-25"
-    },
-    {
-      "id": 11166,
-      "title": "Banks to deploy excess liquidity over next few months: RBI DG",
-      "summary": "• RBI DG: Banks will be able to use excess liquidity to boost economic growth.\n• He adds that banks will not be allowed to use the excess liquidity for short-term lending.\n• He also says banks will have to use some of the liquidity in the medium term to boost the economy.\n• For confidential support, call the Samaritans on 08457 90 90 90, visit a local Samaritans branch or click here for details.",
-      "category": "Economy & Banking",
-      "source": "Times of India - Business",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/banks-to-deploy-excess-liquidity-over-next-few-months-rbi-dg/articleshow/134472733.cms",
-      "relevance_score": 0.9002,
-      "published_date": "2026-09-25"
-    },
-    {
-      "id": 11199,
-      "title": "‘SK27’ launched as Sivakarthikeyan joins hands with Ramkumar Balakrishnan",
-      "summary": "• ‘SK 27’ is a collaboration between the two actors.\n• “SK27 is a joint venture between Siva and Ramkrishnan,” says Siva’s spokesperson.\n• � “It is a partnership between two of the best actors in the country,’ he adds.",
-      "category": "Science & Technology",
-      "source": "Times of India - Delhi",
-      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/sk27-officially-launched-as-sivakarthikeyan-joins-hands-with-national-award-winning-parking-director-ramkumar-balakrishnan-a-whole-lot-of-excitement-lets-do-this-together/articleshow/134483255.cms",
-      "relevance_score": 0.8984,
-      "published_date": "2026-09-25"
-    },
-    {
-      "id": 11210,
-      "title": "Keralam Home Minister launches new digital platform of VACB",
-      "summary": "• VacB is a state-run bank with offices in Kerala, Tamil Nadu, Kerala and Pathanagalagam.\n• It was set up by the state government in the 1980s.\n• It is run by a joint committee of officials from the state and the state revenue departments.",
-      "category": "Science & Technology",
-      "source": "The Hindu - National",
-      "url": "https://www.thehindu.com/news/national/kerala/keralam-home-minister-launches-new-digital-platform-of-vacb/article71509140.ece",
-      "relevance_score": 0.8929,
-      "published_date": "2026-09-25"
-    },
-    {
-      "id": 11216,
-      "title": "NRI University students win global quantum technology challenge",
-      "summary": "• NRI students win world's largest quantum technology competition.\n• Students from NRI University in New York, New Jersey, took part in the challenge.\n• They used quantum technology to test their knowledge of the world's most advanced quantum technology.\n• The students were from the NRI School of Business and Technology at the University of New York City's NRI College of Business.",
-      "category": "Science & Technology",
-      "source": "The Hindu - Andhra Pradesh",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/nri-university-students-win-global-quantum-technology-challenge/article71508682.ece",
-      "relevance_score": 0.8924,
-      "published_date": "2026-09-25"
     }
   ],
   "count": 2000,
-  "updated_at": "2026-11-26T00:09:27.245212Z"
+  "updated_at": "2026-11-26T07:32:06.278003Z"
 }
